@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-stille-abstimmung",
+  "level": "B2",
+  "title": "Die stille Abstimmung",
+  "subtitle": "Ein Verein verändert eine umstrittene Entscheidung",
+  "category": "Gesellschaft",
+  "emoji": "🗳️",
+  "color": "sky",
+  "german": [
+    "In einem Sportverein soll entschieden werden, ob das alte Vereinsheim renoviert oder durch einen Neubau ersetzt wird. Während der ersten Versammlung sprechen fast ausschließlich ältere Mitglieder. Jüngere Teilnehmer halten sich zurück, obwohl sie den Raum regelmäßig nutzen. Die Vorsitzende merkt, dass ein offenes Gespräch allein noch keine ausgewogene Beteiligung garantiert.",
+    "Sie schlägt vor, vor der Abstimmung anonyme Rückmeldungen einzusammeln. Jede Person kann aufschreiben, welche Räume sie benötigt und welche Kosten sie für vertretbar hält. Überraschenderweise bevorzugen viele der stillen Mitglieder eine einfache Renovierung, während einige besonders lautstarke Befürworter eines Neubaus nur selten im Vereinsheim sind.",
+    "Die Vorsitzende stellt die Ergebnisse vor, ohne einzelne Stimmen zu nennen. Anschließend lässt sie zwei unabhängige Angebote erstellen. Der Kostenunterschied fällt deutlich größer aus als erwartet, und die Mitglieder diskutieren nun konkreter darüber, welche Verbesserungen tatsächlich nötig sind.",
+    "Bei der zweiten Versammlung stimmt eine klare Mehrheit für die Renovierung. Die Vorsitzende betont, dass nicht das Ergebnis allein der wichtigste Fortschritt sei. Entscheidend sei, dass diesmal auch Menschen eine Stimme hatten, die sich vor großen Gruppen ungern äußern. Für künftige Entscheidungen möchte der Verein deshalb beide Formen der Beteiligung beibehalten."
+  ],
+  "english": [
+    "A sports club must decide whether to renovate its old clubhouse or replace it with a new building. During the first meeting almost only older members speak. Younger participants hold back, although they regularly use the space. The chairwoman notices that an open discussion alone does not guarantee balanced participation.",
+    "She suggests collecting anonymous feedback before the vote. Everyone can write down what rooms they need and what costs they consider acceptable. Surprisingly many quieter members prefer a simple renovation, while some of the loudest supporters of a new building rarely use the clubhouse.",
+    "The chairwoman presents the results without naming individuals. She then arranges two independent cost estimates. The difference is much greater than expected, and the members now discuss more concretely which improvements are actually necessary.",
+    "At the second meeting a clear majority votes for renovation. The chairwoman stresses that the result alone is not the most important achievement. What matters is that people who dislike speaking in large groups also had a voice this time. For future decisions the club therefore wants to keep both forms of participation."
+  ],
+  "questions": [
+    {
+      "question": "Wer beteiligt sich anfangs wenig?",
+      "options": [
+        "Jüngere und stille Mitglieder",
+        "Nur die Vorsitzende",
+        "Alle Gäste gleichermaßen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Jüngere und stille Mitglieder."
+    },
+    {
+      "question": "Was wird zusätzlich ermöglicht?",
+      "options": [
+        "Eine Abstimmung nur für Trainer",
+        "Ein geheimes Bauprojekt",
+        "Anonyme Rückmeldungen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Anonyme Rückmeldungen."
+    },
+    {
+      "question": "Wie entscheidet der Verein?",
+      "options": [
+        "Für einen sofortigen Neubau",
+        "Für die Renovierung",
+        "Für den Verkauf"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Für die Renovierung."
+    }
+  ]
+}

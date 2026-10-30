@@ -1,0 +1,53 @@
+{
+  "id": "a2-das-fahrrad-im-regen",
+  "level": "A2",
+  "title": "Das Fahrrad im Regen",
+  "subtitle": "Ein kleiner Fehler bringt einen guten Rat",
+  "category": "Verkehr",
+  "emoji": "🌧️",
+  "color": "peach",
+  "german": [
+    "Jeden Morgen fährt Aylin mit dem Fahrrad zur Arbeit. Heute regnet es stark. Sie zieht eine Regenjacke an und fährt langsam los. An der ersten Kreuzung merkt sie, dass das Licht an ihrem Fahrrad nicht funktioniert. Es ist sehr dunkel, und die Autos können sie nur schlecht sehen. Deshalb hält sie an.",
+    "Unter einem Dach findet Aylin einen trockenen Platz. Sie ruft ihre Kollegin an und sagt, dass sie später kommt. Dann schiebt sie das Fahrrad zu einer Werkstatt in der Nähe. Ein Mitarbeiter kontrolliert die Lampe. Ein Kabel hat sich gelöst. Er macht es wieder fest und prüft auch die Bremsen.",
+    "Aylin ist erleichtert. Auf dem Weg zur Arbeit fährt sie vorsichtig durch die Pfützen. Als sie ankommt, sind ihre Schuhe nass, aber das Fahrradlicht leuchtet wieder. Ihre Kollegin bringt ihr einen warmen Tee.",
+    "Am Abend kauft Aylin eine kleine zusätzliche Lampe für ihre Tasche. Sie möchte in Zukunft immer gut sichtbar sein. Ihren Freunden erzählt sie, warum sie morgens angehalten hat. Sicherheit ist wichtiger als ein pünktlicher Arbeitsbeginn."
+  ],
+  "english": [
+    "Aylin rides her bicycle to work every morning. Today it is raining heavily. She puts on a raincoat and rides slowly. At the first intersection she notices that her bicycle light does not work. It is very dark, and cars cannot see her well. So she stops.",
+    "Under a roof Aylin finds a dry spot. She calls her colleague and says she will be late. Then she pushes the bicycle to a nearby repair shop. A worker checks the light. A cable has come loose. He fixes it and checks the brakes too.",
+    "Aylin is relieved. On the way to work she carefully rides through the puddles. When she arrives, her shoes are wet, but the bicycle light is shining again. Her colleague brings her a warm tea.",
+    "In the evening Aylin buys a small extra light for her bag. She wants to be clearly visible in future. She tells her friends why she stopped that morning. Safety matters more than arriving at work on time."
+  ],
+  "questions": [
+    {
+      "question": "Warum hält Aylin an?",
+      "options": [
+        "Ihr Fahrradlicht funktioniert nicht",
+        "Sie hat Hunger",
+        "Sie hat sich verfahren"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ihr Fahrradlicht funktioniert nicht."
+    },
+    {
+      "question": "Was ist an der Lampe kaputt?",
+      "options": [
+        "Die Farbe ist weg",
+        "Der Schirm ist kaputt",
+        "Ein Kabel ist lose"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Kabel ist lose."
+    },
+    {
+      "question": "Was kauft Aylin am Abend?",
+      "options": [
+        "Ein Auto",
+        "Eine zusätzliche Lampe",
+        "Neue Schuhe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine zusätzliche Lampe."
+    }
+  ]
+}

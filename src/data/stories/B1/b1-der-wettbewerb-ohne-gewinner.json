@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-wettbewerb-ohne-gewinner",
+  "level": "B1",
+  "title": "Der Wettbewerb ohne Gewinner",
+  "subtitle": "Eine Schule entdeckt den Wert der Zusammenarbeit",
+  "category": "Schule",
+  "emoji": "🏆",
+  "color": "lavender",
+  "german": [
+    "An der Gesamtschule findet jedes Frühjahr ein Wettbewerb statt: Welche Klasse sammelt die meisten alten Batterien für die richtige Entsorgung? Diesmal möchte die Klasse 9c unbedingt gewinnen. Bereits in der ersten Woche bringen einige Schülerinnen und Schüler große Mengen von zu Hause mit. Andere haben jedoch kaum Batterien, weil ihre Familien wiederaufladbare Geräte benutzen.",
+    "Als die Ergebnisse veröffentlicht werden, liegt die 9c überraschend weit hinten. Einige Kinder beschweren sich. Ihre Klassenlehrerin schlägt deshalb vor, das Ziel zu überdenken. Statt ausschließlich Batterien zu zählen, könnten die Klassen gemeinsam informieren, warum sie nicht in den Hausmüll gehören.",
+    "Die 9c gestaltet Plakate, erklärt jüngeren Kindern die Sammelstellen und organisiert einen Informationsstand auf dem Wochenmarkt. Bald beteiligen sich auch andere Klassen. Am Ende des Monats haben alle zusammen viel mehr Batterien gesammelt als im Vorjahr, obwohl keine Klasse allein herausragt.",
+    "Bei der Abschlussveranstaltung verzichtet die Schule auf eine Rangliste. Stattdessen bekommen die beteiligten Klassen eine gemeinsame Urkunde. Einige sind zuerst enttäuscht. Als sie jedoch sehen, wie viele Menschen durch die Aktion erreicht wurden, verstehen sie die Entscheidung. Ein Wettbewerb kann manchmal mehr bewirken, wenn man nicht nur an den ersten Platz denkt."
+  ],
+  "english": [
+    "Every spring a competition takes place at the comprehensive school: which class can collect the most used batteries for proper disposal? This time class 9c really wants to win. During the first week some pupils bring large quantities from home. Others have hardly any batteries because their families use rechargeable devices.",
+    "When the results are published, 9c is surprisingly far behind. Some children complain. Their class teacher therefore suggests reconsidering the goal. Instead of only counting batteries, the classes could inform people together about why batteries do not belong in household rubbish.",
+    "Class 9c designs posters, explains collection points to younger pupils and organizes an information stand at the weekly market. Soon other classes join in. By the end of the month they have collected far more batteries together than in the previous year, although no single class stands out.",
+    "At the final event the school decides not to publish a ranking. Instead, all participating classes receive a joint certificate. Some are disappointed at first. But when they see how many people the campaign reached, they understand the decision. Sometimes a competition achieves more when you do not think only about first place."
+  ],
+  "questions": [
+    {
+      "question": "Was sammeln die Klassen?",
+      "options": [
+        "Alte Bücher",
+        "Plastikflaschen",
+        "Alte Batterien"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Alte Batterien."
+    },
+    {
+      "question": "Was ändert die Lehrerin am Ziel?",
+      "options": [
+        "Sie verbietet Plakate",
+        "Sie schlägt gemeinsame Aufklärung vor",
+        "Sie beendet die Schule"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie schlägt gemeinsame Aufklärung vor."
+    },
+    {
+      "question": "Warum gibt es keine Rangliste?",
+      "options": [
+        "Die gemeinsame Wirkung zählt",
+        "Niemand hat etwas gesammelt",
+        "Die Ergebnisse sind verloren"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die gemeinsame Wirkung zählt."
+    }
+  ]
+}

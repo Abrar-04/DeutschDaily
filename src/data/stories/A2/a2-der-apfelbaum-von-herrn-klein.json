@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-apfelbaum-von-herrn-klein",
+  "level": "A2",
+  "title": "Der Apfelbaum von Herrn Klein",
+  "subtitle": "Ein Nachbarschaftsprojekt beginnt mit Obst",
+  "category": "Natur",
+  "emoji": "🍎",
+  "color": "rose",
+  "german": [
+    "Herr Klein hat einen alten Apfelbaum im Garten. Jeden Herbst trägt er so viele Früchte, dass er sie nicht alle essen kann. Einige Äpfel fallen auf den Boden und werden schlecht. Seine Nachbarin Hanna sieht das und fragt, ob sie beim Sammeln helfen darf. Herr Klein sagt gern Ja.",
+    "Am Samstag kommen Hanna und ihre beiden Kinder mit Körben. Sie sammeln die guten Äpfel und waschen sie. Danach schneiden sie die Früchte in der Küche klein. Ein Teil kommt in einen großen Topf für Apfelmus. Aus den anderen backt Hanna zwei Kuchen.",
+    "Herr Klein möchte die Äpfel nicht nur für sich behalten. Deshalb tragen sie Körbe vor das Gartentor. Dort hängt ein Schild: „Bitte nehmt euch Äpfel mit.“ Viele Menschen bleiben stehen und nehmen ein paar Früchte. Ein Mann bringt sogar leere Gläser für das Apfelmus vorbei.",
+    "Am Sonntag sitzen alle zusammen im Garten und essen Kuchen. Herr Klein erzählt, dass er den Baum vor dreißig Jahren gepflanzt hat. Er freut sich, dass der Baum heute noch so vielen Menschen eine Freude macht."
+  ],
+  "english": [
+    "Mr Klein has an old apple tree in his garden. Every autumn it produces so much fruit that he cannot eat it all. Some apples fall to the ground and go bad. His neighbor Hanna sees this and asks whether she may help collect them. Mr Klein happily agrees.",
+    "On Saturday Hanna and her two children arrive with baskets. They collect the good apples and wash them. Then they cut the fruit into small pieces in the kitchen. Some goes into a large pot for apple purée. Hanna uses the rest to bake two cakes.",
+    "Mr Klein does not want to keep the apples only for himself. So they carry baskets to the garden gate. A sign says: “Please help yourselves to apples.” Many people stop and take a few. A man even brings empty jars for the apple purée.",
+    "On Sunday everyone sits together in the garden and eats cake. Mr Klein says he planted the tree thirty years ago. He is happy that the tree still gives so many people joy today."
+  ],
+  "questions": [
+    {
+      "question": "Was hat Herr Klein in seinem Garten?",
+      "options": [
+        "Einen See",
+        "Einen Apfelbaum",
+        "Einen Kirschbaum"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Einen Apfelbaum."
+    },
+    {
+      "question": "Was kocht Hanna aus den Äpfeln?",
+      "options": [
+        "Apfelmus",
+        "Reis",
+        "Suppe"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Apfelmus."
+    },
+    {
+      "question": "Wie lange steht der Baum schon?",
+      "options": [
+        "Drei Jahre",
+        "Hundert Jahre",
+        "Dreißig Jahre"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Dreißig Jahre."
+    }
+  ]
+}

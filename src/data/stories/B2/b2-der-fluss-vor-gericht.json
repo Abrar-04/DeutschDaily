@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-fluss-vor-gericht",
+  "level": "B2",
+  "title": "Der Fluss vor Gericht",
+  "subtitle": "Ein Bürgerrat verhandelt über eine umstrittene Ufergestaltung",
+  "category": "Gesellschaft",
+  "emoji": "⚖️",
+  "color": "rose",
+  "german": [
+    "Eine Stadt möchte das Ufer eines Flusses befestigen, nachdem mehrere Winterhochwasser Schäden verursacht haben. Das geplante Betonbauwerk würde jedoch einen Teil der natürlichen Uferlandschaft verändern. Während Anwohner mehr Schutz fordern, befürchten Umweltgruppen erhebliche Folgen für Tiere und Pflanzen.",
+    "Um die verhärtete Diskussion zu öffnen, wird ein Bürgerrat aus zufällig ausgewählten Einwohnern zusammengestellt. Die Teilnehmer erhalten Informationen von Fachleuten, stellen Fragen und besuchen die betroffenen Orte. Dabei wird deutlich, dass unterschiedliche Maßnahmen jeweils eigene Vor- und Nachteile besitzen. Manche schützen einzelne Gebäude besonders gut, andere schaffen mehr Raum für natürliche Überschwemmungen.",
+    "Nach mehreren Sitzungen empfiehlt der Rat eine Kombination aus gezielten Schutzmauern und zusätzlichen Rückhalteflächen. Besonders gefährdete Häuser sollen zuerst berücksichtigt werden. Gleichzeitig fordert das Gremium regelmäßige Prüfungen der Maßnahmen und öffentliche Informationen zu verbleibenden Risiken.",
+    "Der Stadtrat übernimmt nicht jeden Vorschlag unverändert, begründet seine Entscheidungen aber ausführlich. Mitglied Timo ist anfangs enttäuscht, weil seine bevorzugte Lösung nicht vollständig umgesetzt wird. Rückblickend erkennt er jedoch, dass die Arbeit des Bürgerrats weniger darin bestand, eine perfekte Antwort zu liefern, als unterschiedliche Bedürfnisse unter realen Bedingungen abzuwägen."
+  ],
+  "english": [
+    "A city wants to reinforce a riverbank after several winters of flooding caused damage. But the planned concrete structure would change part of the natural shoreline. While residents demand better protection, environmental groups fear serious consequences for plants and animals.",
+    "To reopen the deadlocked discussion, a citizens' assembly is formed from randomly selected residents. Members receive information from experts, ask questions and visit affected locations. It becomes clear that different measures have their own advantages and disadvantages. Some protect individual buildings particularly well, while others make more room for natural flooding.",
+    "After several sessions the assembly recommends a combination of targeted protective walls and additional retention areas. The most vulnerable houses should be prioritized. The group also calls for regular evaluation and public information about remaining risks.",
+    "The city council does not adopt every proposal unchanged, but explains its decisions in detail. Member Timo is initially disappointed because his preferred solution is not fully implemented. Looking back, however, he realizes that the assembly's task was less about finding a perfect answer than weighing different needs under real-world conditions."
+  ],
+  "questions": [
+    {
+      "question": "Welche Interessen stehen im Konflikt?",
+      "options": [
+        "Bücher und Filme",
+        "Hochwasserschutz und Naturschutz",
+        "Sport und Unterhaltung"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Hochwasserschutz und Naturschutz."
+    },
+    {
+      "question": "Wie setzt sich der Bürgerrat zusammen?",
+      "options": [
+        "Aus zufällig ausgewählten Bewohnern",
+        "Nur aus Ingenieuren",
+        "Nur aus Politikern"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Aus zufällig ausgewählten Bewohnern."
+    },
+    {
+      "question": "Was empfiehlt das Gremium?",
+      "options": [
+        "Gar keinen Schutz",
+        "Nur eine Betonmauer überall",
+        "Eine Kombination verschiedener Schutzmaßnahmen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine Kombination verschiedener Schutzmaßnahmen."
+    }
+  ]
+}

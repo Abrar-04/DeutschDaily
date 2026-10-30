@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-frage-nach-dem-risiko",
+  "level": "B2",
+  "title": "Die Frage nach dem Risiko",
+  "subtitle": "Ein Arzt erklärt eine Studie ohne falsche Versprechen",
+  "category": "Gesundheit",
+  "emoji": "🩺",
+  "color": "peach",
+  "german": [
+    "In einer Klinik wird eine neue Behandlungsmethode im Rahmen einer kontrollierten Studie untersucht. Ärztin Miriam soll Interessierten erklären, welche Vorteile möglich sind und welche Risiken bislang nur unzureichend bekannt sind. Ein Patient fragt gleich zu Beginn, wie hoch seine persönliche Erfolgschance sei. Die vorhandenen Daten lassen jedoch keine zuverlässige Antwort für den Einzelfall zu.",
+    "Miriam erklärt den Unterschied zwischen Durchschnittswerten einer Gruppe und einer individuellen Prognose. Sie zeigt, welche Fragen die Studie beantworten soll, und betont, dass eine Teilnahme freiwillig ist. Der Patient ist enttäuscht, weil er auf eine eindeutig positive Empfehlung gehofft hatte. Trotzdem schätzt er, dass Miriam seine Unsicherheit ernst nimmt.",
+    "Einige Tage später kommt er mit einer Liste zusätzlicher Fragen zurück. Gemeinsam besprechen sie mögliche Alternativen und die praktischen Anforderungen der Studie. Schließlich entscheidet er sich nach ausreichender Bedenkzeit für eine Teilnahme. Miriam macht deutlich, dass er seine Entscheidung im Rahmen der geltenden Regeln später erneut überdenken kann.",
+    "Nach dem Gespräch notiert sie, welche Erklärungen besonders hilfreich waren. Für Miriam bedeutet gute Kommunikation nicht, Menschen durch Zuversicht zu überzeugen. Entscheidend ist vielmehr, dass sie die Chancen und Grenzen einer Entscheidung verstehen und ihre eigenen Werte berücksichtigen können."
+  ],
+  "english": [
+    "A clinic is investigating a new treatment in a controlled study. Doctor Miriam must explain to interested people what benefits might be possible and what risks are still poorly understood. At the very beginning, a patient asks how high his personal chance of success is. The available data cannot provide a reliable answer for an individual.",
+    "Miriam explains the difference between group averages and an individual prediction. She shows what questions the study is intended to answer and emphasizes that participation is voluntary. The patient is disappointed because he had hoped for a clearly positive recommendation. Nonetheless he appreciates Miriam taking his uncertainty seriously.",
+    "A few days later he returns with a list of further questions. Together they discuss possible alternatives and the practical requirements of the study. Finally, after enough time to think, he chooses to participate. Miriam makes it clear that he can reconsider his decision later under the applicable rules.",
+    "After the conversation she notes which explanations were especially helpful. For Miriam good communication does not mean persuading people through confidence. What matters is that they understand the opportunities and limits of a decision and can consider their own values."
+  ],
+  "questions": [
+    {
+      "question": "Warum nennt Miriam keine persönliche Erfolgschance?",
+      "options": [
+        "Gruppendaten erlauben keine sichere Einzelprognose",
+        "Die Studie hat keine Teilnehmer",
+        "Der Patient fragt nicht nach"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Gruppendaten erlauben keine sichere Einzelprognose."
+    },
+    {
+      "question": "Was betont sie zur Teilnahme?",
+      "options": [
+        "Sie ist gesetzlich Pflicht",
+        "Sie ist ohne Risiken",
+        "Sie ist freiwillig"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie ist freiwillig."
+    },
+    {
+      "question": "Was ist ihr Kommunikationsziel?",
+      "options": [
+        "Nur positive Erwartungen",
+        "Informierte eigene Entscheidungen",
+        "Möglichst schnelle Unterschriften"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Informierte eigene Entscheidungen."
+    }
+  ]
+}

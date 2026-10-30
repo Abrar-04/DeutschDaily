@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-temperatur-der-stadt",
+  "level": "B2",
+  "title": "Die Temperatur der Stadt",
+  "subtitle": "Eine Planerin untersucht unsichtbare Unterschiede",
+  "category": "Umwelt",
+  "emoji": "🌡️",
+  "color": "rose",
+  "german": [
+    "Während einer ungewöhnlich heißen Sommerwoche untersucht Stadtplanerin Salma, warum manche Straßen deutlich wärmer sind als andere. Sie befestigt Messgeräte an verschiedenen Orten: auf einem großen Parkplatz, in einer schmalen Geschäftsstraße und unter Bäumen in einem Park. Bereits nach dem ersten Tag zeigen sich erhebliche Unterschiede.",
+    "Besonders auffällig ist, dass es auf dem Parkplatz noch spätabends unangenehm warm bleibt. Im Park dagegen sinkt die Temperatur schneller. Salma vermutet, dass Schatten, Bodenmaterialien und die Menge an Pflanzen eine Rolle spielen. Sie warnt jedoch davor, aus wenigen Tagen bereits allgemeine Schlussfolgerungen zu ziehen.",
+    "Gemeinsam mit einer Umweltgruppe sammelt sie weitere Messwerte und spricht mit Anwohnern. Einige berichten, dass ihre Wohnungen nachts kaum abkühlen. Andere weisen darauf hin, dass ältere Menschen lange Wege ohne schattige Sitzplätze vermeiden. Salma nimmt diese Beobachtungen in ihren Bericht auf, ohne sie mit wissenschaftlichen Messungen gleichzusetzen.",
+    "Bei der Vorstellung der Ergebnisse schlägt sie mehrere Maßnahmen vor, darunter zusätzliche Bäume und helle Oberflächen. Die Stadt entscheidet sich zunächst für ein begrenztes Pilotprojekt. Salma ist zufrieden, weil die Wirksamkeit anschließend überprüft werden soll, statt nur auf gut klingende Ideen zu vertrauen."
+  ],
+  "english": [
+    "During an unusually hot summer week, urban planner Salma investigates why some streets are considerably warmer than others. She installs measuring devices in several locations: a large car park, a narrow shopping street and under trees in a park. Significant differences appear after the first day.",
+    "It is particularly striking that the car park remains unpleasantly warm late into the evening, while the park cools faster. Salma suspects that shade, surface materials and vegetation all matter. However, she warns against drawing general conclusions from only a few days of data.",
+    "Together with an environmental group she collects more measurements and speaks to residents. Some say their apartments barely cool down at night. Others note that older people avoid long walks without shaded places to sit. Salma includes these observations in her report without treating them as equivalent to scientific measurements.",
+    "When she presents the findings, she proposes several measures, including more trees and lighter surfaces. The city initially chooses a limited pilot project. Salma is satisfied because its effectiveness will be evaluated rather than relying only on attractive-sounding ideas."
+  ],
+  "questions": [
+    {
+      "question": "Welche Orte vergleicht Salma?",
+      "options": [
+        "Nur Einkaufszentren",
+        "Park, Parkplatz und Straße",
+        "Nur Schulen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Park, Parkplatz und Straße."
+    },
+    {
+      "question": "Warum zieht sie keine schnellen Schlüsse?",
+      "options": [
+        "Die Messdauer ist zu kurz",
+        "Die Geräte sind verboten",
+        "Es ist immer Winter"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Messdauer ist zu kurz."
+    },
+    {
+      "question": "Was plant die Stadt?",
+      "options": [
+        "Den Abriss aller Häuser",
+        "Ein Verbot aller Messungen",
+        "Ein überprüfbares Pilotprojekt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein überprüfbares Pilotprojekt."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-kleine-insel-im-see",
+  "level": "A2",
+  "title": "Die kleine Insel im See",
+  "subtitle": "Eine Schulwanderung wird zum Naturerlebnis",
+  "category": "Natur",
+  "emoji": "🦆",
+  "color": "sky",
+  "german": [
+    "Am Donnerstag macht die Klasse von Elisa einen Ausflug zu einem See. Der Weg führt durch einen Wald und an einer Wiese vorbei. Am Ufer sehen die Kinder eine kleine Insel mit vielen Bäumen. Die Lehrerin erklärt, dass dort einige Vögel ihre Nester haben. Deshalb darf niemand auf die Insel gehen.",
+    "Die Klasse bleibt am Ufer und holt Ferngläser aus den Rucksäcken. Elisa sieht eine Ente mit vier kleinen Küken. Ihr Freund Jonas entdeckt einen großen weißen Vogel. Die Lehrerin nennt seinen Namen: Graureiher. Die Kinder schreiben die Tiere auf eine Liste.",
+    "Mittags essen alle ihre Brote auf einer Wiese. Einige Kinder spielen, andere malen Bilder vom See. Elisa zeichnet die Ente und ihre Küken. Als sie fertig ist, bemerkt sie ein kleines Schild am Wasser. Darauf steht, warum ruhige Plätze für die Tiere wichtig sind.",
+    "Auf dem Rückweg sammeln die Kinder leere Flaschen und Papier vom Weg. Sie möchten den Wald sauber hinterlassen. In der Schule hängt Elisa ihr Bild an die Wand. Darunter schreibt sie: „Tiere brauchen ein ruhiges Zuhause.“"
+  ],
+  "english": [
+    "On Thursday Elisa's class goes on a trip to a lake. The path leads through a forest and past a meadow. From the shore the children see a small island with many trees. Their teacher explains that some birds have nests there. That is why nobody is allowed to go onto the island.",
+    "The class stays on the shore and takes binoculars out of their backpacks. Elisa sees a duck with four little chicks. Her friend Jonas spots a large white bird. The teacher tells them its name: grey heron. The children put the animals on a list.",
+    "At midday everyone eats their sandwiches on a meadow. Some children play, while others draw pictures of the lake. Elisa draws the duck and its chicks. When she finishes, she notices a small sign by the water. It explains why quiet places are important for the animals.",
+    "On the way back the children collect empty bottles and paper from the path. They want to leave the forest clean. At school Elisa hangs her picture on the wall. Underneath she writes: “Animals need a peaceful home.”"
+  ],
+  "questions": [
+    {
+      "question": "Warum darf niemand auf die Insel?",
+      "options": [
+        "Dort haben Vögel Nester",
+        "Dort gibt es ein Hotel",
+        "Die Insel ist zu weit entfernt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Dort haben Vögel Nester."
+    },
+    {
+      "question": "Was benutzt die Klasse zum Beobachten?",
+      "options": [
+        "Taschenlampen",
+        "Mikrofone",
+        "Ferngläser"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ferngläser."
+    },
+    {
+      "question": "Was sammeln die Kinder auf dem Rückweg?",
+      "options": [
+        "Geld",
+        "Müll",
+        "Pilze"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Müll."
+    }
+  ]
+}

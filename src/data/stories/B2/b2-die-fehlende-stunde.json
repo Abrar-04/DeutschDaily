@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-fehlende-stunde",
+  "level": "B2",
+  "title": "Die fehlende Stunde",
+  "subtitle": "Ein Forschungsteam ringt um eine Erklärung für Zeitschwankungen",
+  "category": "Wissenschaft",
+  "emoji": "⏱️",
+  "color": "lavender",
+  "german": [
+    "Ein Team von Meeresforschern wertet Messdaten aus, die über mehrere Monate von schwimmenden Sensoren gesammelt wurden. Bei einer Kontrolle bemerkt Doktorand Jan, dass in mehreren Dateien jeweils eine Stunde zu fehlen scheint. Zunächst vermutet er Datenverlust. Die Geräte sollen schließlich rund um die Uhr Messwerte liefern.",
+    "Beim Vergleich der Zeitstempel fällt ihm jedoch auf, dass die Lücken immer an einem bestimmten Wochenende auftreten. Er prüft die Einstellungen und entdeckt, dass ein Teil der Software Ortszeiten benutzt, während andere Dateien in koordinierter Weltzeit gespeichert werden. Durch eine fehlerhafte Umrechnung ist die Umstellung auf Sommerzeit nicht korrekt berücksichtigt worden.",
+    "Jan entwickelt eine Korrektur, dokumentiert die ursprünglichen Zeitangaben und lässt seine Methode von einer Kollegin überprüfen. Erst danach werden die Daten erneut ausgewertet. Die scheinbaren Lücken verschwinden, und mehrere auffällige Muster erweisen sich als technische Artefakte statt als Veränderungen im Meer.",
+    "Bei der nächsten Teambesprechung erklärt Jan den Fehler. Er ist erleichtert, dass die Daten nicht tatsächlich verloren gegangen sind. Zugleich hält er fest, dass selbst nebensächlich wirkende Angaben wie Zeitzonen entscheidend sein können, wenn viele Messungen aus unterschiedlichen Quellen zusammengeführt werden."
+  ],
+  "english": [
+    "A team of marine researchers analyzes measurements collected over several months by floating sensors. During a check, doctoral student Jan notices that several files each appear to be missing an hour. At first he suspects data loss. After all, the devices are supposed to record values around the clock.",
+    "But when he compares the timestamps, he notices that the gaps always appear on a particular weekend. He checks the settings and discovers that some software uses local times, while other files store coordinated universal time. A faulty conversion failed to account correctly for the switch to daylight saving time.",
+    "Jan develops a correction, documents the original timestamps and has a colleague verify his method. Only then are the data analyzed again. The apparent gaps disappear and several striking patterns turn out to be technical artifacts rather than changes in the sea.",
+    "At the next team meeting Jan explains the problem. He is relieved that no measurements were actually lost. At the same time he notes that even apparently trivial details such as time zones can be decisive when combining large amounts of data from different sources."
+  ],
+  "questions": [
+    {
+      "question": "Was verursacht die scheinbaren Datenlücken?",
+      "options": [
+        "Ein Sturm",
+        "Defekte Batterien",
+        "Eine fehlerhafte Zeitzonenumrechnung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine fehlerhafte Zeitzonenumrechnung."
+    },
+    {
+      "question": "Was prüft Jan vor der neuen Auswertung?",
+      "options": [
+        "Die Hotelrechnung",
+        "Die Korrektur mit einer Kollegin",
+        "Nur die Bildfarben"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Korrektur mit einer Kollegin."
+    },
+    {
+      "question": "Was erweisen sich einige Muster?",
+      "options": [
+        "Als technische Artefakte",
+        "Als neue Tierarten",
+        "Als Temperaturrekorde"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Als technische Artefakte."
+    }
+  ]
+}

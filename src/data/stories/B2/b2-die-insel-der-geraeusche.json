@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-insel-der-geraeusche",
+  "level": "B2",
+  "title": "Die Insel der Geräusche",
+  "subtitle": "Eine Akustikerin dokumentiert eine bedrohte Klanglandschaft",
+  "category": "Natur",
+  "emoji": "🎧",
+  "color": "lavender",
+  "german": [
+    "Auf einer kleinen Nordseeinsel untersucht die Akustikerin Friederike die Geräusche entlang der Küste. Während Touristen vor allem das Meer wahrnehmen, interessiert sie sich für die feineren Unterschiede: das Knacken des Wattbodens, das Rufen bestimmter Vogelarten und das Rascheln von Dünengräsern. Sie nimmt an verschiedenen Stellen über mehrere Wochen hinweg Tonaufnahmen auf.",
+    "Dabei fällt ihr auf, dass in einem Küstenabschnitt ungewöhnlich wenige Vogelstimmen zu hören sind. Ein neuer Wanderweg führt dort dicht an einem Brutgebiet vorbei. Friederike kann zunächst nicht beweisen, dass die Störung allein auf den Weg zurückgeht. Deshalb vergleicht sie ihre Aufnahmen mit älteren Daten und fragt Biologen nach weiteren möglichen Ursachen.",
+    "Schließlich erstellt das Team einen Bericht, der sowohl die Unsicherheiten als auch die deutlichen Hinweise auf häufige Störungen beschreibt. Die Inselverwaltung entscheidet, einen Teil des Wegs während der Brutzeit vorübergehend umzuleiten. Gleichzeitig werden Besucher über die Gründe informiert.",
+    "Ein Jahr später kehrt Friederike zurück, um erneut aufzunehmen. Die Vogelstimmen sind wieder häufiger, doch sie interpretiert das Ergebnis vorsichtig. Für sie zeigt das Projekt, dass auch die Geräusche eines Ortes schützenswert sein können, selbst wenn man sie nicht auf einer Landkarte sieht."
+  ],
+  "english": [
+    "On a small North Sea island, acoustician Friederike studies sounds along the coast. While tourists mainly notice the sea, she is interested in subtler differences: the crackling of the tidal flats, calls of particular bird species and the rustling of dune grass. She records audio at various locations over several weeks.",
+    "She notices that unusually few bird calls can be heard in one stretch of coast. A new walking path passes close to a breeding area there. Friederike cannot initially prove that the disturbance is caused by the path alone. So she compares recordings with older data and asks biologists about other possible causes.",
+    "Eventually the team writes a report describing both the uncertainties and clear indications of frequent disturbances. The island administration decides to temporarily divert part of the path during the breeding season. Visitors are informed about the reasons at the same time.",
+    "A year later Friederike returns to record again. Bird calls are more frequent, but she interprets the result cautiously. To her the project shows that a place's sounds can also be worth protecting, even if they cannot be seen on a map."
+  ],
+  "questions": [
+    {
+      "question": "Was untersucht Friederike?",
+      "options": [
+        "Nur die Wassertemperatur",
+        "Die Anzahl der Hotels",
+        "Geräusche einer Küstenlandschaft"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Geräusche einer Küstenlandschaft."
+    },
+    {
+      "question": "Was könnte Vögel stören?",
+      "options": [
+        "Ein Musikfestival im Dorf",
+        "Ein neuer Wanderweg",
+        "Ein altes Schiff"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein neuer Wanderweg."
+    },
+    {
+      "question": "Wie geht sie mit dem Ergebnis nach einem Jahr um?",
+      "options": [
+        "Sie interpretiert es vorsichtig",
+        "Sie erklärt alle Ursachen für bewiesen",
+        "Sie beendet alle Messungen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie interpretiert es vorsichtig."
+    }
+  ]
+}

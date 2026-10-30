@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-eule-im-klassenzimmer",
+  "level": "A2",
+  "title": "Die Eule im Klassenzimmer",
+  "subtitle": "Ein Plüschtier reist durch viele Familien",
+  "category": "Schule",
+  "emoji": "🦉",
+  "color": "peach",
+  "german": [
+    "In Frau Neumanns Klasse sitzt eine kleine Stoffeule auf dem Regal. Sie heißt Olga und hat große gelbe Augen. Jede Woche darf ein anderes Kind Olga mit nach Hause nehmen. Im Heft der Eule schreiben die Kinder, was sie zusammen erlebt haben. Am Montag bringen sie beides zurück.",
+    "Diese Woche ist Mika an der Reihe. Er nimmt Olga am Freitag in seinem Rucksack mit. Zu Hause zeigt er ihr sein Zimmer. Am Samstag fährt die Familie an einen See. Mika setzt Olga auf eine Decke und macht ein Foto. Danach spielt er mit seiner Schwester Federball.",
+    "Am Sonntag schreibt Mika drei Sätze ins Heft und klebt das Foto dazu. Seine Mutter hilft ihm bei einem schwierigen Wort. Am Montag liest Mika die Geschichte vor der Klasse vor. Alle Kinder lachen, als sie Olga mit einer Sonnenbrille auf dem Foto sehen.",
+    "Frau Neumann stellt das Heft ins Regal. Inzwischen ist es schon fast voll. Die Klasse möchte später ein eigenes Buch daraus machen. Mika freut sich, dass seine Seite dann auch darin steht. Nächste Woche darf Olga zu Emma nach Hause fahren."
+  ],
+  "english": [
+    "A little stuffed owl sits on the shelf in Mrs Neumann's classroom. Its name is Olga and it has big yellow eyes. Each week a different child may take Olga home. In the owl's notebook the children write what they experienced together. On Monday they bring both back.",
+    "This week it is Mika's turn. He takes Olga home in his backpack on Friday. At home he shows her his room. On Saturday the family drives to a lake. Mika puts Olga on a blanket and takes a photo. Then he plays badminton with his sister.",
+    "On Sunday Mika writes three sentences in the notebook and sticks in the photo. His mother helps him with a difficult word. On Monday Mika reads the story to the class. All the children laugh when they see Olga wearing sunglasses in the picture.",
+    "Mrs Neumann puts the notebook on the shelf. It is almost full now. The class wants to make their own book from it later. Mika is happy his page will be in it too. Next week Olga gets to go home with Emma."
+  ],
+  "questions": [
+    {
+      "question": "Wie heißt die Stoffeule?",
+      "options": [
+        "Olga",
+        "Luna",
+        "Berta"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Olga."
+    },
+    {
+      "question": "Wohin fährt Mikas Familie?",
+      "options": [
+        "In die Berge",
+        "Ins Kino",
+        "An einen See"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: An einen See."
+    },
+    {
+      "question": "Was möchte die Klasse später machen?",
+      "options": [
+        "Eine Eule kaufen",
+        "Ein Buch aus dem Heft",
+        "Eine neue Schule bauen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Buch aus dem Heft."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-ueberraschung-im-buecherbus",
+  "level": "A2",
+  "title": "Die Überraschung im Bücherbus",
+  "subtitle": "Eine mobile Bibliothek kommt ins Dorf",
+  "category": "Kultur",
+  "emoji": "📚",
+  "color": "sage",
+  "german": [
+    "Im Dorf von Lina gibt es keine große Bibliothek. Wer Bücher ausleihen möchte, muss mit dem Bus in die Stadt fahren. Eines Tages steht ein blauer Bus vor der Schule. Auf der Seite ist ein großes Bild mit Büchern. Lina liest die Wörter: „Bücherbus – Lesen für alle“.",
+    "Nach dem Unterricht dürfen die Kinder einsteigen. Innen stehen Regale mit Romanen, Comics und Sachbüchern. Ein freundlicher Mann zeigt, wie man Bücher ausleiht. Lina sucht lange. Dann findet sie eine Geschichte über einen Hund, der mit einem Zug reist. Sie nimmt das Buch sofort mit.",
+    "Der Bücherbus kommt jetzt jeden zweiten Donnerstag ins Dorf. Lina schreibt sich die Termine in ihren Kalender. Beim nächsten Besuch bringt sie das erste Buch zurück und leiht sich gleich zwei neue aus. Ihre Freundin Emma sucht ein Kochbuch für Kinder. Sie wollen am Samstag zusammen Kekse backen.",
+    "Bald treffen sich mehrere Kinder jeden Donnerstag an der Bushaltestelle. Sie erzählen, was sie gelesen haben, und empfehlen einander Bücher. Lina freut sich schon auf die nächste Fahrt des blauen Busses."
+  ],
+  "english": [
+    "There is no large library in Lina's village. Anyone who wants to borrow books has to take a bus into town. One day a blue bus stands outside the school. There is a big picture of books on the side. Lina reads the words: “Book bus – reading for everyone.”",
+    "After class the children are allowed to go inside. There are shelves of novels, comics and nonfiction books. A friendly man shows them how to borrow books. Lina searches for a while. Then she finds a story about a dog that travels by train. She takes it immediately.",
+    "The book bus now comes to the village every second Thursday. Lina writes the dates in her calendar. On the next visit she returns the first book and borrows two more. Her friend Emma looks for a children's cookbook. They want to bake biscuits together on Saturday.",
+    "Soon several children meet at the bus stop every Thursday. They talk about what they have read and recommend books to one another. Lina is already looking forward to the next visit from the blue bus."
+  ],
+  "questions": [
+    {
+      "question": "Welche Farbe hat der Bücherbus?",
+      "options": [
+        "Rot",
+        "Blau",
+        "Grün"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Blau."
+    },
+    {
+      "question": "Wie oft kommt er ins Dorf?",
+      "options": [
+        "Jeden zweiten Donnerstag",
+        "Jeden Tag",
+        "Nur einmal im Jahr"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Jeden zweiten Donnerstag."
+    },
+    {
+      "question": "Was möchten Lina und Emma backen?",
+      "options": [
+        "Brot",
+        "Pizza",
+        "Kekse"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Kekse."
+    }
+  ]
+}

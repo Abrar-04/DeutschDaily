@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-letzte-faehre",
+  "level": "B1",
+  "title": "Die letzte Fähre",
+  "subtitle": "Eine spontane Entscheidung verändert einen Ausflug",
+  "category": "Reisen",
+  "emoji": "⛴️",
+  "color": "peach",
+  "german": [
+    "Als Jannik am Samstag eine kleine Insel besucht, möchte er eigentlich nur ein paar Stunden spazieren gehen. Die Fähre zurück zum Festland fährt um achtzehn Uhr. Deshalb stellt er einen Wecker auf seinem Handy. Nachdem er den Leuchtturm fotografiert hat, folgt er einem schmalen Weg durch die Dünen.",
+    "Unterwegs entdeckt Jannik eine Gruppe, die alte Netze und Plastikflaschen vom Strand sammelt. Eine Frau erklärt ihm, dass sie jeden Monat eine gemeinsame Aufräumaktion organisieren. Obwohl er wenig Zeit hat, hilft er eine Weile mit. Als er auf sein Handy schaut, ist es bereits siebzehn Uhr fünfundvierzig. Zur Fähre braucht er mindestens zwanzig Minuten.",
+    "Jannik rennt zur Anlegestelle, doch das Schiff hat gerade abgelegt. Der nächste Kurs fährt erst am Morgen. Zunächst ärgert er sich über sich selbst. Die Frau von der Gruppe bietet ihm jedoch ein freies Bett in einer kleinen Pension an. Sie kennt die Besitzerin und ruft kurz an.",
+    "Am Abend sitzt Jannik mit den Helfern in einem Restaurant. Sie erzählen von der Insel, von Stürmen und von ihren Projekten. Am nächsten Morgen fährt er zurück. Seinen ursprünglichen Plan hat er nicht geschafft, aber er kommt mit neuen Freunden nach Hause."
+  ],
+  "english": [
+    "When Jannik visits a small island on Saturday, he originally intends only to go for a walk for a few hours. The ferry back to the mainland leaves at six in the evening. So he sets an alarm on his phone. After photographing the lighthouse, he follows a narrow path through the dunes.",
+    "Along the way Jannik discovers a group collecting old nets and plastic bottles from the beach. A woman explains that they organize a joint cleanup every month. Although he has little time, he helps for a while. When he checks his phone, it is already 5:45. It will take him at least twenty minutes to reach the ferry.",
+    "Jannik runs to the landing stage, but the boat has just left. The next service does not leave until morning. At first he is annoyed with himself. However, the woman from the group offers him a free bed in a small guesthouse. She knows the owner and makes a quick call.",
+    "In the evening Jannik sits with the volunteers in a restaurant. They talk about the island, storms and their projects. The next morning he travels back. He did not follow his original plan, but he comes home with new friends."
+  ],
+  "questions": [
+    {
+      "question": "Warum verpasst Jannik die Fähre?",
+      "options": [
+        "Er hilft beim Aufräumen am Strand",
+        "Er verliert sein Ticket",
+        "Das Schiff fährt früher als geplant"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Er hilft beim Aufräumen am Strand."
+    },
+    {
+      "question": "Wo schläft er?",
+      "options": [
+        "Im Leuchtturm",
+        "Auf dem Schiff",
+        "In einer Pension"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: In einer Pension."
+    },
+    {
+      "question": "Was gewinnt er durch die Reise?",
+      "options": [
+        "Einen Reisepreis",
+        "Neue Freunde",
+        "Ein neues Fahrrad"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Neue Freunde."
+    }
+  ]
+}

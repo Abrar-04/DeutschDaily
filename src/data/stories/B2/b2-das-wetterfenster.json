@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-wetterfenster",
+  "level": "B2",
+  "title": "Das Wetterfenster",
+  "subtitle": "Ein Bergführer muss unter Unsicherheit entscheiden",
+  "category": "Natur",
+  "emoji": "⛰️",
+  "color": "sky",
+  "german": [
+    "Für eine anspruchsvolle Bergtour hat Führerin Theresa mit ihrer Gruppe einen frühen Start vereinbart. Die Wettervorhersage verspricht am Vormittag ein kurzes stabiles Zeitfenster, danach könnten Gewitter entstehen. Noch vor Sonnenaufgang überprüft Theresa die aktuellen Berichte. Die Modelle unterscheiden sich jedoch stärker als erwartet.",
+    "Einige Teilnehmer möchten trotzdem aufbrechen, da sie den Urlaub lange geplant und viel Geld dafür ausgegeben haben. Theresa erklärt, dass selbst genaue Prognosen in den Bergen keine Garantie bieten. Besonders die schnellen Wetterwechsel an exponierten Stellen machen eine spätere Umkehr schwierig. Sie schlägt deshalb eine deutlich kürzere Route unterhalb der Baumgrenze vor.",
+    "Ein Teilnehmer wirft ihr übertriebene Vorsicht vor. Theresa bleibt ruhig und erinnert daran, dass ihre Verantwortung nicht darin besteht, einen Gipfel um jeden Preis zu erreichen. Die Mehrheit folgt ihrem Vorschlag. Während die Gruppe später auf einem geschützten Weg unterwegs ist, hört sie aus der Ferne bereits Donner.",
+    "Am Abend sind alle wieder sicher im Tal. Der enttäuschte Teilnehmer entschuldigt sich und bedankt sich für die Entscheidung. Theresa weiß, dass das Gewitter die ursprünglich geplante Route möglicherweise gar nicht getroffen hätte. Trotzdem hält sie an ihrem Vorgehen fest: Professionelle Sicherheit bedeutet, vernünftige Entscheidungen vor dem Ereignis zu treffen, nicht sie erst im Nachhinein zu rechtfertigen."
+  ],
+  "english": [
+    "Mountain guide Theresa has arranged an early start for a demanding hike. The forecast promises a brief stable weather window in the morning, after which thunderstorms may develop. Before sunrise Theresa checks the latest reports. However, the models disagree more than expected.",
+    "Some participants still want to set off because they planned the holiday long ago and spent a lot of money on it. Theresa explains that even accurate mountain forecasts offer no guarantee. Rapid weather changes in exposed places make a later retreat especially difficult. She therefore proposes a much shorter route below the tree line.",
+    "One participant accuses her of excessive caution. Theresa remains calm and reminds the group that her responsibility is not to reach a summit at any cost. Most follow her suggestion. While the group is on a sheltered path later, they can already hear distant thunder.",
+    "That evening everyone is safely back in the valley. The disappointed participant apologizes and thanks her for the decision. Theresa knows the storm might not have hit the original route at all. Nevertheless she stands by her approach: professional safety means making reasonable decisions before an event, not justifying them only afterward."
+  ],
+  "questions": [
+    {
+      "question": "Warum werden die Pläne geändert?",
+      "options": [
+        "Wettermodelle sind uneinheitlich und Gewitter möglich",
+        "Die Gruppe hat keine Karten",
+        "Der Berg ist geschlossen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Wettermodelle sind uneinheitlich und Gewitter möglich."
+    },
+    {
+      "question": "Welche Route wählt Theresa?",
+      "options": [
+        "Den höchsten Gipfel",
+        "Einen Weg ohne Markierungen",
+        "Eine kürzere geschützte Strecke"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine kürzere geschützte Strecke."
+    },
+    {
+      "question": "Was betont die Geschichte?",
+      "options": [
+        "Vorsicht ist immer falsch",
+        "Entscheidungen müssen vorher vernünftig sein",
+        "Nur das Ergebnis zählt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Entscheidungen müssen vorher vernünftig sein."
+    }
+  ]
+}

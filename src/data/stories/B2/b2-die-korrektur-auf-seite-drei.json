@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-korrektur-auf-seite-drei",
+  "level": "B2",
+  "title": "Die Korrektur auf Seite drei",
+  "subtitle": "Eine Redaktion muss einen alten Fehler öffentlich berichtigen",
+  "category": "Medien",
+  "emoji": "📰",
+  "color": "butter",
+  "german": [
+    "Vor drei Monaten veröffentlichte eine Regionalzeitung einen Artikel über die angebliche Schließung eines Jugendzentrums. Die Meldung beruhte auf einer unklaren Aussage in einer Sitzung. Inzwischen steht fest, dass das Zentrum keineswegs geschlossen werden soll, sondern nur für Renovierungsarbeiten vorübergehend andere Räume nutzt.",
+    "Redakteurin Elisa entdeckt, dass die ursprüngliche Nachricht noch immer über Suchmaschinen gefunden und in sozialen Netzwerken geteilt wird. Eine unauffällige Änderung des Textes erscheint ihr deshalb unzureichend. Sie schlägt vor, den Fehler deutlich zu kennzeichnen und eine eigenständige Berichtigung zu veröffentlichen.",
+    "Ein Kollege befürchtet, dass die Zeitung dadurch unprofessionell wirken könnte. Elisa hält dagegen, dass Leser ohnehin von den widersprüchlichen Informationen erfahren würden. Offen über den Irrtum zu sprechen, sei glaubwürdiger, als so zu tun, als habe er nie existiert. Die Chefredaktion stimmt schließlich zu.",
+    "In der nächsten Ausgabe erscheint eine Berichtigung mit einer Erklärung der tatsächlichen Lage. Außerdem erhält der alte Onlineartikel einen gut sichtbaren Hinweis. Die Zahl der Beschwerden sinkt, auch wenn nicht alle bereits geteilten Beiträge korrigiert werden können. Elisa betrachtet den Fall als Erinnerung daran, dass journalistische Verantwortung über die erste Veröffentlichung hinausgeht."
+  ],
+  "english": [
+    "Three months ago a regional newspaper published an article about the alleged closure of a youth centre. The report was based on an unclear statement at a meeting. It is now certain that the centre will not close at all, but will only use other rooms temporarily during renovations.",
+    "Editor Elisa discovers that the original story is still found through search engines and shared on social media. She therefore considers an inconspicuous edit insufficient. She proposes clearly marking the error and publishing a separate correction.",
+    "A colleague fears this could make the paper look unprofessional. Elisa argues that readers will hear the contradictory information anyway. Speaking openly about the mistake is more credible than pretending it never existed. The editor-in-chief eventually agrees.",
+    "The next edition publishes a correction explaining the actual situation. The old online article also receives a highly visible notice. Complaints decline, although not every previously shared post can be corrected. Elisa sees the case as a reminder that journalistic responsibility extends beyond the first publication."
+  ],
+  "questions": [
+    {
+      "question": "Was war an der ursprünglichen Meldung falsch?",
+      "options": [
+        "Die Redaktion hat kein Büro",
+        "Die Renovierung ist abgesagt",
+        "Das Jugendzentrum schließt nicht dauerhaft"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Das Jugendzentrum schließt nicht dauerhaft."
+    },
+    {
+      "question": "Welche Berichtigung will Elisa?",
+      "options": [
+        "Gar keine Änderung",
+        "Eine deutlich sichtbare Korrektur",
+        "Eine heimliche Änderung ohne Hinweis"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine deutlich sichtbare Korrektur."
+    },
+    {
+      "question": "Was ist die wichtigste Erkenntnis?",
+      "options": [
+        "Verantwortung endet nicht mit der Veröffentlichung",
+        "Alte Artikel müssen verschwinden",
+        "Jede Meldung ist immer richtig"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Verantwortung endet nicht mit der Veröffentlichung."
+    }
+  ]
+}

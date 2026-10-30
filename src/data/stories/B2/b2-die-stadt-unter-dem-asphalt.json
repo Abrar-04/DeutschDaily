@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-stadt-unter-dem-asphalt",
+  "level": "B2",
+  "title": "Die Stadt unter dem Asphalt",
+  "subtitle": "Bei Straßenarbeiten entsteht ein Streit um historische Spuren",
+  "category": "Geschichte",
+  "emoji": "🏺",
+  "color": "lavender",
+  "german": [
+    "Während der Erneuerung einer Hauptstraße stoßen Bauarbeiter auf Mauerreste, die älter sein könnten als die umliegenden Häuser. Eine Archäologin wird hinzugezogen und entdeckt Keramikscherben sowie einen ungewöhnlich gut erhaltenen Brunnenrand. Die Arbeiten müssen vorübergehend unterbrochen werden, obwohl zahlreiche Geschäfte bereits unter der Sperrung leiden.",
+    "Im Rathaus geraten unterschiedliche Interessen aneinander. Die Händler fürchten weitere Umsatzeinbußen, während ein Geschichtsverein fordert, möglichst große Teile der Fundstelle freizulegen. Die Stadtverwaltung weist darauf hin, dass weder Geld noch Zeit unbegrenzt zur Verfügung stehen. Archäologin Miriam schlägt deshalb eine Untersuchung vor, die sich auf die wissenschaftlich wichtigsten Bereiche konzentriert.",
+    "Während der Ausgrabung dokumentiert ihr Team jeden Fund genau. Einige Stücke werden ins Museum gebracht, andere bleiben geschützt an ihrem ursprünglichen Ort. Um die Wartezeit verständlicher zu machen, organisiert Miriam kurze Führungen am Bauzaun und erklärt, welche Fragen sich aus den neuen Informationen ergeben.",
+    "Schließlich kann die Straße wieder geöffnet werden. Eine kleine Bodenmarkierung erinnert künftig an die Stelle des Brunnens. Nicht alle Beteiligten sind vollständig zufrieden, doch viele erkennen an, dass die Entscheidung einen schwierigen Ausgleich zwischen Alltag und Vergangenheit versucht hat. Miriam freut sich besonders über die Fragen der Anwohner, deren Interesse zuvor kaum jemand erwartet hatte."
+  ],
+  "english": [
+    "During the renovation of a main road, workers discover remains of walls that may be older than the surrounding houses. An archaeologist is called in and finds pottery fragments and an unusually well-preserved edge of a well. Work must be suspended temporarily, although numerous shops are already suffering from the road closure.",
+    "At city hall, competing interests clash. Shopkeepers fear further lost sales, while a history association demands that as much of the site as possible be uncovered. The administration points out that neither money nor time is unlimited. Archaeologist Miriam therefore proposes an investigation focusing on the scientifically most important areas.",
+    "During the excavation her team documents every find precisely. Some objects go to the museum, while others remain protected in their original location. To explain the delay, Miriam organizes short tours beside the construction fence and explains what questions the discoveries raise.",
+    "Eventually the road can reopen. A small ground marking will commemorate the well's location. Not everyone is fully satisfied, but many acknowledge that the decision attempted a difficult balance between daily life and the past. Miriam is especially pleased by residents' questions, which hardly anyone had expected."
+  ],
+  "questions": [
+    {
+      "question": "Warum werden die Bauarbeiten unterbrochen?",
+      "options": [
+        "Es gibt keine Bauarbeiter",
+        "Die Straße ist bereits fertig",
+        "Es werden historische Reste gefunden"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Es werden historische Reste gefunden."
+    },
+    {
+      "question": "Welche Interessen stehen sich gegenüber?",
+      "options": [
+        "Schule und Ferien",
+        "Geschäftsbetrieb und Denkmalschutz",
+        "Sport und Musik"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Geschäftsbetrieb und Denkmalschutz."
+    },
+    {
+      "question": "Was erinnert später an den Brunnen?",
+      "options": [
+        "Eine Bodenmarkierung",
+        "Ein neuer Supermarkt",
+        "Ein Parkplatz"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine Bodenmarkierung."
+    }
+  ]
+}

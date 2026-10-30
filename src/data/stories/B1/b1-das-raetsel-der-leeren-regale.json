@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-raetsel-der-leeren-regale",
+  "level": "B1",
+  "title": "Das Rätsel der leeren Regale",
+  "subtitle": "Ein Buchladen erklärt einen überraschenden Erfolg",
+  "category": "Kultur",
+  "emoji": "📖",
+  "color": "lavender",
+  "german": [
+    "Als Hannah am Montag ihren Lieblingsbuchladen besucht, sind mehrere Regale fast leer. Sie befürchtet, dass das Geschäft schließen muss, und fragt den Besitzer nach dem Grund. Dieser lacht jedoch und erklärt, dass in der vergangenen Woche ungewöhnlich viele Bücher verkauft wurden. Eine junge Autorin aus der Stadt hat einen beliebten Roman veröffentlicht.",
+    "Hannah hat von dem Buch noch nichts gehört. Der Besitzer erzählt, dass die Autorin zunächst jahrelang Kurzgeschichten geschrieben hat, bevor sie einen Verlag fand. Inzwischen empfehlen viele Leserinnen und Leser den Roman in sozialen Medien. Die Nachfrage überrascht sogar den Verlag, der bereits neue Exemplare drucken lässt.",
+    "Der Buchladen plant deshalb eine Lesung mit der Autorin. Hannah meldet sich an und freut sich, mehr über ihren Weg zum Schreiben zu erfahren. Bei der Veranstaltung berichtet die Autorin offen von Absagen, Zweifeln und vielen überarbeiteten Texten.",
+    "Nach der Lesung kauft Hannah den Roman und bittet um eine Unterschrift. Sie hat verstanden, dass hinter einem plötzlichen Erfolg oft jahrelange Arbeit steckt. Die leeren Regale sind inzwischen wieder gefüllt, aber die Geschichte des kleinen Buchladens wird sie noch lange begleiten."
+  ],
+  "english": [
+    "When Hannah visits her favourite bookshop on Monday, several shelves are almost empty. She fears the store will have to close and asks the owner why. But he laughs and explains that an unusually large number of books were sold the previous week. A young author from the town has published a popular novel.",
+    "Hannah has not heard of the book yet. The owner says the author wrote short stories for years before finding a publisher. Now many readers recommend the novel on social media. Demand surprises even the publisher, which is already printing new copies.",
+    "The bookshop therefore plans a reading with the author. Hannah signs up and looks forward to learning more about her path to writing. At the event the writer speaks openly about rejections, doubts and many revised drafts.",
+    "After the reading Hannah buys the novel and asks for an autograph. She has realized that years of work often lie behind a sudden success. The empty shelves have now been filled again, but the story of the little bookshop will stay with her for a long time."
+  ],
+  "questions": [
+    {
+      "question": "Warum sind die Regale leer?",
+      "options": [
+        "Der Laden schließt",
+        "Es wurde eingebrochen",
+        "Ein Roman verkauft sich sehr gut"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Roman verkauft sich sehr gut."
+    },
+    {
+      "question": "Worüber spricht die Autorin?",
+      "options": [
+        "Über einen Kochkurs",
+        "Über ihren langen Weg zum Buch",
+        "Über einen Urlaub"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Über ihren langen Weg zum Buch."
+    },
+    {
+      "question": "Was versteht Hannah?",
+      "options": [
+        "Erfolg braucht oft viel Arbeit",
+        "Bücher sind immer kostenlos",
+        "Autoren arbeiten nie lange"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Erfolg braucht oft viel Arbeit."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-erste-tag-als-nachhilfelehrer",
+  "level": "B1",
+  "title": "Der erste Tag als Nachhilfelehrer",
+  "subtitle": "Ein Student entdeckt eine andere Erklärung",
+  "category": "Bildung",
+  "emoji": "✏️",
+  "color": "sage",
+  "german": [
+    "Seit Beginn des Semesters gibt Emil einem Schüler aus der achten Klasse Nachhilfe in Mathematik. Am ersten Nachmittag erklärt er eine Aufgabe genauso, wie er sie selbst früher gelernt hat. Der Schüler nickt zwar höflich, versteht jedoch nicht, warum er bestimmte Rechenschritte machen soll.",
+    "Emil wird unsicher und versucht, dieselbe Regel noch einmal langsamer zu erklären. Doch das hilft kaum. Dann fragt er den Jungen, ob er ein Beispiel aus seinem Alltag nennen kann. Der Schüler berichtet, dass er oft beim Einkaufen Preise vergleicht. Emil nimmt diese Idee auf und erklärt die Aufgabe mithilfe von Rabatten im Supermarkt.",
+    "Plötzlich versteht der Schüler den Zusammenhang. Gemeinsam rechnen sie weitere Beispiele und zeichnen kleine Tabellen. Am Ende der Stunde kann der Junge die Aufgabe mit eigenen Worten erklären. Emil ist erleichtert, obwohl die Stunde ganz anders verlaufen ist als geplant.",
+    "Auf dem Heimweg denkt er darüber nach, wie unterschiedlich Menschen lernen. Für die nächste Stunde bereitet er mehrere Wege vor, ein Problem zu erklären. Außerdem möchte er zuerst fragen, was sein Schüler bereits weiß. Gute Nachhilfe bedeutet offenbar mehr, als Regeln möglichst deutlich vorzulesen."
+  ],
+  "english": [
+    "Since the start of the semester Emil has been tutoring an eighth-grade pupil in mathematics. During the first afternoon he explains a problem exactly as he learned it himself. The pupil nods politely but does not understand why certain steps are necessary.",
+    "Emil becomes uncertain and tries to explain the same rule again more slowly. That barely helps. Then he asks the boy whether he can think of an everyday example. The pupil says he often compares prices while shopping. Emil uses this idea and explains the problem with supermarket discounts.",
+    "Suddenly the pupil understands the connection. Together they calculate more examples and draw small tables. By the end of the lesson the boy can explain the problem in his own words. Emil is relieved, although the lesson went very differently from his plan.",
+    "On the way home he thinks about how differently people learn. For the next lesson he prepares several ways to explain a problem. He also wants to ask first what his pupil already knows. Good tutoring apparently means more than simply reading rules as clearly as possible."
+  ],
+  "questions": [
+    {
+      "question": "Warum versteht der Schüler die erste Erklärung nicht?",
+      "options": [
+        "Er ist zu müde",
+        "Der Zusammenhang ist ihm unklar",
+        "Er hat keinen Stift"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Der Zusammenhang ist ihm unklar."
+    },
+    {
+      "question": "Welches Beispiel hilft?",
+      "options": [
+        "Rabatte im Supermarkt",
+        "Die Uhrzeit im Kino",
+        "Ein Lied"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Rabatte im Supermarkt."
+    },
+    {
+      "question": "Was plant Emil für die nächste Stunde?",
+      "options": [
+        "Weniger Fragen",
+        "Nur Hausaufgaben zu kontrollieren",
+        "Mehrere Erklärungswege"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Mehrere Erklärungswege."
+    }
+  ]
+}

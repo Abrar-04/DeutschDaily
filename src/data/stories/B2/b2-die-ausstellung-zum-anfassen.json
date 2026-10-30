@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-ausstellung-zum-anfassen",
+  "level": "B2",
+  "title": "Die Ausstellung zum Anfassen",
+  "subtitle": "Ein Museum entwickelt Kunst für mehrere Sinne",
+  "category": "Kultur",
+  "emoji": "🖐️",
+  "color": "sage",
+  "german": [
+    "Ein Kunstmuseum plant eine Ausstellung über moderne Skulpturen. Die Werke sollen normalerweise ausschließlich betrachtet werden, doch Vermittlerin Jasmin möchte auch blinde und sehbehinderte Besucher stärker einbeziehen. Sie schlägt deshalb vor, ausgewählte Formen durch tastbare Nachbildungen zugänglich zu machen. Einige Kuratoren befürchten, dass solche Modelle den künstlerischen Eindruck verfälschen könnten.",
+    "Jasmin organisiert einen Workshop mit Personen, die unterschiedliche Sehfähigkeiten haben. Die Teilnehmer testen Materialien, Reliefzeichnungen und gesprochene Beschreibungen. Dabei stellt sich heraus, dass ausführliche Audiotexte allein nicht für alle hilfreich sind. Viele wünschen sich die Möglichkeit, Größen und Oberflächen eigenständig zu erkunden.",
+    "Das Museum lässt deshalb mehrere robuste Modelle herstellen und ergänzt sie durch kurze, gut strukturierte Informationen. Auch sehende Besucher dürfen die Nachbildungen ertasten, wobei die Originale weiterhin geschützt bleiben. Eine Künstlerin berichtet überrascht, dass manche Gäste durch die Modelle Fragen stellen, auf die sie selbst bisher nicht gekommen sei.",
+    "Bei der Eröffnung betrachtet Jasmin die Neuerungen nicht als endgültige Lösung für Barrierefreiheit. Weitere Anpassungen werden nötig sein. Sie freut sich jedoch, dass die Ausstellung nicht nur mehr Menschen erreicht, sondern auch neue Wege eröffnet, Kunst überhaupt wahrzunehmen."
+  ],
+  "english": [
+    "An art museum plans an exhibition of modern sculptures. The works would normally be viewed only, but educator Jasmin wants to include blind and visually impaired visitors more fully. She therefore proposes making selected shapes accessible through touchable replicas. Some curators fear that such models could distort the artistic impression.",
+    "Jasmin organizes a workshop with people who have different visual abilities. Participants test materials, raised-line drawings and spoken descriptions. It becomes clear that detailed audio texts alone are not helpful to everyone. Many want the opportunity to explore size and surface independently.",
+    "The museum therefore commissions several sturdy models and supplements them with short, well-structured information. Sighted visitors can also touch the replicas, while the originals remain protected. One artist says she is surprised that some guests ask questions prompted by the models that she herself had never considered.",
+    "At the opening Jasmin does not regard the changes as a final solution to accessibility. Further adjustments will be needed. Still, she is pleased that the exhibition not only reaches more people but also opens new ways of perceiving art in the first place."
+  ],
+  "questions": [
+    {
+      "question": "Wie sollen Skulpturen zugänglicher werden?",
+      "options": [
+        "Durch dunklere Räume",
+        "Durch tastbare Nachbildungen",
+        "Durch höhere Sockel"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Durch tastbare Nachbildungen."
+    },
+    {
+      "question": "Was zeigt der Workshop?",
+      "options": [
+        "Audiotexte allein reichen nicht für alle",
+        "Alle wollen genau dasselbe",
+        "Tasten ist immer unnötig"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Audiotexte allein reichen nicht für alle."
+    },
+    {
+      "question": "Was bleibt nach der Eröffnung offen?",
+      "options": [
+        "Ob es Skulpturen gibt",
+        "Ob das Museum geöffnet ist",
+        "Weitere Verbesserungen der Zugänglichkeit"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Weitere Verbesserungen der Zugänglichkeit."
+    }
+  ]
+}

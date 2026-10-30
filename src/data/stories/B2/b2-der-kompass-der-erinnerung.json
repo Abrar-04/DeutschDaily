@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-kompass-der-erinnerung",
+  "level": "B2",
+  "title": "Der Kompass der Erinnerung",
+  "subtitle": "Ein Museum stellt seine Sammlung neu zusammen",
+  "category": "Geschichte",
+  "emoji": "🧭",
+  "color": "peach",
+  "german": [
+    "Ein Heimatmuseum besitzt seit Jahrzehnten eine Sammlung von Gegenständen, die von früheren Reisenden mitgebracht wurden. Bei der Vorbereitung einer neuen Ausstellung fragt Kuratorin Sophie, unter welchen Umständen die Objekte ursprünglich erworben wurden. In mehreren Akten fehlen eindeutige Angaben, und einige Beschriftungen stammen aus einer Zeit, in der die Perspektive der Herkunftsgemeinschaften kaum berücksichtigt wurde.",
+    "Sophie schlägt vor, die Ausstellung zunächst zu verschieben und Kontakte zu Fachleuten aus den betreffenden Regionen aufzubauen. Der Vorstand fürchtet, dass dadurch Fördermittel verloren gehen könnten. Nach längerer Diskussion einigt man sich jedoch auf eine kleinere Präsentation, in der offen über die unvollständige Dokumentation informiert wird.",
+    "Während der Zusammenarbeit erfahren die Museumsmitarbeiter, dass ein bestimmtes Objekt in seiner Herkunftsregion eine ganz andere Bedeutung hat, als die alte Beschreibung vermuten ließ. Die neue Ausstellung stellt beide Perspektiven nebeneinander und erklärt, welche Fragen weiterhin ungeklärt sind.",
+    "Nicht alle Besucher erwarten so viel Unsicherheit in einem Museum. Gerade deshalb hält Sophie das Projekt für gelungen. Sie möchte keine Geschichte erfinden, nur damit die Vitrinen vollständig wirken. Stattdessen sollen die Objekte Anlass sein, genauer hinzusehen und auch die Grenzen des eigenen Wissens anzuerkennen."
+  ],
+  "english": [
+    "A local museum has owned a collection of objects brought back by former travellers for decades. While preparing a new exhibition, curator Sophie asks under what circumstances the items were originally acquired. Several files contain no clear information, and some descriptions date from a time when the perspectives of communities of origin were hardly considered.",
+    "Sophie suggests postponing the exhibition and contacting specialists from the regions concerned. The board fears this could result in lost funding. After a lengthy discussion they agree on a smaller presentation that openly acknowledges gaps in the documentation.",
+    "Through the collaboration the museum staff learn that one object has a very different significance in its region of origin from what the old description suggested. The new exhibition presents both perspectives side by side and explains which questions remain unanswered.",
+    "Not every visitor expects so much uncertainty in a museum. That is precisely why Sophie considers the project successful. She does not want to invent a story just to make the display cases appear complete. Instead the objects should encourage closer examination and recognition of the limits of one's own knowledge."
+  ],
+  "questions": [
+    {
+      "question": "Was fehlt in den Museumsakten?",
+      "options": [
+        "Klare Angaben zur Herkunft einiger Objekte",
+        "Die Anzahl der Fenster",
+        "Die Öffnungszeiten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Klare Angaben zur Herkunft einiger Objekte."
+    },
+    {
+      "question": "Was verändert Sophie an der Ausstellung?",
+      "options": [
+        "Sie entfernt alle Schilder",
+        "Sie zeigt nur neue Objekte",
+        "Sie macht Unsicherheiten sichtbar"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie macht Unsicherheiten sichtbar."
+    },
+    {
+      "question": "Was soll das Publikum lernen?",
+      "options": [
+        "Keine Fragen zu stellen",
+        "Die Grenzen von Wissen zu erkennen",
+        "Jede alte Beschreibung zu glauben"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Grenzen von Wissen zu erkennen."
+    }
+  ]
+}

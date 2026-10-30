@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-bahnhof-der-zukunft",
+  "level": "B2",
+  "title": "Der Bahnhof der Zukunft",
+  "subtitle": "Ein Entwurf scheitert an einer übersehenen Perspektive",
+  "category": "Stadt",
+  "emoji": "🚉",
+  "color": "peach",
+  "german": [
+    "Ein Architekturbüro gewinnt einen Wettbewerb für die Neugestaltung eines Regionalbahnhofs. Der Entwurf sieht offene Glasflächen, digitale Wegweiser und großzügige Aufenthaltsbereiche vor. Projektleiter Adrian ist überzeugt, dass der Bahnhof dadurch moderner und übersichtlicher wird. Bei einer öffentlichen Präsentation erhält er zunächst viel Zustimmung.",
+    "Dann meldet sich eine Frau mit Sehbehinderung. Sie fragt, wie Menschen ohne ausreichendes Sehvermögen die Wege finden sollen, wenn fast alle Informationen nur auf Bildschirmen erscheinen. Ein Rollstuhlfahrer ergänzt, dass die eingezeichneten Aufzüge ungünstig liegen und lange Umwege verursachen könnten. Adrian muss zugeben, dass diese Aspekte nicht ausreichend geprüft wurden.",
+    "Sein Team lädt daraufhin verschiedene Nutzergruppen zu einem Workshop ein. Gemeinsam testen sie Wege, untersuchen akustische Hinweise und überarbeiten die Positionen der Aufzüge. Einige Änderungen kosten zusätzliche Planungszeit, verbessern jedoch die Orientierung für weit mehr Menschen als ursprünglich gedacht.",
+    "Als der überarbeitete Entwurf vorgestellt wird, wirkt er weniger spektakulär als die erste Version. Adrian ist damit einverstanden. Er hat gelernt, dass gute Architektur nicht allein daran gemessen werden sollte, wie eindrucksvoll ein Gebäude auf Bildern aussieht. Entscheidend ist schließlich, wer es im Alltag tatsächlich nutzen kann."
+  ],
+  "english": [
+    "An architecture firm wins a competition to redesign a regional railway station. The proposal includes open glass surfaces, digital signs and spacious waiting areas. Project leader Adrian is convinced that the station will become more modern and easier to navigate. At a public presentation he initially receives much approval.",
+    "Then a visually impaired woman speaks up. She asks how people with limited vision are supposed to find their way if almost all information appears only on screens. A wheelchair user adds that the planned lifts are poorly positioned and could require lengthy detours. Adrian has to admit these aspects were not adequately examined.",
+    "His team subsequently invites different user groups to a workshop. Together they test routes, investigate acoustic guidance and revise the lift locations. Some changes take additional planning time, but improve navigation for many more people than originally expected.",
+    "When the revised proposal is presented, it looks less spectacular than the first version. Adrian accepts this. He has learned that good architecture should not be judged only by how impressive a building looks in pictures. What ultimately matters is who can actually use it in everyday life."
+  ],
+  "questions": [
+    {
+      "question": "Welche Perspektive wurde anfangs übersehen?",
+      "options": [
+        "Barrierefreie Orientierung",
+        "Die Farbe der Glasflächen",
+        "Die Größe der Bahnhofsuhr"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Barrierefreie Orientierung."
+    },
+    {
+      "question": "Was passiert im Workshop?",
+      "options": [
+        "Nur Architekten sehen Bilder",
+        "Alle digitalen Anzeigen werden entfernt",
+        "Nutzergruppen testen und verbessern die Wege"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Nutzergruppen testen und verbessern die Wege."
+    },
+    {
+      "question": "Was ändert Adrian an seinem Maßstab?",
+      "options": [
+        "Die Planung wird beendet",
+        "Alltagstauglichkeit zählt stärker",
+        "Nur das Aussehen zählt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Alltagstauglichkeit zählt stärker."
+    }
+  ]
+}

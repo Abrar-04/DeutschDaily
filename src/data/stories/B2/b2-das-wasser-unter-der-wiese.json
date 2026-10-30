@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-wasser-unter-der-wiese",
+  "level": "B2",
+  "title": "Das Wasser unter der Wiese",
+  "subtitle": "Ein Dorf verhandelt über die Nutzung einer Quelle",
+  "category": "Umwelt",
+  "emoji": "💧",
+  "color": "peach",
+  "german": [
+    "In einem Dorf am Rand eines Mittelgebirges wird über den Bau einer neuen Abfüllanlage diskutiert. Ein Unternehmen möchte Quellwasser in Flaschen verkaufen und verspricht Arbeitsplätze. Landwirtin Johanna befürchtet dagegen, dass eine größere Entnahme den Grundwasserspiegel beeinflussen könnte. Noch fehlen allerdings verlässliche Daten darüber, wie die Quelle mit den umliegenden Brunnen verbunden ist.",
+    "Der Gemeinderat lädt deshalb unabhängige Fachleute ein, die vorhandenen Untersuchungen zu erklären. Dabei wird deutlich, dass die Angaben des Unternehmens zwar bestimmte Anforderungen erfüllen, aber nicht alle langfristigen Entwicklungen vorhersagen können. Johanna fordert zusätzliche Messstellen und regelmäßige Veröffentlichungen der Ergebnisse.",
+    "Nach mehreren Verhandlungen stimmt das Unternehmen einer zunächst begrenzten Fördermenge sowie einer überprüfbaren Beobachtungsphase zu. Falls bestimmte Grenzwerte unterschritten werden, muss die Entnahme reduziert werden. Die Gemeinde setzt außerdem ein öffentliches Gremium ein, in dem Einwohner und Fachleute die Messberichte diskutieren können.",
+    "Johanna betrachtet die Vereinbarung nicht als endgültigen Sieg. Auch die versprochenen Arbeitsplätze hält sie für wichtig. Entscheidend sei jedoch, dass wirtschaftliche Vorteile nicht auf Kosten einer Ressource entstehen, von der das gesamte Dorf abhängt. Erst die kommenden Jahre werden zeigen, ob die gewählte Lösung tatsächlich tragfähig ist."
+  ],
+  "english": [
+    "In a village at the edge of a low mountain range, residents debate a new bottling plant. A company wants to sell spring water in bottles and promises jobs. Farmer Johanna, by contrast, fears that increased extraction could affect groundwater levels. Reliable data on how the spring connects to nearby wells are still missing.",
+    "The council therefore invites independent specialists to explain the existing studies. It becomes clear that although the company's information meets certain requirements, it cannot predict every long-term development. Johanna calls for extra measuring sites and regular publication of findings.",
+    "After several negotiations the company agrees to an initially limited extraction volume and a verifiable monitoring period. If certain thresholds are crossed, extraction must be reduced. The municipality also establishes a public committee where residents and experts can discuss measurement reports.",
+    "Johanna does not regard the agreement as a final victory. She considers the promised jobs important too. What matters, however, is that economic benefits should not come at the expense of a resource on which the whole village depends. Only the coming years will show whether the chosen solution is actually sustainable."
+  ],
+  "questions": [
+    {
+      "question": "Was befürchtet Johanna?",
+      "options": [
+        "Auswirkungen auf das Grundwasser",
+        "Zu viele Touristen",
+        "Einen Mangel an Flaschen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Auswirkungen auf das Grundwasser."
+    },
+    {
+      "question": "Was wird vereinbart?",
+      "options": [
+        "Unbegrenzte Nutzung",
+        "Sofortige Schließung aller Brunnen",
+        "Begrenzte Entnahme und Überwachung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Begrenzte Entnahme und Überwachung."
+    },
+    {
+      "question": "Was bleibt ungewiss?",
+      "options": [
+        "Die Zahl der Ratsmitglieder",
+        "Die langfristige Tragfähigkeit",
+        "Der Name der Quelle"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die langfristige Tragfähigkeit."
+    }
+  ]
+}

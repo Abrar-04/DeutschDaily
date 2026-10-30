@@ -1,0 +1,53 @@
+{
+  "id": "a2-eine-karte-voller-sterne",
+  "level": "A2",
+  "title": "Eine Karte voller Sterne",
+  "subtitle": "Ein Kind entdeckt den Nachthimmel",
+  "category": "Wissenschaft",
+  "emoji": "⭐",
+  "color": "lavender",
+  "german": [
+    "Als Elias zu seinem Onkel aufs Land fährt, ist es dort nachts ganz dunkel. In seiner Stadt sieht er wegen der vielen Lampen nur wenige Sterne. Sein Onkel besitzt ein kleines Teleskop und eine Karte vom Himmel. Nach dem Abendessen gehen beide in den Garten. Sie ziehen warme Jacken an.",
+    "Zuerst zeigt der Onkel Elias den Mond. Durch das Teleskop kann er dunkle Flecken und kleine Berge sehen. Elias ist begeistert. Danach suchen sie den Großen Wagen. Der Onkel zeigt ihm, wie man die Sterne auf der Karte findet. Elias versucht, die Formen mit dem Finger nachzuzeichnen.",
+    "Plötzlich sieht Elias einen hellen Punkt über den Himmel fliegen. „Ist das ein Stern?“, fragt er. Sein Onkel erklärt, dass es wahrscheinlich ein Satellit ist. Elias staunt. So viele Dinge bewegen sich über ihnen, und normalerweise bemerkt er sie gar nicht.",
+    "Bevor er ins Bett geht, malt Elias eine eigene Sternkarte. Er schreibt das Datum darauf und markiert den hellen Punkt. In der Schule möchte er seiner Klasse davon erzählen. Vielleicht können seine Freunde eines Tages auch einen Sternenhimmel ohne viele Lichter sehen."
+  ],
+  "english": [
+    "When Elias visits his uncle in the countryside, it is very dark at night. In his city he can see only a few stars because of all the lights. His uncle owns a small telescope and a sky map. After dinner they go into the garden. They put on warm jackets.",
+    "First his uncle shows Elias the moon. Through the telescope he can see dark patches and small mountains. Elias is excited. Then they look for the Big Dipper. His uncle shows him how to find the stars on the map. Elias tries to trace the shapes with his finger.",
+    "Suddenly Elias sees a bright point moving across the sky. “Is that a star?” he asks. His uncle explains that it is probably a satellite. Elias is amazed. So many things move above them, and normally he never notices them.",
+    "Before going to bed Elias draws his own star map. He writes the date on it and marks the bright point. At school he wants to tell his class about it. Maybe one day his friends will also be able to see a sky full of stars without so many lights."
+  ],
+  "questions": [
+    {
+      "question": "Warum sieht Elias in der Stadt wenige Sterne?",
+      "options": [
+        "Wegen der Bäume",
+        "Wegen des Schnees",
+        "Wegen der vielen Lichter"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Wegen der vielen Lichter."
+    },
+    {
+      "question": "Was benutzt sein Onkel?",
+      "options": [
+        "Ein Radio",
+        "Ein Teleskop",
+        "Ein Mikroskop"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Teleskop."
+    },
+    {
+      "question": "Was ist der bewegliche Lichtpunkt wahrscheinlich?",
+      "options": [
+        "Ein Satellit",
+        "Ein Flugzeug am Boden",
+        "Eine Taschenlampe"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein Satellit."
+    }
+  ]
+}

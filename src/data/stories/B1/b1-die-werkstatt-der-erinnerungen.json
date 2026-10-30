@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-werkstatt-der-erinnerungen",
+  "level": "B1",
+  "title": "Die Werkstatt der Erinnerungen",
+  "subtitle": "Ein alter Kassettenrekorder bringt Stimmen zurück",
+  "category": "Familie",
+  "emoji": "📼",
+  "color": "peach",
+  "german": [
+    "Als ihre Großmutter in eine kleinere Wohnung zieht, findet Clara mehrere Kassetten in einer Schachtel. Auf den Etiketten stehen Jahreszahlen und Namen. Clara besitzt allerdings kein Gerät mehr, mit dem sie die Aufnahmen abspielen könnte. Ihre Großmutter erzählt, dass darauf Gespräche und Musik von früher gespeichert sind.",
+    "Clara sucht im Internet und entdeckt eine kleine Werkstatt, die alte Aufnahmen digitalisiert. Ein Mitarbeiter erklärt, dass manche Bänder empfindlich geworden sind und vorsichtig behandelt werden müssen. Zwei Wochen später erhält Clara eine Datei mit den geretteten Aufnahmen.",
+    "Am Sonntag hört die Familie gemeinsam zu. Zunächst erklingt ein Kinderlied, dann die Stimme ihres längst verstorbenen Großvaters. Er erzählt einen Witz, über den alle lachen müssen. Die Großmutter wird still und lächelt. Sie sagt, dass sie sich an diesen Nachmittag kaum noch erinnert hatte.",
+    "Clara speichert die Dateien an zwei sicheren Orten und gibt ihrer Großmutter eine einfache Möglichkeit, sie abzuspielen. Anschließend notiert sie die Geschichten zu den einzelnen Aufnahmen. Ihr ist klar geworden, dass Erinnerungen nicht nur in Fotos, sondern auch in Stimmen und kleinen Geräuschen weiterleben können."
+  ],
+  "english": [
+    "When her grandmother moves to a smaller apartment, Clara finds several cassette tapes in a box. The labels contain years and names. Clara no longer owns a device that can play the recordings. Her grandmother explains that they contain conversations and music from the past.",
+    "Clara searches online and discovers a small workshop that digitizes old recordings. A staff member explains that some tapes have become delicate and must be handled carefully. Two weeks later Clara receives a file containing the rescued recordings.",
+    "On Sunday the family listens together. First they hear a children's song, then the voice of her grandfather, who died long ago. He tells a joke that makes everyone laugh. The grandmother becomes quiet and smiles. She says she had almost forgotten that afternoon.",
+    "Clara stores the files in two safe places and gives her grandmother an easy way to play them. Then she writes down the stories connected to each recording. She has realized that memories can live on not only in photographs, but also in voices and small sounds."
+  ],
+  "questions": [
+    {
+      "question": "Was findet Clara?",
+      "options": [
+        "Alte Kassetten",
+        "Alte Briefe",
+        "Alte Münzen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Alte Kassetten."
+    },
+    {
+      "question": "Was macht die Werkstatt?",
+      "options": [
+        "Sie verkauft neue Radios",
+        "Sie baut Möbel",
+        "Sie digitalisiert die Aufnahmen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie digitalisiert die Aufnahmen."
+    },
+    {
+      "question": "Wessen Stimme hört die Familie?",
+      "options": [
+        "Die eines Schauspielers",
+        "Die des verstorbenen Großvaters",
+        "Die eines Lehrers"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die des verstorbenen Großvaters."
+    }
+  ]
+}

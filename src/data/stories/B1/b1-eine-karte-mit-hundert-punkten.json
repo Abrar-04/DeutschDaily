@@ -1,0 +1,53 @@
+{
+  "id": "b1-eine-karte-mit-hundert-punkten",
+  "level": "B1",
+  "title": "Eine Karte mit hundert Punkten",
+  "subtitle": "Eine Familie entdeckt ihre Stadt neu",
+  "category": "Freizeit",
+  "emoji": "📍",
+  "color": "peach",
+  "german": [
+    "Zum Geburtstag bekommt Ronja von ihrem Bruder eine große Stadtkarte. Darauf hat er hundert kleine Punkte markiert, die für ungewöhnliche Orte stehen. Neben der Karte liegt ein Umschlag mit kurzen Hinweisen. Ronja soll an jedem Wochenende einen neuen Punkt besuchen und dort eine kleine Aufgabe erledigen.",
+    "Der erste Ort ist ein öffentlicher Garten hinter einer alten Fabrik. Ronja war schon oft in der Straße, hat den Eingang jedoch nie bemerkt. Dort wachsen seltene Blumen, und die Besucher dürfen sich auf selbst gebauten Bänken ausruhen. Als Aufgabe soll Ronja ein Geräusch beschreiben, das ihr besonders auffällt.",
+    "In den folgenden Wochen entdeckt sie einen winzigen Buchladen, eine Brücke mit bunten Bildern und einen Platz, auf dem ältere Menschen Schach spielen. Nicht alle Orte gefallen ihr gleich gut. Trotzdem schreibt sie jedes Mal ein paar Sätze in ein Heft und klebt ein Foto daneben.",
+    "Nach drei Monaten hat sie erst zwölf Punkte besucht. Ihr Bruder fragt, ob sie schneller werden möchte. Ronja schüttelt den Kopf. Sie möchte sich Zeit lassen, weil sie die Stadt endlich nicht mehr nur als Weg zwischen Wohnung und Arbeit erlebt."
+  ],
+  "english": [
+    "For her birthday Ronja receives a large city map from her brother. He has marked a hundred small dots representing unusual places. Beside the map is an envelope with short clues. Ronja is supposed to visit a new dot every weekend and complete a small task there.",
+    "The first place is a public garden behind an old factory. Ronja has often walked down the street but never noticed the entrance. Rare flowers grow there, and visitors can rest on homemade benches. Her task is to describe a sound that particularly catches her attention.",
+    "Over the following weeks she discovers a tiny bookshop, a bridge covered in colourful pictures and a square where older people play chess. She does not like every place equally. Nevertheless, each time she writes a few sentences in a notebook and sticks a photo beside them.",
+    "After three months she has visited only twelve dots. Her brother asks whether she wants to go faster. Ronja shakes her head. She wants to take her time because she is finally experiencing the city as more than just a route between home and work."
+  ],
+  "questions": [
+    {
+      "question": "Was bedeuten die Punkte auf der Karte?",
+      "options": [
+        "Ungewöhnliche Orte",
+        "Bushaltestellen",
+        "Einkaufszentren"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ungewöhnliche Orte."
+    },
+    {
+      "question": "Was soll Ronja im ersten Garten tun?",
+      "options": [
+        "Eine Pflanze kaufen",
+        "Einen Baum fällen",
+        "Ein Geräusch beschreiben"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Geräusch beschreiben."
+    },
+    {
+      "question": "Warum möchte sie nicht schneller sein?",
+      "options": [
+        "Sie möchte nicht mehr ausgehen",
+        "Sie will die Orte bewusst erleben",
+        "Sie hat ihre Karte verloren"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie will die Orte bewusst erleben."
+    }
+  ]
+}

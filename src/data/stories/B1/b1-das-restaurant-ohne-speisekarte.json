@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-restaurant-ohne-speisekarte",
+  "level": "B1",
+  "title": "Das Restaurant ohne Speisekarte",
+  "subtitle": "Eine Köchin setzt auf saisonale Überraschungen",
+  "category": "Essen",
+  "emoji": "🍽️",
+  "color": "peach",
+  "german": [
+    "Als Elena von einem neuen Restaurant hört, ist sie sofort neugierig. Auf der Internetseite gibt es keine Speisekarte. Stattdessen steht dort, dass die Köchin jeden Morgen auf dem Markt einkauft und erst danach entscheidet, welche Gerichte sie anbietet. Elena reserviert einen Tisch für sich und ihren Bruder.",
+    "Bei ihrer Ankunft erklärt der Kellner das Konzept. Die Gäste können zwischen einem vegetarischen Menü und einem Menü mit Fisch wählen. Weitere Informationen bekommen sie erst, wenn die Teller auf dem Tisch stehen. Ihr Bruder findet das zunächst seltsam, weil er normalerweise sehr genau wissen möchte, was er bestellt.",
+    "Die Vorspeise besteht aus gebackenen Möhren mit einer überraschend süßen Soße. Zum Hauptgang gibt es ein Gericht mit Pilzen, die Elena bisher nicht kannte. Die Köchin kommt kurz an den Tisch und erzählt, dass sie diese Zutaten am Morgen von einem Bauern aus der Umgebung gekauft hat.",
+    "Am Ende sind beide begeistert. Obwohl Elena nicht jedes Gericht sofort erkannt hat, hat sie viel Neues probiert. Ihr Bruder gibt zu, dass die fehlende Speisekarte den Abend interessanter gemacht hat. Beim nächsten Besuch möchte er sich wieder überraschen lassen."
+  ],
+  "english": [
+    "When Elena hears about a new restaurant, she is immediately curious. There is no menu on its website. Instead, it says that the chef shops at the market every morning and only then decides what dishes to serve. Elena reserves a table for herself and her brother.",
+    "When they arrive, the waiter explains the concept. Guests can choose between a vegetarian menu and one with fish. They receive further information only when the plates are served. Her brother initially finds that strange because he normally wants to know exactly what he is ordering.",
+    "The starter consists of roasted carrots with a surprisingly sweet sauce. The main course features a dish with mushrooms Elena has never encountered before. The chef briefly visits their table and explains that she bought the ingredients that morning from a nearby farmer.",
+    "In the end both are delighted. Although Elena did not recognize every dish immediately, she tried many new things. Her brother admits that the lack of a menu made the evening more interesting. Next time he wants to be surprised again."
+  ],
+  "questions": [
+    {
+      "question": "Wann entscheidet die Köchin über die Gerichte?",
+      "options": [
+        "Nach dem Einkauf am Morgen",
+        "Eine Woche vorher",
+        "Erst nach Mitternacht"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Nach dem Einkauf am Morgen."
+    },
+    {
+      "question": "Was können die Gäste auswählen?",
+      "options": [
+        "Nur Getränke",
+        "Nur Nachtisch",
+        "Vegetarisch oder Fisch"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Vegetarisch oder Fisch."
+    },
+    {
+      "question": "Was gefällt dem Bruder am Ende?",
+      "options": [
+        "Die leeren Teller",
+        "Die Überraschung",
+        "Die langen Wartezeiten"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Überraschung."
+    }
+  ]
+}

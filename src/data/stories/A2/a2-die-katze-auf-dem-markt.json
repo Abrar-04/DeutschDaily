@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-katze-auf-dem-markt",
+  "level": "A2",
+  "title": "Die Katze auf dem Markt",
+  "subtitle": "Ein Tier sucht seinen Besitzer",
+  "category": "Tiere",
+  "emoji": "🐈",
+  "color": "sky",
+  "german": [
+    "Jeden Mittwoch gibt es auf dem Marktplatz Obst, Gemüse und Blumen. Händler stellen ihre Tische schon früh auf. Eines Morgens sitzt eine kleine graue Katze zwischen zwei Kisten mit Äpfeln. Sie trägt ein grünes Halsband und sieht sehr hungrig aus. Der Verkäufer Amir gibt ihr etwas Wasser.",
+    "Die Katze bleibt den ganzen Vormittag auf dem Markt. Sie läuft von Stand zu Stand und lässt sich streicheln. Amir fragt andere Händler, ob sie das Tier kennen. Niemand hat die Katze vorher gesehen. Schließlich fotografiert er das Halsband. Darauf steht eine Telefonnummer in sehr kleinen Buchstaben.",
+    "Amir ruft an. Eine Frau nimmt ab und ruft sofort: „Luna! Da bist du ja!“ Sie erklärt, dass die Katze gestern durch ein offenes Fenster gelaufen ist. Zehn Minuten später kommt die Frau mit einer Transportbox zum Markt. Luna springt ihr direkt in die Arme.",
+    "Die Frau bedankt sich bei Amir und kauft zwei Kilo Äpfel. Am nächsten Mittwoch bringt sie ihm ein Foto von Luna auf dem Sofa. Amir hängt es neben seine Kasse. So erinnert ihn das Bild jeden Tag an seinen ungewöhnlichen Gast."
+  ],
+  "english": [
+    "Every Wednesday there is fruit, vegetables and flowers in the market square. Traders set up their tables early. One morning a small grey cat is sitting between two crates of apples. It wears a green collar and looks very hungry. The seller Amir gives it some water.",
+    "The cat stays at the market all morning. It walks from stall to stall and lets people pet it. Amir asks other sellers whether they know the animal. Nobody has seen it before. Finally he photographs the collar. There is a phone number on it in very small letters.",
+    "Amir calls. A woman answers and immediately shouts, “Luna! There you are!” She explains that the cat went through an open window yesterday. Ten minutes later the woman arrives at the market with a pet carrier. Luna jumps straight into her arms.",
+    "The woman thanks Amir and buys two kilos of apples. The following Wednesday she brings him a photo of Luna on the sofa. Amir hangs it beside his till. The picture reminds him of his unusual visitor every day."
+  ],
+  "questions": [
+    {
+      "question": "Welche Farbe hat das Halsband?",
+      "options": [
+        "Grün",
+        "Rot",
+        "Blau"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Grün."
+    },
+    {
+      "question": "Wie heißt die Katze?",
+      "options": [
+        "Mimi",
+        "Lilly",
+        "Luna"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Luna."
+    },
+    {
+      "question": "Was bringt die Besitzerin später mit?",
+      "options": [
+        "Ein Spielzeugauto",
+        "Ein Foto",
+        "Eine Decke"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Foto."
+    }
+  ]
+}

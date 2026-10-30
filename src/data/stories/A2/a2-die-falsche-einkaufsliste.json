@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-falsche-einkaufsliste",
+  "level": "A2",
+  "title": "Die falsche Einkaufsliste",
+  "subtitle": "Zwei Zettel sehen sehr ähnlich aus",
+  "category": "Alltag",
+  "emoji": "🛒",
+  "color": "rose",
+  "german": [
+    "Paul geht am Freitag in den Supermarkt. Seine Schwester hat ihm eine Einkaufsliste geschrieben. Er steckt den Zettel in die Jackentasche und nimmt einen Korb. Zuerst kauft er Tomaten, Reis und Milch. Dann liest er den Rest der Liste: Katzenfutter, zwölf Zitronen und eine große Packung Kerzen.",
+    "Paul wundert sich. Seine Familie hat gar keine Katze. Trotzdem legt er alles in den Korb. An der Kasse sieht er einen zweiten Zettel in seiner Tasche. Darauf stehen Brot, Äpfel und Käse. Jetzt versteht er: Er hat aus Versehen die Liste seiner Nachbarin mitgenommen. Die beiden Zettel sehen fast gleich aus.",
+    "Er bringt die falschen Sachen zurück in die Regale. Danach kauft er die richtigen Lebensmittel. Zu Hause zeigt er seiner Schwester beide Listen. Sie muss so sehr lachen, dass sie fast den Apfel fallen lässt.",
+    "Am Abend trifft Paul seine Nachbarin im Treppenhaus. Er gibt ihr den anderen Zettel zurück. Die Frau bedankt sich. Sie sagt, dass sie die Zitronen für einen großen Kuchen braucht. Paul fragt neugierig, ob er ein Stück probieren darf."
+  ],
+  "english": [
+    "Paul goes to the supermarket on Friday. His sister has written a shopping list for him. He puts it in his jacket pocket and takes a basket. First he buys tomatoes, rice and milk. Then he reads the rest of the list: cat food, twelve lemons and a big packet of candles.",
+    "Paul is surprised. His family does not even have a cat. Nevertheless he puts everything in the basket. At the checkout he notices a second piece of paper in his pocket. It says bread, apples and cheese. Now he understands: he accidentally took his neighbor's list. The two notes look almost identical.",
+    "He puts the wrong things back on the shelves. Then he buys the correct groceries. At home he shows his sister both lists. She laughs so hard that she almost drops an apple.",
+    "In the evening Paul meets his neighbor on the stairs. He gives her the other note back. The woman thanks him. She says she needs the lemons for a large cake. Paul asks curiously whether he can try a piece."
+  ],
+  "questions": [
+    {
+      "question": "Warum wundert sich Paul über die Liste?",
+      "options": [
+        "Der Laden ist geschlossen",
+        "Seine Familie hat keine Katze",
+        "Er mag keine Tomaten"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Seine Familie hat keine Katze."
+    },
+    {
+      "question": "Was steht auf der richtigen Liste?",
+      "options": [
+        "Brot, Äpfel und Käse",
+        "Nur Wasser",
+        "Ein Fahrrad"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Brot, Äpfel und Käse."
+    },
+    {
+      "question": "Wofür braucht die Nachbarin Zitronen?",
+      "options": [
+        "Für eine Suppe",
+        "Für einen Salat",
+        "Für einen Kuchen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Für einen Kuchen."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-reise-einer-alten-geige",
+  "level": "B1",
+  "title": "Die Reise einer alten Geige",
+  "subtitle": "Ein Instrument findet einen neuen Spieler",
+  "category": "Musik",
+  "emoji": "🎻",
+  "color": "lavender",
+  "german": [
+    "In einem Musikgeschäft steht seit Jahren eine gebrauchte Geige. Ihr Lack ist an einigen Stellen beschädigt, doch der Klang ist noch warm und klar. Besitzerin Frau Hoffmann hat das Instrument früher selbst gespielt. Seit sie Probleme mit ihrer Hand hat, liegt es meistens unbenutzt im Schrank.",
+    "Bei einem Konzert der örtlichen Musikschule hört sie den siebzehnjährigen David. Er spielt leidenschaftlich, obwohl seine günstige Geige nicht besonders gut klingt. Frau Hoffmann spricht nach dem Konzert mit seiner Lehrerin und fragt, ob David ihr Instrument einmal ausprobieren möchte.",
+    "Eine Woche später treffen sie sich in einem Proberaum. David spielt vorsichtig einige Töne. Danach bleibt er lange still und lächelt. Er erklärt, dass sich die Geige viel leichter spielen lasse als seine bisherige. Frau Hoffmann bietet ihm an, das Instrument für ein Jahr kostenlos auszuleihen, solange er sorgfältig damit umgeht.",
+    "Im folgenden Frühjahr besucht sie wieder ein Konzert. David spielt ein Solostück auf ihrer alten Geige. Frau Hoffmann ist gerührt. Sie besitzt das Instrument zwar noch, aber sie freut sich, dass es endlich wieder regelmäßig Musik macht und einen jungen Menschen bei seinem Lernen begleitet."
+  ],
+  "english": [
+    "A used violin has stood in a music shop for years. Its varnish is damaged in places, but its sound is still warm and clear. Owner Mrs Hoffmann used to play the instrument herself. Since developing problems with her hand, she has mostly kept it unused in a cupboard.",
+    "At a local music-school concert she hears seventeen-year-old David. He plays passionately even though his inexpensive violin does not sound particularly good. After the concert Mrs Hoffmann talks to his teacher and asks whether David would like to try her instrument.",
+    "A week later they meet in a practice room. David carefully plays a few notes. Then he stays quiet for a long time and smiles. He says the violin is much easier to play than his current one. Mrs Hoffmann offers to lend it to him free for a year as long as he treats it carefully.",
+    "The following spring she attends another concert. David performs a solo piece on her old violin. Mrs Hoffmann is touched. She still owns the instrument, but she is glad it is finally making music regularly again and helping a young person learn."
+  ],
+  "questions": [
+    {
+      "question": "Warum spielt Frau Hoffmann nicht mehr oft Geige?",
+      "options": [
+        "Wegen eines Umzugs",
+        "Wegen Geldmangels",
+        "Wegen Problemen mit ihrer Hand"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Wegen Problemen mit ihrer Hand."
+    },
+    {
+      "question": "Was darf David tun?",
+      "options": [
+        "Sie umbauen",
+        "Die Geige ein Jahr ausleihen",
+        "Sie sofort verkaufen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Geige ein Jahr ausleihen."
+    },
+    {
+      "question": "Was macht Frau Hoffmann im Frühjahr?",
+      "options": [
+        "Sie hört David beim Konzert",
+        "Sie kauft eine neue Geige",
+        "Sie beendet den Unterricht"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie hört David beim Konzert."
+    }
+  ]
+}

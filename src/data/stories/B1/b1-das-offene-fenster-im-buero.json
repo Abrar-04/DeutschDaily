@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-offene-fenster-im-buero",
+  "level": "B1",
+  "title": "Das offene Fenster im Büro",
+  "subtitle": "Eine Panne führt zu einer besseren Regel",
+  "category": "Arbeit",
+  "emoji": "🪟",
+  "color": "lavender",
+  "german": [
+    "In einer kleinen Firma arbeiten die Mitarbeiter seit kurzem in einem gemeinsamen Büro. An einem heißen Tag öffnet Daniel morgens mehrere Fenster, damit frische Luft hereinkommt. Als alle zum Mittagessen gehen, vergisst er allerdings, eines davon wieder zu schließen. Am Nachmittag zieht ein Gewitter über die Stadt.",
+    "Als die Kollegen zurückkommen, ist der Teppich unter dem Fenster nass. Auf einem Tisch liegen ebenfalls einige feuchte Unterlagen. Glücklicherweise sind die Computer nicht beschädigt. Daniel entschuldigt sich sofort und hilft beim Aufräumen. Seine Kollegin Meike ist verärgert, weil ein wichtiger Ausdruck unlesbar geworden ist.",
+    "Der Teamleiter bittet beide, ruhig zu überlegen, wie sie solche Probleme in Zukunft verhindern können. Daniel schlägt eine kleine Checkliste vor, die vor der Mittagspause benutzt wird. Meike ergänzt, dass wichtige Dokumente ohnehin digital gespeichert werden sollten. Zusammen erstellen sie einen einfachen Plan.",
+    "In den nächsten Wochen nutzt das Team die Liste regelmäßig. Das kostet nur wenige Sekunden, sorgt aber dafür, dass niemand mehr an offene Fenster denken muss. Daniel ist froh, dass aus seinem Fehler eine praktische Lösung entstanden ist, statt dass alle nur darüber gestritten haben."
+  ],
+  "english": [
+    "Employees at a small company have recently started working in a shared office. On a hot day Daniel opens several windows in the morning to let fresh air in. When everyone goes out for lunch, however, he forgets to close one. In the afternoon a thunderstorm passes over the city.",
+    "When the colleagues return, the carpet beneath the window is wet. Some papers on a table are damp too. Fortunately the computers are not damaged. Daniel apologizes immediately and helps clean up. His colleague Meike is annoyed because an important printout has become unreadable.",
+    "The team leader asks them to think calmly about how to prevent such problems in the future. Daniel suggests a short checklist to use before lunch. Meike adds that important documents should be stored digitally anyway. Together they create a simple plan.",
+    "During the following weeks the team uses the checklist regularly. It takes only a few seconds but means that nobody has to worry about open windows anymore. Daniel is glad that his mistake led to a practical solution instead of everyone only arguing about it."
+  ],
+  "questions": [
+    {
+      "question": "Was passiert während der Mittagspause?",
+      "options": [
+        "Der Strom fällt aus",
+        "Jemand verliert den Schlüssel",
+        "Regen kommt durch ein offenes Fenster"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Regen kommt durch ein offenes Fenster."
+    },
+    {
+      "question": "Was schlägt Daniel vor?",
+      "options": [
+        "Ein anderes Büro",
+        "Eine Checkliste",
+        "Eine neue Kaffeemaschine"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Checkliste."
+    },
+    {
+      "question": "Was empfiehlt Meike?",
+      "options": [
+        "Dokumente digital zu speichern",
+        "Fenster nie mehr zu öffnen",
+        "Alle Ausdrucke wegzuwerfen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Dokumente digital zu speichern."
+    }
+  ]
+}

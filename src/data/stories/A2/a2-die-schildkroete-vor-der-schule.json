@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-schildkroete-vor-der-schule",
+  "level": "A2",
+  "title": "Die Schildkröte vor der Schule",
+  "subtitle": "Eine Klasse findet einen ungewöhnlichen Besucher",
+  "category": "Tiere",
+  "emoji": "🐢",
+  "color": "peach",
+  "german": [
+    "Vor der Grundschule liegt am Morgen eine kleine Schildkröte auf dem Gehweg. Kinder bleiben stehen und schauen neugierig. Das Tier bewegt sich sehr langsam. Niemand weiß, woher es gekommen ist. Die Lehrerin Frau Lange bittet die Kinder, Abstand zu halten, damit die Schildkröte keine Angst bekommt.",
+    "Im Sekretariat ruft die Schule beim Tierheim an. Eine Mitarbeiterin sagt, dass vielleicht jemand sein Haustier sucht. Die Schule macht ein Foto und hängt einen Zettel ans Tor. Darauf steht: „Schildkröte gefunden. Bitte im Sekretariat melden.“ Die Kinder geben dem Tier vorübergehend den Namen Theo.",
+    "Noch am selben Nachmittag kommt ein älterer Mann in die Schule. Er wohnt zwei Straßen weiter und hat seine Schildkröte seit gestern vermisst. Er zeigt Fotos von ihrem Panzer. Frau Lange vergleicht die Bilder und erkennt die gleichen hellen Flecken. Der Mann ist sehr erleichtert.",
+    "Am nächsten Tag besucht er die Klasse und erzählt, wie man Schildkröten richtig pflegt. Die Kinder dürfen viele Fragen stellen. Danach weiß jedes Kind, warum solche Tiere einen sicheren Garten brauchen und nicht allein auf der Straße laufen sollten."
+  ],
+  "english": [
+    "In the morning a small tortoise is lying on the pavement outside the primary school. Children stop and look curiously. The animal moves very slowly. Nobody knows where it came from. The teacher Mrs Lange asks the children to keep their distance so the tortoise will not be frightened.",
+    "At the school office someone calls the animal shelter. A staff member says somebody may be searching for a pet. The school takes a photo and hangs a notice on the gate. It says: “Tortoise found. Please report to the office.” The children temporarily name the animal Theo.",
+    "That very afternoon an older man comes to the school. He lives two streets away and has been missing his tortoise since yesterday. He shows photographs of its shell. Mrs Lange compares the pictures and recognizes the same light patches. The man is very relieved.",
+    "The following day he visits the class and explains how to care for tortoises properly. The children may ask lots of questions. Afterward every child knows why these animals need a secure garden and should not wander alone along the street."
+  ],
+  "questions": [
+    {
+      "question": "Wo finden die Kinder die Schildkröte?",
+      "options": [
+        "Vor der Schule",
+        "Im Bus",
+        "Im Schwimmbad"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Vor der Schule."
+    },
+    {
+      "question": "Wie nennen sie das Tier zuerst?",
+      "options": [
+        "Paul",
+        "Max",
+        "Theo"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Theo."
+    },
+    {
+      "question": "Womit zeigt der Mann, dass es seine Schildkröte ist?",
+      "options": [
+        "Mit einer Rechnung",
+        "Mit Fotos vom Panzer",
+        "Mit einem Brief"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Mit Fotos vom Panzer."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-waechter-des-korallenriffs",
+  "level": "B2",
+  "title": "Die Wächter des Korallenriffs",
+  "subtitle": "Ein Forschungsschiff beteiligt Anwohner an Messungen",
+  "category": "Natur",
+  "emoji": "🐠",
+  "color": "sky",
+  "german": [
+    "Vor einer tropischen Insel untersucht ein Forschungsteam, warum einige Bereiche des Korallenriffs stärker geschädigt sind als andere. Die Wissenschaftlerin Malika möchte nicht ausschließlich Messdaten vom Schiff sammeln. Sie sucht das Gespräch mit Fischern, deren Familien die Küstengewässer seit Generationen kennen und Veränderungen oft früh bemerken.",
+    "Einige Kollegen bezweifeln zunächst, dass persönliche Beobachtungen wissenschaftlich nützlich sein können. Malika weist darauf hin, dass Erfahrungswissen keine Messungen ersetzt, aber helfen kann, neue Fragen zu formulieren. Gemeinsam mit den Fischern legt sie zusätzliche Beobachtungspunkte fest und dokumentiert, wann bestimmte Veränderungen zuerst wahrgenommen wurden.",
+    "Nach mehreren Monaten deutet vieles darauf hin, dass hohe Wassertemperaturen eine wichtige Rolle spielen. Gleichzeitig zeigen einzelne Gebiete überraschend stabile Bestände. Das Team untersucht, ob Strömungen und lokale Bedingungen diese Unterschiede erklären könnten. Eine eindeutige Ursache lässt sich noch nicht bestimmen.",
+    "Bei der Vorstellung der Ergebnisse werden die beteiligten Fischer ausdrücklich genannt. Malika betont, dass langfristiger Schutz nur funktionieren könne, wenn die Menschen vor Ort nicht bloß als Informationsquelle betrachtet werden. Für sie beginnt erfolgreiche Forschung mit sorgfältigen Messungen, aber ebenso mit der Bereitschaft, unterschiedlichen Erfahrungen zuzuhören."
+  ],
+  "english": [
+    "Off a tropical island a research team investigates why some parts of a coral reef are more damaged than others. Scientist Malika does not want to collect data only from the ship. She seeks conversations with fishers whose families have known the coastal waters for generations and often notice changes early.",
+    "Some colleagues initially doubt that personal observations can be scientifically useful. Malika points out that experiential knowledge does not replace measurements, but can help formulate new questions. Together with the fishers she establishes additional observation sites and documents when particular changes were first noticed.",
+    "After several months much suggests that high water temperatures play an important role. At the same time some areas show surprisingly stable populations. The team investigates whether currents and local conditions might explain these differences. A definitive cause cannot yet be identified.",
+    "When the findings are presented, the participating fishers are explicitly acknowledged. Malika stresses that long-term protection can work only if local people are not treated merely as information sources. For her, successful research begins with careful measurements, but also with a willingness to listen to different experiences."
+  ],
+  "questions": [
+    {
+      "question": "Warum bezieht Malika Fischer ein?",
+      "options": [
+        "Ihr Erfahrungswissen kann Forschungsfragen ergänzen",
+        "Sie sollen die Messgeräte verkaufen",
+        "Sie haben die Forschung bestellt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ihr Erfahrungswissen kann Forschungsfragen ergänzen."
+    },
+    {
+      "question": "Was ist eine mögliche Ursache der Schäden?",
+      "options": [
+        "Fehlende Straßen",
+        "Zu viele Bücher",
+        "Hohe Wassertemperaturen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Hohe Wassertemperaturen."
+    },
+    {
+      "question": "Was ist Malika bei der Zusammenarbeit wichtig?",
+      "options": [
+        "Keine lokalen Gespräche",
+        "Anerkennung und Beteiligung",
+        "Nur schnelle Ergebnisse"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Anerkennung und Beteiligung."
+    }
+  ]
+}

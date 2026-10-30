@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-erste-tag-im-schwimmkurs",
+  "level": "A2",
+  "title": "Der erste Tag im Schwimmkurs",
+  "subtitle": "Ein Junge lernt, dem Wasser zu vertrauen",
+  "category": "Sport",
+  "emoji": "🏊",
+  "color": "butter",
+  "german": [
+    "Emil ist elf Jahre alt und möchte schwimmen lernen. Seine Freunde gehen im Sommer oft ins Freibad. Emil bleibt dann lieber auf der Wiese, weil er Angst vor tiefem Wasser hat. Seine Mutter meldet ihn für einen Schwimmkurs an. Am ersten Tag ist Emil sehr aufgeregt.",
+    "Die Lehrerin heißt Anna. Sie zeigt den Kindern zuerst das flache Becken. Alle dürfen mit den Füßen im Wasser sitzen. Danach machen sie kleine Spiele mit bunten Bällen. Emil merkt, dass das Wasser gar nicht so schlimm ist. Trotzdem hält er sich noch am Rand fest.",
+    "In der zweiten Stunde gibt Anna jedem Kind ein Schwimmbrett. Emil bewegt langsam die Beine. Erst kommt er kaum vorwärts, dann schafft er die Hälfte des Beckens. Anna lobt ihn. Sein Freund Ben, der im gleichen Kurs ist, klatscht begeistert.",
+    "Nach vier Wochen kann Emil ein paar Meter ohne Brett schwimmen. Er ist noch kein schneller Schwimmer, aber das ist ihm egal. Als seine Freunde ihn wieder zum Freibad einladen, sagt er diesmal Ja. Sein Handtuch liegt schon im Rucksack."
+  ],
+  "english": [
+    "Emil is eleven and wants to learn to swim. In summer his friends often go to the outdoor pool. Emil prefers to stay on the grass because he is afraid of deep water. His mother signs him up for swimming lessons. On the first day Emil is very nervous.",
+    "The teacher is called Anna. First she shows the children the shallow pool. Everyone may sit with their feet in the water. Then they play little games with colourful balls. Emil realizes that the water is not so bad after all. Still, he holds on to the edge.",
+    "In the second lesson Anna gives each child a swimming board. Emil slowly moves his legs. At first he hardly moves forward, then he manages half the pool. Anna praises him. His friend Ben, who is in the same class, claps excitedly.",
+    "After four weeks Emil can swim a few metres without a board. He is not a fast swimmer yet, but he does not mind. When his friends invite him to the outdoor pool again, he says yes this time. His towel is already in his backpack."
+  ],
+  "questions": [
+    {
+      "question": "Warum hat Emil Angst vor dem Schwimmen?",
+      "options": [
+        "Er hat keine Badehose",
+        "Er mag keine Sportarten",
+        "Er hat Angst vor tiefem Wasser"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er hat Angst vor tiefem Wasser."
+    },
+    {
+      "question": "Was benutzt er in der zweiten Stunde?",
+      "options": [
+        "Ein Boot",
+        "Ein Schwimmbrett",
+        "Eine Leiter"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Schwimmbrett."
+    },
+    {
+      "question": "Wie lange dauert es, bis er ohne Brett schwimmt?",
+      "options": [
+        "Vier Wochen",
+        "Zwei Tage",
+        "Ein Jahr"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Vier Wochen."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-entscheidung-am-berg",
+  "level": "B1",
+  "title": "Die Entscheidung am Berg",
+  "subtitle": "Eine Wandergruppe lernt, einen Plan zu ändern",
+  "category": "Natur",
+  "emoji": "🥾",
+  "color": "rose",
+  "german": [
+    "Für ihre erste größere Bergwanderung haben Sofia und ihre Freunde eine Strecke von zwölf Kilometern ausgewählt. Das Wetter soll am Vormittag gut bleiben. Sie starten früh, nehmen genug Wasser mit und prüfen die Karte. Zunächst läuft alles wie geplant, obwohl der Anstieg anstrengender ist als erwartet.",
+    "Gegen Mittag zieht jedoch dichter Nebel auf. Die Wegmarkierungen sind plötzlich schwer zu erkennen. Während zwei Freunde unbedingt weitergehen wollen, fühlt Sofia sich unsicher. Sie erinnert daran, dass die Gruppe vor dem Start vereinbart hat umzukehren, sobald die Sicht zu schlecht wird.",
+    "Nach einer kurzen Diskussion entscheidet sich die Gruppe für den Rückweg. Sie geht langsam und bleibt zusammen. Als sie wieder am Parkplatz ankommt, beginnt es stark zu regnen. Im Café neben der Bushaltestelle trinken alle heißen Tee und sprechen über ihre Entscheidung.",
+    "Einer der Freunde ist zunächst enttäuscht, weil sie den Gipfel nicht erreicht haben. Sofia schlägt vor, die Tour an einem anderen Wochenende zu wiederholen. Sie erklärt, dass eine Wanderung nicht gescheitert ist, nur weil man rechtzeitig umkehrt. Später geben ihr die anderen recht und planen gemeinsam eine sicherere Route."
+  ],
+  "english": [
+    "For their first longer mountain hike Sofia and her friends have chosen a twelve-kilometre route. The weather is supposed to remain good in the morning. They start early, bring enough water and check the map. At first everything goes to plan, although the climb is harder than expected.",
+    "Around noon, however, dense fog rolls in. The trail markers suddenly become hard to see. While two friends insist on continuing, Sofia feels uncertain. She reminds them that before setting off they agreed to turn back as soon as visibility became too poor.",
+    "After a short discussion the group decides to return. They walk slowly and stay together. When they arrive at the car park, heavy rain begins. In the café beside the bus stop they drink hot tea and talk about their decision.",
+    "One friend is disappointed at first because they did not reach the summit. Sofia suggests repeating the trip another weekend. She explains that a hike has not failed simply because you turn around in time. Later the others agree and plan a safer route together."
+  ],
+  "questions": [
+    {
+      "question": "Warum kehrt die Gruppe um?",
+      "options": [
+        "Wegen eines kaputten Fahrrads",
+        "Wegen des dichten Nebels",
+        "Wegen fehlender Tickets"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Wegen des dichten Nebels."
+    },
+    {
+      "question": "Was hatten sie vor der Tour vereinbart?",
+      "options": [
+        "Bei schlechter Sicht umzukehren",
+        "Immer weiterzugehen",
+        "Keine Pausen zu machen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Bei schlechter Sicht umzukehren."
+    },
+    {
+      "question": "Wie reagiert die Gruppe später?",
+      "options": [
+        "Sie streitet weiter",
+        "Sie verkauft die Ausrüstung",
+        "Sie plant eine neue sichere Route"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie plant eine neue sichere Route."
+    }
+  ]
+}

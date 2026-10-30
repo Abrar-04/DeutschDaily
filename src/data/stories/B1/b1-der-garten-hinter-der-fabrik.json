@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-garten-hinter-der-fabrik",
+  "level": "B1",
+  "title": "Der Garten hinter der Fabrik",
+  "subtitle": "Ehemalige Beschäftigte bewahren einen besonderen Ort",
+  "category": "Stadt",
+  "emoji": "🏭",
+  "color": "peach",
+  "german": [
+    "Als eine alte Textilfabrik abgerissen werden soll, entdecken Bewohner hinter dem Gebäude einen verwilderten Garten. Zwischen hohen Gräsern stehen noch Obstbäume und eine kleine Steinbank. Die meisten Menschen hatten nicht gewusst, dass die Fabrikarbeiter früher in ihrer Mittagspause hier saßen.",
+    "Die Rentnerin Frau Albrecht erzählt bei einer Bürgerversammlung, wie sie als junge Frau dort gearbeitet hat. Ihrer Meinung nach sollte wenigstens ein Teil des Gartens erhalten bleiben. Eine Gruppe von Nachbarn sammelt deshalb Unterschriften und bittet die Stadt, den Ort in die Planung für das neue Wohnviertel aufzunehmen.",
+    "Zunächst sieht es schlecht aus, weil bereits Parkplätze vorgesehen sind. Doch ein Landschaftsplaner schlägt eine andere Lösung vor: Die Parkplätze könnten an den Rand des Geländes verlegt werden, während die alten Bäume stehen bleiben. Nach mehreren Gesprächen stimmt der Stadtrat zu.",
+    "Ein Jahr später wird der kleine Garten eröffnet. Auf einer Tafel stehen die Namen früherer Beschäftigter und einige Fotos der Fabrik. Frau Albrecht besucht den Ort mit ihrer Enkelin. Sie ist froh, dass wenigstens ein Stück ihrer Arbeitsgeschichte sichtbar geblieben ist."
+  ],
+  "english": [
+    "When an old textile factory is due to be demolished, residents discover an overgrown garden behind the building. Fruit trees and a small stone bench still stand among tall grasses. Most people had not known that factory workers used to sit there during their lunch breaks.",
+    "At a public meeting retired Mrs Albrecht tells how she worked there as a young woman. In her opinion at least part of the garden should be preserved. A group of neighbors therefore gathers signatures and asks the city to include the place in the plans for the new residential district.",
+    "At first the prospects are poor because parking spaces have already been planned. But a landscape planner suggests another solution: the parking could be moved to the edge of the site while the old trees remain. After several discussions the city council agrees.",
+    "A year later the small garden opens. A sign shows the names of former employees and some photos of the factory. Mrs Albrecht visits with her granddaughter. She is glad that at least a piece of her working history has remained visible."
+  ],
+  "questions": [
+    {
+      "question": "Was entdecken die Bewohner hinter der Fabrik?",
+      "options": [
+        "Einen alten Garten",
+        "Ein Schwimmbad",
+        "Einen Bahnhof"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Einen alten Garten."
+    },
+    {
+      "question": "Wofür sammeln die Nachbarn Unterschriften?",
+      "options": [
+        "Für eine neue Straße",
+        "Für einen Supermarkt",
+        "Für den Erhalt des Gartens"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Für den Erhalt des Gartens."
+    },
+    {
+      "question": "Wie wird Platz geschaffen?",
+      "options": [
+        "Die Fabrik wird wieder eröffnet",
+        "Parkplätze werden verlegt",
+        "Die Bäume werden gefällt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Parkplätze werden verlegt."
+    }
+  ]
+}

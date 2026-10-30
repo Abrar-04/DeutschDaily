@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-tag-ohne-strom",
+  "level": "A2",
+  "title": "Ein Tag ohne Strom",
+  "subtitle": "Ein Haus entdeckt Spiele ohne Bildschirm",
+  "category": "Alltag",
+  "emoji": "🔦",
+  "color": "peach",
+  "german": [
+    "An einem kalten Sonntag fällt in der Wohnung von Familie Weber plötzlich der Strom aus. Der Fernseher wird schwarz, und in der Küche bleibt die Kaffeemaschine stehen. Vater Weber schaut aus dem Fenster. Auch im Nachbarhaus brennt kein Licht. Die Familie ruft beim Stromanbieter an. Dort sagt man, dass ein Kabel kaputt ist.",
+    "Die Kinder möchten zuerst mit ihren Handys spielen. Aber beide Akkus sind fast leer. Ihre Mutter findet im Schrank ein altes Brettspiel. Auf dem Tisch stehen bald vier Figuren, Würfel und eine Schale mit Keksen. Niemand denkt mehr an den Fernseher. Sogar der Vater verliert und muss darüber lachen.",
+    "Als es draußen dunkel wird, holen alle Taschenlampen und Kerzen. Sie machen gemeinsam Sandwiches, denn der Herd funktioniert nicht. Die kleine Tochter malt ein Bild von der Familie am Tisch. Gegen acht Uhr geht plötzlich das Licht wieder an.",
+    "Der Fernseher wartet im Wohnzimmer, doch niemand schaltet ihn ein. Die Kinder wollen lieber noch eine Runde spielen. Vater Weber legt das Handy weg und nimmt den Würfel. So wird aus einem langweiligen Stromausfall ein schöner Abend."
+  ],
+  "english": [
+    "On a cold Sunday the power suddenly goes out in the Weber family's apartment. The television goes black, and the coffee machine stops in the kitchen. Mr Weber looks out the window. There are no lights in the neighboring building either. The family calls the electricity company. They are told a cable is broken.",
+    "At first the children want to play on their phones. But both batteries are almost empty. Their mother finds an old board game in the cupboard. Soon there are four pieces, dice and a bowl of biscuits on the table. Nobody thinks about the television anymore. Even their father loses and has to laugh about it.",
+    "When it gets dark outside, everyone takes out flashlights and candles. They make sandwiches together because the stove does not work. The little daughter draws a picture of the family at the table. Around eight o'clock the lights suddenly come back on.",
+    "The television is waiting in the living room, but nobody turns it on. The children prefer another round of the game. Mr Weber puts his phone away and picks up the dice. A boring power cut has turned into a lovely evening."
+  ],
+  "questions": [
+    {
+      "question": "Warum gibt es keinen Strom?",
+      "options": [
+        "Ein Kabel ist kaputt",
+        "Die Familie hat vergessen zu bezahlen",
+        "Es ist Feiertag"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein Kabel ist kaputt."
+    },
+    {
+      "question": "Was findet die Mutter im Schrank?",
+      "options": [
+        "Einen Fernseher",
+        "Eine Kamera",
+        "Ein Brettspiel"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Brettspiel."
+    },
+    {
+      "question": "Was macht die Familie nach dem Stromausfall?",
+      "options": [
+        "Sie geht sofort schlafen",
+        "Sie spielt weiter",
+        "Sie fährt weg"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie spielt weiter."
+    }
+  ]
+}

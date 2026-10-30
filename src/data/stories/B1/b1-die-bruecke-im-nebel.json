@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-bruecke-im-nebel",
+  "level": "B1",
+  "title": "Die Brücke im Nebel",
+  "subtitle": "Ein Fotograf hilft bei einer ungewöhnlichen Suche",
+  "category": "Mystery",
+  "emoji": "🌫️",
+  "color": "sage",
+  "german": [
+    "Als Roman frühmorgens an einer alten Eisenbahnbrücke fotografiert, entdeckt er eine Frau, die suchend am Flussufer entlangläuft. Sie erklärt, dass ihr Vater dort vor Jahrzehnten ein Foto aufgenommen hat. Nun möchte sie dieselbe Stelle finden, doch der Nebel macht die Orientierung schwierig. Roman bietet an, ihr zu helfen.",
+    "Auf dem alten Bild sind drei Bäume, ein Geländer und im Hintergrund ein kleines Gebäude zu sehen. Gemeinsam vergleichen sie die Details mit der heutigen Landschaft. Die Bäume stehen nicht mehr, aber die Form des Geländers ist noch erkennbar. Schließlich entdecken sie einen Stein mit einer ungewöhnlichen Markierung.",
+    "Roman stellt seine Kamera auf und versucht, den früheren Blickwinkel nachzubilden. Während er fotografiert, erzählt die Frau, dass ihr Vater vor kurzem gestorben ist. Die Aufnahme war eines seiner Lieblingsbilder. Sie möchte zwei Fotos nebeneinander aufhängen, um sich an gemeinsame Ausflüge zu erinnern.",
+    "Als sich der Nebel lichtet, gelingt Roman ein Bild, das dem Original erstaunlich ähnlich sieht. Die Frau bedankt sich herzlich. Roman schickt ihr die Datei noch am selben Tag. Für ihn war es ein gewöhnlicher Morgen geplant gewesen, doch daraus wurde eine sehr persönliche Begegnung."
+  ],
+  "english": [
+    "While Roman photographs an old railway bridge early in the morning, he notices a woman searching along the riverbank. She explains that her father took a picture there decades ago. Now she wants to find the same spot, but the fog makes it difficult to orient herself. Roman offers to help.",
+    "The old picture shows three trees, a railing and a small building in the background. Together they compare the details with today's landscape. The trees are gone, but the shape of the railing is still recognizable. Finally they spot a stone with an unusual marking.",
+    "Roman sets up his camera and tries to recreate the old viewpoint. As he takes photos, the woman explains that her father died recently. The image was one of his favorites. She wants to hang the two photos side by side to remember their trips together.",
+    "As the fog clears, Roman succeeds in taking a picture remarkably similar to the original. The woman thanks him warmly. Roman sends her the file that same day. He had expected an ordinary morning, but it became a very personal encounter."
+  ],
+  "questions": [
+    {
+      "question": "Wonach sucht die Frau?",
+      "options": [
+        "Einem Boot",
+        "Dem Aufnahmeort eines alten Fotos",
+        "Einem verlorenen Hund"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Dem Aufnahmeort eines alten Fotos."
+    },
+    {
+      "question": "Was hilft beim Vergleich?",
+      "options": [
+        "Eine Markierung an einem Stein",
+        "Eine neue Straße",
+        "Ein rotes Auto"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine Markierung an einem Stein."
+    },
+    {
+      "question": "Warum ist das Bild wichtig?",
+      "options": [
+        "Es soll verkauft werden",
+        "Es zeigt einen berühmten Sänger",
+        "Es erinnert an ihren verstorbenen Vater"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Es erinnert an ihren verstorbenen Vater."
+    }
+  ]
+}

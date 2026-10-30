@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-geheimnisvolle-geruch",
+  "level": "B1",
+  "title": "Der geheimnisvolle Geruch",
+  "subtitle": "Ein Haus findet die Ursache eines seltsamen Problems",
+  "category": "Nachbarschaft",
+  "emoji": "🍞",
+  "color": "sage",
+  "german": [
+    "Seit einigen Tagen riecht es jeden Morgen im Treppenhaus nach frischem Brot. Die Bewohner freuen sich zwar über den angenehmen Duft, wundern sich aber, weil im Gebäude keine Bäckerei liegt. Besonders Herr Winter ist neugierig. Er wohnt im obersten Stock und kommt täglich um sieben Uhr nach unten.",
+    "Eines Morgens trifft er im Flur die neue Nachbarin Samira. Sie trägt eine große Tasche, aus der ein warmer Geruch kommt. Herr Winter fragt freundlich, ob sie zufällig Brot backt. Samira lächelt und erklärt, dass sie gerade eine kleine Ausbildung zur Bäckerin macht. Weil ihr Unterricht sehr früh beginnt, übt sie zu Hause oft schon vor Sonnenaufgang.",
+    "Herr Winter möchte wissen, ob sie manchmal Hilfe beim Probieren braucht. Samira lacht und bringt ihm am nächsten Tag zwei kleine Brötchen. Eine Woche später organisiert sie im Hof eine Verkostung. Die Nachbarn dürfen verschiedene Brotsorten testen und Vorschläge machen.",
+    "Samira schreibt alle Kommentare auf. Besonders häufig wünschen sich die Bewohner ein Brot mit Nüssen. Beim nächsten Versuch gelingt ihr dieses Rezept hervorragend. Als sie später ihre Prüfung besteht, bringt sie Herrn Winter ein frisches Brot vorbei und bedankt sich für seine neugierige Frage."
+  ],
+  "english": [
+    "For several days the staircase has smelled of fresh bread every morning. The residents enjoy the pleasant smell but wonder about it because there is no bakery in the building. Mr Winter is particularly curious. He lives on the top floor and comes downstairs at seven every day.",
+    "One morning he meets the new neighbor Samira in the hallway. She is carrying a large bag that gives off a warm smell. Mr Winter politely asks whether she happens to bake bread. Samira smiles and explains that she is training to become a baker. Since her classes start very early, she often practises at home before sunrise.",
+    "Mr Winter asks whether she sometimes needs help tasting her creations. Samira laughs and brings him two rolls the following day. A week later she organizes a tasting in the courtyard. The neighbors may try different breads and make suggestions.",
+    "Samira writes down every comment. Residents particularly often request bread with nuts. On her next attempt she makes the recipe very successfully. When she later passes her exam, she brings Mr Winter a fresh loaf and thanks him for his curious question."
+  ],
+  "questions": [
+    {
+      "question": "Wer backt morgens das Brot?",
+      "options": [
+        "Ein Restaurant im Keller",
+        "Die neue Nachbarin Samira",
+        "Herr Winter"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die neue Nachbarin Samira."
+    },
+    {
+      "question": "Wofür übt Samira?",
+      "options": [
+        "Für ihre Ausbildung",
+        "Für einen Fernsehfilm",
+        "Für einen Marathon"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Für ihre Ausbildung."
+    },
+    {
+      "question": "Welche Brotsorte wünschen sich viele?",
+      "options": [
+        "Brot mit Fisch",
+        "Brot mit Schokolade",
+        "Brot mit Nüssen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Brot mit Nüssen."
+    }
+  ]
+}

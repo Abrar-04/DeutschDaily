@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-verschwundene-wanderkarte",
+  "level": "B1",
+  "title": "Die verschwundene Wanderkarte",
+  "subtitle": "Eine Gruppe findet Orientierung durch Gespräche",
+  "category": "Reisen",
+  "emoji": "🧭",
+  "color": "sky",
+  "german": [
+    "Bei einer Fahrradtour durch eine ländliche Gegend bemerkt Rike, dass sie die gedruckte Karte verloren hat. Auch der Akku ihres Handys ist fast leer. Sie und ihre beiden Freunde stehen an einer Kreuzung, an der drei kleine Wege abzweigen. Keiner von ihnen weiß sicher, welcher zum Bahnhof führt.",
+    "Sie entscheiden sich, zunächst auf dem ausgeschilderten Hauptweg zu bleiben. Nach wenigen Minuten erreichen sie einen Bauernhof. Der Besitzer erklärt freundlich, welche Straße sicher befahrbar ist und wo eine Baustelle den direkten Weg blockiert. Er zeichnet ihnen die Route auf die Rückseite eines alten Kassenzettels.",
+    "Unterwegs entdecken sie außerdem einen kleinen Hofladen. Dort kaufen sie Wasser und lassen sich bestätigen, dass sie noch auf dem richtigen Weg sind. Nach insgesamt einer Stunde erreichen sie den Bahnhof, gerade rechtzeitig für den Zug. Die Freunde sind erleichtert, obwohl die Tour länger gedauert hat als geplant.",
+    "Rike beschließt, künftig besser vorbereitet loszufahren. Sie kauft eine stabile Kartenhülle und nimmt eine Powerbank mit. Gleichzeitig erinnert sie sich gern an die Menschen, die ihnen unterwegs geholfen haben. Ohne diese Gespräche wäre die Fahrt wahrscheinlich viel stressiger geworden."
+  ],
+  "english": [
+    "During a bicycle tour through the countryside, Rike notices that she has lost the printed map. Her phone battery is almost empty too. She and her two friends stand at a crossroads where three small paths branch off. None of them knows for certain which one leads to the railway station.",
+    "They decide to stay on the signposted main route at first. After a few minutes they reach a farm. The owner kindly explains which road is safe for cycling and where construction work blocks the direct route. He sketches the way on the back of an old receipt.",
+    "Along the way they also discover a small farm shop. They buy water there and ask for confirmation that they are still on the right route. After about an hour they reach the station just in time for the train. The friends are relieved, although the trip has taken longer than planned.",
+    "Rike decides to prepare better in future. She buys a sturdy map cover and takes a power bank. At the same time she likes remembering the people who helped them along the way. Without those conversations the ride would probably have been much more stressful."
+  ],
+  "questions": [
+    {
+      "question": "Was verliert Rike?",
+      "options": [
+        "Die gedruckte Karte",
+        "Ihr Fahrrad",
+        "Ihre Jacke"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die gedruckte Karte."
+    },
+    {
+      "question": "Worauf zeichnet der Bauer den Weg?",
+      "options": [
+        "Auf ein T-Shirt",
+        "Auf ein Fenster",
+        "Auf einen Kassenzettel"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Auf einen Kassenzettel."
+    },
+    {
+      "question": "Was nimmt Rike künftig mit?",
+      "options": [
+        "Ein Zelt",
+        "Eine Powerbank",
+        "Eine Gitarre"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Powerbank."
+    }
+  ]
+}

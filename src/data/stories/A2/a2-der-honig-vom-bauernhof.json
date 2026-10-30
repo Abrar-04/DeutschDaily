@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-honig-vom-bauernhof",
+  "level": "A2",
+  "title": "Der Honig vom Bauernhof",
+  "subtitle": "Ein Besuch erklärt, wo das Frühstück herkommt",
+  "category": "Essen",
+  "emoji": "🍯",
+  "color": "peach",
+  "german": [
+    "Am Sonntag besucht Familie Yilmaz einen Bauernhof. Die Kinder dürfen die Kühe sehen und frische Eier sammeln. Neben dem Garten stehen mehrere bunte Bienenkästen. Ein Imker zeigt der Familie, wie Bienen Honig machen. Die Besucher bleiben hinter einer sicheren Absperrung und hören aufmerksam zu.",
+    "Der Imker trägt einen hellen Schutzanzug. Er erklärt, dass die Bienen den Nektar aus Blüten sammeln. Im Bienenstock entsteht daraus Honig. Die Kinder stellen viele Fragen. Besonders interessant finden sie, dass in einem Stock sehr viele Bienen zusammenleben.",
+    "Später dürfen alle im Hof verschiedene Honigsorten probieren. Einer schmeckt mild, ein anderer etwas kräftiger. Tochter Dalia mag den hellen Honig am liebsten. Die Familie kauft ein kleines Glas für zu Hause. Der Imker gibt ihnen außerdem eine Karte mit Blumen, die Bienen mögen.",
+    "Beim Frühstück am nächsten Morgen streicht Dalia den Honig auf ihr Brot. Sie erzählt noch einmal vom Besuch auf dem Hof. Ihre Mutter schlägt vor, im Garten einige der Blumen zu pflanzen. Dalia möchte unbedingt helfen."
+  ],
+  "english": [
+    "On Sunday the Yilmaz family visits a farm. The children can see the cows and collect fresh eggs. Several colourful beehives stand beside the garden. A beekeeper shows the family how bees make honey. Visitors stay behind a safe barrier and listen carefully.",
+    "The beekeeper wears a light protective suit. He explains that bees collect nectar from flowers. It becomes honey inside the hive. The children ask many questions. They find it especially interesting that so many bees live together in one hive.",
+    "Later everyone may taste different kinds of honey in the farmyard. One tastes mild and another has a stronger flavour. Daughter Dalia likes the light honey best. The family buys a small jar to take home. The beekeeper also gives them a card showing flowers that bees like.",
+    "At breakfast the following morning Dalia spreads honey on her bread. She tells everyone about the farm visit again. Her mother suggests planting some of the flowers in their garden. Dalia definitely wants to help."
+  ],
+  "questions": [
+    {
+      "question": "Wer erklärt der Familie die Arbeit der Bienen?",
+      "options": [
+        "Ein Imker",
+        "Ein Pilot",
+        "Ein Arzt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein Imker."
+    },
+    {
+      "question": "Was sammeln die Bienen?",
+      "options": [
+        "Sand",
+        "Steine",
+        "Nektar"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Nektar."
+    },
+    {
+      "question": "Was möchte Dalia im Garten machen?",
+      "options": [
+        "Ein Zelt aufbauen",
+        "Blumen pflanzen",
+        "Ein Auto waschen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Blumen pflanzen."
+    }
+  ]
+}

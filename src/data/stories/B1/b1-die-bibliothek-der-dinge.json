@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-bibliothek-der-dinge",
+  "level": "B1",
+  "title": "Die Bibliothek der Dinge",
+  "subtitle": "Eine Stadt verleiht mehr als Bücher",
+  "category": "Stadt",
+  "emoji": "🧰",
+  "color": "lavender",
+  "german": [
+    "Für ein kleines Regal benötigt Miriam eine Bohrmaschine. Sie könnte eine kaufen, aber wahrscheinlich würde sie das Gerät danach jahrelang kaum benutzen. Eine Kollegin erzählt ihr deshalb von der „Bibliothek der Dinge“. Dort kann man Werkzeuge, Spiele und sogar Küchengeräte ausleihen.",
+    "Miriam besucht die Einrichtung am Freitag. Wie in einer normalen Bibliothek gibt es eine Karte und eine feste Leihfrist. Die Mitarbeiterin erklärt ihr außerdem, welche Geräte vor der Rückgabe gereinigt werden müssen. Miriam entscheidet sich für eine Bohrmaschine und lässt sich kurz zeigen, wie sie sicher benutzt wird.",
+    "Am Wochenende hilft ihr Bruder beim Anbringen des Regals. Nach einer Stunde hängen die Bretter gerade an der Wand. Als Miriam das Gerät am Montag zurückbringt, entdeckt sie im Schaufenster eine Nähmaschine. Sie hat schon lange vor, eine kaputte Tasche zu reparieren.",
+    "In den nächsten Monaten leiht Miriam noch mehrere Dinge aus. Sie spart Geld und benötigt weniger Platz in ihrer kleinen Wohnung. Besonders gefällt ihr, dass nicht jeder Nachbar dasselbe Gerät besitzen muss. Manchmal reicht es völlig, etwas nur dann zur Verfügung zu haben, wenn man es braucht."
+  ],
+  "english": [
+    "Miriam needs a drill for a small shelf. She could buy one, but she would probably hardly use the device for years afterward. A colleague therefore tells her about the “Library of Things.” There you can borrow tools, games and even kitchen appliances.",
+    "Miriam visits on Friday. Just like in a normal library there is a membership card and a fixed loan period. The employee also explains which devices have to be cleaned before being returned. Miriam chooses a drill and is briefly shown how to use it safely.",
+    "At the weekend her brother helps put up the shelf. After an hour the boards hang straight on the wall. When Miriam returns the drill on Monday, she notices a sewing machine in the window. She has wanted to repair a broken bag for a long time.",
+    "Over the next few months Miriam borrows several other items. She saves money and needs less space in her small apartment. She particularly likes the fact that not every neighbor needs to own the same device. Sometimes it is enough to have access to something only when you need it."
+  ],
+  "questions": [
+    {
+      "question": "Warum möchte Miriam keine Bohrmaschine kaufen?",
+      "options": [
+        "Bohrmaschinen sind verboten",
+        "Sie kann keine Regale bauen",
+        "Sie würde sie selten benutzen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie würde sie selten benutzen."
+    },
+    {
+      "question": "Was benötigt man zum Ausleihen?",
+      "options": [
+        "Ein eigenes Werkzeug",
+        "Eine Mitgliedskarte",
+        "Ein Auto"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Mitgliedskarte."
+    },
+    {
+      "question": "Was entdeckt sie später im Schaufenster?",
+      "options": [
+        "Eine Nähmaschine",
+        "Ein Fahrrad",
+        "Eine Kamera"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine Nähmaschine."
+    }
+  ]
+}

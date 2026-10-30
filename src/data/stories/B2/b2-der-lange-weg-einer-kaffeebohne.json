@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-lange-weg-einer-kaffeebohne",
+  "level": "B2",
+  "title": "Der lange Weg einer Kaffeebohne",
+  "subtitle": "Ein Café prüft seine Lieferkette",
+  "category": "Wirtschaft",
+  "emoji": "☕",
+  "color": "sky",
+  "german": [
+    "Das kleine Café von Frederic wirbt mit fair gehandeltem Kaffee. Eines Tages fragt eine Kundin, was diese Aussage konkret bedeute und welche Betriebe den Kaffee tatsächlich produzieren. Frederic kann zwar das Siegel auf der Verpackung zeigen, kennt aber nur wenige Details über die Lieferkette. Die Frage lässt ihn nicht los.",
+    "Er kontaktiert seinen Großhändler und bittet um Informationen zu Herkunft, Preisen und Kontrollen. Die Antworten zeigen, dass verschiedene Zwischenhändler beteiligt sind und nicht jede Information problemlos verfügbar ist. Frederic erkennt, dass ein einzelnes Siegel hilfreich sein kann, aber nicht alle Fragen nach Arbeitsbedingungen und Bezahlung beantwortet.",
+    "Gemeinsam mit einem Lieferanten organisiert er eine kleine Informationsveranstaltung. Per Video spricht eine Vertreterin einer Kooperative über ihre Arbeit, Ernteprobleme und die Herausforderungen schwankender Weltmarktpreise. Frederic achtet darauf, dass ihre Perspektive nicht bloß als Werbegeschichte benutzt wird. Auch offene Probleme werden genannt.",
+    "Anschließend ergänzt er die Getränkekarte um einen Hinweis auf die verfügbaren Informationen und deren Grenzen. Nicht jeder Gast möchte so viel über seinen Kaffee wissen. Frederic hält die Transparenz dennoch für wichtig. Für ihn bedeutet verantwortlicher Einkauf inzwischen mehr, als sich auf ein gut klingendes Etikett zu verlassen."
+  ],
+  "english": [
+    "Frederic's small café advertises fair-trade coffee. One day a customer asks what this claim means in concrete terms and which farms actually produce the coffee. Frederic can show the certification label on the packet but knows few details about the supply chain. The question stays with him.",
+    "He contacts his wholesaler and requests information about origin, prices and inspections. The replies reveal that several intermediaries are involved and not every detail is easily available. Frederic realizes that a single label may help, but does not answer every question about working conditions and payment.",
+    "Together with a supplier he organizes a small information event. By video, a cooperative representative speaks about her work, harvest problems and the challenges of fluctuating world market prices. Frederic makes sure her perspective is not used merely as a marketing story. Unresolved problems are mentioned too.",
+    "He then adds a note to the drinks menu about the available information and its limits. Not every guest wants to know so much about their coffee. Still, Frederic considers transparency important. For him responsible purchasing now means more than relying on an attractive-sounding label."
+  ],
+  "questions": [
+    {
+      "question": "Was fragt die Kundin?",
+      "options": [
+        "Nach Herkunft und Bedingungen des Kaffees",
+        "Nach der Größe der Tassen",
+        "Nach den Öffnungszeiten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Nach Herkunft und Bedingungen des Kaffees."
+    },
+    {
+      "question": "Was wird sichtbar?",
+      "options": [
+        "Ein lokaler Garten",
+        "Ein einziger Produzent ohne Zwischenhandel",
+        "Eine komplexe Lieferkette"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine komplexe Lieferkette."
+    },
+    {
+      "question": "Was ändert Frederic?",
+      "options": [
+        "Er benutzt nur Werbung",
+        "Er erklärt verfügbare Informationen und Grenzen",
+        "Er verkauft keinen Kaffee mehr"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Er erklärt verfügbare Informationen und Grenzen."
+    }
+  ]
+}

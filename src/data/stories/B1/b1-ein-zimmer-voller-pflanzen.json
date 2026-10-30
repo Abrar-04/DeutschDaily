@@ -1,0 +1,53 @@
+{
+  "id": "b1-ein-zimmer-voller-pflanzen",
+  "level": "B1",
+  "title": "Ein Zimmer voller Pflanzen",
+  "subtitle": "Eine WG findet Regeln für einen gemeinsamen Raum",
+  "category": "Wohnen",
+  "emoji": "🪴",
+  "color": "sage",
+  "german": [
+    "Als drei Studierende in eine gemeinsame Wohnung ziehen, freuen sie sich besonders über das große Wohnzimmer. Doch schon nach wenigen Wochen gibt es Streit. Jana stellt immer mehr Pflanzen auf die Fensterbank, Amir möchte dort lernen, und Rosa braucht Platz für ihre Gitarre. Jeder empfindet die Wünsche der anderen als störend.",
+    "Zunächst versuchen sie, das Problem zu ignorieren. Als jedoch eines Tages Amirs Laptop zwischen Blumentöpfen kaum noch Platz findet, schlägt Rosa ein gemeinsames Gespräch vor. Sie fragt, welche Tätigkeiten im Wohnzimmer für jeden wirklich wichtig sind und zu welchen Zeiten der Raum besonders gebraucht wird.",
+    "Die drei teilen den Raum in verschiedene Bereiche auf. Die Pflanzen bekommen ein großes Regal am Fenster, Amir einen kleinen Schreibtisch und Rosa eine Ecke für ihre Musik. Außerdem vereinbaren sie ruhige Lernzeiten und feste Tage für gemeinsame Abende.",
+    "Nach einem Monat funktioniert die neue Ordnung überraschend gut. Nicht jede Regel ist perfekt, aber alle können Wünsche äußern, bevor sie sich ärgern. Jana bringt sogar einen kleinen Kaktus für Amirs Schreibtisch mit. Der bedankt sich und verspricht, ihn regelmäßig zu gießen."
+  ],
+  "english": [
+    "When three students move into a shared apartment, they are especially happy about the large living room. But after only a few weeks arguments begin. Jana puts more and more plants on the windowsill, Amir wants to study there, and Rosa needs space for her guitar. Each sees the others' wishes as annoying.",
+    "At first they try to ignore the problem. But when Amir's laptop barely fits among the flowerpots one day, Rosa suggests a discussion. She asks which activities in the living room really matter to each person and at what times they need the space most.",
+    "The three divide the room into different areas. The plants get a large shelf by the window, Amir a small desk, and Rosa a corner for her music. They also agree on quiet study times and fixed days for evenings together.",
+    "After a month the new arrangement works surprisingly well. Not every rule is perfect, but everyone can express wishes before getting annoyed. Jana even brings a small cactus for Amir's desk. He thanks her and promises to water it regularly."
+  ],
+  "questions": [
+    {
+      "question": "Warum streiten die Mitbewohner?",
+      "options": [
+        "Sie haben kein Internet",
+        "Sie brauchen denselben Raum unterschiedlich",
+        "Sie wollen alle ausziehen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie brauchen denselben Raum unterschiedlich."
+    },
+    {
+      "question": "Was schlägt Rosa vor?",
+      "options": [
+        "Ein gemeinsames Gespräch",
+        "Den Verkauf aller Möbel",
+        "Eine Party ohne Regeln"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein gemeinsames Gespräch."
+    },
+    {
+      "question": "Was bekommt Amir am Ende?",
+      "options": [
+        "Ein Fahrrad",
+        "Einen Fernseher",
+        "Einen kleinen Kaktus"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Einen kleinen Kaktus."
+    }
+  ]
+}

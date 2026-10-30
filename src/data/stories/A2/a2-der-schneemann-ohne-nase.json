@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-schneemann-ohne-nase",
+  "level": "A2",
+  "title": "Der Schneemann ohne Nase",
+  "subtitle": "Kinder suchen eine ungewöhnliche Lösung",
+  "category": "Winter",
+  "emoji": "⛄",
+  "color": "lavender",
+  "german": [
+    "In der Nacht hat es geschneit. Paul und seine Schwester Ida laufen gleich nach dem Frühstück in den Garten. Der Schnee ist weich und lässt sich gut formen. Sie bauen einen großen Schneemann mit drei Kugeln. Für die Augen nehmen sie zwei dunkle Steine. Dann suchen sie eine Karotte für die Nase.",
+    "In der Küche gibt es leider keine Karotten mehr. Im Kühlschrank liegen nur Paprika, Käse und eine Gurke. Paul schlägt vor, eine kleine Gurke zu nehmen. Ida findet die Idee lustig. Sie stecken die Gurke in den Schneekopf und setzen dem Mann einen alten Hut auf.",
+    "Am Nachmittag kommen die Nachbarskinder vorbei. Alle staunen über die grüne Nase. Ein Junge bringt einen Schal, ein Mädchen zwei Knöpfe für den Mantel. Zusammen bauen sie noch einen kleinen Schneehund neben den Mann. Im Garten stehen jetzt zwei lustige Figuren.",
+    "Am Abend fotografiert die Mutter die Kinder mit ihrem Schneemann. Am nächsten Morgen ist die Gurke verschwunden. Vielleicht hat ein Tier sie geholt. Paul und Ida suchen diesmal nach einer echten Karotte."
+  ],
+  "english": [
+    "It snowed during the night. Paul and his sister Ida run into the garden right after breakfast. The snow is soft and easy to shape. They build a big snowman with three snowballs. They use two dark stones for the eyes. Then they look for a carrot for the nose.",
+    "Unfortunately there are no carrots left in the kitchen. The fridge contains only peppers, cheese and a cucumber. Paul suggests using a small cucumber. Ida finds that funny. They stick the cucumber into the snowman's face and put an old hat on his head.",
+    "In the afternoon the neighborhood children come over. Everyone is amazed by the green nose. One boy brings a scarf, and a girl brings two buttons for the coat. Together they build a little snow dog beside the man. There are now two funny figures in the garden.",
+    "In the evening their mother takes a photo of the children and their snowman. The next morning the cucumber has disappeared. Perhaps an animal took it. This time Paul and Ida look for a real carrot."
+  ],
+  "questions": [
+    {
+      "question": "Was benutzt die Familie statt einer Karotte?",
+      "options": [
+        "Eine Banane",
+        "Eine Kartoffel",
+        "Eine Gurke"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine Gurke."
+    },
+    {
+      "question": "Was bauen die Kinder noch?",
+      "options": [
+        "Eine Burg",
+        "Einen Schneehund",
+        "Ein Haus"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Einen Schneehund."
+    },
+    {
+      "question": "Was fehlt am nächsten Morgen?",
+      "options": [
+        "Die Gurkennase",
+        "Der Hut",
+        "Der ganze Schneemann"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Gurkennase."
+    }
+  ]
+}

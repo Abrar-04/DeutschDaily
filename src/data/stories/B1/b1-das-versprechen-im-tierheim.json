@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-versprechen-im-tierheim",
+  "level": "B1",
+  "title": "Das Versprechen im Tierheim",
+  "subtitle": "Ein Jugendlicher übernimmt eine regelmäßige Aufgabe",
+  "category": "Tiere",
+  "emoji": "🐾",
+  "color": "sky",
+  "german": [
+    "Nachdem Luis im Tierheim einen Hund kennengelernt hat, würde er ihn am liebsten sofort mit nach Hause nehmen. Seine Eltern sind jedoch skeptisch, weil in der Familie alle viel unterwegs sind. Die Mitarbeiterin erklärt ihm, dass ein Hund täglich Bewegung, Aufmerksamkeit und zuverlässige Betreuung braucht. Luis merkt, dass sein Wunsch allein nicht ausreicht.",
+    "Statt einen Hund zu adoptieren, meldet er sich als ehrenamtlicher Helfer an. Zunächst darf er gemeinsam mit einer erfahrenen Mitarbeiterin spazieren gehen. Er lernt, auf die Körpersprache der Tiere zu achten und in schwierigen Situationen ruhig zu bleiben.",
+    "Besonders gern betreut Luis eine ältere Hündin namens Frida. Sie läuft langsam und braucht regelmäßig eine Pause. Während andere Hunde sofort spielen möchten, freut Frida sich über kurze Spaziergänge und ruhige Streicheleinheiten. Luis erzählt seiner Familie, wie unterschiedlich die Tiere sind.",
+    "Nach drei Monaten fragt die Mitarbeiterin, ob Luis weiterhin jeden Samstag helfen möchte. Er sagt zu, obwohl er manchmal lieber ausschlafen würde. Er hat verstanden, dass Verantwortung nicht nur aus schönen Momenten besteht. Seine Eltern sind stolz, dass er diese Aufgabe ernst nimmt."
+  ],
+  "english": [
+    "After meeting a dog at the animal shelter, Luis would love to take it home immediately. However, his parents are skeptical because everyone in the family is often away. A staff member explains that a dog needs daily exercise, attention and reliable care. Luis realizes that simply wanting a dog is not enough.",
+    "Instead of adopting one, he volunteers at the shelter. At first he is allowed to walk dogs alongside an experienced staff member. He learns to pay attention to the animals' body language and remain calm in difficult situations.",
+    "Luis especially enjoys looking after an older female dog called Frida. She walks slowly and needs regular breaks. While other dogs want to play immediately, Frida enjoys short walks and gentle petting. Luis tells his family how different the animals are.",
+    "After three months a staff member asks if Luis wants to continue helping every Saturday. He agrees, although sometimes he would prefer to sleep late. He has learned that responsibility does not consist only of enjoyable moments. His parents are proud that he takes the task seriously."
+  ],
+  "questions": [
+    {
+      "question": "Warum möchten Luis' Eltern keinen Hund adoptieren?",
+      "options": [
+        "Sie haben wenig Zeit für die Betreuung",
+        "Sie mögen keine Tiere",
+        "Das Tierheim ist zu weit weg"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie haben wenig Zeit für die Betreuung."
+    },
+    {
+      "question": "Was tut Luis stattdessen?",
+      "options": [
+        "Er eröffnet einen Laden",
+        "Er kauft einen anderen Hund",
+        "Er hilft ehrenamtlich im Tierheim"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er hilft ehrenamtlich im Tierheim."
+    },
+    {
+      "question": "Was braucht Frida besonders?",
+      "options": [
+        "Tägliche Zugfahrten",
+        "Ruhige kurze Spaziergänge",
+        "Lange Bergläufe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ruhige kurze Spaziergänge."
+    }
+  ]
+}

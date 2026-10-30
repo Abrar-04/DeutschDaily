@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-verschwundene-datenpunkt",
+  "level": "B2",
+  "title": "Der verschwundene Datenpunkt",
+  "subtitle": "Eine Analystin entdeckt einen Fehler in einer Statistik",
+  "category": "Arbeit",
+  "emoji": "📊",
+  "color": "rose",
+  "german": [
+    "In einem Unternehmen berichtet ein Dashboard jeden Montag über die Zahl der Kundendienstanfragen. Als Analystin Klara die aktuelle Woche prüft, fällt ihr ein ungewöhnlich starker Rückgang auf. Die Leitung freut sich bereits über die scheinbare Verbesserung. Klara bleibt jedoch zurückhaltend, weil die übrigen Kennzahlen nicht zu dieser Entwicklung passen.",
+    "Sie vergleicht die Datenquellen und entdeckt, dass ein neues Kontaktformular seit Freitag Anfragen in einer separaten Tabelle speichert. Dieser Kanal wurde im Bericht nicht berücksichtigt. Dadurch erscheinen die Gesamtzahlen erheblich niedriger, obwohl die tatsächliche Nachfrage kaum verändert ist. Klara dokumentiert den Fehler und informiert das Team, bevor die Zahlen in einer Präsentation verwendet werden.",
+    "Gemeinsam mit einem Entwickler passt sie den Datenfluss an. Anschließend prüft sie mehrere frühere Wochen, um sicherzugehen, dass keine ähnlichen Lücken bestehen. Die korrigierte Auswertung zeigt zwar eine leichte Verbesserung, aber keinen spektakulären Rückgang.",
+    "Bei der nächsten Besprechung erklärt Klara nicht nur die richtigen Zahlen, sondern auch, warum der erste Eindruck irreführend war. Einige Führungskräfte reagieren enttäuscht, bedanken sich jedoch für die rechtzeitige Kontrolle. Klara hält fest, dass gute Analyse manchmal vor allem darin besteht, eine zu schöne Geschichte nicht vorschnell zu glauben."
+  ],
+  "english": [
+    "At a company a dashboard reports the number of customer-service inquiries every Monday. When analyst Klara checks the latest week, she notices an unusually sharp decline. Management is already pleased by the apparent improvement. But Klara remains cautious because other metrics do not fit the trend.",
+    "She compares the data sources and finds that since Friday a new contact form has been storing inquiries in a separate table. That channel was not included in the report. Total numbers therefore appear much lower although actual demand has barely changed. Klara documents the error and informs the team before the figures are used in a presentation.",
+    "Together with a developer she adjusts the data flow. She then checks several previous weeks to make sure no similar gaps exist. The corrected analysis shows a slight improvement, but not a spectacular decline.",
+    "At the next meeting Klara explains not just the correct numbers but why the initial impression was misleading. Some managers are disappointed, yet thank her for the timely check. Klara notes that good analysis sometimes consists above all in refusing to believe a story simply because it sounds too good."
+  ],
+  "questions": [
+    {
+      "question": "Warum sinkt die Zahl im Dashboard scheinbar?",
+      "options": [
+        "Die Arbeit ist fertig",
+        "Ein Kontaktkanal fehlt in der Auswertung",
+        "Alle Kunden sind weg"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Kontaktkanal fehlt in der Auswertung."
+    },
+    {
+      "question": "Was prüft Klara zusätzlich?",
+      "options": [
+        "Frühere Wochen",
+        "Nur die Farben des Dashboards",
+        "Die Kaffeemaschine"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Frühere Wochen."
+    },
+    {
+      "question": "Was zeigt die Korrektur?",
+      "options": [
+        "Einen noch stärkeren Rückgang",
+        "Keine Anfragen mehr",
+        "Nur eine leichte Verbesserung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Nur eine leichte Verbesserung."
+    }
+  ]
+}

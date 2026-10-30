@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-kleine-orchester-im-park",
+  "level": "B1",
+  "title": "Das kleine Orchester im Park",
+  "subtitle": "Verschiedene Generationen machen gemeinsam Musik",
+  "category": "Kultur",
+  "emoji": "🎼",
+  "color": "sage",
+  "german": [
+    "Im Stadtpark hängt seit kurzem ein Plakat: „Offene Musikprobe – alle Instrumente willkommen“. Die sechzehnjährige Nika spielt Klarinette, hat aber noch nie mit einem Orchester geübt. Neugierig nimmt sie am Sonntag ihr Instrument mit. Unter einem Pavillon sitzen bereits Menschen unterschiedlichen Alters, vom Schüler bis zur Rentnerin.",
+    "Der Leiter verteilt einfache Noten und erklärt, dass niemand perfekt spielen müsse. Zuerst klingt die Musik ziemlich chaotisch. Die Geigen sind zu schnell, eine Trompete beginnt an der falschen Stelle, und Nika verpasst ihren Einsatz. Trotzdem bleiben alle freundlich und versuchen es noch einmal.",
+    "Nach einer Stunde finden die Instrumente langsam zusammen. Eine ältere Frau neben Nika zeigt ihr, wie sie bei schwierigen Stellen besser zählen kann. Nika hilft im Gegenzug einem jüngeren Kind, das die Noten noch nicht sicher lesen kann. Am Ende spielen sie ein ganzes Stück ohne Unterbrechung.",
+    "Ein paar Spaziergänger bleiben stehen und applaudieren. Der Leiter schlägt vor, sich künftig einmal im Monat zu treffen. Nika schreibt den Termin in ihren Kalender. Sie ist überrascht, wie leicht man Menschen kennenlernen kann, wenn alle dieselbe Freude an Musik teilen."
+  ],
+  "english": [
+    "A poster has recently appeared in the city park: “Open music rehearsal – all instruments welcome.” Sixteen-year-old Nika plays clarinet but has never practised with an orchestra. Curious, she brings her instrument on Sunday. People of different ages are already sitting under a pavilion, from schoolchildren to retirees.",
+    "The leader hands out easy sheet music and explains that nobody has to play perfectly. At first the music sounds quite chaotic. The violins are too fast, a trumpet starts at the wrong point, and Nika misses her entrance. Nevertheless everyone stays friendly and tries again.",
+    "After an hour the instruments gradually come together. An older woman beside Nika shows her how to count better during difficult passages. Nika, in return, helps a younger child who cannot yet read the music confidently. By the end they play an entire piece without interruption.",
+    "A few walkers stop and applaud. The leader suggests meeting once a month in future. Nika writes the date in her calendar. She is surprised how easily people can get to know one another when they all share the same enjoyment of music."
+  ],
+  "questions": [
+    {
+      "question": "Welches Instrument spielt Nika?",
+      "options": [
+        "Trommel",
+        "Klarinette",
+        "Klavier"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Klarinette."
+    },
+    {
+      "question": "Wie klingt das Orchester am Anfang?",
+      "options": [
+        "Chaotisch",
+        "Perfekt",
+        "Gar nicht"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Chaotisch."
+    },
+    {
+      "question": "Wie oft möchte sich die Gruppe treffen?",
+      "options": [
+        "Jeden Tag",
+        "Einmal im Jahr",
+        "Einmal im Monat"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Einmal im Monat."
+    }
+  ]
+}

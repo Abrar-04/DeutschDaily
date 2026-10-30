@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-grenze-auf-der-alten-karte",
+  "level": "B2",
+  "title": "Die Grenze auf der alten Karte",
+  "subtitle": "Zwei Gemeinden streiten über einen vergessenen Weg",
+  "category": "Geschichte",
+  "emoji": "🧭",
+  "color": "lavender",
+  "german": [
+    "Zwischen zwei Gemeinden liegt ein schmaler Fußweg, den Wanderer seit Generationen benutzen. Als ein Grundstück verkauft wird, sperrt der neue Eigentümer den Zugang und beruft sich auf eine alte Katasterkarte. Darauf verläuft die Grenze offenbar mitten über den Weg. Die Nachbargemeinde ist überzeugt, dass ein öffentliches Wegerecht besteht.",
+    "Historikerin Paula wird gebeten, ältere Dokumente zu vergleichen. Sie entdeckt mehrere Karten, die sich in kleinen, aber wichtigen Details unterscheiden. Außerdem findet sie Hinweise auf eine Vereinbarung aus dem vergangenen Jahrhundert, deren rechtliche Bedeutung heute überprüft werden muss. Paula warnt deshalb davor, aus einem einzigen historischen Blatt eine abschließende Entscheidung abzuleiten.",
+    "Die Gemeinden beauftragen Fachleute mit einer rechtlichen und vermessungstechnischen Prüfung. Währenddessen wird ein vorläufiger Umweg ausgeschildert, damit Wanderer nicht unbemerkt über Privatgrundstücke laufen. Nach längeren Gesprächen einigen sich alle Beteiligten auf einen klar markierten Zugang, der die Rechte des Eigentümers berücksichtigt.",
+    "Paula ist zufrieden, obwohl die endgültige Lösung weniger romantisch aussieht als der frühere Pfad. Der Fall hat ihr erneut gezeigt, dass alte Karten wertvolle Quellen sind, aber nicht automatisch eine eindeutige Antwort auf heutige Rechtsfragen liefern."
+  ],
+  "english": [
+    "A narrow footpath lies between two municipalities and has been used by walkers for generations. When a property is sold, the new owner blocks access and refers to an old cadastral map. It appears to show the boundary running directly across the path. The neighboring municipality is convinced that a public right of way exists.",
+    "Historian Paula is asked to compare older documents. She discovers several maps that differ in small but important details. She also finds references to an agreement from the previous century whose current legal significance requires examination. Paula therefore warns against drawing a final conclusion from a single historical document.",
+    "The municipalities commission legal and surveying experts to investigate. Meanwhile a temporary detour is signposted so walkers do not accidentally cross private land. After lengthy discussions everyone agrees on a clearly marked access route that respects the owner's rights.",
+    "Paula is satisfied, although the final solution looks less romantic than the old path. The case has once again shown her that historic maps are valuable sources, but do not automatically provide a clear answer to modern legal questions."
+  ],
+  "questions": [
+    {
+      "question": "Warum wird der Weg gesperrt?",
+      "options": [
+        "Der Weg ist überschwemmt",
+        "Es gibt einen Marathon",
+        "Ein neuer Eigentümer beruft sich auf Grundstücksgrenzen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein neuer Eigentümer beruft sich auf Grundstücksgrenzen."
+    },
+    {
+      "question": "Was betont Paula?",
+      "options": [
+        "Wegerechte sind unwichtig",
+        "Eine alte Karte genügt nicht als Rechtsentscheidung",
+        "Karten sind immer falsch"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine alte Karte genügt nicht als Rechtsentscheidung."
+    },
+    {
+      "question": "Was entsteht am Ende?",
+      "options": [
+        "Ein geregelter Zugang",
+        "Ein neues Museum",
+        "Eine Autobahn"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein geregelter Zugang."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-geschenk-aus-papier",
+  "level": "A2",
+  "title": "Ein Geschenk aus Papier",
+  "subtitle": "Eine Bastelidee macht den Geburtstag besonders",
+  "category": "Familie",
+  "emoji": "🎁",
+  "color": "sky",
+  "german": [
+    "Lukas' kleiner Bruder wird sechs Jahre alt. Lukas möchte ihm etwas Schönes schenken, aber er hat nur wenig Geld. Im Geschäft findet er viele teure Spielsachen. Keines kann er kaufen. Zu Hause sieht er einen großen Stapel buntes Papier und erinnert sich an eine Idee aus der Schule.",
+    "Er möchte ein kleines Bilderbuch selbst machen. Auf jeder Seite soll ein Tier stehen. Lukas malt einen Löwen, einen Pinguin und einen sehr großen Elefanten. Danach schreibt er kurze Sätze unter die Bilder. Seine Schwester hilft ihm beim Ausschneiden. Zusammen kleben sie die Seiten zu einem Buch.",
+    "Am Geburtstag gibt Lukas seinem Bruder das Geschenk. Der Junge öffnet es vorsichtig und beginnt sofort zu blättern. Beim Pinguin lacht er laut, denn Lukas hat ihm eine rote Mütze gemalt. Danach möchte er die ganze Geschichte noch einmal hören.",
+    "Am Abend liegt das Bilderbuch neben dem Bett. Der kleine Bruder bittet Lukas, vor dem Schlafen daraus vorzulesen. Lukas ist stolz auf sein Geschenk. Er merkt, dass etwas Selbstgemachtes manchmal mehr Freude macht als ein teures Spielzeug."
+  ],
+  "english": [
+    "Lukas's little brother is turning six. Lukas wants to give him something nice, but he has very little money. He finds many expensive toys in a shop. He cannot buy any of them. At home he sees a big pile of colourful paper and remembers an idea from school.",
+    "He wants to make a little picture book himself. Every page should show an animal. Lukas draws a lion, a penguin and a very big elephant. Then he writes short sentences under the pictures. His sister helps him cut out the pages. Together they glue them into a book.",
+    "On the birthday Lukas gives his brother the present. The boy opens it carefully and immediately starts turning the pages. He laughs loudly at the penguin because Lukas has drawn it wearing a red hat. Then he wants to hear the whole story again.",
+    "In the evening the picture book lies beside the bed. His little brother asks Lukas to read from it before bedtime. Lukas is proud of his present. He realizes that something homemade can sometimes bring more joy than an expensive toy."
+  ],
+  "questions": [
+    {
+      "question": "Warum kauft Lukas kein Spielzeug?",
+      "options": [
+        "Er hat wenig Geld",
+        "Der Laden ist geschlossen",
+        "Sein Bruder mag keine Spielsachen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Er hat wenig Geld."
+    },
+    {
+      "question": "Was bastelt er?",
+      "options": [
+        "Ein Flugzeug",
+        "Eine Laterne",
+        "Ein Bilderbuch"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Bilderbuch."
+    },
+    {
+      "question": "Was trägt der Pinguin auf dem Bild?",
+      "options": [
+        "Einen gelben Schal",
+        "Eine rote Mütze",
+        "Eine blaue Hose"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine rote Mütze."
+    }
+  ]
+}

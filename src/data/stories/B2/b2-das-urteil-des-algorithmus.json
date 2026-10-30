@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-urteil-des-algorithmus",
+  "level": "B2",
+  "title": "Das Urteil des Algorithmus",
+  "subtitle": "Eine Bewerbung scheitert an einer unsichtbaren Regel",
+  "category": "Technik",
+  "emoji": "🧠",
+  "color": "peach",
+  "german": [
+    "Als die Ingenieurin Deniz zum wiederholten Mal eine automatische Absage erhält, beginnt sie an ihrer Qualifikation zu zweifeln. Ihr Lebenslauf erfüllt sämtliche Anforderungen der ausgeschriebenen Stelle, und dennoch wird sie offenbar nicht einmal zu einem Gespräch eingeladen. Eine ehemalige Kollegin empfiehlt ihr, die Bewerbungsunterlagen von einer unabhängigen Beratungsstelle prüfen zu lassen.",
+    "Dort stellt sich heraus, dass mehrere Unternehmen ein automatisches Auswahlverfahren einsetzen, das bestimmte Schlüsselbegriffe besonders stark gewichtet. Obwohl Deniz jahrelang an komplexen Projekten gearbeitet hat, verwendet sie teilweise andere Berufsbezeichnungen als das System erwartet. Die Beraterin betont allerdings, dass dies nur eine mögliche Erklärung sei und die tatsächlichen Entscheidungen der Firmen nicht eingesehen werden könnten.",
+    "Deniz überarbeitet ihren Lebenslauf, ohne ihre Erfahrungen künstlich aufzuwerten. Sie beschreibt Aufgaben genauer und ergänzt technische Begriffe dort, wo sie tatsächlich passen. Gleichzeitig schreibt sie an eines der Unternehmen und bittet um eine nachvollziehbare Auskunft zum Auswahlprozess.",
+    "Wenig später erhält sie eine Einladung zu einem Gespräch bei einem anderen Arbeitgeber. Ob die Änderungen entscheidend waren, bleibt unklar. Für Deniz ist jedoch etwas anderes wichtiger geworden: Sie möchte ihre berufliche Eignung nicht länger allein an automatisierten Rückmeldungen messen. Die Erfahrung hat sie außerdem für die Grenzen scheinbar objektiver Entscheidungen sensibilisiert."
+  ],
+  "english": [
+    "When engineer Deniz receives another automatic rejection, she begins doubting her qualifications. Her CV meets every requirement of the advertised job, yet she apparently is not even invited to an interview. A former colleague suggests having her application documents checked by an independent advice centre.",
+    "There she learns that several companies use automated selection procedures that give particular keywords substantial weight. Although Deniz has worked on complex projects for years, she sometimes uses different job titles from those expected by the system. However, the adviser emphasizes that this is only a possible explanation and that the companies' actual decisions cannot be inspected.",
+    "Deniz revises her CV without artificially exaggerating her experience. She describes her tasks more precisely and adds technical terms where they genuinely fit. At the same time she writes to one company requesting comprehensible information about the selection process.",
+    "Soon afterward she receives an interview invitation from another employer. Whether the changes were decisive remains unclear. But something else has become more important to Deniz: she no longer wants to judge her professional ability solely by automated responses. The experience has also made her more aware of the limits of apparently objective decisions."
+  ],
+  "questions": [
+    {
+      "question": "Was vermutet die Beratungsstelle?",
+      "options": [
+        "Schlüsselbegriffe könnten die Vorauswahl beeinflussen",
+        "Deniz hat keine Erfahrung",
+        "Alle Arbeitgeber lesen Bewerbungen gleich"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Schlüsselbegriffe könnten die Vorauswahl beeinflussen."
+    },
+    {
+      "question": "Wie ändert Deniz ihren Lebenslauf?",
+      "options": [
+        "Sie erfindet neue Abschlüsse",
+        "Sie entfernt jede technische Angabe",
+        "Sie beschreibt echte Aufgaben präziser"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie beschreibt echte Aufgaben präziser."
+    },
+    {
+      "question": "Was bleibt am Ende ungeklärt?",
+      "options": [
+        "Ob es die Beratungsstelle gibt",
+        "Ob die Änderungen den Ausschlag gaben",
+        "Ob Deniz ein Gespräch bekam"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ob die Änderungen den Ausschlag gaben."
+    }
+  ]
+}

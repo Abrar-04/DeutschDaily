@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-wahrheit-im-kommentarbereich",
+  "level": "B2",
+  "title": "Die Wahrheit im Kommentarbereich",
+  "subtitle": "Eine Lokalredaktion prüft ein virales Video",
+  "category": "Medien",
+  "emoji": "📱",
+  "color": "butter",
+  "german": [
+    "Ein kurzes Video verbreitet sich in sozialen Netzwerken und scheint zu zeigen, wie ein Busfahrer einen Fahrgast absichtlich an einer Haltestelle zurücklässt. Innerhalb weniger Stunden sammeln sich empörte Kommentare. Die Lokaljournalistin Nadine soll darüber berichten, weigert sich jedoch, allein aus dem Ausschnitt eine eindeutige Geschichte zu machen.",
+    "Sie kontaktiert das Verkehrsunternehmen, sucht nach Zeugen und bittet um weitere Aufnahmen. Schließlich zeigt ein längeres Video, dass der Fahrer zunächst wegen einer technischen Störung halten musste. Der vermeintlich zurückgelassene Fahrgast war Mitarbeiter des Unternehmens und hatte gerade eine Reparatur kontrolliert. Der kurze Clip hatte den entscheidenden Zusammenhang ausgelassen.",
+    "Die Redaktion veröffentlicht eine Erklärung mit den überprüften Informationen. Einige Leser bedanken sich, andere halten an ihrem ersten Eindruck fest. Nadine vermeidet es, die Menschen zu beschimpfen, die das Video geteilt hatten. Stattdessen erläutert sie, weshalb eine richtige Beobachtung in einem falschen Zusammenhang zu einer irreführenden Aussage werden kann.",
+    "Am Abend denkt Nadine darüber nach, wie schnell öffentliche Urteile entstehen. Sie findet die Geschwindigkeit digitaler Medien hilfreich, wenn dringende Informationen verbreitet werden müssen. Gerade deshalb hält sie gründliche Prüfung für unverzichtbar, auch wenn eine schnelle Schlagzeile mehr Aufmerksamkeit versprechen würde."
+  ],
+  "english": [
+    "A short video spreads across social networks and appears to show a bus driver deliberately leaving a passenger behind at a stop. Within hours, angry comments accumulate. Local journalist Nadine is asked to report on it, but refuses to build a definitive story from the clip alone.",
+    "She contacts the transport company, looks for witnesses and requests further footage. Eventually a longer video shows that the driver initially stopped because of a technical fault. The supposedly abandoned passenger was a company employee who had just checked a repair. The short clip had omitted the crucial context.",
+    "The newsroom publishes an explanation with verified information. Some readers are grateful, while others stick to their first impression. Nadine avoids insulting those who shared the video. Instead, she explains why an accurate observation placed in the wrong context can become a misleading claim.",
+    "That evening Nadine reflects on how quickly public judgments are formed. She finds the speed of digital media useful when urgent information needs spreading. Precisely for that reason she considers thorough verification indispensable, even when a quick headline might attract more attention."
+  ],
+  "questions": [
+    {
+      "question": "Warum veröffentlicht Nadine nicht sofort?",
+      "options": [
+        "Das Internet ist ausgefallen",
+        "Die Zeitung erscheint nicht mehr",
+        "Der Kontext des Clips ist unklar"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Der Kontext des Clips ist unklar."
+    },
+    {
+      "question": "Wer ist der angeblich zurückgelassene Fahrgast?",
+      "options": [
+        "Ein Schulkind",
+        "Ein Mitarbeiter des Verkehrsunternehmens",
+        "Ein Tourist"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Mitarbeiter des Verkehrsunternehmens."
+    },
+    {
+      "question": "Was erläutert der Artikel?",
+      "options": [
+        "Wie fehlender Kontext täuscht",
+        "Warum alle Videos falsch sind",
+        "Warum Busse zu langsam fahren"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Wie fehlender Kontext täuscht."
+    }
+  ]
+}

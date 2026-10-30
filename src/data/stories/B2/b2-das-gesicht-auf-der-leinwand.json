@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-gesicht-auf-der-leinwand",
+  "level": "B2",
+  "title": "Das Gesicht auf der Leinwand",
+  "subtitle": "Ein Filmarchiv prüft eine zweifelhafte Aufnahme",
+  "category": "Kultur",
+  "emoji": "🎞️",
+  "color": "peach",
+  "german": [
+    "Ein kleines Filmarchiv erhält eine angeblich hundert Jahre alte Aufnahme, auf der ein berühmter Schauspieler in einer bisher unbekannten Szene zu sehen sein soll. Der Fund sorgt sofort für Begeisterung. Museumsmitarbeiterin Alina bleibt jedoch skeptisch, weil niemand erklären kann, woher das Material ursprünglich stammt.",
+    "Bei einer ersten Sichtung fällt ihr auf, dass einzelne Bewegungen ungewöhnlich glatt wirken. Gemeinsam mit einem Restaurator prüft sie den Bildträger und vergleicht die Aufnahme mit nachweislich alten Filmen. Dabei zeigt sich, dass einige Teile tatsächlich historisch sind, während andere offenbar digital verändert wurden. Offen bleibt zunächst, wer die Bearbeitung vorgenommen hat.",
+    "Die Museumsleitung überlegt, die Aufnahme trotzdem auszustellen. Alina schlägt vor, sie nicht als sensationellen Fund, sondern als Beispiel für schwierige Quellenprüfung zu präsentieren. Neben dem Film könnten die Besucher erfahren, welche Hinweise für Authentizität sprechen und welche Zweifel bestehen.",
+    "Die Ausstellung wird überraschend beliebt. Statt nur ein berühmtes Gesicht zu bewundern, diskutieren Gäste darüber, wie leicht Bilder Vertrauen erzeugen können. Alina freut sich über das Interesse. Der ursprüngliche Werbeeffekt wäre möglicherweise größer gewesen, doch eine transparente Erklärung erscheint ihr langfristig wesentlich wertvoller."
+  ],
+  "english": [
+    "A small film archive receives a supposedly hundred-year-old recording showing a famous actor in a previously unknown scene. The discovery immediately causes excitement. However, museum employee Alina remains skeptical because nobody can explain where the material originally came from.",
+    "During an initial viewing she notices that certain movements look unusually smooth. Together with a restorer she examines the physical medium and compares the footage with demonstrably old films. It turns out that some parts really are historical, while others appear to have been digitally altered. At first it remains unclear who made the changes.",
+    "The museum management considers exhibiting the recording anyway. Alina suggests presenting it not as a sensational discovery, but as an example of difficult source verification. Beside the film visitors could learn which clues support authenticity and what doubts remain.",
+    "The exhibition becomes surprisingly popular. Instead of simply admiring a famous face, visitors discuss how easily images can create trust. Alina is pleased by the interest. The original publicity might have been greater, but she considers a transparent explanation much more valuable in the long term."
+  ],
+  "questions": [
+    {
+      "question": "Warum zweifelt Alina?",
+      "options": [
+        "Die Herkunft und Bildbewegungen sind auffällig",
+        "Sie kennt den Schauspieler nicht",
+        "Der Film ist zu kurz"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Herkunft und Bildbewegungen sind auffällig."
+    },
+    {
+      "question": "Was wird bei der Prüfung erkannt?",
+      "options": [
+        "Der ganze Film ist sicher echt",
+        "Es gibt überhaupt keinen Film",
+        "Teile wurden offenbar digital verändert"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Teile wurden offenbar digital verändert."
+    },
+    {
+      "question": "Wie wird die Aufnahme gezeigt?",
+      "options": [
+        "Nur hinter verschlossenen Türen",
+        "Mit offener Erklärung der Zweifel",
+        "Als sichere Sensation"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Mit offener Erklärung der Zweifel."
+    }
+  ]
+}

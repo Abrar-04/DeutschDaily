@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-vertrag-im-schliessfach",
+  "level": "B2",
+  "title": "Der Vertrag im Schließfach",
+  "subtitle": "Eine Unternehmerin entdeckt eine übersehene Verpflichtung",
+  "category": "Wirtschaft",
+  "emoji": "📁",
+  "color": "sage",
+  "german": [
+    "Als die junge Unternehmerin Isabel eine kleine Buchhandlung übernimmt, erhält sie neben den Schlüsseln mehrere Ordner mit alten Verträgen. Einer davon betrifft eine Lagerfläche, die das Geschäft seit Jahren kaum genutzt hat. Zunächst legt Isabel die Unterlagen beiseite, weil sie sich auf die Eröffnung konzentrieren möchte.",
+    "Kurz darauf erhält sie jedoch eine unerwartet hohe Rechnung. Offenbar verlängert sich der Mietvertrag automatisch, wenn er nicht rechtzeitig gekündigt wird. Isabel ist verärgert, doch ihre Anwältin rät ihr, zuerst den genauen Wortlaut und die bisherige Korrespondenz zu prüfen, bevor sie Vermutungen über die Rechtmäßigkeit anstellt.",
+    "Gemeinsam stellen sie fest, dass die Verlängerung grundsätzlich vereinbart wurde, der Vermieter jedoch bereit ist, über eine vorzeitige Beendigung zu verhandeln. Isabel erklärt offen, dass sie die Fläche nicht benötigt, und schlägt einen Ausgleich vor. Nach mehreren Gesprächen finden beide Seiten eine Lösung, die weniger kostet als der ursprüngliche Vertrag.",
+    "Aus der Erfahrung zieht Isabel eine praktische Konsequenz: Sie legt eine Übersicht sämtlicher Fristen an und prüft neue Vereinbarungen gründlicher. Der Fehler war ärgerlich, aber er hat ihr gezeigt, dass neben guten Ideen auch unscheinbare Verwaltungsaufgaben über den Erfolg eines kleinen Geschäfts entscheiden können."
+  ],
+  "english": [
+    "When young entrepreneur Isabel takes over a small bookshop, she receives several folders of old contracts along with the keys. One concerns a storage space the shop has barely used for years. At first Isabel puts the documents aside because she wants to focus on opening the store.",
+    "Soon afterward, however, she receives an unexpectedly high bill. Apparently the rental agreement renews automatically unless cancelled in time. Isabel is upset, but her lawyer advises her to check the precise wording and earlier correspondence before making assumptions about legality.",
+    "Together they establish that the renewal was indeed agreed, but the landlord is willing to negotiate an early end. Isabel openly explains that she does not need the space and proposes a compromise. After several conversations both sides find a solution that costs less than the original agreement.",
+    "Isabel draws a practical consequence from the experience: she creates an overview of every deadline and examines new agreements more carefully. The mistake was frustrating, but showed her that alongside good ideas, seemingly unremarkable administrative tasks can determine the success of a small business."
+  ],
+  "questions": [
+    {
+      "question": "Was übersieht Isabel?",
+      "options": [
+        "Die Öffnungszeiten",
+        "Die automatische Vertragsverlängerung",
+        "Eine neue Buchlieferung"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die automatische Vertragsverlängerung."
+    },
+    {
+      "question": "Was empfiehlt die Anwältin?",
+      "options": [
+        "Den Vertrag genau zu prüfen",
+        "Alle Rechnungen zu ignorieren",
+        "Sofort das Geschäft zu verkaufen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Den Vertrag genau zu prüfen."
+    },
+    {
+      "question": "Was führt Isabel anschließend ein?",
+      "options": [
+        "Ein neues Café",
+        "Ein anderes Logo",
+        "Eine Fristenübersicht"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine Fristenübersicht."
+    }
+  ]
+}

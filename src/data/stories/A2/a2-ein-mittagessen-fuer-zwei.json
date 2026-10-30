@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-mittagessen-fuer-zwei",
+  "level": "A2",
+  "title": "Ein Mittagessen für zwei",
+  "subtitle": "Ein Schüler lädt einen neuen Mitschüler ein",
+  "category": "Freundschaft",
+  "emoji": "🍝",
+  "color": "lavender",
+  "german": [
+    "In der Klasse von Anton gibt es seit Montag einen neuen Schüler. Er heißt Youssef und ist vor kurzem in die Stadt gezogen. In der Pause sitzt er oft allein. Anton möchte ihn kennenlernen. Er fragt, ob Youssef am Samstag zu ihm nach Hause kommen möchte. Youssef sagt freundlich Ja.",
+    "Anton überlegt lange, was er kochen soll. Er kann schon Nudeln machen, aber noch keine schwierigen Gerichte. Seine Mutter schlägt Tomatensoße mit frischem Gemüse vor. Anton kauft am Freitag alle Zutaten und schreibt die Schritte auf einen Zettel. Am Samstag steht er früh in der Küche.",
+    "Als Youssef kommt, riecht es nach Tomaten und Knoblauch. Die beiden decken den Tisch und essen zusammen. Youssef erzählt von seiner alten Schule und seinen Freunden. Anton zeigt ihm danach einen kleinen Park in der Nähe. Dort spielen sie eine Runde Tischtennis.",
+    "Am Abend schreibt Youssef eine Nachricht: „Danke für den schönen Tag!“ Anton freut sich sehr. In der Schule sitzen sie ab Montag nebeneinander. Für das nächste Wochenende planen sie eine gemeinsame Fahrradtour durch die Stadt."
+  ],
+  "english": [
+    "There has been a new pupil in Anton's class since Monday. His name is Youssef and he recently moved to town. During breaks he often sits alone. Anton would like to get to know him. He asks if Youssef wants to come to his home on Saturday. Youssef happily agrees.",
+    "Anton spends a long time thinking about what to cook. He can already make pasta, but not complicated dishes. His mother suggests tomato sauce with fresh vegetables. Anton buys all the ingredients on Friday and writes the steps on a note. On Saturday he gets up early to cook.",
+    "When Youssef arrives, the place smells of tomatoes and garlic. They set the table and eat together. Youssef talks about his old school and his friends. Anton then shows him a small park nearby. They play a game of table tennis there.",
+    "In the evening Youssef sends a message: “Thank you for the lovely day!” Anton is very happy. From Monday they sit next to each other at school. For the following weekend they plan a bicycle ride through town."
+  ],
+  "questions": [
+    {
+      "question": "Wie heißt der neue Schüler?",
+      "options": [
+        "Felix",
+        "Leo",
+        "Youssef"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Youssef."
+    },
+    {
+      "question": "Was kocht Anton?",
+      "options": [
+        "Kartoffelsalat",
+        "Nudeln mit Tomatensoße",
+        "Fisch mit Reis"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Nudeln mit Tomatensoße."
+    },
+    {
+      "question": "Was spielen die Jungen im Park?",
+      "options": [
+        "Tischtennis",
+        "Basketball",
+        "Schach"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Tischtennis."
+    }
+  ]
+}

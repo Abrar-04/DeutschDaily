@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-kuchen-fuer-den-falschen-tisch",
+  "level": "A2",
+  "title": "Der Kuchen für den falschen Tisch",
+  "subtitle": "Ein Geburtstag im Café läuft anders als geplant",
+  "category": "Alltag",
+  "emoji": "🎂",
+  "color": "peach",
+  "german": [
+    "Am Samstag arbeitet Paula in einem kleinen Café. Heute ist viel los, denn draußen scheint die Sonne. Eine Frau bestellt einen Schokoladenkuchen für ihren Sohn. Der Junge wird acht Jahre alt. Paula stellt acht Kerzen auf den Kuchen und schreibt seinen Namen auf eine Karte.",
+    "Kurz danach kommt eine andere Familie ins Café. Auch dort feiert ein Kind Geburtstag. Paula trägt den Kuchen an Tisch sieben. Alle klatschen und singen sofort. Aber plötzlich sagt ein Mädchen: „Ich heiße gar nicht Ben. Ich bin Mia!“ Paula schaut auf die Karte. Oh nein, der Kuchen steht am falschen Tisch.",
+    "Die Eltern lachen zum Glück. Paula nimmt die Kerzen vorsichtig wieder herunter. In der Küche bringt sie die Karte in Ordnung. Dann bekommt Ben seinen Kuchen und Mia ein Stück Apfeltorte mit einer Kerze. Beide Kinder finden die Verwechslung lustig.",
+    "Am Abend ist Paula sehr müde. Trotzdem muss sie lächeln, als sie die Tische sauber macht. Sie hat heute etwas gelernt: Vor dem Singen sollte sie immer zuerst die Namen auf den Karten lesen."
+  ],
+  "english": [
+    "On Saturday, Paula works in a small café. It is busy today because the sun is shining outside. A woman orders a chocolate cake for her son. The boy is turning eight. Paula puts eight candles on the cake and writes his name on a card.",
+    "Shortly afterward another family enters the café. A child is celebrating a birthday there too. Paula carries the cake to table seven. Everyone immediately claps and starts singing. But suddenly a girl says, “My name isn't Ben. I'm Mia!” Paula looks at the card. Oh no, the cake is on the wrong table.",
+    "Luckily, the parents laugh. Paula carefully takes the candles off again. In the kitchen she fixes the card. Then Ben gets his cake and Mia gets a slice of apple tart with a candle. Both children think the mix-up is funny.",
+    "In the evening Paula is very tired. Still, she has to smile while cleaning the tables. She learned something today: before singing, she should always read the names on the cards first."
+  ],
+  "questions": [
+    {
+      "question": "Was bestellt die Frau für ihren Sohn?",
+      "options": [
+        "Einen Schokoladenkuchen",
+        "Eine Pizza",
+        "Einen Salat"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Einen Schokoladenkuchen."
+    },
+    {
+      "question": "Wie heißt das Mädchen am falschen Tisch?",
+      "options": [
+        "Paula",
+        "Lena",
+        "Mia"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Mia."
+    },
+    {
+      "question": "Was möchte Paula beim nächsten Mal zuerst tun?",
+      "options": [
+        "Die Kerzen zählen",
+        "Die Namen lesen",
+        "Den Laden schließen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Namen lesen."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-andere-weg-zur-arbeit",
+  "level": "B1",
+  "title": "Der andere Weg zur Arbeit",
+  "subtitle": "Ein Umweg verändert die tägliche Routine",
+  "category": "Alltag",
+  "emoji": "🚶",
+  "color": "sky",
+  "german": [
+    "Seit Jahren fährt Henrik jeden Morgen dieselbe Strecke mit der Straßenbahn. Er steigt an derselben Haltestelle ein und liest unterwegs Nachrichten auf seinem Handy. Eines Tages wird die Strecke wegen Bauarbeiten gesperrt. Die Verkehrsbetriebe empfehlen einen Ersatzbus, der allerdings einen großen Umweg fährt.",
+    "Henrik entscheidet sich deshalb, die letzten drei Kilometer zu Fuß zu gehen. Zunächst ist er genervt, weil er dafür früher aufstehen muss. Bereits nach wenigen Tagen bemerkt er jedoch Dinge, die ihm vorher nie aufgefallen sind: einen kleinen Buchladen, einen ruhigen Park und einen Hof mit bunten Wandbildern.",
+    "Besonders gern läuft er an einem Kanal entlang. Dort sieht er morgens oft Enten und manchmal ein Ruderboot. Auf dem Weg trinkt er seinen Kaffee nicht mehr hastig in der Bahn, sondern setzt sich kurz auf eine Bank. Seine Kollegen finden, dass er inzwischen entspannter ins Büro kommt.",
+    "Als die Bauarbeiten nach sechs Wochen abgeschlossen sind, könnte Henrik wieder die Straßenbahn nehmen. Trotzdem geht er an sonnigen Tagen weiterhin zu Fuß. Er hat entdeckt, dass ein längerer Weg nicht unbedingt verlorene Zeit bedeuten muss. Manchmal ist er sogar ein guter Start in den Tag."
+  ],
+  "english": [
+    "For years Henrik has taken the same tram route every morning. He boards at the same stop and reads news on his phone along the way. One day the route is closed because of construction work. The transport company recommends a replacement bus, but it takes a long detour.",
+    "So Henrik decides to walk the last three kilometres. At first he is annoyed because it means getting up earlier. But after only a few days he notices things he had never seen before: a little bookshop, a quiet park and a courtyard with colourful murals.",
+    "He especially enjoys walking along a canal. In the morning he often sees ducks and sometimes a rowing boat. Instead of drinking his coffee in a hurry on the tram, he sits briefly on a bench. His colleagues think he now arrives at the office more relaxed.",
+    "When the construction work finishes after six weeks, Henrik could take the tram again. Nevertheless he continues walking on sunny days. He has discovered that a longer journey does not necessarily mean wasted time. Sometimes it is even a good start to the day."
+  ],
+  "questions": [
+    {
+      "question": "Warum ändert Henrik seinen Arbeitsweg?",
+      "options": [
+        "Wegen Bauarbeiten",
+        "Wegen eines Umzugs",
+        "Wegen eines neuen Jobs"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Wegen Bauarbeiten."
+    },
+    {
+      "question": "Was entdeckt er unterwegs?",
+      "options": [
+        "Einen Flughafen",
+        "Einen Zoo",
+        "Einen Park und einen Buchladen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Einen Park und einen Buchladen."
+    },
+    {
+      "question": "Was macht er nach Ende der Bauarbeiten?",
+      "options": [
+        "Er zieht um",
+        "Er geht manchmal weiter zu Fuß",
+        "Er kauft ein Auto"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Er geht manchmal weiter zu Fuß."
+    }
+  ]
+}

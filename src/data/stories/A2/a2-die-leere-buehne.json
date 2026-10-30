@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-leere-buehne",
+  "level": "A2",
+  "title": "Die leere Bühne",
+  "subtitle": "Eine Theatergruppe findet einen Ersatz",
+  "category": "Kultur",
+  "emoji": "🎭",
+  "color": "sky",
+  "german": [
+    "Am Freitag soll die Theatergruppe der Schule ein kleines Stück spielen. Alle Eltern sind eingeladen. Nora hat eine wichtige Rolle und übt seit Wochen ihren Text. Eine Stunde vor Beginn ruft plötzlich ein Schüler an. Er ist krank und kann nicht kommen. Er spielt den König.",
+    "Die Lehrerin überlegt, ob das Stück ausfallen muss. Da meldet sich Felix. Er hat den Text oft beim Üben gehört und kennt viele Sätze. Er fragt, ob er die Rolle übernehmen darf. Die Gruppe ist überrascht, aber alle wollen es versuchen. Eine halbe Stunde lang üben Nora und Felix zusammen.",
+    "Als das Publikum kommt, steht Felix mit einer Papierkrone hinter der Bühne. Sein Herz schlägt schnell. Das Stück beginnt, und Nora spricht ihre ersten Sätze. Felix vergisst nur einmal ein Wort. Nora hilft ihm mit einer kleinen Frage. Dann spielt er weiter.",
+    "Am Ende klatschen die Eltern begeistert. Die Lehrerin lobt das ganze Team. Felix gibt die Krone zurück und lacht erleichtert. Nora sagt, dass er ihnen den Abend gerettet hat. Für das nächste Stück möchte Felix wieder mitspielen, diesmal mit mehr Zeit zum Üben."
+  ],
+  "english": [
+    "The school theatre group is supposed to perform a short play on Friday. All the parents are invited. Nora has an important role and has practised her lines for weeks. An hour before the show a pupil suddenly calls. He is ill and cannot come. He plays the king.",
+    "The teacher wonders whether the show must be cancelled. Then Felix volunteers. He has heard the lines many times during rehearsals and knows many of them. He asks whether he may take the role. The group is surprised, but everyone wants to try. Nora and Felix practise together for half an hour.",
+    "When the audience arrives, Felix stands behind the stage wearing a paper crown. His heart is beating fast. The play begins and Nora speaks her first lines. Felix forgets a word only once. Nora helps him by asking a little question. Then he continues acting.",
+    "At the end the parents clap enthusiastically. The teacher praises the whole team. Felix returns the crown and laughs with relief. Nora says he saved the evening. Felix wants to perform in the next play too, this time with more time to practise."
+  ],
+  "questions": [
+    {
+      "question": "Warum kann der König nicht mitspielen?",
+      "options": [
+        "Er ist krank",
+        "Er ist im Urlaub",
+        "Er hat keinen Text"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Er ist krank."
+    },
+    {
+      "question": "Wer übernimmt die Rolle?",
+      "options": [
+        "Nora",
+        "Die Lehrerin",
+        "Felix"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Felix."
+    },
+    {
+      "question": "Wie hilft Nora auf der Bühne?",
+      "options": [
+        "Mit einem Schild",
+        "Mit einer Frage",
+        "Mit einem Lied"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Mit einer Frage."
+    }
+  ]
+}

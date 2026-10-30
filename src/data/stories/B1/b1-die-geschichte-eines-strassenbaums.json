@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-geschichte-eines-strassenbaums",
+  "level": "B1",
+  "title": "Die Geschichte eines Straßenbaums",
+  "subtitle": "Eine Schulklasse schützt einen vertrauten Baum",
+  "category": "Umwelt",
+  "emoji": "🌳",
+  "color": "butter",
+  "german": [
+    "Vor der Schule steht eine große Kastanie, unter der die Kinder seit Jahrzehnten auf ihre Eltern warten. Als die Stadt ankündigt, den Gehweg zu erneuern, steht plötzlich auch der Baum auf einem Bauplan. Einige Schülerinnen und Schüler befürchten, dass er gefällt werden soll.",
+    "Klassenlehrerin Frau Seidel schlägt vor, zunächst genaue Informationen einzuholen. Die Kinder schreiben der Stadt und erfahren, dass die Wurzeln den Gehweg an mehreren Stellen angehoben haben. Für Menschen mit Rollstühlen ist der Weg inzwischen schwer zu benutzen. Der Baum soll deshalb untersucht werden.",
+    "Bei einem Termin mit einem Baumsachverständigen lernen die Kinder, welche Lösungen es gibt. Der Experte erklärt, dass man den Weg anders gestalten und dabei möglichst viele Wurzeln schützen könnte. Nach weiteren Untersuchungen entscheidet sich die Stadt für diese Variante.",
+    "Als die Bauarbeiten abgeschlossen sind, ist der Gehweg eben und breit genug. Die Kastanie steht weiterhin an ihrem Platz. Die Klasse befestigt eine kleine Informationstafel mit der Geschichte des Baums. Jetzt wissen die Kinder, dass Umweltschutz und Barrierefreiheit nicht immer Gegensätze sein müssen, wenn man rechtzeitig gemeinsam plant."
+  ],
+  "english": [
+    "A large chestnut tree stands in front of the school, where children have waited for their parents for decades. When the city announces that it will renew the pavement, the tree suddenly appears on a construction plan too. Some pupils fear it is going to be cut down.",
+    "Class teacher Mrs Seidel suggests first asking for accurate information. The children write to the city and learn that the roots have lifted the pavement in several places. The path has become difficult for wheelchair users. So the tree needs to be examined.",
+    "At a meeting with a tree expert the children learn about possible solutions. The specialist explains that the path could be redesigned while protecting as many roots as possible. After further investigations the city chooses this option.",
+    "When the construction work is finished, the pavement is smooth and wide enough. The chestnut tree remains in place. The class puts up a small information sign telling the tree's story. Now the children know that environmental protection and accessibility do not always have to conflict if people plan together in good time."
+  ],
+  "questions": [
+    {
+      "question": "Warum ist der Gehweg problematisch?",
+      "options": [
+        "Er ist zu sauber",
+        "Es gibt keine Schilder",
+        "Wurzeln haben ihn angehoben"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Wurzeln haben ihn angehoben."
+    },
+    {
+      "question": "Wer erklärt mögliche Lösungen?",
+      "options": [
+        "Ein Koch",
+        "Ein Baumsachverständiger",
+        "Ein Polizist"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Baumsachverständiger."
+    },
+    {
+      "question": "Was wird am Ende erreicht?",
+      "options": [
+        "Barrierefreier Weg und erhaltener Baum",
+        "Ein neuer Parkplatz",
+        "Eine geschlossene Straße"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Barrierefreier Weg und erhaltener Baum."
+    }
+  ]
+}

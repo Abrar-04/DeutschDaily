@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-zweite-meinung-der-kamera",
+  "level": "B2",
+  "title": "Die zweite Meinung der Kamera",
+  "subtitle": "Ein Kunstwettbewerb diskutiert digitale Bearbeitung",
+  "category": "Kultur",
+  "emoji": "📷",
+  "color": "sky",
+  "german": [
+    "Bei einem regionalen Fotowettbewerb gewinnt ein beeindruckendes Landschaftsbild. Erst nach der Preisverleihung erfährt die Jury, dass der Fotograf mehrere Gegenstände digital entfernt und den Himmel durch eine andere Aufnahme ersetzt hat. In den Teilnahmebedingungen steht lediglich, dass „eigene Fotografien“ eingereicht werden dürfen. Wie weit Bearbeitungen gehen dürfen, bleibt ungeklärt.",
+    "Einige Teilnehmer werfen dem Gewinner Täuschung vor. Andere betonen, dass digitale Nachbearbeitung längst Teil moderner Fotografie sei. Juryvorsitzende Nadja möchte keine vorschnelle Entscheidung treffen. Sie bittet den Fotografen deshalb, die ursprünglichen Dateien zu zeigen, und lädt die Mitglieder zu einer erneuten Beratung ein.",
+    "Der Fotograf legt offen, welche Veränderungen er vorgenommen hat. Dabei stellt sich heraus, dass sowohl die Landschaft als auch die Himmelaufnahme von ihm selbst stammen. Die Jury entscheidet, den Preis diesmal nicht zurückzunehmen, die Bewertung jedoch ausführlich zu erklären. Für künftige Wettbewerbe werden zwei Kategorien eingeführt: dokumentarische und künstlerisch bearbeitete Fotografie.",
+    "Nadja ist nicht sicher, ob diese Unterscheidung alle Konflikte lösen wird. Trotzdem hält sie klare Regeln für fairer als nachträgliche Vermutungen. Der Fall hat gezeigt, wie schnell technische Möglichkeiten Fragen aufwerfen, für die ältere Begriffe keine eindeutigen Antworten mehr bieten."
+  ],
+  "english": [
+    "At a regional photography contest an impressive landscape image wins. Only after the award ceremony does the jury learn that the photographer digitally removed several objects and replaced the sky with another photograph. The competition rules merely say that “original photographs” may be submitted. They do not specify how much editing is permitted.",
+    "Some participants accuse the winner of deception. Others emphasize that digital post-processing is now a normal part of photography. Jury chair Nadja does not want to rush into a decision. She therefore asks the photographer to show the original files and invites the members to reconsider.",
+    "The photographer openly shows what he changed. It turns out that both the landscape and the sky image were taken by him. This time the jury decides not to revoke the prize, but explains its reasoning in detail. For future contests it introduces two categories: documentary photography and artistically edited photographs.",
+    "Nadja is not certain this distinction will solve every conflict. Nevertheless she considers clear rules fairer than retrospective assumptions. The case has shown how quickly technical possibilities raise questions for which older terms no longer provide clear answers."
+  ],
+  "questions": [
+    {
+      "question": "Warum wird das Siegerfoto diskutiert?",
+      "options": [
+        "Es wurde stark digital verändert",
+        "Es ist schwarzweiß",
+        "Es zeigt einen Berg"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Es wurde stark digital verändert."
+    },
+    {
+      "question": "Was ergibt die Prüfung?",
+      "options": [
+        "Die Kamera ist gestohlen",
+        "Das Bild ist vollständig unverändert",
+        "Beide Ausgangsfotos stammen vom Fotografen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Beide Ausgangsfotos stammen vom Fotografen."
+    },
+    {
+      "question": "Welche Änderung plant die Jury?",
+      "options": [
+        "Nur noch Gruppenfotos",
+        "Zwei Wettbewerbskategorien",
+        "Ein Verbot aller Kameras"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Zwei Wettbewerbskategorien."
+    }
+  ]
+}

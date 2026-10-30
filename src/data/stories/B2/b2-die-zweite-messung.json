@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-zweite-messung",
+  "level": "B2",
+  "title": "Die zweite Messung",
+  "subtitle": "Eine junge Forscherin stellt ein spektakuläres Ergebnis infrage",
+  "category": "Wissenschaft",
+  "emoji": "🔬",
+  "color": "sage",
+  "german": [
+    "Im Labor einer Universität wird ein ungewöhnliches Messergebnis gefeiert: Ein neues Material scheint deutlich weniger Energie zu benötigen als vergleichbare Produkte. Die Doktorandin Helena hat an den Versuchen mitgearbeitet, ist jedoch vorsichtig. Einige Messreihen weichen stark voneinander ab, obwohl die Bedingungen angeblich identisch waren.",
+    "Als Helena ihre Bedenken äußert, reagiert der Projektleiter zunächst enttäuscht. Er hofft auf eine baldige Veröffentlichung und fürchtet, dass zusätzliche Prüfungen den Zeitplan gefährden könnten. Helena schlägt dennoch vor, das Experiment mit einem zweiten Gerät zu wiederholen und die Messdaten von einer unabhängigen Gruppe kontrollieren zu lassen.",
+    "Bei der Wiederholung entdeckt das Team, dass ein Temperatursensor falsch kalibriert war. Dadurch waren die ersten Werte systematisch verzerrt. Das Material ist durchaus interessant, doch der ursprünglich vermutete Vorteil fällt erheblich kleiner aus. Die Nachricht sorgt zunächst für Frustration, aber auch für Erleichterung, weil der Fehler noch vor der Veröffentlichung entdeckt wurde.",
+    "Der Projektleiter bedankt sich schließlich bei Helena für ihre Beharrlichkeit. Gemeinsam schreiben sie einen Bericht, in dem sie sowohl die korrigierten Ergebnisse als auch die Ursache der Abweichung beschreiben. Für Helena bestätigt sich eine grundlegende Überzeugung: Wissenschaft gewinnt nicht dadurch an Vertrauen, dass Ergebnisse möglichst beeindruckend wirken, sondern dadurch, dass sie überprüfbar bleiben."
+  ],
+  "english": [
+    "At a university laboratory an unusual measurement result is celebrated: a new material seems to require much less energy than comparable products. Doctoral researcher Helena helped conduct the experiments but remains cautious. Several series of measurements differ substantially even though conditions were supposedly identical.",
+    "When Helena raises her concerns, the project leader is disappointed at first. He hopes to publish soon and fears additional checks may threaten the timetable. Nevertheless Helena suggests repeating the experiment using a second device and having an independent group review the data.",
+    "During the repeat tests the team discovers that a temperature sensor was incorrectly calibrated. This had systematically distorted the initial values. The material is still interesting, but the originally suspected advantage is much smaller. The news first causes frustration but also relief because the error was detected before publication.",
+    "Eventually the project leader thanks Helena for her persistence. Together they write a report describing both the corrected results and the cause of the discrepancy. For Helena it confirms a fundamental conviction: science does not gain trust by making results seem as impressive as possible, but by keeping them verifiable."
+  ],
+  "questions": [
+    {
+      "question": "Warum zweifelt Helena?",
+      "options": [
+        "Das Material ist bunt",
+        "Die Messreihen weichen stark voneinander ab",
+        "Die Kollegen sprechen zu leise"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Messreihen weichen stark voneinander ab."
+    },
+    {
+      "question": "Was verursacht den Fehler?",
+      "options": [
+        "Ein falsch kalibrierter Sensor",
+        "Ein Stromausfall",
+        "Eine verlorene Tabelle"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein falsch kalibrierter Sensor."
+    },
+    {
+      "question": "Wie geht das Team mit dem Ergebnis um?",
+      "options": [
+        "Es versteckt den Fehler",
+        "Es zerstört alle Geräte",
+        "Es veröffentlicht die korrigierte Erklärung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Es veröffentlicht die korrigierte Erklärung."
+    }
+  ]
+}

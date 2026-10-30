@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-unerwartete-erbschaft",
+  "level": "B2",
+  "title": "Die unerwartete Erbschaft",
+  "subtitle": "Eine Familie entscheidet über eine alte Werkstatt",
+  "category": "Familie",
+  "emoji": "🪚",
+  "color": "butter",
+  "german": [
+    "Nach dem Tod ihres Großvaters erben die Geschwister Lukas und Hannah eine kleine Tischlerwerkstatt. Während Lukas das Gebäude möglichst schnell verkaufen möchte, fühlt sich Hannah den Erinnerungen verpflichtet. Ihr Großvater hatte dort über vierzig Jahre gearbeitet und viele Möbel für Menschen aus der Nachbarschaft hergestellt.",
+    "Bei der Besichtigung entdecken sie sorgfältig geordnete Werkzeuge, Zeichnungen und unvollendete Arbeiten. Ein ehemaliger Mitarbeiter erklärt ihnen, dass es im Viertel kaum noch bezahlbare Werkstatträume gibt. Hannah schlägt daraufhin vor, zumindest einen Teil des Gebäudes an junge Handwerker zu vermieten. Lukas befürchtet jedoch zusätzliche Kosten und organisatorische Schwierigkeiten.",
+    "Statt weiter zu streiten, lassen beide ein unabhängiges Gutachten erstellen. Dabei zeigt sich, dass eine begrenzte Sanierung möglich wäre, sofern Sicherheitsauflagen eingehalten werden. Sie entwickeln schließlich ein Modell, bei dem ein erfahrener Verein die Räume verwaltet und die Geschwister eine feste Miete erhalten.",
+    "Ein Jahr später besuchen sie die Werkstatt erneut. Dort arbeiten nun mehrere Menschen an eigenen Projekten. Hannah freut sich, den Geruch des Holzes wiederzuerkennen. Auch Lukas ist zufrieden, weil die finanzielle Verantwortung klar geregelt wurde. Die Lösung entspricht keinem der ursprünglichen Wünsche vollständig, aber sie verbindet Erinnerung mit einer realistischen Zukunft."
+  ],
+  "english": [
+    "After their grandfather dies, siblings Lukas and Hannah inherit a small carpentry workshop. Lukas wants to sell the building as quickly as possible, while Hannah feels bound to its memories. Their grandfather worked there for over forty years and made furniture for many neighbors.",
+    "During an inspection they discover carefully organized tools, drawings and unfinished work. A former employee explains that affordable workshop spaces are now rare in the district. Hannah then suggests renting at least part of the building to young craftspeople. But Lukas fears additional costs and organizational difficulties.",
+    "Instead of continuing to argue, they commission an independent assessment. It shows that limited renovations would be possible if safety requirements were met. Eventually they develop a model in which an experienced association manages the rooms and the siblings receive fixed rent.",
+    "A year later they visit the workshop again. Several people are now working on their own projects there. Hannah is happy to recognize the smell of wood. Lukas is satisfied too because financial responsibilities are clearly defined. The solution fully matches neither person's original wish, but combines memories with a realistic future."
+  ],
+  "questions": [
+    {
+      "question": "Warum sind die Geschwister uneinig?",
+      "options": [
+        "Sie kennen das Gebäude nicht",
+        "Beide wollen dort wohnen",
+        "Verkauf gegen Erhalt der Werkstatt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Verkauf gegen Erhalt der Werkstatt."
+    },
+    {
+      "question": "Wozu dient das Gutachten?",
+      "options": [
+        "Es sucht neue Mitarbeiter",
+        "Es prüft Zustand und Möglichkeiten",
+        "Es bewertet alte Fotos"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Es prüft Zustand und Möglichkeiten."
+    },
+    {
+      "question": "Wer verwaltet die Werkstatt später?",
+      "options": [
+        "Ein Verein",
+        "Der Bürgermeister",
+        "Ein unbekannter Käufer"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein Verein."
+    }
+  ]
+}

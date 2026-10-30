@@ -1,0 +1,53 @@
+{
+  "id": "a2-das-boot-am-teich",
+  "level": "A2",
+  "title": "Das Boot am Teich",
+  "subtitle": "Zwei Kinder bauen ein kleines Segelboot",
+  "category": "Freizeit",
+  "emoji": "⛵",
+  "color": "rose",
+  "german": [
+    "Im Ferienprogramm dürfen Kinder ein kleines Boot bauen. Die Leiterin gibt jeder Gruppe Holz, Papier und Schnur. Mia und Jonas arbeiten zusammen. Sie wählen ein breites Stück Holz und basteln ein weißes Segel. Auf das Segel malen sie eine blaue Sonne. Danach befestigen sie alles mit Kleber.",
+    "Am Nachmittag gehen alle zu einem flachen Teich im Park. Die Leiterin erklärt die Regeln: Niemand darf ins Wasser gehen. Die Kinder setzen ihre Boote vorsichtig am Rand auf das Wasser. Ein leichter Wind beginnt zu wehen. Das Boot von Mia und Jonas fährt zuerst geradeaus, dann dreht es sich im Kreis.",
+    "Jonas ist enttäuscht. Mia schaut sich das Segel an und entdeckt, dass es schief steht. Sie holen das Boot mit einer langen Stange zurück. Dann befestigen sie das Segel neu. Beim zweiten Versuch fährt das Boot viel besser.",
+    "Am Ende bekommt jedes Kind ein kleines Foto von seinem Boot. Mia hängt ihres zu Hause neben den Schreibtisch. Sie möchte im nächsten Sommer wieder etwas bauen. Jonas schlägt vor, dann vielleicht sogar ein größeres Boot zu machen."
+  ],
+  "english": [
+    "At a holiday programme children may build a small boat. The leader gives each group wood, paper and string. Mia and Jonas work together. They choose a broad piece of wood and make a white sail. They paint a blue sun on the sail. Then they attach everything with glue.",
+    "In the afternoon everyone goes to a shallow pond in the park. The leader explains the rules: nobody may go into the water. The children carefully place their boats on the water's edge. A light wind begins to blow. At first Mia and Jonas's boat travels straight ahead, but then it turns in circles.",
+    "Jonas is disappointed. Mia looks at the sail and notices it is crooked. They retrieve the boat with a long pole. Then they fix the sail again. On the second try the boat travels much better.",
+    "At the end every child receives a little photo of their boat. Mia puts hers beside her desk at home. She wants to build something again next summer. Jonas suggests that perhaps they could make a larger boat next time."
+  ],
+  "questions": [
+    {
+      "question": "Woraus bauen die Kinder das Boot?",
+      "options": [
+        "Aus Stein",
+        "Aus Holz und Papier",
+        "Aus Glas"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Aus Holz und Papier."
+    },
+    {
+      "question": "Was ist beim ersten Versuch falsch?",
+      "options": [
+        "Das Segel steht schief",
+        "Das Wasser fehlt",
+        "Der Teich ist geschlossen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Das Segel steht schief."
+    },
+    {
+      "question": "Was bekommen die Kinder am Ende?",
+      "options": [
+        "Eine Medaille",
+        "Ein Buch",
+        "Ein Foto"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Foto."
+    }
+  ]
+}

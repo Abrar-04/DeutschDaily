@@ -1,0 +1,53 @@
+{
+  "id": "a2-eine-ueberraschung-im-briefkasten",
+  "level": "A2",
+  "title": "Eine Überraschung im Briefkasten",
+  "subtitle": "Ein Dankeschön erreicht die richtige Person",
+  "category": "Nachbarschaft",
+  "emoji": "📬",
+  "color": "lavender",
+  "german": [
+    "Vor drei Wochen hat Selin ihrer Nachbarin beim Tragen geholfen. Frau Müller hatte schwere Einkaufstaschen und konnte die Treppe kaum hochgehen. Selin nahm zwei Taschen und brachte sie bis zur Wohnung im dritten Stock. Danach ging sie schnell zur Arbeit. Sie dachte später kaum noch daran.",
+    "Heute findet Selin einen kleinen Umschlag in ihrem Briefkasten. Darin liegt eine Karte mit einem Bild von Sonnenblumen. Frau Müller hat geschrieben: „Vielen Dank für deine Hilfe. Du hast mir den Tag leichter gemacht.“ Neben der Karte liegt ein kleiner Gutschein für das Café an der Ecke.",
+    "Selin freut sich, möchte aber nicht, dass Frau Müller Geld für sie ausgibt. Sie klingelt bei der Nachbarin und bedankt sich für die Karte. Frau Müller sagt, dass sie gern eine kleine Freude machen wollte. Die beiden reden eine Weile an der Wohnungstür.",
+    "Am Wochenende gehen sie zusammen in das Café. Selin benutzt den Gutschein für zwei Stück Kuchen und zwei Tassen Tee. Sie erzählt von ihrer Arbeit, Frau Müller von ihrem Garten. Ein kleines Dankeschön wird so zu einem schönen gemeinsamen Nachmittag."
+  ],
+  "english": [
+    "Three weeks ago Selin helped her neighbor carry groceries. Mrs Müller had heavy shopping bags and could barely climb the stairs. Selin took two bags and carried them up to the third-floor apartment. Then she hurried to work. She hardly thought about it afterward.",
+    "Today Selin finds a small envelope in her mailbox. Inside is a card with a picture of sunflowers. Mrs Müller has written: “Thank you very much for your help. You made my day easier.” Beside the card is a small voucher for the café on the corner.",
+    "Selin is happy, but does not want Mrs Müller to spend money on her. She rings her neighbor's bell and thanks her for the card. Mrs Müller says she simply wanted to bring a little joy. They talk for a while at the apartment door.",
+    "At the weekend they go to the café together. Selin uses the voucher for two pieces of cake and two cups of tea. She talks about her work and Mrs Müller talks about her garden. A small thank-you turns into a lovely afternoon together."
+  ],
+  "questions": [
+    {
+      "question": "Wobei hat Selin geholfen?",
+      "options": [
+        "Beim Malen",
+        "Beim Kochen",
+        "Beim Tragen von Taschen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Beim Tragen von Taschen."
+    },
+    {
+      "question": "Was liegt im Umschlag?",
+      "options": [
+        "Ein Zugticket",
+        "Eine Karte und ein Gutschein",
+        "Eine Rechnung"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Karte und ein Gutschein."
+    },
+    {
+      "question": "Was machen die beiden am Wochenende?",
+      "options": [
+        "Sie gehen ins Café",
+        "Sie fahren ans Meer",
+        "Sie gehen schwimmen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie gehen ins Café."
+    }
+  ]
+}

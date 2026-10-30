@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-kamera-am-fluss",
+  "level": "B1",
+  "title": "Die Kamera am Fluss",
+  "subtitle": "Ein Hobbyfotograf lernt, geduldig zu sein",
+  "category": "Natur",
+  "emoji": "📸",
+  "color": "peach",
+  "german": [
+    "Paul fotografiert gern Tiere, doch meistens gelingen ihm nur unscharfe Bilder. Deshalb nimmt er an einem Kurs für Naturfotografie teil. Der Kursleiter führt die Gruppe früh am Morgen zu einem Fluss. Er erklärt, dass gute Tierfotos oft viel Zeit brauchen, weil man die Tiere nicht stören darf.",
+    "Die Teilnehmer setzen sich mit etwas Abstand ans Ufer und warten. Zunächst passiert fast nichts. Paul wird ungeduldig und möchte den Platz wechseln. Seine Nachbarin zeigt ihm jedoch eine kleine Bewegung zwischen den Schilfhalmen. Dort sitzt ein Eisvogel, dessen blaues Gefieder in der Morgensonne leuchtet.",
+    "Paul hebt die Kamera ganz langsam. Er macht mehrere Aufnahmen, ohne sich dem Vogel zu nähern. Als das Tier schließlich davonfliegt, kontrolliert er die Fotos. Zwei davon sind scharf. Auf einem ist sogar ein kleiner Fisch im Schnabel zu sehen.",
+    "Während der Rückfahrt spricht die Gruppe über ihre Beobachtungen. Paul merkt, dass er heute mehr über Ruhe als über Kameraeinstellungen gelernt hat. Zu Hause druckt er sein bestes Bild aus. Es hängt nun über seinem Schreibtisch und erinnert ihn daran, dass Geduld manchmal der wichtigste Teil eines Hobbys ist."
+  ],
+  "english": [
+    "Paul enjoys photographing animals, but most of his pictures turn out blurry. So he attends a wildlife photography course. The instructor leads the group to a river early in the morning. He explains that good animal photographs often take a lot of time because the animals must not be disturbed.",
+    "The participants sit some distance from the bank and wait. At first almost nothing happens. Paul becomes impatient and wants to move. But the woman next to him points out a small movement among the reeds. A kingfisher is sitting there, its blue feathers shining in the morning sun.",
+    "Paul raises his camera very slowly. He takes several photos without approaching the bird. When it finally flies away, he checks the pictures. Two are sharp. In one he can even see a little fish in its beak.",
+    "During the trip home the group discusses what it saw. Paul realizes that he has learned more about patience than camera settings today. At home he prints his best photograph. It now hangs above his desk and reminds him that patience is sometimes the most important part of a hobby."
+  ],
+  "questions": [
+    {
+      "question": "Was möchte Paul lernen?",
+      "options": [
+        "Tiere besser zu fotografieren",
+        "Schneller zu laufen",
+        "Ein Instrument zu spielen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Tiere besser zu fotografieren."
+    },
+    {
+      "question": "Welchen Vogel entdeckt er?",
+      "options": [
+        "Einen Adler",
+        "Einen Pinguin",
+        "Einen Eisvogel"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Einen Eisvogel."
+    },
+    {
+      "question": "Was lernt er besonders?",
+      "options": [
+        "Kochen",
+        "Geduld",
+        "Singen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Geduld."
+    }
+  ]
+}

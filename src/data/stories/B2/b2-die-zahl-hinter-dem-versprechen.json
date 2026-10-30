@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-zahl-hinter-dem-versprechen",
+  "level": "B2",
+  "title": "Die Zahl hinter dem Versprechen",
+  "subtitle": "Eine Softwarefirma prüft ihren Umweltbericht",
+  "category": "Wirtschaft",
+  "emoji": "📉",
+  "color": "peach",
+  "german": [
+    "Ein Softwareunternehmen veröffentlicht stolz, seine digitale Plattform spare jährlich Tausende Tonnen Kohlendioxid. Die Zahl stammt aus einer internen Berechnung, bei der jede Onlinebesprechung automatisch als vermiedene Geschäftsreise gezählt wird. Nachhaltigkeitsmanagerin Eva bekommt Zweifel, als sie erfährt, dass viele dieser Treffen auch ohne Plattform per Telefon stattgefunden hätten.",
+    "Sie bittet das Team, die Annahmen offen zu dokumentieren. Dabei wird deutlich, dass manche Einsparungen zu hoch angesetzt wurden, während der Energiebedarf der verwendeten Server nur grob geschätzt war. Eva schlägt vor, unterschiedliche Szenarien zu berechnen und die Ergebnisse als Bandbreite statt als eine einzige scheinbar exakte Zahl zu veröffentlichen.",
+    "Die Geschäftsführung befürchtet zunächst, ein vorsichtiger Bericht könne weniger überzeugend wirken. Eva argumentiert jedoch, dass übertriebene Aussagen langfristig das Vertrauen der Kunden beschädigen könnten. Nach einer internen Prüfung werden die Werbematerialien angepasst und die Unsicherheiten verständlich erläutert.",
+    "Der neue Bericht enthält eine niedrigere Schätzung, bietet aber bessere Informationen über die Methodik. Eva betrachtet dies nicht als Niederlage. Sie ist überzeugt, dass Glaubwürdigkeit gerade dann entsteht, wenn ein Unternehmen bereit ist, eigene Annahmen zu korrigieren und nicht jede positive Zahl ungeprüft zu wiederholen."
+  ],
+  "english": [
+    "A software company proudly announces that its digital platform saves thousands of tonnes of carbon dioxide each year. The figure comes from an internal calculation that counts every online meeting as a business trip avoided. Sustainability manager Eva begins to doubt it when she learns that many of these meetings would have taken place by telephone even without the platform.",
+    "She asks the team to document its assumptions openly. It becomes clear that some savings were overstated, while the energy needs of the servers were estimated only roughly. Eva suggests calculating different scenarios and publishing a range rather than one apparently exact number.",
+    "Management initially fears that a more cautious report may seem less convincing. But Eva argues that exaggerated claims could damage customer trust over time. After an internal review the marketing materials are adjusted and uncertainties are explained clearly.",
+    "The new report contains a lower estimate, but offers better information about the methodology. Eva does not consider this a defeat. She is convinced that credibility arises precisely when a company is willing to correct its assumptions instead of repeating every positive number without checking it."
+  ],
+  "questions": [
+    {
+      "question": "Welche Annahme ist fragwürdig?",
+      "options": [
+        "Jedes Onlinemeeting ersetzt eine Reise",
+        "Server benötigen Energie",
+        "Treffen dauern unterschiedlich lange"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Jedes Onlinemeeting ersetzt eine Reise."
+    },
+    {
+      "question": "Wie werden Ergebnisse künftig dargestellt?",
+      "options": [
+        "Als perfekte Zahl ohne Erklärung",
+        "Gar nicht mehr",
+        "Als Bandbreite mit Annahmen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Als Bandbreite mit Annahmen."
+    },
+    {
+      "question": "Was ist Evas wichtigstes Ziel?",
+      "options": [
+        "Weniger Berichte um jeden Preis",
+        "Glaubwürdige Aussagen",
+        "Möglichst hohe Zahlen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Glaubwürdige Aussagen."
+    }
+  ]
+}

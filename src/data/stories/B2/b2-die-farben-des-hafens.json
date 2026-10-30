@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-farben-des-hafens",
+  "level": "B2",
+  "title": "Die Farben des Hafens",
+  "subtitle": "Eine Künstlerin gestaltet einen öffentlichen Ort neu",
+  "category": "Kultur",
+  "emoji": "🎨",
+  "color": "sage",
+  "german": [
+    "Ein Hafenviertel soll durch ein großflächiges Wandbild attraktiver werden. Die Stadt beauftragt dafür die Künstlerin Caro, die für ihre farbigen Arbeiten bekannt ist. Ihr erster Entwurf zeigt abstrakte Wellen und Schiffe. Während die Verwaltung begeistert reagiert, äußern einige Hafenarbeiter Kritik: Das Bild erinnere eher an einen Ferienprospekt als an ihren tatsächlichen Arbeitsalltag.",
+    "Caro ist zunächst gekränkt, weil sie viel Zeit in die Gestaltung investiert hat. Statt den Entwurf zu verteidigen, begleitet sie jedoch mehrere Beschäftigte auf ihren Rundgängen. Sie erfährt, wie viele unterschiedliche Berufe im Hafen zusammenarbeiten und welche Veränderungen die Menschen in den vergangenen Jahren erlebt haben.",
+    "Auf dieser Grundlage entwickelt sie ein neues Konzept. Neben Wasser und Schiffen erscheinen nun auch Kräne, Hände und Muster aus alten technischen Zeichnungen. Eine kleine Begleitfläche enthält kurze Aussagen von Arbeitern, die dafür ausdrücklich zugestimmt haben. Die Stadt prüft, ob alle verwendeten Flächen für die Malerei geeignet sind.",
+    "Als das fertige Bild enthüllt wird, diskutieren die Besucher lebhaft über seine Details. Nicht jedem gefällt die neue Gestaltung, doch die Beschäftigten erkennen viele ihrer Erfahrungen wieder. Caro hat gelernt, dass öffentliche Kunst manchmal überzeugender wird, wenn man den Ort nicht nur betrachtet, sondern den Menschen dort wirklich zuhört."
+  ],
+  "english": [
+    "A harbour district is to become more attractive through a large mural. The city commissions artist Caro, known for her colourful work. Her first design shows abstract waves and ships. While the administration reacts enthusiastically, some dockworkers criticize it: the image reminds them more of a holiday brochure than their actual working life.",
+    "Caro is initially hurt because she has invested much time in the design. Instead of defending it, however, she accompanies several workers on their rounds. She learns how many different professions collaborate at the harbour and what changes people have experienced in recent years.",
+    "On that basis she develops a new concept. Alongside water and ships, cranes, hands and patterns from old engineering drawings now appear. A small adjacent section contains short statements from workers who explicitly agreed to be quoted. The city checks whether the surfaces are suitable for painting.",
+    "When the completed picture is unveiled, visitors discuss its details lively. Not everyone likes the new design, but employees recognize many of their experiences. Caro has learned that public art sometimes becomes more convincing when one not only looks at a place but genuinely listens to the people there."
+  ],
+  "questions": [
+    {
+      "question": "Warum kritisieren Hafenarbeiter den ersten Entwurf?",
+      "options": [
+        "Er enthält zu viele Kräne",
+        "Er zeigt ihren Alltag kaum",
+        "Er ist zu klein"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Er zeigt ihren Alltag kaum."
+    },
+    {
+      "question": "Was tut Caro daraufhin?",
+      "options": [
+        "Sie begleitet Beschäftigte bei ihrer Arbeit",
+        "Sie bricht den Auftrag ab",
+        "Sie malt ohne Gespräche weiter"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie begleitet Beschäftigte bei ihrer Arbeit."
+    },
+    {
+      "question": "Was zeigt das neue Bild zusätzlich?",
+      "options": [
+        "Nur Strand und Sonne",
+        "Nur Tiere",
+        "Arbeitswelt und technische Motive"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Arbeitswelt und technische Motive."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-buehne-und-die-nachtruhe",
+  "level": "B2",
+  "title": "Die Bühne und die Nachtruhe",
+  "subtitle": "Ein Festival sucht einen Kompromiss mit seinem Viertel",
+  "category": "Kultur",
+  "emoji": "🎸",
+  "color": "lavender",
+  "german": [
+    "Ein jährliches Musikfestival lockt zahlreiche Besucher in ein ehemals industrielles Stadtviertel. Für Cafés und Geschäfte bedeutet die Veranstaltung hohe Umsätze. Gleichzeitig klagen Anwohner zunehmend über nächtlichen Lärm und blockierte Straßen. Die Organisatoren betonen den kulturellen Wert des Festivals, während eine Bürgerinitiative eine deutliche Verkürzung fordert.",
+    "Bei einer öffentlichen Anhörung wird schnell klar, dass beide Seiten nicht nur unterschiedliche Interessen, sondern auch verschiedene Erfahrungen mit der Veranstaltung haben. Musiker sprechen über fehlende Auftrittsmöglichkeiten, Familien über schlaflose Nächte und Beschäftigte über ihre zusätzlichen Einnahmen.",
+    "Festivalleiterin Luise schlägt ein neues Konzept vor: Späte Konzerte werden in geschlossene Räume verlegt, die Freiluftbühnen enden früher und ein unabhängiges Team misst den Lärm. Außerdem sollen Anwohner vorab über besonders stark besuchte Tage informiert werden. Die Stadt stimmt einem einjährigen Versuch zu.",
+    "Nach dem Festival fallen die Rückmeldungen gemischt aus. Die Beschwerden haben abgenommen, allerdings mussten manche Programmpunkte verschoben werden. Luise sieht darin keinen Beweis, dass der Konflikt endgültig gelöst ist. Sie möchte die Maßnahmen gemeinsam weiterentwickeln. Ihr ist deutlich geworden, dass kulturelle Freiheit glaubwürdiger verteidigt werden kann, wenn auch die Bedürfnisse der Nachbarschaft ernst genommen werden."
+  ],
+  "english": [
+    "An annual music festival attracts numerous visitors to a former industrial district. For cafés and shops the event means high sales. At the same time residents increasingly complain about night-time noise and blocked streets. Organizers emphasize the festival's cultural value, while a citizens' group demands a significant reduction in its duration.",
+    "At a public hearing it quickly becomes clear that both sides have not only different interests but also different experiences of the event. Musicians speak about limited performance opportunities, families about sleepless nights, and workers about extra income.",
+    "Festival director Luise proposes a new plan: late concerts move indoors, outdoor stages finish earlier and an independent team measures noise. Residents will also receive advance information about particularly busy days. The city agrees to a one-year trial.",
+    "After the festival feedback is mixed. Complaints have decreased, but some performances had to be rescheduled. Luise does not see this as proof that the conflict is permanently resolved. She wants to keep developing the measures together. She has realized that cultural freedom can be defended more convincingly when the neighborhood's needs are taken seriously too."
+  ],
+  "questions": [
+    {
+      "question": "Worin besteht der Konflikt?",
+      "options": [
+        "Zu wenig Eintrittskarten",
+        "Zu viele Restaurants",
+        "Festivalbetrieb und Nachtruhe"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Festivalbetrieb und Nachtruhe."
+    },
+    {
+      "question": "Was verändert Luise?",
+      "options": [
+        "Das Festival wird sofort abgeschafft",
+        "Späte Konzerte finden drinnen statt",
+        "Alle Bühnen werden größer"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Späte Konzerte finden drinnen statt."
+    },
+    {
+      "question": "Wie bewertet sie die Ergebnisse?",
+      "options": [
+        "Als Fortschritt mit offenem Verbesserungsbedarf",
+        "Als endgültige perfekte Lösung",
+        "Als vollständiges Scheitern"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Als Fortschritt mit offenem Verbesserungsbedarf."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-fahrrad-fuer-oma",
+  "level": "A2",
+  "title": "Ein Fahrrad für Oma",
+  "subtitle": "Eine Großmutter probiert etwas Neues",
+  "category": "Familie",
+  "emoji": "🚲",
+  "color": "butter",
+  "german": [
+    "Oma Ingrid ist siebzig Jahre alt. Früher ist sie jeden Tag Fahrrad gefahren, aber seit vielen Jahren hat sie kein Rad mehr. Ihre Enkelin Tessa findet das schade. Deshalb bringt sie am Sonntag ein Fahrrad zu Besuch mit. Es ist klein, blau und hat einen Korb für Einkäufe.",
+    "Ingrid sieht das Rad und lacht. „Ich bin doch viel zu alt dafür!“, sagt sie. Tessa widerspricht: „Wir können ganz langsam fahren.“ Zuerst übt Ingrid im Hof. Tessa hält den Sattel fest. Nach zehn Minuten fährt Ingrid allein bis zum Gartentor. Sie ist überrascht, wie gut es klappt.",
+    "Später machen beide eine kurze Fahrt zum See. Ingrid braucht unterwegs zwei Pausen. Sie sitzt auf einer Bank, trinkt Wasser und beobachtet die Enten. Auf dem Rückweg wird sie immer sicherer. Am Ende möchte sie sogar einen kleinen Umweg fahren.",
+    "Zu Hause stellt Ingrid das Fahrrad neben die Haustür. Sie bedankt sich bei Tessa und fragt sofort nach einem Schloss. Am Montag will sie mit dem Rad zum Markt fahren. Den großen Einkaufskorb hat sie schon bereitgestellt."
+  ],
+  "english": [
+    "Grandma Ingrid is seventy years old. She used to ride a bicycle every day, but she has not owned one for many years. Her granddaughter Tessa thinks that is a shame. So she brings a bicycle when she visits on Sunday. It is small, blue and has a basket for shopping.",
+    "Ingrid sees the bike and laughs. “I'm far too old for that!” she says. Tessa disagrees: “We can go very slowly.” First Ingrid practises in the courtyard. Tessa holds the saddle. After ten minutes Ingrid rides to the garden gate on her own. She is surprised by how well it goes.",
+    "Later they take a short ride to the lake. Ingrid needs two breaks along the way. She sits on a bench, drinks water and watches the ducks. On the way back she feels more confident. By the end she even wants to take a little detour.",
+    "At home Ingrid parks the bicycle beside the front door. She thanks Tessa and immediately asks for a lock. On Monday she wants to ride to the market. She has already got the big shopping basket ready."
+  ],
+  "questions": [
+    {
+      "question": "Welche Farbe hat das Fahrrad?",
+      "options": [
+        "Gelb",
+        "Schwarz",
+        "Blau"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Blau."
+    },
+    {
+      "question": "Wo übt Ingrid zuerst?",
+      "options": [
+        "In der Turnhalle",
+        "Im Hof",
+        "Auf der Autobahn"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Im Hof."
+    },
+    {
+      "question": "Wohin möchte sie am Montag fahren?",
+      "options": [
+        "Zum Markt",
+        "Zum Flughafen",
+        "Zum Kino"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Zum Markt."
+    }
+  ]
+}

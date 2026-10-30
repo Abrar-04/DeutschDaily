@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-postkarte-an-den-buergermeister",
+  "level": "B1",
+  "title": "Die Postkarte an den Bürgermeister",
+  "subtitle": "Ein Kind wünscht sich einen sicheren Schulweg",
+  "category": "Stadt",
+  "emoji": "🚦",
+  "color": "peach",
+  "german": [
+    "Jeden Morgen muss der zehnjährige Noah eine breite Straße überqueren, um zur Schule zu kommen. Zwar gibt es eine Ampel, doch die Grünphase ist ziemlich kurz. Besonders mit seinem kleinen Bruder hat Noah manchmal Schwierigkeiten, rechtzeitig die andere Seite zu erreichen. Seine Mutter schlägt vor, das Problem der Stadt zu melden.",
+    "Noah möchte selbst etwas tun. Im Unterricht lernt seine Klasse gerade, wie man Briefe schreibt. Deshalb entwirft er eine Postkarte an den Bürgermeister. Er beschreibt die Situation und malt eine kleine Zeichnung der Kreuzung dazu. Seine Lehrerin hilft ihm, die Adresse richtig aufzuschreiben.",
+    "Drei Wochen später erhält Noah eine Antwort aus dem Rathaus. Mitarbeiter haben die Ampel geprüft und festgestellt, dass viele Menschen dort mehr Zeit benötigen. Die Stadt will deshalb eine längere Grünphase testen. Außerdem soll ein neues Schild Autofahrer auf die Schule aufmerksam machen.",
+    "Als die Änderung umgesetzt wird, geht Noah mit seinem Bruder erneut über die Straße. Diesmal erreichen sie den anderen Gehweg ohne Eile. Noah ist stolz, dass seine Postkarte ernst genommen wurde. Er erzählt seiner Klasse davon und ermutigt die anderen, Probleme in ihrer Umgebung ebenfalls freundlich und genau zu beschreiben."
+  ],
+  "english": [
+    "Every morning ten-year-old Noah has to cross a wide road to get to school. There is a traffic light, but the green phase is quite short. Especially when walking with his little brother, Noah sometimes struggles to reach the other side in time. His mother suggests reporting the problem to the city.",
+    "Noah wants to do something himself. His class is currently learning how to write letters. So he drafts a postcard to the mayor. He describes the situation and adds a small drawing of the junction. His teacher helps him write the address correctly.",
+    "Three weeks later Noah gets a reply from the town hall. Staff have checked the traffic light and found that many people need more time there. So the city wants to test a longer green phase. A new sign should also remind drivers of the nearby school.",
+    "When the change is made, Noah crosses the road again with his brother. This time they reach the other pavement without rushing. Noah is proud that his postcard was taken seriously. He tells his class and encourages others to describe problems in their surroundings politely and precisely too."
+  ],
+  "questions": [
+    {
+      "question": "Was ist an der Ampel schwierig?",
+      "options": [
+        "Die Grünphase ist zu kurz",
+        "Es gibt keine Autos",
+        "Die Straße ist zu eng"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Grünphase ist zu kurz."
+    },
+    {
+      "question": "An wen schreibt Noah?",
+      "options": [
+        "An einen Sänger",
+        "An einen Sportler",
+        "An den Bürgermeister"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: An den Bürgermeister."
+    },
+    {
+      "question": "Was wird getestet?",
+      "options": [
+        "Eine neue Buslinie",
+        "Eine längere Grünphase",
+        "Ein Fahrverbot für Fahrräder"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine längere Grünphase."
+    }
+  ]
+}

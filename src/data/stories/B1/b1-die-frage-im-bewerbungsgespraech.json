@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-frage-im-bewerbungsgespraech",
+  "level": "B1",
+  "title": "Die Frage im Bewerbungsgespräch",
+  "subtitle": "Eine unerwartete Antwort überzeugt",
+  "category": "Arbeit",
+  "emoji": "💼",
+  "color": "lavender",
+  "german": [
+    "Nora bereitet sich seit Tagen auf ein Bewerbungsgespräch vor. Sie liest Informationen über die Firma, übt typische Fragen und legt ihre Unterlagen ordentlich in eine Mappe. Am Morgen des Termins ist sie trotzdem nervös. Besonders fürchtet sie die Frage nach ihren Schwächen.",
+    "Das Gespräch läuft zunächst gut. Dann fragt der Teamleiter plötzlich: „Erzählen Sie uns von einem Fehler, über den Sie heute lachen können.“ Nora denkt kurz nach und berichtet von einer Präsentation, bei der sie die falsche Datei geöffnet hatte. Statt die Situation zu verstecken, erklärte sie den Irrtum und setzte den Vortrag mit einfachen Zeichnungen fort.",
+    "Der Teamleiter möchte wissen, was sie daraus gelernt hat. Nora antwortet, dass sie wichtige Dateien inzwischen immer vorher kontrolliert und zusätzlich eine kurze Zusammenfassung vorbereitet. Dadurch fühlt sie sich auch bei technischen Problemen sicherer. Die Gesprächspartner lächeln und stellen weitere Fragen.",
+    "Eine Woche später erhält Nora eine Zusage. In der Nachricht steht, dass dem Team besonders ihre ruhige Reaktion auf Fehler gefallen hat. Nora freut sich. Sie hätte nicht gedacht, dass ausgerechnet eine peinliche Erinnerung ihr helfen könnte, einen neuen Job zu bekommen."
+  ],
+  "english": [
+    "Nora has been preparing for a job interview for days. She reads information about the company, practises typical questions and puts her documents neatly into a folder. On the morning of the appointment she is nervous nonetheless. She is particularly afraid of the question about weaknesses.",
+    "The interview goes well at first. Then the team leader suddenly asks, “Tell us about a mistake you can laugh about today.” Nora thinks for a moment and describes a presentation where she opened the wrong file. Instead of hiding the situation, she explained the error and continued the talk using simple drawings.",
+    "The team leader wants to know what she learned from it. Nora replies that she now always checks important files in advance and prepares a short summary as a backup. This also makes her feel more confident when technical problems occur. The interviewers smile and ask further questions.",
+    "A week later Nora receives an offer. The message says the team particularly liked her calm reaction to mistakes. Nora is happy. She had not thought that an embarrassing memory might help her get a new job."
+  ],
+  "questions": [
+    {
+      "question": "Wovor hat Nora besonders Angst?",
+      "options": [
+        "Vor dem Gebäude",
+        "Vor dem Arbeitsweg",
+        "Vor der Frage nach Schwächen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Vor der Frage nach Schwächen."
+    },
+    {
+      "question": "Wie rettete sie die Präsentation?",
+      "options": [
+        "Mit einem neuen Computer",
+        "Mit einfachen Zeichnungen",
+        "Mit Musik"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Mit einfachen Zeichnungen."
+    },
+    {
+      "question": "Was gefällt dem Team?",
+      "options": [
+        "Ihr Umgang mit Fehlern",
+        "Ihre Schuhe",
+        "Ihr schneller Arbeitsweg"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ihr Umgang mit Fehlern."
+    }
+  ]
+}

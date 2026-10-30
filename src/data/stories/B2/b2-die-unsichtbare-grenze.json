@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-unsichtbare-grenze",
+  "level": "B2",
+  "title": "Die unsichtbare Grenze",
+  "subtitle": "Eine Lehrerin untersucht ungleiche Chancen bei einer Exkursion",
+  "category": "Bildung",
+  "emoji": "🚌",
+  "color": "sage",
+  "german": [
+    "Als eine Schule eine dreitägige Klassenfahrt plant, melden sich auffallend wenige Jugendliche an. Die Lehrkräfte vermuten zunächst, dass der Ausflug nicht interessant genug sei. Klassenlehrerin Karla führt deshalb anonyme Gespräche und entdeckt, dass viele Familien die zusätzliche finanzielle Belastung kaum tragen können. Einige Kinder möchten nicht darüber sprechen, weil sie sich schämen.",
+    "Karla schlägt vor, die Finanzierung zu verändern, statt die nicht angemeldeten Schüler öffentlich nach ihren Gründen zu fragen. Gemeinsam mit dem Förderverein organisiert die Schule einen Fonds, aus dem Zuschüsse ohne persönliche Bekanntmachung vergeben werden. Gleichzeitig wird das Programm so angepasst, dass der Gesamtpreis sinkt, ohne wesentliche Lernziele aufzugeben.",
+    "Bei der nächsten Informationsveranstaltung erklärt Karla offen, welche Unterstützungsmöglichkeiten bestehen. Die Zahl der Anmeldungen steigt erheblich. Trotzdem weist sie darauf hin, dass Geld nicht der einzige mögliche Grund für eine Absage sei. Manche Familien haben gesundheitliche oder persönliche Bedenken, die respektiert werden müssen.",
+    "Nach der Reise berichtet die Klasse begeistert von den gemeinsamen Erlebnissen. Karla ist froh, dass mehr Jugendliche teilnehmen konnten. Noch wichtiger erscheint ihr jedoch die Erkenntnis, dass scheinbar freiwillige Entscheidungen manchmal von unsichtbaren Hindernissen beeinflusst werden. Die Schule möchte diese künftig früher berücksichtigen."
+  ],
+  "english": [
+    "When a school plans a three-day class trip, surprisingly few teenagers sign up. The teachers initially assume the excursion is not interesting enough. Class teacher Karla therefore conducts anonymous conversations and discovers that many families can barely afford the additional cost. Some children do not want to discuss it because they feel ashamed.",
+    "Karla suggests changing the funding rather than publicly asking students who have not registered for their reasons. Together with the parents' association the school creates a fund offering subsidies without publicly identifying recipients. At the same time the programme is adjusted to lower the overall price without abandoning essential educational aims.",
+    "At the next information evening Karla openly explains the available support. Registrations increase considerably. Nevertheless she points out that money is not the only possible reason for declining. Some families have health or personal concerns that must be respected.",
+    "After the trip the class enthusiastically describes its shared experiences. Karla is glad more teenagers could participate. Even more important to her is the realization that seemingly voluntary decisions are sometimes influenced by invisible obstacles. The school wants to take these into account earlier in future."
+  ],
+  "questions": [
+    {
+      "question": "Was hält viele Familien von der Fahrt ab?",
+      "options": [
+        "Die langen Texte",
+        "Die finanzielle Belastung",
+        "Die schlechte Wettervorhersage"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die finanzielle Belastung."
+    },
+    {
+      "question": "Wie wird Unterstützung organisiert?",
+      "options": [
+        "Diskret über einen Fonds",
+        "Durch öffentliche Listen",
+        "Nur für die besten Noten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Diskret über einen Fonds."
+    },
+    {
+      "question": "Was betont Karla außerdem?",
+      "options": [
+        "Alle müssen teilnehmen",
+        "Geld erklärt immer alles",
+        "Es kann weitere persönliche Gründe geben"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Es kann weitere persönliche Gründe geben."
+    }
+  ]
+}

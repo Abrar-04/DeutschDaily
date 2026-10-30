@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-preis-einer-guten-idee",
+  "level": "B1",
+  "title": "Der Preis einer guten Idee",
+  "subtitle": "Ein Schülerprojekt wird unerwartet öffentlich",
+  "category": "Technik",
+  "emoji": "💻",
+  "color": "lavender",
+  "german": [
+    "Für den Informatikunterricht entwickelt Farid mit zwei Mitschülerinnen eine kleine Webseite. Sie zeigt, wo in ihrer Stadt öffentliche Trinkbrunnen stehen. Die Daten sammeln sie selbst, indem sie nach der Schule verschiedene Plätze besuchen. Zunächst soll die Seite nur ein Projekt für ihre Klasse sein.",
+    "Nachdem die Lehrerin den Link im Schulnewsletter geteilt hat, nutzen plötzlich viele Menschen die Karte. Einige melden fehlende Brunnen, andere weisen auf falsche Öffnungszeiten hin. Farid freut sich, merkt aber, dass die Informationen regelmäßig überprüft werden müssen. Sonst könnten Besucher an einem Brunnen ankommen, der gerade nicht funktioniert.",
+    "Das Team baut deshalb ein einfaches Formular für Hinweise ein. Neue Einträge werden jedoch erst angezeigt, nachdem die Schüler sie kontrolliert haben. Bei einem Jugendwettbewerb bekommt die Gruppe später einen kleinen Preis für die praktische Idee. Das Preisgeld reicht für eine gemeinsame Klassenfahrt nicht, aber für neue Geräte im Informatikraum.",
+    "Farid ist besonders stolz darauf, dass die Webseite Menschen tatsächlich hilft. Gleichzeitig hat er verstanden, dass ein digitales Projekt nicht fertig ist, sobald es online steht. Gute Informationen brauchen Pflege, und Nutzerhinweise können dabei sehr wertvoll sein."
+  ],
+  "english": [
+    "For a computer science class Farid and two classmates develop a small website. It shows where public drinking fountains are located in their town. They collect the data themselves by visiting various places after school. At first the site is meant to be only a class project.",
+    "After the teacher shares the link in the school newsletter, many people suddenly use the map. Some report missing fountains, while others point out incorrect opening times. Farid is happy, but realizes the information must be checked regularly. Otherwise visitors could arrive at a fountain that is not working.",
+    "So the team adds a simple form for suggestions. However, new entries appear only after the pupils have checked them. Later the group receives a small prize at a youth competition for their practical idea. The money is not enough for a class trip but is enough for new equipment in the computer room.",
+    "Farid is particularly proud that the website actually helps people. At the same time he has learned that a digital project is not finished the moment it goes online. Good information needs maintenance, and user feedback can be very valuable."
+  ],
+  "questions": [
+    {
+      "question": "Was zeigt die Webseite?",
+      "options": [
+        "Alle Restaurants",
+        "Fahrradrennen",
+        "Öffentliche Trinkbrunnen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Öffentliche Trinkbrunnen."
+    },
+    {
+      "question": "Warum müssen Hinweise geprüft werden?",
+      "options": [
+        "Weil keine Geräte vorhanden sind",
+        "Damit die Daten zuverlässig bleiben",
+        "Weil niemand die Seite nutzt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Damit die Daten zuverlässig bleiben."
+    },
+    {
+      "question": "Wofür wird das Preisgeld verwendet?",
+      "options": [
+        "Für Geräte im Informatikraum",
+        "Für ein Auto",
+        "Für einen großen Urlaub"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Für Geräte im Informatikraum."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-kleine-garten-auf-dem-dach",
+  "level": "A2",
+  "title": "Der kleine Garten auf dem Dach",
+  "subtitle": "Kinder bauen einen Ort für Bienen",
+  "category": "Natur",
+  "emoji": "🐝",
+  "color": "sky",
+  "german": [
+    "Auf dem Dach einer Schule steht ein alter Tisch. Lange Zeit benutzt ihn niemand. Im April hat die Lehrerin Frau Roth eine Idee: Die Klasse soll dort einen kleinen Garten bauen. Die Kinder bringen Erde, Töpfe und Samen mit. Am ersten Tag pflanzen sie Blumen und Kräuter.",
+    "Jeden Mittwoch kümmern sich zwei Kinder um die Pflanzen. Sie gießen die Erde und entfernen trockene Blätter. Manchmal weht starker Wind, deshalb stellen sie die Töpfe in schwere Holzkisten. Nach einigen Wochen blühen die ersten Blumen. Bald kommen auch kleine Bienen vorbei.",
+    "Ein Junge namens Leo hat zuerst Angst vor den Bienen. Frau Roth erklärt, dass die Tiere meistens nur nach Nahrung suchen. Leo beobachtet sie mit etwas Abstand. Dann entdeckt er, wie eine Biene von einer Blume zur nächsten fliegt. Er findet das sehr interessant.",
+    "Im Sommer macht die Klasse ein kleines Fest auf dem Dach. Die Kinder zeigen ihren Eltern den Garten und schenken ihnen Kräuter in Papiertüten. Leo erzählt stolz von den Bienen. Jetzt möchte er auch zu Hause Blumen pflanzen."
+  ],
+  "english": [
+    "There is an old table on the roof of a school. Nobody has used it for a long time. In April the teacher Mrs Roth has an idea: the class should make a small garden there. The children bring soil, pots and seeds. On the first day they plant flowers and herbs.",
+    "Every Wednesday two children look after the plants. They water the soil and remove dry leaves. Sometimes there is a strong wind, so they place the pots in heavy wooden boxes. After a few weeks the first flowers bloom. Soon small bees come to visit as well.",
+    "At first a boy called Leo is afraid of the bees. Mrs Roth explains that the animals are usually only looking for food. Leo watches them from a little distance. Then he notices how a bee flies from one flower to the next. He finds it very interesting.",
+    "In summer the class holds a small party on the roof. The children show their parents the garden and give them herbs in paper bags. Leo proudly talks about the bees. Now he wants to plant flowers at home too."
+  ],
+  "questions": [
+    {
+      "question": "Wo baut die Klasse den Garten?",
+      "options": [
+        "Auf dem Schuldach",
+        "Im Keller",
+        "Auf dem Parkplatz"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Auf dem Schuldach."
+    },
+    {
+      "question": "Warum stehen die Töpfe in schweren Kisten?",
+      "options": [
+        "Wegen des Regens",
+        "Wegen der Katzen",
+        "Wegen des Windes"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Wegen des Windes."
+    },
+    {
+      "question": "Vor welchen Tieren hat Leo zuerst Angst?",
+      "options": [
+        "Vor Mäusen",
+        "Vor Bienen",
+        "Vor Enten"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Vor Bienen."
+    }
+  ]
+}

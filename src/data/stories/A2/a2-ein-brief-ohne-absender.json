@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-brief-ohne-absender",
+  "level": "A2",
+  "title": "Ein Brief ohne Absender",
+  "subtitle": "Ein kleiner Zettel führt zu einer Überraschung",
+  "category": "Alltag",
+  "emoji": "✉️",
+  "color": "lavender",
+  "german": [
+    "Als Jonas nach Hause kommt, liegt ein Brief vor seiner Wohnungstür. Auf dem Umschlag steht nur: „Für Jonas“. Ein Absender fehlt. Er öffnet den Brief in der Küche. Darin steht: „Komm heute um fünf in den Hof. Bring eine Tasse mit.“ Jonas ist neugierig, aber auch ein bisschen nervös.",
+    "Um fünf Uhr nimmt er seine blaue Tasse und geht nach unten. Im Hof sieht er zuerst niemanden. Dann hört er Musik aus der Garage. Seine Nachbarin Frau Becker öffnet die Tür und winkt. Hinter ihr stehen mehrere Menschen aus dem Haus. Auf einem Tisch gibt es Tee, Kekse und einen großen Topf Suppe.",
+    "Frau Becker erklärt, dass sie ein kleines Nachbarschaftsfest organisiert hat. Sie möchte, dass alle sich besser kennenlernen. Den Brief hat ihre Enkelin geschrieben. Leider hat sie vergessen, ihren Namen darunterzusetzen.",
+    "Jonas bleibt länger als geplant. Er spricht mit einem Studenten aus dem dritten Stock und lernt eine Frau mit einem freundlichen Hund kennen. Als er später nach oben geht, ist seine Tasse leer. Dafür kennt er jetzt endlich die Namen seiner Nachbarn."
+  ],
+  "english": [
+    "When Jonas gets home, a letter is lying outside his apartment door. The envelope only says, “For Jonas.” There is no sender. He opens it in the kitchen. It says, “Come to the courtyard at five today. Bring a cup.” Jonas is curious but also a little nervous.",
+    "At five he takes his blue cup downstairs. At first he sees nobody in the courtyard. Then he hears music from the garage. His neighbor Mrs Becker opens the door and waves. Behind her are several people from the building. There is tea, biscuits and a big pot of soup on a table.",
+    "Mrs Becker explains that she has organized a small neighborhood party. She wants everyone to get to know one another better. Her granddaughter wrote the letter. Unfortunately, she forgot to put her name underneath.",
+    "Jonas stays longer than planned. He talks to a student from the third floor and meets a woman with a friendly dog. When he finally goes upstairs, his cup is empty. But now he finally knows his neighbors' names."
+  ],
+  "questions": [
+    {
+      "question": "Was soll Jonas mitbringen?",
+      "options": [
+        "Ein Buch",
+        "Eine Lampe",
+        "Eine Tasse"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine Tasse."
+    },
+    {
+      "question": "Wer hat den Brief geschrieben?",
+      "options": [
+        "Jonas selbst",
+        "Die Enkelin von Frau Becker",
+        "Der Hausmeister"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Enkelin von Frau Becker."
+    },
+    {
+      "question": "Was ist im Hof geplant?",
+      "options": [
+        "Ein Nachbarschaftsfest",
+        "Ein Fußballspiel",
+        "Ein Flohmarkt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein Nachbarschaftsfest."
+    }
+  ]
+}

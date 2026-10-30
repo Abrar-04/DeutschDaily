@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-verlorene-brille",
+  "level": "A2",
+  "title": "Die verlorene Brille",
+  "subtitle": "Ein Ausflug wird zur Suchaktion",
+  "category": "Reisen",
+  "emoji": "👓",
+  "color": "rose",
+  "german": [
+    "Fatima macht mit ihren Freundinnen einen Ausflug an die Nordsee. Sie fahren mit dem Zug nach Cuxhaven und gehen zum Strand. Das Wetter ist schön, aber der Wind ist stark. Fatima trägt ihre Sonnenbrille, damit sie besser sehen kann. Später setzen sich alle in den Sand und essen Sandwiches.",
+    "Plötzlich merkt Fatima, dass ihre Sonnenbrille weg ist. Sie schaut in die Tasche und unter die Decke. Nichts. Die Freundinnen suchen zwischen Muscheln und Steinen. Der Sand sieht überall gleich aus. Nach zwanzig Minuten wollen sie schon aufgeben.",
+    "Da sieht ein kleiner Junge etwas Dunkles neben einer Sandburg. Er hebt die Brille vorsichtig auf und bringt sie zu Fatima. Das Glas ist etwas schmutzig, aber nicht kaputt. Fatima bedankt sich und schenkt dem Jungen einen Apfel. Seine Mutter lächelt und sagt, dass er gern Menschen hilft.",
+    "Auf der Rückfahrt legt Fatima die Brille sofort in ein festes Etui. Ihre Freundinnen machen einen Scherz und fragen alle zehn Minuten, wo die Brille jetzt ist. Fatima muss jedes Mal lachen."
+  ],
+  "english": [
+    "Fatima goes on a trip to the North Sea with her friends. They take the train to Cuxhaven and walk to the beach. The weather is nice, but the wind is strong. Fatima wears her sunglasses so she can see better. Later they all sit in the sand and eat sandwiches.",
+    "Suddenly Fatima notices her sunglasses are missing. She looks in her bag and under the blanket. Nothing. Her friends search among shells and stones. The sand looks the same everywhere. After twenty minutes they are ready to give up.",
+    "Then a little boy sees something dark beside a sandcastle. He carefully picks up the glasses and brings them to Fatima. The lens is a little dirty, but not broken. Fatima thanks him and gives him an apple. His mother smiles and says he likes helping people.",
+    "On the train home Fatima immediately puts her glasses into a sturdy case. Her friends joke and ask every ten minutes where the glasses are now. Fatima laughs every time."
+  ],
+  "questions": [
+    {
+      "question": "Wohin fährt Fatima?",
+      "options": [
+        "Nach Köln",
+        "Nach Cuxhaven",
+        "Nach München"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Nach Cuxhaven."
+    },
+    {
+      "question": "Wo liegt die Brille?",
+      "options": [
+        "Neben einer Sandburg",
+        "In einem Restaurant",
+        "Im Zug"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Neben einer Sandburg."
+    },
+    {
+      "question": "Was schenkt Fatima dem Jungen?",
+      "options": [
+        "Eine Uhr",
+        "Ein Buch",
+        "Einen Apfel"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Einen Apfel."
+    }
+  ]
+}

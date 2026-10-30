@@ -1,0 +1,53 @@
+{
+  "id": "b1-eine-woche-ohne-plastik",
+  "level": "B1",
+  "title": "Eine Woche ohne Plastik",
+  "subtitle": "Ein Experiment zeigt unerwartete Schwierigkeiten",
+  "category": "Umwelt",
+  "emoji": "♻️",
+  "color": "peach",
+  "german": [
+    "In einer Projektwoche beschließt die Studentin Jule, möglichst wenig Einwegplastik zu verwenden. Sie nimmt Stoffbeutel zum Einkaufen mit und füllt ihre Wasserflasche täglich neu auf. Die ersten beiden Tage laufen gut. Dann merkt sie allerdings, dass viele ihrer üblichen Lebensmittel in Plastik verpackt sind.",
+    "Im Supermarkt sucht Jule lange nach Alternativen. Manche sind teurer, andere gibt es nur in großen Mengen. Sie besucht deshalb einen Wochenmarkt, wo sie Gemüse ohne Verpackung kaufen kann. Für ihren Joghurt findet sie Gläser, die man zurückgeben darf. Trotzdem gelingt es ihr nicht, völlig auf Einwegplastik zu verzichten.",
+    "Am Ende der Woche wiegt Jule den gesammelten Verpackungsmüll. Sie hat deutlich weniger produziert als sonst, aber noch immer einiges. In ihrem Bericht beschreibt sie ehrlich, welche Veränderungen leicht waren und welche viel Zeit gekostet haben. Besonders wichtig findet sie, dass nicht jede Person dieselben Einkaufsmöglichkeiten hat.",
+    "Ihre Kommilitonen diskutieren die Ergebnisse im Seminar. Statt unrealistische Perfektion zu verlangen, möchten sie praktische Tipps für den Alltag sammeln. Jule behält einige neue Gewohnheiten bei, ohne sich für jede unvermeidbare Verpackung zu ärgern."
+  ],
+  "english": [
+    "During a project week student Jule decides to use as little single-use plastic as possible. She takes cloth bags shopping and refills her water bottle every day. The first two days go well. Then she notices that many of her usual groceries come wrapped in plastic.",
+    "At the supermarket Jule spends a long time looking for alternatives. Some are more expensive, while others are sold only in large quantities. She therefore visits a weekly market where she can buy unpackaged vegetables. For her yogurt she finds returnable glass jars. Nevertheless she does not manage to avoid single-use plastic completely.",
+    "At the end of the week Jule weighs the packaging waste she has collected. She has produced considerably less than usual, but still some. In her report she honestly describes which changes were easy and which took a lot of time. She thinks it is particularly important that not everyone has access to the same shopping options.",
+    "Her fellow students discuss the results in a seminar. Instead of demanding unrealistic perfection, they want to collect practical everyday tips. Jule keeps some new habits without getting upset about every unavoidable package."
+  ],
+  "questions": [
+    {
+      "question": "Was versucht Jule eine Woche lang?",
+      "options": [
+        "Wenig Einwegplastik zu benutzen",
+        "Nur Obst zu essen",
+        "Kein Geld auszugeben"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Wenig Einwegplastik zu benutzen."
+    },
+    {
+      "question": "Wo kauft sie unverpacktes Gemüse?",
+      "options": [
+        "An der Tankstelle",
+        "Im Kino",
+        "Auf dem Wochenmarkt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Auf dem Wochenmarkt."
+    },
+    {
+      "question": "Was ist ihr wichtigstes Ergebnis?",
+      "options": [
+        "Alle müssen dasselbe kaufen",
+        "Praktische Veränderungen statt Perfektion",
+        "Alles ist immer einfach"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Praktische Veränderungen statt Perfektion."
+    }
+  ]
+}

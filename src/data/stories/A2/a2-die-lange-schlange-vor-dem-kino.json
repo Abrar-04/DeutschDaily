@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-lange-schlange-vor-dem-kino",
+  "level": "A2",
+  "title": "Die lange Schlange vor dem Kino",
+  "subtitle": "Ein Filmabend beginnt mit Geduld",
+  "category": "Freizeit",
+  "emoji": "🎬",
+  "color": "butter",
+  "german": [
+    "Freitagabend wollen Hanna und ihre Freunde einen neuen Film sehen. Sie haben die Karten schon online gekauft. Trotzdem steht vor dem Kino eine lange Schlange. Viele Menschen warten auf Popcorn und Getränke. Hanna schaut auf die Uhr. Der Film beginnt in zwanzig Minuten.",
+    "Ihre Freunde möchten schnell nach vorne gehen. Aber Hanna sagt, dass alle warten müssen. Sie stellen sich ans Ende der Schlange und reden über den Film. Hinter ihnen steht ein Mann mit einem kleinen Kind. Das Kind ist müde und hält einen Stoffhasen in der Hand.",
+    "Nach zehn Minuten öffnet eine Mitarbeiterin einen zweiten Verkaufsschalter. Die Schlange wird kürzer. Hanna kauft eine kleine Tüte Popcorn. Ihre Freunde nehmen Wasser. Dann zeigen sie ihre Tickets und gehen in den Kinosaal. Auf der Leinwand laufen noch Werbungen.",
+    "Sie finden ihre Plätze gerade rechtzeitig. Als das Licht ausgeht, beginnt der Film. Zwei Stunden später kommen alle begeistert heraus. Hanna sagt, dass das Warten sich gelohnt hat. Beim nächsten Mal möchten sie etwas früher kommen, damit sie vor dem Film noch in Ruhe reden können."
+  ],
+  "english": [
+    "On Friday evening Hanna and her friends want to see a new film. They have already bought their tickets online. Nevertheless there is a long queue outside the cinema. Many people are waiting for popcorn and drinks. Hanna checks her watch. The film starts in twenty minutes.",
+    "Her friends want to go to the front quickly. But Hanna says everyone has to wait. They join the end of the queue and talk about the film. Behind them is a man with a small child. The child is tired and holds a stuffed rabbit.",
+    "After ten minutes an employee opens a second snack counter. The queue gets shorter. Hanna buys a small bag of popcorn. Her friends take water. Then they show their tickets and go into the cinema. Advertisements are still playing on the screen.",
+    "They find their seats just in time. As the lights go out, the film begins. Two hours later they all come out excited. Hanna says the wait was worth it. Next time they want to arrive earlier so they can talk calmly before the film."
+  ],
+  "questions": [
+    {
+      "question": "Wo warten Hanna und ihre Freunde?",
+      "options": [
+        "Vor der Schule",
+        "Vor dem Bahnhof",
+        "Vor dem Kino"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Vor dem Kino."
+    },
+    {
+      "question": "Warum wird die Schlange kürzer?",
+      "options": [
+        "Der Film fällt aus",
+        "Ein zweiter Schalter öffnet",
+        "Es beginnt zu regnen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein zweiter Schalter öffnet."
+    },
+    {
+      "question": "Wann finden sie ihre Plätze?",
+      "options": [
+        "Kurz vor dem Film",
+        "Eine Stunde danach",
+        "Am nächsten Morgen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Kurz vor dem Film."
+    }
+  ]
+}

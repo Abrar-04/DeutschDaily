@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-ungewoehnliche-tauschboerse",
+  "level": "B1",
+  "title": "Die ungewöhnliche Tauschbörse",
+  "subtitle": "Nachbarn tauschen Fähigkeiten statt Gegenstände",
+  "category": "Nachbarschaft",
+  "emoji": "🤝",
+  "color": "sky",
+  "german": [
+    "Im Kulturzentrum wird eine neue Tauschbörse vorgestellt. Anders als auf einem Flohmarkt geht es dort nicht um gebrauchte Gegenstände. Die Teilnehmer bieten vielmehr kleine Fähigkeiten an: jemand kann Fahrräder überprüfen, eine andere Person hilft bei Bewerbungen, und ein Rentner erklärt die Grundlagen der Fotografie.",
+    "Maja meldet sich an, obwohl sie zunächst nicht weiß, was sie anbieten könnte. Sie studiert Sprachen und schlägt vor, Menschen beim Üben einfacher englischer Gespräche zu helfen. Im Gegenzug würde sie gern lernen, wie man Kleidung repariert. Schon am ersten Abend findet sie eine passende Tauschpartnerin.",
+    "Die Schneiderin Ruth zeigt Maja, wie man einen Knopf richtig annäht und kleine Risse schließt. Danach üben beide eine halbe Stunde Englisch. Ruth möchte mit ihren Enkelkindern im Ausland sprechen können und ist froh über die Geduld ihrer jungen Lehrerin.",
+    "Nach einigen Wochen kennt Maja mehrere Menschen aus dem Viertel. Sie erkennt, dass viele Fähigkeiten wertvoll sind, auch wenn man sie im Beruf nie benutzt. Besonders gefällt ihr, dass niemand Geld verlangen muss. Entscheidend ist, dass beide Seiten voneinander lernen wollen und sich aufeinander verlassen können."
+  ],
+  "english": [
+    "A new exchange is introduced at the cultural centre. Unlike at a flea market, it is not about second-hand objects. Participants instead offer small skills: someone can check bicycles, another helps with job applications, and a retired man explains the basics of photography.",
+    "Maja signs up, although she initially does not know what she could offer. She studies languages and suggests helping people practise simple English conversations. In return, she would like to learn how to repair clothing. On the very first evening she finds a suitable exchange partner.",
+    "Dressmaker Ruth shows Maja how to sew on a button properly and close small tears. Then the two practise English for half an hour. Ruth wants to be able to speak to her grandchildren abroad and appreciates her young teacher's patience.",
+    "After a few weeks Maja knows several people from the neighborhood. She realizes that many abilities are valuable even if they are never used professionally. She especially likes that nobody has to ask for money. What matters is that both sides want to learn from each other and can rely on one another."
+  ],
+  "questions": [
+    {
+      "question": "Was wird auf der Börse getauscht?",
+      "options": [
+        "Fähigkeiten",
+        "Nur Geld",
+        "Nur Kleidung"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Fähigkeiten."
+    },
+    {
+      "question": "Was möchte Maja lernen?",
+      "options": [
+        "Autos zu fahren",
+        "Brot zu backen",
+        "Kleidung zu reparieren"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Kleidung zu reparieren."
+    },
+    {
+      "question": "Wozu braucht Ruth Englisch?",
+      "options": [
+        "Für ein Konzert",
+        "Für Gespräche mit ihren Enkeln",
+        "Für eine Prüfung"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Für Gespräche mit ihren Enkeln."
+    }
+  ]
+}

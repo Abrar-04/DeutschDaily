@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-stunde-ohne-noten",
+  "level": "B1",
+  "title": "Die Stunde ohne Noten",
+  "subtitle": "Eine Lehrerin probiert einen ungewöhnlichen Musikunterricht",
+  "category": "Schule",
+  "emoji": "🎹",
+  "color": "lavender",
+  "german": [
+    "Musiklehrerin Katja hat bemerkt, dass manche Kinder im Unterricht kaum noch mitmachen. Sie haben Angst, eine falsche Note zu spielen, und vergleichen sich ständig mit den besten Schülerinnen und Schülern. Deshalb plant Katja eine besondere Stunde, in der niemand Noten lesen oder ein bekanntes Lied spielen muss.",
+    "Auf jedem Tisch liegen kleine Instrumente und Gegenstände, die Geräusche machen. Die Kinder sollen in Gruppen eine kurze Klanggeschichte erfinden. Eine Gruppe stellt einen Regentag dar, eine andere eine Zugfahrt. Zunächst lachen einige, weil niemand weiß, wie das Ergebnis klingen wird.",
+    "Nach zwanzig Minuten hören sich alle die Geschichten an. Eine Gruppe benutzt Papier für Windgeräusche und Holzstäbe für Schritte. Ein besonders stiller Junge spielt mit zwei Gläsern die Geräusche eines Bahnhofs nach. Zum ersten Mal meldet er sich freiwillig, um seine Idee zu erklären.",
+    "Katja ist zufrieden, obwohl nicht jede Geschichte perfekt klingt. Sie erklärt, dass Musik nicht nur aus richtigen und falschen Tönen besteht. Die Kinder stimmen zu, künftig öfter solche Aufgaben zu machen. Einige nehmen sogar zu Hause kleine Geräusche auf und bringen sie in die nächste Stunde mit."
+  ],
+  "english": [
+    "Music teacher Katja has noticed that some children barely participate anymore. They are afraid of playing a wrong note and constantly compare themselves with the strongest pupils. So Katja plans a special lesson in which nobody has to read sheet music or play a familiar song.",
+    "Small instruments and sound-making objects lie on each table. The children are supposed to invent a short sound story in groups. One group depicts a rainy day and another a train journey. At first some laugh because nobody knows how the results will sound.",
+    "After twenty minutes everyone listens to the stories. One group uses paper for wind sounds and wooden sticks for footsteps. A particularly quiet boy imitates the noises of a station using two glasses. For the first time he volunteers to explain his idea.",
+    "Katja is pleased even though not every story sounds perfect. She explains that music is not only about right and wrong notes. The children agree to do such tasks more often. Some even record little sounds at home and bring them to the next lesson."
+  ],
+  "questions": [
+    {
+      "question": "Warum plant Katja eine andere Stunde?",
+      "options": [
+        "Die Instrumente sind weg",
+        "Es gibt keine Lehrbücher",
+        "Manche Kinder haben Angst vor Fehlern"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Manche Kinder haben Angst vor Fehlern."
+    },
+    {
+      "question": "Was sollen die Gruppen erfinden?",
+      "options": [
+        "Matheaufgaben",
+        "Klanggeschichten",
+        "Tanzschritte"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Klanggeschichten."
+    },
+    {
+      "question": "Wer meldet sich zum ersten Mal freiwillig?",
+      "options": [
+        "Ein sonst stiller Junge",
+        "Der Hausmeister",
+        "Eine andere Lehrerin"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein sonst stiller Junge."
+    }
+  ]
+}

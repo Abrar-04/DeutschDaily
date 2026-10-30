@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-zweite-schluessel",
+  "level": "A2",
+  "title": "Der zweite Schlüssel",
+  "subtitle": "Zwei Freunde planen einen sicheren Haustausch",
+  "category": "Freundschaft",
+  "emoji": "🔑",
+  "color": "sage",
+  "german": [
+    "Nora fährt für eine Woche zu ihrer Cousine. Ihre Pflanzen brauchen aber jeden zweiten Tag Wasser. Deshalb fragt sie ihren Freund Erik, ob er die Blumen gießen kann. Erik sagt sofort Ja. Nora gibt ihm einen zweiten Wohnungsschlüssel und zeigt ihm, wo die Gießkanne steht.",
+    "Am Dienstag kommt Erik nach der Arbeit vorbei. Er öffnet die Tür, gießt alle Pflanzen und schließt die Fenster. Dann legt er den Schlüssel in seine Jackentasche. Auf dem Heimweg merkt er plötzlich, dass die Tasche ein Loch hat. Der Schlüssel ist nicht mehr da. Erik sucht den ganzen Weg ab.",
+    "Zum Glück findet er ihn unter einer Bank an der Bushaltestelle. Er ruft Nora an und erzählt ihr sofort, was passiert ist. Gemeinsam überlegen sie, wie sie das Problem vermeiden können. Nora bittet ihn, den Schlüssel an einem festen Ring zu tragen. Erik macht das noch am selben Abend.",
+    "Als Nora zurückkommt, sind alle Pflanzen gesund. Sie bedankt sich mit einem selbst gebackenen Kuchen. Erik bringt den Schlüssel zurück. Beide lachen, als Nora sagt: „Die Blumen waren diesmal wirklich nicht das größte Problem!“"
+  ],
+  "english": [
+    "Nora is going to visit her cousin for a week. But her plants need water every second day. So she asks her friend Erik whether he can water them. Erik immediately agrees. Nora gives him a spare apartment key and shows him where the watering can is.",
+    "On Tuesday Erik comes by after work. He opens the door, waters all the plants and closes the windows. Then he puts the key into his jacket pocket. On the way home he suddenly notices a hole in the pocket. The key is gone. Erik searches the entire route.",
+    "Luckily he finds it under a bench at the bus stop. He calls Nora and immediately tells her what happened. Together they think about how to avoid the problem. Nora asks him to put the key on a secure ring. Erik does so that very evening.",
+    "When Nora returns, all the plants are healthy. She thanks him with a homemade cake. Erik returns the key. Both laugh when Nora says, “This time the flowers really weren't the biggest problem!”"
+  ],
+  "questions": [
+    {
+      "question": "Warum braucht Nora Hilfe?",
+      "options": [
+        "Sie hat keinen Computer",
+        "Ihre Pflanzen müssen gegossen werden",
+        "Sie muss einkaufen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ihre Pflanzen müssen gegossen werden."
+    },
+    {
+      "question": "Wo findet Erik den Schlüssel?",
+      "options": [
+        "Unter einer Bank",
+        "Im Kühlschrank",
+        "Auf seinem Schreibtisch"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Unter einer Bank."
+    },
+    {
+      "question": "Was macht Erik mit dem Schlüssel?",
+      "options": [
+        "Er wirft ihn weg",
+        "Er versteckt ihn im Garten",
+        "Er hängt ihn an einen Ring"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er hängt ihn an einen Ring."
+    }
+  ]
+}

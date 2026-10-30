@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-fremde-mit-der-giesskanne",
+  "level": "A2",
+  "title": "Der Fremde mit der Gießkanne",
+  "subtitle": "Ein Missverständnis im Gemeinschaftsgarten",
+  "category": "Nachbarschaft",
+  "emoji": "🌱",
+  "color": "lavender",
+  "german": [
+    "Im Gemeinschaftsgarten hinter den Häusern wachsen Blumen und Gemüse. Mara kommt jeden Donnerstag, um ihre Pflanzen zu gießen. Eines Morgens sieht sie einen fremden Mann mit einer großen Gießkanne. Er gießt gerade ihre kleinen Bohnenpflanzen. Mara ist überrascht und fragt ihn, was er dort macht.",
+    "Der Mann heißt Leon und ist neu im Haus. Er erklärt, dass die Hausmeisterin ihm gesagt hat, er dürfe im Garten helfen. Mara hatte davon noch nichts gehört. Zuerst ist sie ein bisschen ärgerlich, weil Leon ihre Pflanzen sehr stark gegossen hat. Dann reden beide in Ruhe miteinander.",
+    "Mara zeigt Leon, welche Pflanzen viel Wasser brauchen und welche nur wenig. Leon kennt sich gut mit Blumen aus und erklärt ihr etwas über Rosen. Sie beschließen, am Wochenende zusammen im Garten zu arbeiten. Mara bringt Erde mit, Leon kleine Holzschilder.",
+    "Am Samstag schreiben sie die Namen der Pflanzen auf die Schilder. Jetzt weiß jeder, wo was wächst. Mara freut sich über die Hilfe. Leon ist froh, in seinem neuen Haus schon einen freundlichen Menschen kennengelernt zu haben."
+  ],
+  "english": [
+    "Flowers and vegetables grow in the community garden behind the buildings. Mara comes every Thursday to water her plants. One morning she sees an unfamiliar man with a large watering can. He is watering her young bean plants. Mara is surprised and asks what he is doing there.",
+    "The man is called Leon and is new to the building. He explains that the caretaker told him he could help in the garden. Mara had not heard about it. At first she is a little annoyed because Leon has watered her plants too much. Then they talk calmly.",
+    "Mara shows Leon which plants need a lot of water and which need only a little. Leon knows a lot about flowers and tells her something about roses. They decide to work together in the garden at the weekend. Mara brings soil and Leon brings small wooden signs.",
+    "On Saturday they write the plant names on the signs. Now everyone knows what is growing where. Mara is pleased to have help. Leon is happy to have met a friendly person in his new building."
+  ],
+  "questions": [
+    {
+      "question": "Warum ist Mara zuerst ärgerlich?",
+      "options": [
+        "Leon hat Blumen gekauft",
+        "Der Garten ist geschlossen",
+        "Die Bohnen wurden zu stark gegossen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Bohnen wurden zu stark gegossen."
+    },
+    {
+      "question": "Was bringt Leon am Samstag mit?",
+      "options": [
+        "Einen Grill",
+        "Holzschilder",
+        "Eine Leiter"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Holzschilder."
+    },
+    {
+      "question": "Wie lösen sie das Problem?",
+      "options": [
+        "Sie sprechen miteinander",
+        "Sie rufen die Polizei",
+        "Sie verlassen den Garten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie sprechen miteinander."
+    }
+  ]
+}

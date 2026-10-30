@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-letzte-licht-der-sternwarte",
+  "level": "B2",
+  "title": "Das letzte Licht der Sternwarte",
+  "subtitle": "Ein Forschungsteam kämpft gegen Lichtverschmutzung",
+  "category": "Wissenschaft",
+  "emoji": "🔭",
+  "color": "lavender",
+  "german": [
+    "Die kleine Sternwarte am Stadtrand war einst ein beliebter Ort für astronomische Beobachtungen. Inzwischen ist die Umgebung jedoch so stark beleuchtet, dass schwache Himmelsobjekte kaum noch sichtbar sind. Astronomin Valentina befürchtet, dass das Observatorium seine wichtigste Aufgabe verlieren könnte, obwohl die Instrumente technisch weiterhin einwandfrei funktionieren.",
+    "Gemeinsam mit einem Ingenieur untersucht sie, welche Lichtquellen besonders störend sind. Dabei zeigt sich, dass nicht allein die Helligkeit, sondern auch die Richtung und das Spektrum der Lampen eine Rolle spielen. Valentina spricht deshalb mit der Stadtverwaltung und schlägt gezielte Veränderungen vor, statt pauschal sämtliche Straßenlampen abschalten zu lassen.",
+    "Ein Pilotprojekt ersetzt einige Leuchten durch besser abgeschirmte Modelle. Messungen vor und nach dem Umbau deuten darauf hin, dass der Himmel über der Sternwarte dunkler geworden ist. Die Verantwortlichen achten gleichzeitig darauf, dass Wege weiterhin sicher nutzbar bleiben.",
+    "Bei einer öffentlichen Beobachtungsnacht können Besucher wieder mehrere schwächere Sterne erkennen. Valentina erklärt, dass noch viele Probleme ungelöst seien und einzelne Maßnahmen nicht jede Form der Lichtverschmutzung beseitigen. Dennoch macht ihr die Zusammenarbeit Hoffnung. Die Zukunft der Sternwarte hängt offenbar nicht nur von besseren Teleskopen, sondern auch von Entscheidungen auf der Erde ab."
+  ],
+  "english": [
+    "The small observatory on the edge of town was once a popular place for astronomical observations. By now, however, the surroundings are so brightly lit that faint celestial objects are barely visible. Astronomer Valentina fears the observatory may lose its main purpose even though its instruments are still technically sound.",
+    "Together with an engineer she examines which light sources are particularly disruptive. They discover that not just brightness, but also the direction and spectrum of lamps matter. Valentina therefore speaks to the city authorities and proposes targeted changes instead of demanding that all streetlights simply be switched off.",
+    "A pilot project replaces several lights with better-shielded models. Measurements before and after the change suggest that the sky above the observatory has grown darker. At the same time those responsible ensure that pathways remain safe to use.",
+    "At a public observation night visitors can once again see several fainter stars. Valentina explains that many problems remain and individual measures cannot eliminate every form of light pollution. Still, the collaboration gives her hope. The observatory's future apparently depends not only on better telescopes, but also on decisions made on Earth."
+  ],
+  "questions": [
+    {
+      "question": "Was erschwert die Beobachtungen?",
+      "options": [
+        "Zu viele Wolken im Labor",
+        "Ein kaputtes Teleskop",
+        "Lichtverschmutzung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Lichtverschmutzung."
+    },
+    {
+      "question": "Was verändert das Pilotprojekt?",
+      "options": [
+        "Die Sternwarte zieht um",
+        "Bestimmte Leuchten werden abgeschirmt",
+        "Die Stadt schließt alle Straßen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Bestimmte Leuchten werden abgeschirmt."
+    },
+    {
+      "question": "Was bleibt wichtig?",
+      "options": [
+        "Die Sicherheit der Wege",
+        "Alle Lampen zu entfernen",
+        "Teleskope zu verkaufen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Sicherheit der Wege."
+    }
+  ]
+}

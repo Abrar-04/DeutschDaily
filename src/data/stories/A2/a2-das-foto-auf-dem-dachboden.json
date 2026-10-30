@@ -1,0 +1,53 @@
+{
+  "id": "a2-das-foto-auf-dem-dachboden",
+  "level": "A2",
+  "title": "Das Foto auf dem Dachboden",
+  "subtitle": "Ein altes Bild erzählt eine Familiengeschichte",
+  "category": "Familie",
+  "emoji": "📷",
+  "color": "peach",
+  "german": [
+    "An einem Regentag hilft Laura ihrem Vater beim Aufräumen. Auf dem Dachboden stehen viele alte Kisten. In einer Kiste liegen Kinderbücher, Spielzeug und Fotos. Laura findet ein Bild von einem kleinen Mädchen mit einem großen Hund. Auf der Rückseite steht das Jahr 1985.",
+    "Laura fragt ihren Vater, wer das Mädchen ist. Er schaut lange auf das Foto und lacht. „Das ist deine Tante Monika“, sagt er. „Und der Hund hieß Rocky.“ Laura kennt Tante Monika nur als Erwachsene. Sie kann kaum glauben, dass die Frau auf dem Foto ihre Tante ist.",
+    "Am Nachmittag ruft Laura Monika an. Sie schickt ihr das Foto und fragt nach dem Hund. Monika erzählt eine lustige Geschichte: Rocky hatte einmal die Geburtstagstorte gestohlen und im Garten versteckt. Alle Gäste mussten damals Brot essen, weil es keinen Kuchen mehr gab.",
+    "Laura hört aufmerksam zu. Danach legt sie das Foto in einen neuen Rahmen. Beim nächsten Familientreffen möchte sie es auf den Tisch stellen. Vielleicht haben die anderen Verwandten noch mehr Geschichten aus dieser Zeit."
+  ],
+  "english": [
+    "On a rainy day Laura helps her father tidy up. Many old boxes stand in the attic. One contains children's books, toys and photographs. Laura finds a picture of a little girl with a big dog. The year 1985 is written on the back.",
+    "Laura asks her father who the girl is. He looks at the photo for a long time and laughs. “That's your aunt Monika,” he says. “And the dog's name was Rocky.” Laura only knows Aunt Monika as an adult. She can hardly believe the woman in the photo is her aunt.",
+    "In the afternoon Laura calls Monika. She sends her the photo and asks about the dog. Monika tells a funny story: Rocky once stole the birthday cake and hid it in the garden. All the guests had to eat bread because there was no cake left.",
+    "Laura listens carefully. Then she puts the photo in a new frame. At the next family gathering she wants to put it on the table. Perhaps other relatives have more stories from that time."
+  ],
+  "questions": [
+    {
+      "question": "Was findet Laura auf dem Dachboden?",
+      "options": [
+        "Ein altes Foto",
+        "Ein Fahrrad",
+        "Einen Brief vom Amt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein altes Foto."
+    },
+    {
+      "question": "Wer ist das Mädchen auf dem Bild?",
+      "options": [
+        "Laura selbst",
+        "Die Nachbarin",
+        "Tante Monika"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Tante Monika."
+    },
+    {
+      "question": "Was hat Rocky früher gestohlen?",
+      "options": [
+        "Einen Schuh",
+        "Eine Geburtstagstorte",
+        "Ein Buch"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Geburtstagstorte."
+    }
+  ]
+}

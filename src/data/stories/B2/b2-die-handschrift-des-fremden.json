@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-handschrift-des-fremden",
+  "level": "B2",
+  "title": "Die Handschrift des Fremden",
+  "subtitle": "Ein Brief aus einem Nachlass führt zu einer überraschenden Begegnung",
+  "category": "Familie",
+  "emoji": "📝",
+  "color": "butter",
+  "german": [
+    "Bei der Auflösung der Wohnung ihres verstorbenen Onkels entdeckt Marlene ein Bündel Briefe. Sie sind an eine unbekannte Adresse gerichtet, wurden aber offenbar nie abgeschickt. In ihnen beschreibt ihr Onkel seine Freude an einem Schachverein und erwähnt immer wieder einen Freund, von dem in der Familie niemand gehört hat.",
+    "Marlene überlegt, ob sie die Briefe einfach weglegen sollte. Da einige persönliche Erinnerungen enthalten sind, geht sie vorsichtig vor. Zunächst fragt sie ihre Angehörigen nach dem Namen. Eine Cousine erinnert sich, dass der Onkel früher mit einem Mann namens Pavel an regionalen Schachturnieren teilgenommen hatte. Der Kontakt sei später abgebrochen.",
+    "Über den Verein gelingt es Marlene, Pavel ausfindig zu machen. Sie schildert ihm den Fund, ohne die privaten Inhalte ungefragt weiterzugeben. Pavel ist überrascht und bittet um ein Treffen. Bei einem Kaffee erzählt er, dass ein Missverständnis vor vielen Jahren die Freundschaft beendet habe und er den Kontakt inzwischen oft bereut habe.",
+    "Marlene überreicht ihm schließlich einige Briefe, nachdem sie mit ihrer Familie darüber gesprochen hat. Die Begegnung kann die Vergangenheit nicht ändern. Dennoch ist sie froh, dass die Geschichte ihres Onkels nun eine neue, bisher unbekannte Seite bekommen hat."
+  ],
+  "english": [
+    "While clearing out her late uncle's apartment, Marlene discovers a bundle of letters. They are addressed to an unknown location but were apparently never sent. In them her uncle describes his enthusiasm for a chess club and repeatedly mentions a friend nobody in the family has heard of.",
+    "Marlene wonders whether she should simply put the letters away. Since they contain personal memories, she proceeds carefully. First she asks relatives about the name. A cousin remembers that her uncle used to play in regional chess tournaments with a man called Pavel. Contact later broke off.",
+    "Through the club Marlene manages to find Pavel. She tells him about the discovery without sharing private contents without permission. Pavel is surprised and asks to meet. Over coffee he says that a misunderstanding ended the friendship many years ago and that he has often regretted losing contact.",
+    "Eventually Marlene hands him some of the letters after discussing the matter with her family. The meeting cannot change the past. Still, she is glad that her uncle's story has gained a new side that was previously unknown."
+  ],
+  "questions": [
+    {
+      "question": "Was entdeckt Marlene?",
+      "options": [
+        "Ein Tagebuch im Internet",
+        "Ein Sparbuch",
+        "Nicht abgeschickte Briefe"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Nicht abgeschickte Briefe."
+    },
+    {
+      "question": "Was führte zum Ende der Freundschaft?",
+      "options": [
+        "Ein verlorenes Spiel",
+        "Ein altes Missverständnis",
+        "Ein Umzug ins Ausland"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein altes Missverständnis."
+    },
+    {
+      "question": "Warum ist Marlene vorsichtig?",
+      "options": [
+        "Die Briefe enthalten private Erinnerungen",
+        "Die Schrift ist unleserlich",
+        "Sie darf das Haus nicht betreten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Briefe enthalten private Erinnerungen."
+    }
+  ]
+}

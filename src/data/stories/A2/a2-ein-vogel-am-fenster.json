@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-vogel-am-fenster",
+  "level": "A2",
+  "title": "Ein Vogel am Fenster",
+  "subtitle": "Eine Familie hilft einem kleinen Tier",
+  "category": "Natur",
+  "emoji": "🐦",
+  "color": "lavender",
+  "german": [
+    "Am Montagmorgen hört David ein leises Geräusch am Küchenfenster. Auf dem Balkon sitzt ein kleiner Vogel. Er kann nicht richtig fliegen. David ruft seine Mutter. Gemeinsam schauen sie vorsichtig nach dem Tier. Der Vogel ist wahrscheinlich gegen die Scheibe geflogen und braucht jetzt Ruhe.",
+    "Die Mutter ruft bei einer Wildtierstation an. Ein Mitarbeiter erklärt, dass sie den Vogel nicht ständig anfassen sollen. Sie stellen eine offene Kiste an einen ruhigen Ort und bleiben ein Stück entfernt. David bringt eine Schüssel Wasser, aber die Mutter sagt, dass sie zuerst den Rat der Fachleute beachten müssen.",
+    "Nach einer Weile bewegt der Vogel den Kopf und öffnet seine Flügel. David schaut vom Wohnzimmer aus zu. Der Vogel springt auf den Rand der Kiste. Dann fliegt er plötzlich auf einen Baum im Hof. David ist erleichtert. Er winkt dem kleinen Tier nach.",
+    "Am Wochenende klebt die Familie kleine Bilder auf die Fensterscheibe. So können Vögel das Glas besser erkennen. David malt dafür bunte Blätter und Sterne. Jeden Morgen schaut er nun zuerst nach dem Baum im Hof."
+  ],
+  "english": [
+    "On Monday morning David hears a quiet noise by the kitchen window. A small bird is sitting on the balcony. It cannot fly properly. David calls his mother. Together they carefully look at the animal. The bird has probably flown into the glass and now needs rest.",
+    "His mother calls a wildlife rescue centre. A staff member explains that they should not keep touching the bird. They put an open box in a quiet place and stay some distance away. David brings a bowl of water, but his mother says they first need to follow the experts' advice.",
+    "After a while the bird moves its head and opens its wings. David watches from the living room. The bird jumps onto the edge of the box. Then suddenly it flies to a tree in the courtyard. David is relieved. He waves after the little animal.",
+    "At the weekend the family puts small pictures on the windowpane. This helps birds see the glass more easily. David draws colorful leaves and stars. Now every morning he first looks toward the tree in the courtyard."
+  ],
+  "questions": [
+    {
+      "question": "Wo sitzt der Vogel am Anfang?",
+      "options": [
+        "Auf dem Sofa",
+        "Im Auto",
+        "Auf dem Balkon"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Auf dem Balkon."
+    },
+    {
+      "question": "Wen ruft die Mutter an?",
+      "options": [
+        "Ein Restaurant",
+        "Eine Wildtierstation",
+        "Die Schule"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Wildtierstation."
+    },
+    {
+      "question": "Warum klebt die Familie Bilder ans Fenster?",
+      "options": [
+        "Damit Vögel das Glas sehen",
+        "Damit es dunkler wird",
+        "Damit niemand hineinsehen kann"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Damit Vögel das Glas sehen."
+    }
+  ]
+}

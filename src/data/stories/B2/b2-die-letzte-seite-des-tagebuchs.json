@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-letzte-seite-des-tagebuchs",
+  "level": "B2",
+  "title": "Die letzte Seite des Tagebuchs",
+  "subtitle": "Eine Schriftstellerin überdenkt den Schluss ihres Romans",
+  "category": "Kultur",
+  "emoji": "📓",
+  "color": "sky",
+  "german": [
+    "Seit zwei Jahren arbeitet die Schriftstellerin Mira an einem Roman über zwei Schwestern, die nach langer Zeit wieder zueinanderfinden. Der letzte Entwurf endet mit einer großen Versöhnung. Obwohl der Verlag zufrieden ist, hat Mira das Gefühl, dass dieser Schluss den bisherigen Figuren nicht gerecht wird. Ihre Konflikte waren dafür zu kompliziert.",
+    "Bei einer Lesung spricht sie mit einer Besucherin, die erzählt, wie schwer es nach einem Streit sein kann, wieder Vertrauen aufzubauen. Das Gespräch beschäftigt Mira noch tagelang. Sie liest ihren Roman erneut und stellt fest, dass die Schwestern zwar einander verstehen lernen, ihre unterschiedlichen Erinnerungen jedoch nicht einfach verschwinden.",
+    "Sie entscheidet sich, das letzte Kapitel umzuschreiben. Statt einer perfekten Umarmung sitzen die beiden Figuren nebeneinander, ohne alle Fragen geklärt zu haben. Eine von ihnen schlägt vor, sich in der folgenden Woche wiederzutreffen. Der Schluss bleibt offen, vermittelt aber Hoffnung.",
+    "Als Mira die neue Fassung an den Verlag schickt, befürchtet sie zunächst Kritik. Ihre Lektorin antwortet jedoch, die Geschichte wirke nun glaubwürdiger. Mira ist erleichtert. Sie hat verstanden, dass ein gutes Ende nicht jedes Problem lösen muss, solange es den Figuren und ihrer Entwicklung treu bleibt."
+  ],
+  "english": [
+    "For two years writer Mira has been working on a novel about two sisters who reconnect after a long time. The latest draft ends with a grand reconciliation. Although the publisher is satisfied, Mira feels that this ending does not do justice to the characters. Their conflicts have been too complex for that.",
+    "At a reading she speaks to a visitor who describes how difficult rebuilding trust after an argument can be. The conversation stays with Mira for days. She rereads her novel and notices that although the sisters learn to understand one another, their different memories cannot simply disappear.",
+    "She decides to rewrite the final chapter. Instead of a perfect embrace, the two characters sit beside each other without having resolved every question. One suggests meeting again the following week. The ending remains open but offers hope.",
+    "When Mira sends the revised version to the publisher, she initially expects criticism. However, her editor replies that the story now feels more believable. Mira is relieved. She has understood that a good ending need not solve every problem, as long as it remains true to the characters and their development."
+  ],
+  "questions": [
+    {
+      "question": "Warum gefällt Mira der erste Schluss nicht?",
+      "options": [
+        "Er löst komplizierte Konflikte zu einfach",
+        "Er ist zu kurz",
+        "Er enthält zu viele Orte"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Er löst komplizierte Konflikte zu einfach."
+    },
+    {
+      "question": "Wie verändert sie den Schluss?",
+      "options": [
+        "Alle Figuren verschwinden",
+        "Die Geschichte beginnt von vorn",
+        "Er bleibt hoffnungsvoll, aber offen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er bleibt hoffnungsvoll, aber offen."
+    },
+    {
+      "question": "Wie reagiert die Lektorin?",
+      "options": [
+        "Sie verlangt mehr Figuren",
+        "Sie findet die neue Fassung glaubwürdiger",
+        "Sie lehnt sie sofort ab"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie findet die neue Fassung glaubwürdiger."
+    }
+  ]
+}

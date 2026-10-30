@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-fenster-zur-anderen-stadt",
+  "level": "B1",
+  "title": "Das Fenster zur anderen Stadt",
+  "subtitle": "Ein Austauschschüler entdeckt eine überraschende Verbindung",
+  "category": "Freundschaft",
+  "emoji": "🏙️",
+  "color": "sage",
+  "german": [
+    "Als Mert für drei Monate nach Lyon fährt, erwartet er vor allem eine neue Sprache und ungewohnte Schulstunden. Seine Gastfamilie wohnt in einer Wohnung über einer Bäckerei. Vom Küchenfenster aus kann er auf einen kleinen Platz schauen, auf dem jeden Morgen ein Musiker Geige spielt.",
+    "Eines Tages erkennt Mert plötzlich eine Melodie. Es ist dasselbe Lied, das sein Großvater zu Hause oft auf dem Akkordeon spielt. Weil er neugierig ist, spricht er den Musiker nach dem Unterricht an. Der Mann erklärt, dass er die Melodie von seiner Großmutter gelernt hat, die früher in der Türkei lebte.",
+    "Mert ruft seinen Großvater an und spielt ihm eine kurze Aufnahme vor. Der Großvater ist überrascht: Er kennt sogar eine weitere Strophe des Liedes. Bei einem gemeinsamen Videoanruf unterhalten sich die beiden Männer lange über ihre Familien und die Musik ihrer Kindheit.",
+    "In den folgenden Wochen hilft Mert dabei, die Melodie und die Geschichte dahinter aufzuschreiben. Dabei verbessert sich sein Französisch fast nebenbei. Zum Abschied schenkt ihm der Geiger eine handgeschriebene Notenseite. Mert nimmt sie mit nach Hause, damit sein Großvater sie sehen kann."
+  ],
+  "english": [
+    "When Mert goes to Lyon for three months, he mainly expects a new language and unfamiliar school lessons. His host family lives in an apartment above a bakery. From the kitchen window he can look down onto a small square where a musician plays the violin every morning.",
+    "One day Mert suddenly recognizes a melody. It is the same song his grandfather often plays on the accordion back home. Curious, he approaches the musician after school. The man explains that he learned the melody from his grandmother, who once lived in Turkey.",
+    "Mert calls his grandfather and plays him a short recording. His grandfather is surprised: he even knows another verse of the song. During a video call the two men talk for a long time about their families and the music of their childhood.",
+    "Over the following weeks Mert helps write down the melody and the story behind it. His French improves almost incidentally. As a farewell present, the violinist gives him a handwritten sheet of music. Mert takes it home so that his grandfather can see it."
+  ],
+  "questions": [
+    {
+      "question": "Wo wohnt Merts Gastfamilie?",
+      "options": [
+        "Neben einem Stadion",
+        "Über einer Bäckerei",
+        "In einem Hotel"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Über einer Bäckerei."
+    },
+    {
+      "question": "Woher kennt Mert die Melodie?",
+      "options": [
+        "Von seinem Großvater",
+        "Aus einem Film",
+        "Aus dem Unterricht"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Von seinem Großvater."
+    },
+    {
+      "question": "Was schenkt ihm der Musiker?",
+      "options": [
+        "Eine Geige",
+        "Ein Fotoalbum",
+        "Ein Notenblatt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Notenblatt."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-fahrplan-der-vergangenheit",
+  "level": "B2",
+  "title": "Der Fahrplan der Vergangenheit",
+  "subtitle": "Ein Verein möchte eine historische Bahnlinie wiederbeleben",
+  "category": "Geschichte",
+  "emoji": "🚂",
+  "color": "sage",
+  "german": [
+    "In einer ländlichen Region setzt sich ein Verein dafür ein, eine stillgelegte Bahnstrecke als Museumsbahn zu nutzen. Die Gleise sind teilweise erhalten, und mehrere ältere Fahrzeuge stehen in einer Halle. Vereinsvorsitzender Martin hofft, damit sowohl Touristen anzuziehen als auch die Geschichte der Region sichtbar zu machen.",
+    "Bei der technischen Untersuchung zeigt sich jedoch, dass Brücken, Signale und Teile der Strecke aufwendig geprüft werden müssten. Eine vollständige Wiederaufnahme des Betriebs wäre erheblich teurer als zunächst angenommen. Einige Mitglieder sind enttäuscht und möchten den Plan aufgeben. Andere schlagen vor, die Fahrzeuge wenigstens stationär auszustellen.",
+    "Martin organisiert Gespräche mit Fachleuten und der Gemeinde. Gemeinsam entwickeln sie eine kleinere erste Phase: Ein kurzer Abschnitt soll langfristig für gelegentliche Fahrten vorbereitet werden, während die übrige Strecke zunächst als historischer Spazierweg erklärt wird. Die Finanzierung wird schrittweise geprüft, ohne einen festen Eröffnungstermin zu versprechen.",
+    "Im folgenden Sommer findet eine Ausstellung in der Fahrzeughalle statt. Besucher hören Geschichten früherer Bahnangestellter und sehen alte Fahrpläne. Martin ist mit diesem Anfang zufrieden. Er hat verstanden, dass Begeisterung allein kein Sicherheitskonzept ersetzt und eine glaubwürdige Zukunft manchmal mit einem deutlich kleineren Projekt beginnt."
+  ],
+  "english": [
+    "In a rural region an association campaigns to use a disused railway line as a heritage railway. Some tracks remain, and several old vehicles stand in a shed. Chair Martin hopes to attract tourists while also making the region's history visible.",
+    "Technical inspections reveal, however, that bridges, signals and parts of the track would require extensive checks. Fully reopening the line would be considerably more expensive than first thought. Some members are disappointed and want to abandon the plan. Others suggest at least displaying the vehicles in one place.",
+    "Martin organizes discussions with specialists and the municipality. Together they develop a smaller first phase: a short section may eventually be prepared for occasional trips, while the rest of the route is initially explained as a historical walking path. Funding will be reviewed step by step without promising a fixed opening date.",
+    "The following summer an exhibition takes place in the vehicle shed. Visitors hear stories from former railway employees and see old timetables. Martin is satisfied with this beginning. He has learned that enthusiasm alone cannot replace a safety plan and that a credible future sometimes begins with a much smaller project."
+  ],
+  "questions": [
+    {
+      "question": "Warum wird der ursprüngliche Plan verkleinert?",
+      "options": [
+        "Der Verein hat keine Mitglieder",
+        "Sicherheitsprüfungen wären sehr teuer",
+        "Es gibt keine alten Züge"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sicherheitsprüfungen wären sehr teuer."
+    },
+    {
+      "question": "Was ist als erste Phase vorgesehen?",
+      "options": [
+        "Ein kleiner Abschnitt und eine Ausstellung",
+        "Ein landesweites Netz",
+        "Sofortiger täglicher Betrieb"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein kleiner Abschnitt und eine Ausstellung."
+    },
+    {
+      "question": "Was betont Martin?",
+      "options": [
+        "Nur schneller Erfolg",
+        "Keine Zusammenarbeit",
+        "Sicherheit und realistische Schritte"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sicherheit und realistische Schritte."
+    }
+  ]
+}

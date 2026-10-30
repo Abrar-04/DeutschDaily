@@ -1,0 +1,53 @@
+{
+  "id": "a2-eine-nachricht-am-falschen-handy",
+  "level": "A2",
+  "title": "Eine Nachricht am falschen Handy",
+  "subtitle": "Eine fremde SMS hilft bei einer Feier",
+  "category": "Technik",
+  "emoji": "📱",
+  "color": "sage",
+  "german": [
+    "Am Dienstag bekommt Sara eine Nachricht von einer unbekannten Nummer. Darin steht: „Die Überraschung beginnt um acht. Vergiss die Luftballons nicht!“ Sara kennt die Person nicht. Sie antwortet freundlich: „Ich glaube, Sie haben die falsche Nummer.“ Kurz darauf schreibt eine Frau zurück und bedankt sich.",
+    "Eine Stunde später klingelt Saras Handy erneut. Die Frau heißt Nina und erklärt, dass sie eine Feier für ihren Vater plant. Leider ist der Laden mit den Ballons geschlossen. Sara arbeitet zufällig in einem kleinen Geschäft für Feste. Sie kennt einen anderen Laden, der noch geöffnet hat.",
+    "Sara schickt Nina die Adresse. Am Abend bekommt sie ein Foto von einem Wohnzimmer voller bunter Luftballons. Auf dem Bild sitzt ein älterer Mann mit einer großen Geburtstagstorte. Er lacht und hält ein Schild mit der Zahl sechzig.",
+    "Nina schreibt: „Danke für deine Hilfe!“ Sara freut sich. Eigentlich wollte sie die falsche Nachricht sofort löschen. Jetzt hat sie einem fremden Menschen geholfen, obwohl sie ihn noch nie gesehen hat. Manchmal beginnt etwas Gutes mit einem kleinen Fehler."
+  ],
+  "english": [
+    "On Tuesday Sara receives a message from an unknown number. It says, “The surprise begins at eight. Don't forget the balloons!” Sara doesn't know the person. She replies politely, “I think you have the wrong number.” Shortly afterward a woman writes back and thanks her.",
+    "An hour later Sara's phone rings again. The woman is called Nina and explains that she is planning a party for her father. Unfortunately the balloon shop is closed. By coincidence Sara works in a small party shop. She knows another store that is still open.",
+    "Sara sends Nina the address. That evening she receives a photo of a living room full of colorful balloons. In the picture an older man sits with a large birthday cake. He is laughing and holding a sign with the number sixty.",
+    "Nina writes, “Thank you for your help!” Sara is happy. She had actually wanted to delete the wrong message straight away. Now she has helped a stranger whom she has never met. Sometimes something good begins with a small mistake."
+  ],
+  "questions": [
+    {
+      "question": "Was soll jemand nicht vergessen?",
+      "options": [
+        "Die Musik",
+        "Die Luftballons",
+        "Die Schlüssel"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Luftballons."
+    },
+    {
+      "question": "Für wen plant Nina die Feier?",
+      "options": [
+        "Für ihren Vater",
+        "Für ihre Tochter",
+        "Für ihren Bruder"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Für ihren Vater."
+    },
+    {
+      "question": "Wie alt wird der Mann?",
+      "options": [
+        "Vierzig",
+        "Achtzig",
+        "Sechzig"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sechzig."
+    }
+  ]
+}

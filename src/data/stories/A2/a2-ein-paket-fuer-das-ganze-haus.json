@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-paket-fuer-das-ganze-haus",
+  "level": "A2",
+  "title": "Ein Paket für das ganze Haus",
+  "subtitle": "Ein schwerer Karton enthält etwas Nützliches",
+  "category": "Alltag",
+  "emoji": "📦",
+  "color": "lavender",
+  "german": [
+    "Vor der Haustür steht ein großes Paket. Auf dem Karton steht nur die Hausnummer, aber kein Name. Mia wohnt im Erdgeschoss und entdeckt das Paket zuerst. Sie kann es nicht allein tragen, denn es ist sehr schwer. Ihr Nachbar Felix hilft ihr und gemeinsam bringen sie es in den Flur.",
+    "Die beiden fragen in der Hausgruppe, wem das Paket gehört. Niemand meldet sich. Am Abend kommt die Hausmeisterin nach Hause und sieht den Karton. Sie lacht und sagt: „Endlich ist er da!“ Dann erklärt sie, dass die Bewohner zusammen einen neuen Staubsauger für das Treppenhaus bestellt haben.",
+    "Am nächsten Tag treffen sich einige Nachbarn im Flur. Die Hausmeisterin öffnet den Karton und zeigt den Staubsauger. Felix steckt den Stecker in die Steckdose. Das Gerät ist leise und leicht zu benutzen. Mia probiert es auf der ersten Treppe aus.",
+    "Alle freuen sich, dass sie das Treppenhaus jetzt leichter sauber halten können. Der Staubsauger bekommt einen festen Platz im kleinen Abstellraum. Mia klebt eine Liste an die Tür. Darauf können die Nachbarn schreiben, wann sie ihn benutzt haben."
+  ],
+  "english": [
+    "A large parcel is standing outside the front door. Only the building number is written on the box, not a name. Mia lives on the ground floor and discovers it first. She cannot carry it alone because it is very heavy. Her neighbor Felix helps her and together they bring it into the hallway.",
+    "They ask in the building's group chat who owns the parcel. Nobody replies. In the evening the caretaker comes home and sees the box. She laughs and says, “It's finally here!” She explains that the residents ordered a new vacuum cleaner together for the stairs.",
+    "The next day some neighbors meet in the hall. The caretaker opens the box and shows them the vacuum cleaner. Felix plugs it into the socket. It is quiet and easy to use. Mia tries it on the first staircase.",
+    "Everyone is pleased that keeping the stairs clean will now be easier. The vacuum cleaner gets a permanent spot in the small storage room. Mia puts a list on the door. The neighbors can write down when they have used it."
+  ],
+  "questions": [
+    {
+      "question": "Warum kann Mia das Paket nicht allein tragen?",
+      "options": [
+        "Es ist zu heiß",
+        "Es ist kaputt",
+        "Es ist sehr schwer"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Es ist sehr schwer."
+    },
+    {
+      "question": "Was ist im Paket?",
+      "options": [
+        "Ein Fahrrad",
+        "Ein Staubsauger",
+        "Ein Fernseher"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Staubsauger."
+    },
+    {
+      "question": "Wo steht das neue Gerät später?",
+      "options": [
+        "Im Abstellraum",
+        "Auf dem Balkon",
+        "Im Garten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Im Abstellraum."
+    }
+  ]
+}

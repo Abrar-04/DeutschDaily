@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-kleine-laden-mit-der-klingel",
+  "level": "A2",
+  "title": "Der kleine Laden mit der Klingel",
+  "subtitle": "Ein Schüler lernt einen alten Beruf kennen",
+  "category": "Alltag",
+  "emoji": "🔔",
+  "color": "sky",
+  "german": [
+    "Auf dem Heimweg kommt Oskar jeden Tag an einer kleinen Werkstatt vorbei. Im Fenster liegen kaputte Uhren und alte Wecker. Über der Tür hängt eine silberne Klingel. Eines Tages bleibt Oskar stehen, denn seine eigene Armbanduhr funktioniert nicht mehr. Er drückt die Tür vorsichtig auf.",
+    "Ein älterer Mann sitzt an einem Tisch mit vielen kleinen Werkzeugen. Er heißt Herr Stein und repariert seit vierzig Jahren Uhren. Oskar zeigt ihm die Uhr. Herr Stein schaut sie unter einer Lampe an und entdeckt eine leere Batterie. Nach wenigen Minuten läuft die Uhr wieder.",
+    "Oskar interessiert sich für die Werkzeuge. Herr Stein erklärt, warum manche Uhren eine Batterie brauchen und andere ohne Batterie funktionieren. Er zeigt ein altes Uhrwerk mit vielen kleinen Rädern. Oskar darf mit einer Lupe hineinschauen. Alles sieht sehr kompliziert aus.",
+    "Als Oskar die Werkstatt verlässt, klingt die silberne Klingel erneut. Zu Hause erzählt er seinem Vater von dem Besuch. Er möchte nun einen alten Wecker von seinem Großvater suchen. Vielleicht kann Herr Stein ihm erklären, wie dieser Wecker funktioniert."
+  ],
+  "english": [
+    "On his way home Oskar passes a small workshop every day. Broken watches and old alarm clocks lie in the window. A silver bell hangs above the door. One day Oskar stops because his own wristwatch no longer works. He carefully pushes open the door.",
+    "An older man sits at a table with many small tools. His name is Mr Stein, and he has repaired clocks for forty years. Oskar shows him the watch. Mr Stein examines it under a lamp and discovers an empty battery. A few minutes later the watch is running again.",
+    "Oskar is interested in the tools. Mr Stein explains why some watches need batteries and others work without them. He shows an old clock mechanism with many little wheels. Oskar is allowed to look through a magnifying glass. Everything looks very complicated.",
+    "As Oskar leaves the workshop, the silver bell rings again. At home he tells his father about the visit. He now wants to find an old alarm clock that belonged to his grandfather. Perhaps Mr Stein can explain how it works."
+  ],
+  "questions": [
+    {
+      "question": "Was repariert Herr Stein?",
+      "options": [
+        "Uhren",
+        "Fahrräder",
+        "Autos"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Uhren."
+    },
+    {
+      "question": "Warum funktioniert Oskars Uhr nicht?",
+      "options": [
+        "Das Glas fehlt",
+        "Sie ist nass",
+        "Die Batterie ist leer"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Batterie ist leer."
+    },
+    {
+      "question": "Was möchte Oskar zu Hause suchen?",
+      "options": [
+        "Ein Radio",
+        "Einen alten Wecker",
+        "Eine Lampe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Einen alten Wecker."
+    }
+  ]
+}

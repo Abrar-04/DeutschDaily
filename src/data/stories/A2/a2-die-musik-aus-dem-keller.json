@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-musik-aus-dem-keller",
+  "level": "A2",
+  "title": "Die Musik aus dem Keller",
+  "subtitle": "Ein neues Hobby wird im Haus bekannt",
+  "category": "Musik",
+  "emoji": "🥁",
+  "color": "sage",
+  "german": [
+    "Seit einigen Tagen hört Tim am Abend leise Musik aus dem Keller. Erst denkt er, dass jemand ein Radio laufen lässt. Dann erkennt er Trommeln und eine Gitarre. Er möchte wissen, wer dort spielt. Am Freitag fragt er seinen Nachbarn, ob im Haus vielleicht eine Band übt.",
+    "Der Nachbar führt Tim zu einem kleinen Raum neben den Fahrrädern. Dort sitzen zwei Studentinnen und ein junger Mann. Sie haben eine kleine Band gegründet und üben für ein Straßenfest. Tim darf zuhören. Besonders gut gefällt ihm das Lied mit der schnellen Gitarre.",
+    "Nach dem zweiten Lied fragen die Musiker, ob die Musik im Haus zu laut ist. Tim sagt, dass er sie kaum hört. Trotzdem vereinbaren sie feste Übungszeiten. So kann jeder am Abend Ruhe haben. Der Hausmeister hängt einen Plan an die Kellertür.",
+    "Zwei Wochen später spielt die Band auf dem Straßenfest. Tim kommt mit seinen Freunden und klatscht begeistert. Am Ende des Konzerts spricht er mit der Gitarristin. Sie bietet ihm an, einmal selbst ein Instrument auszuprobieren. Tim nimmt sich das für den nächsten Monat vor."
+  ],
+  "english": [
+    "For several days Tim has heard quiet music from the basement in the evening. At first he thinks someone has left a radio playing. Then he recognizes drums and a guitar. He wants to know who is playing there. On Friday he asks his neighbor whether a band might be practising in the building.",
+    "The neighbor takes Tim to a small room beside the bicycles. Two female students and a young man are sitting there. They have started a small band and are practising for a street festival. Tim is allowed to listen. He especially likes the song with the fast guitar.",
+    "After the second song the musicians ask whether they are too loud for the building. Tim says he can hardly hear them. Nevertheless they agree on fixed practice times so everyone can have peace in the evening. The caretaker hangs a timetable on the basement door.",
+    "Two weeks later the band plays at the street festival. Tim comes with his friends and claps enthusiastically. After the concert he talks to the guitarist. She offers to let him try an instrument himself one day. Tim plans to do that next month."
+  ],
+  "questions": [
+    {
+      "question": "Warum übt die Band?",
+      "options": [
+        "Für eine Prüfung",
+        "Für ein Straßenfest",
+        "Für eine Hochzeit"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Für ein Straßenfest."
+    },
+    {
+      "question": "Wo treffen sich die Musiker?",
+      "options": [
+        "Im Keller",
+        "Auf dem Dach",
+        "Im Garten"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Im Keller."
+    },
+    {
+      "question": "Was vereinbaren die Nachbarn?",
+      "options": [
+        "Einen neuen Mietvertrag",
+        "Ein gemeinsames Auto",
+        "Feste Übungszeiten"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Feste Übungszeiten."
+    }
+  ]
+}

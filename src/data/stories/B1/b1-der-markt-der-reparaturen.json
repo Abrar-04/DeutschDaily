@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-markt-der-reparaturen",
+  "level": "B1",
+  "title": "Der Markt der Reparaturen",
+  "subtitle": "Eine Initiative verlängert das Leben alter Geräte",
+  "category": "Umwelt",
+  "emoji": "🔧",
+  "color": "butter",
+  "german": [
+    "In Leons Stadt findet einmal im Monat ein Reparaturtreffen statt. Freiwillige helfen dabei, kaputte Gegenstände zu prüfen, statt sie sofort wegzuwerfen. Leon besitzt einen alten Wasserkocher, der plötzlich nicht mehr funktioniert. Er nimmt ihn mit, obwohl er wenig Hoffnung hat, dass man ihn reparieren kann.",
+    "Eine freiwillige Helferin untersucht das Gerät. Zuerst erklärt sie Leon, dass man elektrische Geräte nicht ohne Kenntnisse öffnen sollte. Dann entdeckt sie einen defekten Schalter. Ein passendes Ersatzteil ist vorhanden, sodass die Reparatur unter sicheren Bedingungen möglich ist. Leon beobachtet, wie sorgfältig sie arbeitet.",
+    "Während er wartet, spricht er mit anderen Besuchern. Eine Studentin hat einen Rucksack mit einem kaputten Reißverschluss mitgebracht. Ein älterer Mann möchte seine Schreibtischlampe retten. Niemand muss etwas bezahlen, aber viele geben eine kleine Spende für neue Werkzeuge.",
+    "Am Nachmittag funktioniert Leons Wasserkocher wieder. Er freut sich nicht nur über das gesparte Geld. Er hat auch verstanden, wie viel Arbeit und Material in alltäglichen Geräten steckt. Beim nächsten Termin möchte er mithelfen, zumindest beim Empfang und beim Sortieren der Gegenstände."
+  ],
+  "english": [
+    "Once a month a repair meeting takes place in Leon's town. Volunteers help examine broken items instead of throwing them away immediately. Leon has an old kettle that has suddenly stopped working. He brings it along, although he has little hope that it can be repaired.",
+    "A volunteer examines the device. First she explains that electrical appliances should not be opened without proper knowledge. Then she finds a broken switch. A suitable spare part is available, so the repair can be done safely. Leon watches how carefully she works.",
+    "While waiting, he talks to other visitors. A student has brought a backpack with a broken zip. An older man wants to rescue his desk lamp. Nobody has to pay, but many people give a small donation for new tools.",
+    "By the afternoon Leon's kettle is working again. He is pleased not only about the money saved. He has also realized how much work and material go into everyday appliances. At the next meeting he wants to help too, at least with welcoming guests and sorting items."
+  ],
+  "questions": [
+    {
+      "question": "Was bringt Leon zum Reparaturtreffen?",
+      "options": [
+        "Einen Fernseher",
+        "Ein Fahrrad",
+        "Einen Wasserkocher"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Einen Wasserkocher."
+    },
+    {
+      "question": "Was ist defekt?",
+      "options": [
+        "Die Steckdose im Haus",
+        "Ein Schalter",
+        "Der Deckel"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Schalter."
+    },
+    {
+      "question": "Wie möchte Leon später helfen?",
+      "options": [
+        "Beim Empfang und Sortieren",
+        "Als Elektriker ohne Ausbildung",
+        "Mit einem neuen Geschäft"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Beim Empfang und Sortieren."
+    }
+  ]
+}

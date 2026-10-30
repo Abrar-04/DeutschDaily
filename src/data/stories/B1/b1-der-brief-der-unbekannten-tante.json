@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-brief-der-unbekannten-tante",
+  "level": "B1",
+  "title": "Der Brief der unbekannten Tante",
+  "subtitle": "Eine Einladung verändert den Blick auf die Familie",
+  "category": "Familie",
+  "emoji": "💌",
+  "color": "butter",
+  "german": [
+    "Nach dem Tod ihrer Großmutter erhält Pia einen Brief von einer Frau, deren Namen sie noch nie gehört hat. Die Absenderin behauptet, eine entfernte Tante zu sein, und lädt Pia zu einem Familientreffen ein. Pia ist überrascht, denn ihre Eltern haben nie von dieser Verwandten erzählt. Zunächst legt sie den Brief zur Seite.",
+    "Einige Tage später fragt sie ihren Vater danach. Er erklärt, dass seine Familie früher in verschiedenen Ländern gelebt hat und der Kontakt über viele Jahre verloren ging. Die Frau ist tatsächlich seine Cousine. Als Pia das erfährt, wird sie neugierig und antwortet auf die Einladung.",
+    "Beim Treffen bringt die Tante ein Album mit alten Fotografien mit. Pia erkennt ihre Großmutter als junges Mädchen und entdeckt ähnliche Gesichtszüge bei Menschen, die sie gerade erst kennengelernt hat. Besonders spannend findet sie Geschichten über Familienfeiern, die lange vor ihrer Geburt stattgefunden haben.",
+    "Auf der Rückfahrt nimmt Pia sich vor, die älteren Verwandten öfter nach ihrer Vergangenheit zu fragen. Sie merkt, dass in einer Familie viele Geschichten verborgen bleiben können, wenn niemand Fragen stellt. Das neue Album erhält einen Platz im Wohnzimmer, damit es nicht wieder vergessen wird."
+  ],
+  "english": [
+    "After her grandmother's death, Pia receives a letter from a woman whose name she has never heard. The sender claims to be a distant aunt and invites Pia to a family gathering. Pia is surprised because her parents have never mentioned this relative. At first she puts the letter aside.",
+    "A few days later she asks her father about it. He explains that the family once lived in different countries and lost contact over many years. The woman really is his cousin. When Pia learns this, she becomes curious and accepts the invitation.",
+    "At the gathering the aunt brings an album of old photographs. Pia recognizes her grandmother as a young girl and discovers similar facial features in people she has only just met. She finds the stories of celebrations long before her birth especially interesting.",
+    "On the way home Pia resolves to ask older relatives about their past more often. She realizes that many stories in a family can remain hidden if nobody asks questions. The new album is given a place in the living room so it will not be forgotten again."
+  ],
+  "questions": [
+    {
+      "question": "Wer schreibt Pia den Brief?",
+      "options": [
+        "Eine Lehrerin",
+        "Eine Kollegin",
+        "Eine entfernte Verwandte"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine entfernte Verwandte."
+    },
+    {
+      "question": "Was bringt die Tante zum Treffen mit?",
+      "options": [
+        "Ein Radio",
+        "Ein Fotoalbum",
+        "Einen Hund"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Fotoalbum."
+    },
+    {
+      "question": "Was möchte Pia künftig öfter tun?",
+      "options": [
+        "Ältere Verwandte nach Geschichten fragen",
+        "Weiter wegziehen",
+        "Mehr Filme sehen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ältere Verwandte nach Geschichten fragen."
+    }
+  ]
+}

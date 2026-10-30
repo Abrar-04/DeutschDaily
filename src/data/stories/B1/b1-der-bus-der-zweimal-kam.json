@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-bus-der-zweimal-kam",
+  "level": "B1",
+  "title": "Der Bus, der zweimal kam",
+  "subtitle": "Ein Fahrplanfehler führt zu einer hilfreichen Idee",
+  "category": "Verkehr",
+  "emoji": "🚌",
+  "color": "sky",
+  "german": [
+    "In einem kleinen Dorf fährt der Bus zur nächsten Stadt nur jede Stunde. Als eines Morgens zwei Busse fast gleichzeitig ankommen, sind die Fahrgäste verwirrt. Einige steigen in den ersten ein, andere warten auf den zweiten. Beide Fahrer erklären, dass sie unterschiedliche Fahrpläne auf ihren Geräten angezeigt bekommen haben.",
+    "Die Studentin Caro fotografiert die Aushänge an der Haltestelle und stellt fest, dass dort noch die alten Abfahrtszeiten stehen. Sie meldet den Fehler über das Kontaktformular des Verkehrsunternehmens. Weil auch andere Menschen betroffen sind, sammelt sie weitere Hinweise aus dem Dorf.",
+    "Einige Tage später antwortet das Unternehmen. Bei einer Fahrplanänderung wurden nicht alle Anzeigen rechtzeitig aktualisiert. Die Verantwortlichen entschuldigen sich und lassen die Tafeln austauschen. Zusätzlich erscheint eine Erklärung in der lokalen Zeitung. Caro überprüft die neuen Zeiten gemeinsam mit einer Nachbarin.",
+    "Am nächsten Montag steht nur noch der erwartete Bus an der Haltestelle. Die Fahrgäste sind erleichtert, weil sie wieder besser planen können. Caro freut sich besonders, dass eine einfache Meldung etwas verändert hat. Sie weiß jetzt, wie wichtig aktuelle Informationen im öffentlichen Verkehr sind."
+  ],
+  "english": [
+    "In a small village the bus to the nearest town runs only once an hour. When two buses arrive almost together one morning, passengers are confused. Some board the first, while others wait for the second. Both drivers explain that their devices display different timetables.",
+    "Student Caro photographs the notices at the stop and realizes that the old departure times are still posted there. She reports the error through the transport company's contact form. Since other people are affected too, she collects further observations from the village.",
+    "A few days later the company replies. During a timetable change not all displays were updated in time. The people responsible apologize and have the boards replaced. An explanation also appears in the local newspaper. Caro checks the new times together with a neighbor.",
+    "The following Monday only the expected bus arrives at the stop. Passengers are relieved because they can plan more reliably again. Caro is especially pleased that a simple report changed something. She now knows how important up-to-date information is in public transport."
+  ],
+  "questions": [
+    {
+      "question": "Was ist an der Haltestelle ungewöhnlich?",
+      "options": [
+        "Zwei Busse kommen fast gleichzeitig",
+        "Der Bus fliegt",
+        "Niemand wartet"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Zwei Busse kommen fast gleichzeitig."
+    },
+    {
+      "question": "Worauf stehen falsche Zeiten?",
+      "options": [
+        "Auf den Fahrscheinen",
+        "Auf der Schultafel",
+        "Auf den Aushängen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Auf den Aushängen."
+    },
+    {
+      "question": "Was macht das Unternehmen?",
+      "options": [
+        "Es ignoriert alles",
+        "Es korrigiert die Fahrpläne",
+        "Es schließt die Strecke"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Es korrigiert die Fahrpläne."
+    }
+  ]
+}

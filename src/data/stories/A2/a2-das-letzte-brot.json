@@ -1,0 +1,53 @@
+{
+  "id": "a2-das-letzte-brot",
+  "level": "A2",
+  "title": "Das letzte Brot",
+  "subtitle": "In der Bäckerei treffen sich zwei Nachbarn",
+  "category": "Alltag",
+  "emoji": "🥖",
+  "color": "sky",
+  "german": [
+    "Es ist kurz vor sieben Uhr abends. Karim kommt von der Arbeit und geht in die Bäckerei. Er möchte Brot für das Abendessen kaufen. Im Regal liegt nur noch ein einziges großes Bauernbrot. Gerade als er es nehmen will, greift auch eine ältere Frau danach. Beide ziehen ihre Hände schnell zurück.",
+    "„Bitte nehmen Sie es“, sagt Karim. Die Frau antwortet: „Nein, Sie waren zuerst da.“ Sie reden kurz miteinander. Die Frau erzählt, dass ihr Enkel heute zu Besuch kommt. Karim wohnt allein und braucht eigentlich nur ein halbes Brot. Da hat er eine Idee.",
+    "Er fragt die Verkäuferin, ob sie das Brot in zwei Teile schneiden kann. Die Verkäuferin holt ein langes Messer. Wenig später haben beide eine Hälfte in der Tasche. Die ältere Frau freut sich und bezahlt Karims Hälfte gleich mit. Karim möchte das Geld zurückgeben, aber sie winkt ab.",
+    "Draußen merken sie, dass sie im selben Haus wohnen. Die Frau lebt im zweiten Stock, Karim im vierten. Am nächsten Sonntag lädt sie ihn auf einen Kaffee ein. Aus einem letzten Brot wird so eine neue Freundschaft."
+  ],
+  "english": [
+    "It is just before seven in the evening. Karim comes from work and goes to the bakery. He wants bread for dinner. There is only one large country loaf left on the shelf. Just as he reaches for it, an older woman reaches for it too. Both quickly pull their hands back.",
+    "“Please take it,” says Karim. The woman replies, “No, you were here first.” They talk for a moment. The woman says her grandson is visiting today. Karim lives alone and actually only needs half a loaf. Then he has an idea.",
+    "He asks the shop assistant whether she can cut the loaf into two pieces. The assistant gets a long knife. Soon each person has a half in their bag. The older woman is happy and even pays for Karim's half. He wants to give her the money, but she waves him off.",
+    "Outside they realize they live in the same building. The woman lives on the second floor and Karim on the fourth. The following Sunday she invites him for coffee. That is how one last loaf becomes a new friendship."
+  ],
+  "questions": [
+    {
+      "question": "Was gibt es noch in der Bäckerei?",
+      "options": [
+        "Ein großes Brot",
+        "Zehn Brötchen",
+        "Zwei Kuchen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein großes Brot."
+    },
+    {
+      "question": "Was schlägt Karim vor?",
+      "options": [
+        "Eine Pizza zu bestellen",
+        "Nach Hause zu gehen",
+        "Das Brot zu teilen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Das Brot zu teilen."
+    },
+    {
+      "question": "Wo wohnen Karim und die Frau?",
+      "options": [
+        "In einem Hotel",
+        "Im selben Haus",
+        "In verschiedenen Städten"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Im selben Haus."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-mantel-auf-zeit",
+  "level": "B2",
+  "title": "Der Mantel auf Zeit",
+  "subtitle": "Ein Modegeschäft testet Leihen statt Kaufen",
+  "category": "Wirtschaft",
+  "emoji": "🧥",
+  "color": "sky",
+  "german": [
+    "Ein kleines Bekleidungsgeschäft führt einen Verleih für festliche Kleidung ein. Kundinnen können Mäntel und Anzüge für besondere Anlässe ausleihen, statt sie für wenige Stunden zu kaufen. Geschäftsführerin Nele hofft, dadurch weniger selten genutzte Kleidung zu verkaufen und zugleich neue Kunden zu gewinnen.",
+    "Nach den ersten Monaten zeigt sich jedoch, dass das Konzept komplizierter ist als erwartet. Die Reinigung kostet Geld, manche Stücke müssen häufig transportiert werden, und beschädigte Kleidung lässt sich nicht immer reparieren. Nele möchte deshalb wissen, ob der Verleih tatsächlich Ressourcen spart oder nur eine attraktive Werbegeschichte liefert.",
+    "Sie arbeitet mit einer Studentengruppe zusammen, die unterschiedliche Nutzungsszenarien vergleicht. Dabei werden unter anderem die Anzahl der Ausleihen, Reinigungsverfahren und Transportwege berücksichtigt. Die Ergebnisse deuten darauf hin, dass häufig genutzte Stücke vorteilhaft sein können, während sehr selten verliehene Kleidung weniger gut abschneidet.",
+    "Nele passt daraufhin das Sortiment an und bietet zusätzlich einen Reparaturservice an. Sie wirbt nicht mehr mit pauschalen Umweltversprechen, sondern beschreibt, unter welchen Bedingungen das Modell sinnvoll ist. Manche Kunden finden die Aussagen zu vorsichtig. Nele dagegen ist überzeugt, dass verantwortlicher Konsum auch bedeutet, die Grenzen einer guten Idee zu kennen."
+  ],
+  "english": [
+    "A small clothing shop introduces a rental service for formal wear. Customers can borrow coats and suits for special occasions rather than buy them for just a few hours. Manager Nele hopes this will reduce sales of rarely used clothing while attracting new customers.",
+    "After the first months, however, the concept proves more complicated than expected. Cleaning costs money, some items must be transported frequently, and damaged clothes cannot always be repaired. Nele therefore wants to know whether renting really saves resources or merely creates an attractive advertising story.",
+    "She works with a student group that compares different usage scenarios. Among other things they consider the number of rentals, cleaning methods and transport distances. Results suggest that frequently used items can be beneficial, while clothes rented very rarely perform less well.",
+    "Nele adjusts the range and also offers repairs. She no longer advertises sweeping environmental promises, but describes the conditions under which the model makes sense. Some customers find her statements too cautious. Nele, however, is convinced that responsible consumption also means knowing the limits of a good idea."
+  ],
+  "questions": [
+    {
+      "question": "Was bietet das Geschäft neu an?",
+      "options": [
+        "Kleidung zum Ausleihen",
+        "Nur alte Schuhe",
+        "Kostenlose Reisen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Kleidung zum Ausleihen."
+    },
+    {
+      "question": "Welche Kosten werden berücksichtigt?",
+      "options": [
+        "Nur Werbung",
+        "Nur Musik",
+        "Reinigung und Transport"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Reinigung und Transport."
+    },
+    {
+      "question": "Wie verändert Nele die Werbung?",
+      "options": [
+        "Sie stoppt alle Informationen",
+        "Sie nennt Bedingungen statt pauschaler Versprechen",
+        "Sie behauptet immer perfekte Vorteile"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie nennt Bedingungen statt pauschaler Versprechen."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-probe-hinter-verschlossenen-tueren",
+  "level": "B1",
+  "title": "Die Probe hinter verschlossenen Türen",
+  "subtitle": "Ein Theaterstück wird ohne Publikum geübt",
+  "category": "Kultur",
+  "emoji": "🎭",
+  "color": "butter",
+  "german": [
+    "Eine kleine Theatergruppe probt seit Monaten für eine Aufführung. Kurz vor der Premiere stellt Regisseurin Selma fest, dass einige Schauspieler ihre Texte zwar sicher beherrschen, aber kaum miteinander spielen. Sie sind so sehr auf ihre eigenen Sätze konzentriert, dass sie auf die anderen Figuren wenig reagieren.",
+    "Selma schlägt eine ungewöhnliche Probe vor. Die Darsteller sollen eine Szene spielen, ohne dabei ihre vorbereiteten Dialoge zu benutzen. Stattdessen müssen sie in eigenen Worten erklären, was ihre Figuren denken und wollen. Anfangs führt das zu vielen Pausen und Missverständnissen.",
+    "Nach und nach wird jedoch deutlich, warum die Figuren miteinander streiten oder sich versöhnen. Ein Schauspieler entdeckt, dass seine Rolle eigentlich Angst hat, obwohl sie immer wütend klingt. Eine andere Darstellerin erkennt, dass sie in einer wichtigen Szene mehr zuhören sollte.",
+    "Bei der nächsten regulären Probe benutzen alle wieder den Originaltext. Diesmal wirken ihre Gespräche natürlicher und lebendiger. Selma ist zufrieden, weil die Gruppe nicht nur Sätze auswendig gelernt, sondern die Geschichte besser verstanden hat. Bei der Premiere bemerkt auch das Publikum, wie glaubwürdig die Beziehungen auf der Bühne sind."
+  ],
+  "english": [
+    "A small theatre group has been rehearsing for a performance for months. Shortly before the premiere, director Selma notices that some actors know their lines perfectly but hardly act together. They focus so much on their own sentences that they barely respond to other characters.",
+    "Selma suggests an unusual rehearsal. The actors should play a scene without using their prepared dialogue. Instead they must explain in their own words what their characters think and want. At first this leads to many pauses and misunderstandings.",
+    "Gradually it becomes clear why the characters argue or reconcile. One actor discovers that his role is actually frightened, although it always sounds angry. Another actress realizes that she should listen more carefully in an important scene.",
+    "At the next regular rehearsal everyone uses the original script again. This time their conversations seem more natural and lively. Selma is happy because the group has not only memorized sentences but understands the story better. At the premiere the audience also notices how believable the relationships on stage are."
+  ],
+  "questions": [
+    {
+      "question": "Was fehlt den Schauspielern zunächst?",
+      "options": [
+        "Bühnenkleidung",
+        "Ein Gebäude",
+        "Reaktionen aufeinander"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Reaktionen aufeinander."
+    },
+    {
+      "question": "Was ist an der Probe besonders?",
+      "options": [
+        "Sie benutzen keine Bühne",
+        "Sie spielen ohne vorbereitete Dialoge",
+        "Sie sprechen nicht"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie spielen ohne vorbereitete Dialoge."
+    },
+    {
+      "question": "Was verändert sich später?",
+      "options": [
+        "Die Gespräche wirken natürlicher",
+        "Alle vergessen ihren Text",
+        "Die Premiere wird abgesagt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Gespräche wirken natürlicher."
+    }
+  ]
+}

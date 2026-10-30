@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-interview-im-regen",
+  "level": "B1",
+  "title": "Das Interview im Regen",
+  "subtitle": "Eine Reporterin findet ihre Geschichte anders als erwartet",
+  "category": "Arbeit",
+  "emoji": "🎤",
+  "color": "lavender",
+  "german": [
+    "Für die Lokalzeitung soll journalistische Praktikantin Amelie über eine neue Fahrradbrücke berichten. Sie hat sich gründlich vorbereitet und möchte mehrere Passanten fragen, ob die Brücke ihren Alltag verbessert hat. Als sie ankommt, beginnt es heftig zu regnen. Kaum jemand bleibt stehen, und ihre Notizen werden nass.",
+    "Amelie sucht Schutz unter dem Dach einer Bushaltestelle. Dort wartet ein älterer Mann, der täglich mit dem Fahrrad zu seiner Tochter fährt. Die beiden kommen ins Gespräch. Er erklärt, dass die Brücke zwar praktisch sei, aber der Weg dorthin schlecht ausgeschildert werde. Amelie erkennt, dass sie diese Frage bisher übersehen hat.",
+    "Als der Regen nachlässt, gehen beide zum Beginn des Radwegs. Tatsächlich fehlt dort ein wichtiges Schild. Amelie fotografiert die Stelle und spricht anschließend noch mit einem Mitarbeiter der Stadt. Dieser bestätigt, dass weitere Wegweiser geplant sind, aber noch nicht geliefert wurden.",
+    "Ihr Artikel erscheint zwei Tage später. Statt nur die neue Brücke zu loben, beschreibt Amelie auch, was verbessert werden könnte. Die Chefredakteurin ist zufrieden, weil der Text verschiedene Perspektiven zeigt. Amelie lernt, dass eine gute Frage manchmal wertvoller ist als ein perfekter Plan."
+  ],
+  "english": [
+    "Journalism intern Amelie is supposed to report on a new bicycle bridge for the local newspaper. She has prepared carefully and wants to ask several passers-by whether the bridge has improved their daily lives. When she arrives, heavy rain begins. Hardly anyone stops, and her notes get wet.",
+    "Amelie takes shelter under a bus stop roof. An older man is waiting there who cycles to his daughter's home every day. They start talking. He explains that the bridge is useful, but the route leading to it is poorly signposted. Amelie realizes that she had overlooked that question.",
+    "When the rain eases, they walk to the start of the cycle path. An important sign really is missing there. Amelie photographs the spot and then speaks to a city employee. He confirms that more signs are planned but have not yet been delivered.",
+    "Her article appears two days later. Instead of simply praising the new bridge, Amelie also describes what could be improved. The editor-in-chief is pleased because the article presents different perspectives. Amelie learns that a good question is sometimes more valuable than a perfect plan."
+  ],
+  "questions": [
+    {
+      "question": "Worüber soll Amelie berichten?",
+      "options": [
+        "Über ein Konzert",
+        "Über ein neues Krankenhaus",
+        "Über eine Fahrradbrücke"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Über eine Fahrradbrücke."
+    },
+    {
+      "question": "Welches Problem nennt der Mann?",
+      "options": [
+        "Hohe Eintrittspreise",
+        "Fehlende Wegweiser",
+        "Zu wenig Sitzplätze"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Fehlende Wegweiser."
+    },
+    {
+      "question": "Was lobt die Chefredakteurin?",
+      "options": [
+        "Die verschiedenen Perspektiven",
+        "Die vielen Fotos",
+        "Die kurze Länge"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die verschiedenen Perspektiven."
+    }
+  ]
+}

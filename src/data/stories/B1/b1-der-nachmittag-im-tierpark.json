@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-nachmittag-im-tierpark",
+  "level": "B1",
+  "title": "Der Nachmittag im Tierpark",
+  "subtitle": "Eine Familie entscheidet sich gegen ein spontanes Geschenk",
+  "category": "Tiere",
+  "emoji": "🦜",
+  "color": "rose",
+  "german": [
+    "Bei einem Besuch im Tierpark beobachtet die Familie von Leonie bunte Papageien. Besonders der jüngere Bruder möchte unbedingt einen solchen Vogel zu Hause haben. Er bittet seine Eltern, ihm zum Geburtstag einen Papagei zu schenken. Zunächst klingt die Idee für ihn wunderbar, weil die Tiere so klug und schön aussehen.",
+    "Ein Tierpfleger erklärt den Kindern jedoch, wie anspruchsvoll die Haltung ist. Viele Papageien können sehr alt werden, brauchen viel Beschäftigung und sollten nicht allein gehalten werden. Außerdem benötigen sie geeignete Räume und Menschen, die sich lange zuverlässig um sie kümmern.",
+    "Auf dem Heimweg sprechen die Eltern mit ihren Kindern darüber, ob die Familie diese Verantwortung übernehmen könnte. Weil alle regelmäßig reisen und wenig Platz haben, entscheiden sie sich dagegen. Der Bruder ist zunächst traurig. Leonie schlägt vor, stattdessen regelmäßig den Tierpark zu besuchen und dort mehr über die Vögel zu lernen.",
+    "Einige Wochen später nimmt die Familie an einer Führung teil. Der Bruder stellt viele Fragen und führt ein kleines Heft mit Zeichnungen. Er ist immer noch begeistert von Papageien, aber inzwischen weiß er, dass man Tiere nicht einfach wie Spielzeug verschenken sollte."
+  ],
+  "english": [
+    "During a visit to the animal park Leonie's family watches colourful parrots. Her younger brother especially wants to have one at home. He asks his parents to give him a parrot for his birthday. At first the idea sounds wonderful to him because the animals look so intelligent and beautiful.",
+    "However, a keeper explains to the children how demanding their care is. Many parrots can live for a very long time, need plenty of stimulation and should not be kept alone. They also need suitable spaces and people who will look after them reliably for years.",
+    "On the way home the parents talk to the children about whether the family could take on this responsibility. Because everyone travels regularly and they have little space, they decide against it. The brother is sad at first. Leonie suggests visiting the park regularly instead and learning more about the birds there.",
+    "A few weeks later the family joins a guided tour. Her brother asks many questions and keeps a little notebook with drawings. He is still enthusiastic about parrots, but now knows that animals should not simply be given as toys."
+  ],
+  "questions": [
+    {
+      "question": "Welches Tier möchte der Bruder?",
+      "options": [
+        "Ein Pferd",
+        "Einen Papagei",
+        "Einen Hund"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Einen Papagei."
+    },
+    {
+      "question": "Warum entscheidet sich die Familie dagegen?",
+      "options": [
+        "Sie kann die Haltung nicht gut gewährleisten",
+        "Die Tiere sind hässlich",
+        "Der Zoo ist geschlossen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sie kann die Haltung nicht gut gewährleisten."
+    },
+    {
+      "question": "Was macht der Bruder stattdessen?",
+      "options": [
+        "Er kauft einen Käfig",
+        "Er vergisst die Tiere",
+        "Er nimmt an einer Führung teil"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er nimmt an einer Führung teil."
+    }
+  ]
+}

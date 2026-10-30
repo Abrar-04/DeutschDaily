@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-diskussion-im-hausflur",
+  "level": "B1",
+  "title": "Die Diskussion im Hausflur",
+  "subtitle": "Bewohner finden eine Lösung für abgestellte Fahrräder",
+  "category": "Nachbarschaft",
+  "emoji": "🚲",
+  "color": "lavender",
+  "german": [
+    "Im Hausflur von Maries Wohngebäude stehen immer mehr Fahrräder. Einige gehören Kindern, andere werden täglich für den Arbeitsweg benutzt. Besonders die ältere Bewohnerin Frau Berg hat Schwierigkeiten, mit ihrem Rollator an den Rädern vorbeizukommen. Eines Abends beschwert sie sich bei Marie.",
+    "Marie versteht das Problem, möchte aber auch keine Fahrräder einfach verbieten. Deshalb schlägt sie eine Hausversammlung vor. Bei dem Treffen erklären die Nachbarn, warum sie die Räder im Flur abstellen: Der Keller ist voll, und draußen fehlen sichere Plätze. Frau Berg erzählt, wie gefährlich der enge Durchgang für sie ist.",
+    "Gemeinsam besichtigen die Bewohner einen ungenutzten Raum neben dem Eingang. Der Vermieter erlaubt, dort zusätzliche Fahrradständer aufzustellen, sofern die Brandschutzregeln eingehalten werden. Einige Nachbarn bieten an, beim Aufbau zu helfen. Für Kinderwagen bleibt ein eigener Bereich frei.",
+    "Zwei Wochen später ist der Hausflur endlich leer. Frau Berg kann wieder ohne Hindernisse zur Haustür gehen. Marie freut sich, dass niemand sein Fahrrad verkaufen musste. Sie hat gelernt, dass man durch Zuhören manchmal bessere Lösungen findet als durch schnelle Verbote."
+  ],
+  "english": [
+    "More and more bicycles are standing in the hallway of Marie's apartment building. Some belong to children, and others are used for commuting every day. In particular, an older resident called Mrs Berg has trouble getting past them with her walking frame. One evening she complains to Marie.",
+    "Marie understands the problem but does not want to simply ban bicycles either. So she suggests a residents' meeting. At the meeting the neighbors explain why they leave the bikes in the hallway: the basement is full and there are no secure spaces outside. Mrs Berg explains how dangerous the narrow passage is for her.",
+    "Together the residents inspect an unused room near the entrance. The landlord allows them to install extra bicycle racks there, provided fire safety rules are respected. Some neighbors offer to help assemble them. A separate area remains free for pushchairs.",
+    "Two weeks later the hallway is finally clear. Mrs Berg can reach the front door without obstacles again. Marie is glad nobody had to sell their bicycle. She has learned that listening sometimes produces better solutions than quick bans."
+  ],
+  "questions": [
+    {
+      "question": "Warum beschwert sich Frau Berg?",
+      "options": [
+        "Die Räder sind zu teuer",
+        "Es gibt zu wenig Licht",
+        "Sie kommt mit dem Rollator schlecht vorbei"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie kommt mit dem Rollator schlecht vorbei."
+    },
+    {
+      "question": "Welcher Raum wird genutzt?",
+      "options": [
+        "Die Küche",
+        "Ein leerer Raum am Eingang",
+        "Das Dach"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein leerer Raum am Eingang."
+    },
+    {
+      "question": "Was ist für die Lösung wichtig?",
+      "options": [
+        "Brandschutzregeln",
+        "Ein neues Auto",
+        "Neue Haustiere"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Brandschutzregeln."
+    }
+  ]
+}

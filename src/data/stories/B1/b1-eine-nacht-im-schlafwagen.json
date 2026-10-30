@@ -1,0 +1,53 @@
+{
+  "id": "b1-eine-nacht-im-schlafwagen",
+  "level": "B1",
+  "title": "Eine Nacht im Schlafwagen",
+  "subtitle": "Zwei Fremde teilen ihre Reisegeschichten",
+  "category": "Reisen",
+  "emoji": "🚃",
+  "color": "sky",
+  "german": [
+    "Nadine entscheidet sich für einen Nachtzug, weil sie am nächsten Morgen früh in Wien sein muss. Als sie ihr Abteil betritt, ist das untere Bett bereits belegt. Dort sitzt eine ältere Frau, die mehrere Bücher und eine Thermosflasche ausgepackt hat. Sie begrüßt Nadine freundlich und bietet ihr Tee an.",
+    "Während der Zug langsam losfährt, kommen sie ins Gespräch. Die Frau erzählt, dass sie seit ihrer Pensionierung jedes Jahr eine neue europäische Stadt besucht. Nadine dagegen ist auf dem Weg zu einem Bewerbungsgespräch und fühlt sich ziemlich nervös. Obwohl sie einander gerade erst kennengelernt haben, sprechen sie offen über ihre Pläne.",
+    "Kurz vor Mitternacht wird der Zug wegen einer technischen Störung angehalten. Die Durchsage kündigt eine längere Verspätung an. Nadine befürchtet, ihr Gespräch zu verpassen. Ihre Mitreisende hilft ihr, eine Nachricht an die Firma zu formulieren und mögliche Verbindungen zu prüfen.",
+    "Am Morgen erreicht der Zug Wien tatsächlich zu spät. Die Firma hat jedoch Verständnis und verschiebt den Termin um zwei Stunden. Nadine bedankt sich bei ihrer Reisebekanntschaft. Beim Abschied verabreden die beiden, sich nach dem Gespräch zu schreiben. Aus einer anstrengenden Fahrt ist eine unerwartete Unterstützung geworden."
+  ],
+  "english": [
+    "Nadine chooses a night train because she needs to be in Vienna early the next morning. When she enters her compartment, the lower bunk is already occupied. An older woman is sitting there with several books and a thermos flask laid out. She greets Nadine kindly and offers her tea.",
+    "As the train slowly departs, they start talking. The woman explains that since retiring she has visited a new European city every year. Nadine, by contrast, is on her way to a job interview and feels quite nervous. Although they have just met, they speak openly about their plans.",
+    "Shortly before midnight the train stops because of a technical fault. An announcement predicts a long delay. Nadine fears she will miss her interview. Her fellow passenger helps her write a message to the company and check possible connections.",
+    "In the morning the train indeed arrives late in Vienna. However, the company is understanding and postpones the appointment by two hours. Nadine thanks her new acquaintance. As they part, they agree to write to each other after the interview. An exhausting journey has brought unexpected support."
+  ],
+  "questions": [
+    {
+      "question": "Warum fährt Nadine nach Wien?",
+      "options": [
+        "Wegen eines Bewerbungsgesprächs",
+        "Für einen Urlaub am Meer",
+        "Für eine Hochzeit"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Wegen eines Bewerbungsgesprächs."
+    },
+    {
+      "question": "Was passiert in der Nacht?",
+      "options": [
+        "Ein Fenster fällt heraus",
+        "Der Zug wird zu früh ankommen",
+        "Der Zug hat eine technische Störung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Der Zug hat eine technische Störung."
+    },
+    {
+      "question": "Wie reagiert die Firma?",
+      "options": [
+        "Sie antwortet nicht",
+        "Sie verschiebt den Termin",
+        "Sie sagt den Termin ab"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie verschiebt den Termin."
+    }
+  ]
+}

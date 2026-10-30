@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-preis-der-stille",
+  "level": "B2",
+  "title": "Der Preis der Stille",
+  "subtitle": "Eine Stadt sucht Orte ohne ständigen Lärm",
+  "category": "Gesellschaft",
+  "emoji": "🔇",
+  "color": "rose",
+  "german": [
+    "In einer dicht bebauten Stadt nimmt die Zahl der Beschwerden über Verkehrslärm stetig zu. Während einige Bewohner strengere Regeln verlangen, fürchten Geschäftsleute Einschränkungen bei Lieferungen und Veranstaltungen. Stadtforscherin Jona soll untersuchen, welche Maßnahmen realistisch sind und wem sie tatsächlich helfen würden.",
+    "Anstatt nur durchschnittliche Dezibelwerte zu vergleichen, besucht Jona verschiedene Viertel zu unterschiedlichen Tageszeiten. Sie spricht mit Schichtarbeitern, Eltern kleiner Kinder und Menschen, die in ihren Wohnungen arbeiten. Dabei stellt sie fest, dass derselbe Geräuschpegel je nach Situation sehr unterschiedlich erlebt werden kann.",
+    "Gemeinsam mit einem Planungsteam schlägt sie mehrere kleine Maßnahmen vor: veränderte Lieferzeiten an besonders belasteten Straßen, ruhigere Oberflächen und zusätzliche geschützte Aufenthaltsorte. Die Vorschläge werden zunächst zeitlich begrenzt getestet und von Messungen sowie Bewohnerbefragungen begleitet.",
+    "Nach einem halben Jahr zeigen sich Verbesserungen, allerdings nicht überall im gleichen Ausmaß. Jona berichtet offen über die Grenzen der Ergebnisse und rät davon ab, eine einzelne Maßnahme als universelle Lösung zu verkaufen. Die Stadt entscheidet, erfolgreiche Ansätze auszuweiten und andere zu überarbeiten. Für Jona bleibt entscheidend, dass Ruhe nicht bloß als Luxus behandelt wird, sondern als Teil eines lebenswerten Alltags."
+  ],
+  "english": [
+    "In a densely built city, complaints about traffic noise steadily increase. While some residents demand stricter rules, business owners fear restrictions on deliveries and events. Urban researcher Jona is asked to investigate which measures are realistic and who would actually benefit.",
+    "Instead of comparing only average decibel levels, Jona visits different districts at different times of day. She speaks to shift workers, parents of small children and people who work from home. She discovers that the same noise level can be experienced very differently depending on the situation.",
+    "Together with a planning team she proposes several small measures: different delivery times on particularly affected streets, quieter road surfaces and additional sheltered places to spend time. The proposals are initially tested for a limited period, accompanied by measurements and resident surveys.",
+    "After six months improvements appear, though not equally everywhere. Jona openly reports the limits of the results and advises against presenting any single measure as a universal solution. The city decides to expand successful approaches and revise others. For Jona it remains essential that peace and quiet is treated not merely as a luxury, but as part of a livable everyday environment."
+  ],
+  "questions": [
+    {
+      "question": "Warum reichen Durchschnittswerte nicht aus?",
+      "options": [
+        "Alle Menschen arbeiten nachts",
+        "Lärm wird je nach Situation unterschiedlich erlebt",
+        "Messgeräte sind immer falsch"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Lärm wird je nach Situation unterschiedlich erlebt."
+    },
+    {
+      "question": "Wie werden Maßnahmen eingeführt?",
+      "options": [
+        "Als begrenzte Tests mit Messungen",
+        "Ohne Rückmeldungen",
+        "Nur für einen Tag"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Als begrenzte Tests mit Messungen."
+    },
+    {
+      "question": "Was empfiehlt Jona?",
+      "options": [
+        "Alle Straßen zu schließen",
+        "Nichts zu verändern",
+        "Unterschiedliche Ansätze weiter zu prüfen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Unterschiedliche Ansätze weiter zu prüfen."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-koffer-am-bahnhof",
+  "level": "A2",
+  "title": "Der Koffer am Bahnhof",
+  "subtitle": "Eine Reisende findet ihren eigenen Fehler",
+  "category": "Reisen",
+  "emoji": "🧳",
+  "color": "lavender",
+  "german": [
+    "Sophie steht am Bahnhof und wartet auf den Zug nach Bremen. Neben ihr steht ein schwarzer Koffer mit einem gelben Band. Als der Zug kommt, steigt sie schnell ein. Im Abteil öffnet sie den Koffer, weil sie eine Wasserflasche sucht. Aber darin liegen Männerhemden und ein Paar große Schuhe.",
+    "Sophie erschrickt. Sie hat den falschen Koffer genommen! Zum Glück liegt auf dem Gepäck ein Schild mit einer Telefonnummer. Sie ruft sofort an. Ein Mann antwortet und erklärt, dass er noch am Bahnhof steht. Seinen Koffer hat Sophie mitgenommen, aber ihrer steht bei ihm.",
+    "Beide sprechen mit dem Zugpersonal. Der nächste Halt ist nur zehn Minuten entfernt. Dort wartet der Mann auf dem Bahnsteig, denn er ist inzwischen mit einem Taxi gefahren. Er bringt Sophies Koffer mit. Sie steigen kurz aus, tauschen die Koffer und lachen über den Fehler.",
+    "Sophie setzt ihre Reise fort. Dieses Mal kontrolliert sie das gelbe Band ganz genau. Als sie später in Bremen ankommt, kauft sie ein rotes Band für ihren Koffer. Zwei gleiche schwarze Koffer sollen sie nie wieder verwirren."
+  ],
+  "english": [
+    "Sophie is standing at the railway station waiting for a train to Bremen. Next to her is a black suitcase with a yellow ribbon. When the train arrives, she gets on quickly. In her compartment she opens the suitcase to look for a bottle of water. But inside are men's shirts and a pair of large shoes.",
+    "Sophie is shocked. She has taken the wrong suitcase! Fortunately there is a tag with a phone number on the luggage. She calls immediately. A man answers and explains that he is still at the station. Sophie has taken his suitcase, but he has hers.",
+    "They both speak to the train staff. The next stop is only ten minutes away. The man waits there on the platform because he has travelled by taxi in the meantime. He brings Sophie's suitcase. They get off briefly, exchange the cases and laugh about the mistake.",
+    "Sophie continues her journey. This time she checks the yellow ribbon very carefully. When she arrives in Bremen, she buys a red ribbon for her suitcase. Two identical black cases should never confuse her again."
+  ],
+  "questions": [
+    {
+      "question": "Wohin fährt Sophie?",
+      "options": [
+        "Nach Hamburg",
+        "Nach Berlin",
+        "Nach Bremen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Nach Bremen."
+    },
+    {
+      "question": "Was findet sie im falschen Koffer?",
+      "options": [
+        "Kochbücher",
+        "Männerhemden und Schuhe",
+        "Spielzeug"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Männerhemden und Schuhe."
+    },
+    {
+      "question": "Wie kommt der Mann zum nächsten Bahnhof?",
+      "options": [
+        "Mit dem Taxi",
+        "Mit dem Fahrrad",
+        "Zu Fuß"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Mit dem Taxi."
+    }
+  ]
+}

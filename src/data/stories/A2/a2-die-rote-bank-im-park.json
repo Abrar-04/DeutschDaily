@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-rote-bank-im-park",
+  "level": "A2",
+  "title": "Die rote Bank im Park",
+  "subtitle": "Ein Treffpunkt bekommt eine neue Farbe",
+  "category": "Nachbarschaft",
+  "emoji": "🪑",
+  "color": "peach",
+  "german": [
+    "Im Park von Nele steht eine alte Bank. Früher war sie rot, aber jetzt ist die Farbe fast weg. Jeden Nachmittag sitzt dort Herr Baumann und liest seine Zeitung. Nele kennt ihn schon lange. Eines Tages sieht sie, dass die Bank an einer Seite kaputt ist. Herr Baumann muss auf einem Stein sitzen.",
+    "Nele spricht mit ihrer Mutter und schreibt eine Nachricht an die Stadt. Zwei Wochen später kommen Mitarbeiter und reparieren das Holz. Die Bank ist wieder sicher, aber noch immer grau. Nele möchte sie gern rot streichen. Sie fragt bei der Stadt nach und bekommt eine Erlaubnis.",
+    "Am Samstag kommen drei Freunde mit Pinseln und Farbe. Sie legen alte Zeitungen unter die Bank und streichen vorsichtig. Danach stellen sie ein Schild auf: „Frisch gestrichen!“ Herr Baumann sieht ihnen zu und bringt kalte Getränke. Er erzählt, dass er dort früher seine Frau kennengelernt hat.",
+    "Am Montag sitzt Herr Baumann wieder auf der roten Bank. Neben ihm liegt eine neue Zeitung. Nele setzt sich kurz dazu. Beide schauen auf die frische Farbe und freuen sich über ihren kleinen Treffpunkt."
+  ],
+  "english": [
+    "There is an old bench in Nele's park. It used to be red, but almost all the paint has gone. Every afternoon Mr Baumann sits there and reads his newspaper. Nele has known him for a long time. One day she notices that one side of the bench is broken. Mr Baumann has to sit on a stone.",
+    "Nele talks to her mother and writes to the city. Two weeks later workers come and repair the wood. The bench is safe again, but it is still grey. Nele would like to paint it red. She asks the city for permission and receives it.",
+    "On Saturday three friends arrive with brushes and paint. They put old newspapers under the bench and paint carefully. Then they put up a sign: “Wet paint!” Mr Baumann watches and brings cold drinks. He says he met his wife there many years ago.",
+    "On Monday Mr Baumann is sitting on the red bench again. A new newspaper is beside him. Nele sits down for a moment. They both look at the fresh paint and are happy about their little meeting place."
+  ],
+  "questions": [
+    {
+      "question": "Warum sitzt Herr Baumann auf einem Stein?",
+      "options": [
+        "Die Bank ist kaputt",
+        "Die Bank ist besetzt",
+        "Er sucht seinen Hund"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Bank ist kaputt."
+    },
+    {
+      "question": "Wer erlaubt das Streichen?",
+      "options": [
+        "Ein Verkäufer",
+        "Die Polizei",
+        "Die Stadt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Stadt."
+    },
+    {
+      "question": "Wo hat Herr Baumann seine Frau kennengelernt?",
+      "options": [
+        "Im Museum",
+        "An der Bank",
+        "Im Zug"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: An der Bank."
+    }
+  ]
+}

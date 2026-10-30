@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-schule-und-der-schreibassistent",
+  "level": "B2",
+  "title": "Die Schule und der Schreibassistent",
+  "subtitle": "Lehrkräfte entwickeln Regeln für KI im Unterricht",
+  "category": "Bildung",
+  "emoji": "🧑‍🏫",
+  "color": "butter",
+  "german": [
+    "An einer weiterführenden Schule nutzen immer mehr Jugendliche digitale Schreibassistenten für Hausaufgaben. Einige Lehrkräfte sehen darin eine Möglichkeit, Lernende individuell zu unterstützen. Andere fürchten, dass fertige Texte eingereicht werden, ohne dass die Schüler den Inhalt verstanden haben. Schulleiterin Eva möchte vermeiden, dass die Diskussion in ein einfaches Verbot oder eine unkritische Begeisterung mündet.",
+    "Sie organisiert deshalb eine Projektwoche, in der Klassen verschiedene Aufgaben ausprobieren. Bei einer Übung dürfen die Schüler sich Gliederungsvorschläge geben lassen, müssen aber anschließend selbst recherchieren und Quellen prüfen. In einer anderen Aufgabe vergleichen sie automatisch erzeugte Aussagen mit zuverlässigen Materialien und markieren Fehler oder unbelegte Behauptungen.",
+    "Die Ergebnisse sind unterschiedlich. Einige Jugendliche lernen, präzisere Fragen zu stellen, während andere erkennen, wie leicht überzeugend klingende Texte falsch sein können. Das Kollegium entwickelt daraufhin Regeln, die zwischen zulässiger Unterstützung und der Abgabe fremder Leistungen unterscheiden. Außerdem sollen Aufgaben häufiger den eigenen Denkweg sichtbar machen.",
+    "Eva ist sich bewusst, dass die Regeln regelmäßig angepasst werden müssen. Dennoch hält sie die gemeinsame Auseinandersetzung für sinnvoller als pauschale Antworten. Ihr Ziel ist nicht, jede technische Hilfe auszuschließen, sondern selbstständiges Denken trotz neuer Werkzeuge zu fördern."
+  ],
+  "english": [
+    "At a secondary school more and more teenagers use digital writing assistants for homework. Some teachers see an opportunity to support learners individually. Others fear pupils will submit finished texts without understanding the content. Headteacher Eva wants to avoid turning the debate into either a simple ban or uncritical enthusiasm.",
+    "She therefore organizes a project week in which classes try different tasks. In one exercise pupils may obtain outline suggestions, but must then research independently and check sources. In another they compare automatically generated claims with reliable materials and mark errors or unsupported statements.",
+    "Results vary. Some teenagers learn to ask more precise questions, while others realize how easily convincing-sounding texts can be wrong. Teachers then develop rules distinguishing permissible assistance from submitting someone else's work. Tasks should also make students' own reasoning more visible more often.",
+    "Eva knows the rules will need regular revision. Nevertheless she considers the shared discussion more useful than blanket answers. Her aim is not to exclude every technical aid, but to encourage independent thinking despite new tools."
+  ],
+  "questions": [
+    {
+      "question": "Welchen Gegensatz möchte Eva vermeiden?",
+      "options": [
+        "Sport gegen Musik",
+        "Hausaufgaben gegen Ferien",
+        "Pauschales Verbot gegen blinde Begeisterung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Pauschales Verbot gegen blinde Begeisterung."
+    },
+    {
+      "question": "Was prüfen die Schüler?",
+      "options": [
+        "Nur die Internetgeschwindigkeit",
+        "Quellen und automatisch erzeugte Aussagen",
+        "Nur die Schriftgröße"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Quellen und automatisch erzeugte Aussagen."
+    },
+    {
+      "question": "Worauf zielen die Regeln?",
+      "options": [
+        "Selbstständiges Denken und transparente Nutzung",
+        "Vollständige Automatisierung",
+        "Weniger Verständnis"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Selbstständiges Denken und transparente Nutzung."
+    }
+  ]
+}

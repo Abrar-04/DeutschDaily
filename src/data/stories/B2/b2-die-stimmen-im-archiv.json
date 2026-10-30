@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-stimmen-im-archiv",
+  "level": "B2",
+  "title": "Die Stimmen im Archiv",
+  "subtitle": "Eine Gemeinde muss entscheiden, welche Aufnahmen bleiben",
+  "category": "Geschichte",
+  "emoji": "🎙️",
+  "color": "lavender",
+  "german": [
+    "Ein Rundfunkarchiv besitzt Tausende Tonaufnahmen aus mehreren Jahrzehnten, doch viele Bänder werden langsam unbrauchbar. Da für die Digitalisierung nur begrenzte Mittel vorhanden sind, muss Archivleiterin Ruth Prioritäten setzen. Zunächst sollen bekannte Politiker und Künstler bevorzugt werden, weil ihre Aufnahmen als besonders bedeutsam gelten.",
+    "Bei der Durchsicht stößt Ruth jedoch auf Interviews mit ehemaligen Fabrikarbeiterinnen, deren persönliche Geschichten nirgendwo sonst dokumentiert sind. Sie fragt sich, ob öffentliche Bekanntheit wirklich das einzige Kriterium für historische Bedeutung sein sollte. Gemeinsam mit Fachleuten entwickelt sie deshalb ein Verfahren, das Seltenheit, Erhaltungszustand und gesellschaftliche Vielfalt berücksichtigt.",
+    "In einer öffentlichen Sitzung werden die Auswahlgrundsätze diskutiert. Einige Menschen wünschen sich mehr Musik, andere lokale Alltagsgeschichten. Ruth erklärt, dass niemals alles gleichzeitig gerettet werden kann, und veröffentlicht die Gründe für die ersten Entscheidungen. Freiwillige helfen anschließend, Metadaten zu erfassen und Aufnahmen zu beschreiben.",
+    "Ein Jahr später stehen die ersten digitalisierten Bestände zur Verfügung, soweit Nutzungsrechte und Datenschutz dies erlauben. Besonders bewegend findet Ruth die Stimme einer Frau, die von ihrem ersten Arbeitstag erzählt. Sie ist überzeugt, dass Geschichte nicht nur von berühmten Personen geschrieben wird, sondern auch in gewöhnlichen Erinnerungen erhalten bleibt."
+  ],
+  "english": [
+    "A radio archive owns thousands of sound recordings from several decades, but many tapes are slowly deteriorating. As funds for digitization are limited, archive director Ruth must set priorities. At first, recordings of famous politicians and artists are to take precedence because they are considered particularly significant.",
+    "While reviewing the collection, however, Ruth discovers interviews with former female factory workers whose personal stories are documented nowhere else. She wonders whether public fame should really be the only criterion of historical importance. Together with experts she therefore develops a method that considers rarity, condition and social diversity.",
+    "At a public meeting the selection principles are discussed. Some people want more music, others local everyday stories. Ruth explains that not everything can be saved simultaneously and publishes the reasons for the first decisions. Volunteers then help record metadata and describe the recordings.",
+    "A year later the first digitized collections are available, wherever usage rights and privacy rules allow. Ruth finds especially moving the voice of a woman describing her first day at work. She is convinced that history is not written only by famous people, but also preserved in ordinary memories."
+  ],
+  "questions": [
+    {
+      "question": "Warum muss Ruth auswählen?",
+      "options": [
+        "Es gibt keine alten Bänder",
+        "Niemand interessiert sich dafür",
+        "Die Mittel für Digitalisierung sind begrenzt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Mittel für Digitalisierung sind begrenzt."
+    },
+    {
+      "question": "Welche Kriterien kommen hinzu?",
+      "options": [
+        "Nur das Alter des Gebäudes",
+        "Seltenheit und Vielfalt",
+        "Nur Prominenz"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Seltenheit und Vielfalt."
+    },
+    {
+      "question": "Was begrenzt die Veröffentlichung?",
+      "options": [
+        "Nutzungsrechte und Datenschutz",
+        "Der Wetterbericht",
+        "Die Zahl der Stühle"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Nutzungsrechte und Datenschutz."
+    }
+  ]
+}

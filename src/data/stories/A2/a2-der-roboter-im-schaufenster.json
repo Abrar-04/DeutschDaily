@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-roboter-im-schaufenster",
+  "level": "A2",
+  "title": "Der Roboter im Schaufenster",
+  "subtitle": "Ein Spielzeug bewegt sich plötzlich",
+  "category": "Technik",
+  "emoji": "🤖",
+  "color": "sage",
+  "german": [
+    "In der Einkaufsstraße gibt es einen kleinen Laden für Spielzeug. Im Schaufenster steht seit einer Woche ein silberner Roboter. Er hat blaue Augen und kann die Arme bewegen. Die Kinder bleiben oft stehen und schauen ihn an. Auch Max kommt jeden Tag auf dem Weg zur Schule vorbei.",
+    "Eines Morgens bewegt sich der Roboter plötzlich und winkt Max zu. Max erschrickt kurz, dann lacht er. Der Verkäufer öffnet die Ladentür und erklärt, dass der Roboter mit einer kleinen Kamera Menschen erkennt. Er kann einfache Bewegungen machen, aber nicht selbst denken wie ein Mensch.",
+    "Nach der Schule darf Max das Spielzeug ausprobieren. Er stellt den Roboter auf einen Tisch und gibt ihm einfache Befehle. Der Roboter fährt vorwärts, dreht sich und macht Musik. Als Max „Tanzen!“ sagt, bewegt er die Arme schnell hin und her.",
+    "Max möchte den Roboter gern kaufen, aber er ist sehr teuer. Stattdessen leiht er sich in der Bibliothek ein Buch über einfache Maschinen. Zu Hause baut er aus Karton einen eigenen kleinen Roboter. Er kann sich nicht bewegen, hat aber einen lustigen Namen: Herr Blech."
+  ],
+  "english": [
+    "There is a little toy shop on the shopping street. A silver robot has stood in the window for a week. It has blue eyes and can move its arms. Children often stop to look at it. Max also passes the shop every day on his way to school.",
+    "One morning the robot suddenly moves and waves at Max. Max is startled for a moment and then laughs. The shopkeeper opens the door and explains that the robot recognizes people with a small camera. It can make simple movements, but cannot think independently like a person.",
+    "After school Max may try the toy. He puts the robot on a table and gives it simple commands. It drives forward, turns and plays music. When Max says “Dance!” it moves its arms quickly back and forth.",
+    "Max would like to buy the robot, but it is very expensive. Instead he borrows a book about simple machines from the library. At home he makes his own little robot out of cardboard. It cannot move, but it has a funny name: Mr Tin."
+  ],
+  "questions": [
+    {
+      "question": "Wo steht der Roboter?",
+      "options": [
+        "Auf dem Schulhof",
+        "Im Schaufenster",
+        "Im Park"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Im Schaufenster."
+    },
+    {
+      "question": "Was kann der Roboter tun?",
+      "options": [
+        "Sich bewegen und Musik machen",
+        "Kochen",
+        "Menschen verstehen wie ein Mensch"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Sich bewegen und Musik machen."
+    },
+    {
+      "question": "Warum kauft Max ihn nicht?",
+      "options": [
+        "Er ist zu groß",
+        "Er ist kaputt",
+        "Er ist zu teuer"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er ist zu teuer."
+    }
+  ]
+}

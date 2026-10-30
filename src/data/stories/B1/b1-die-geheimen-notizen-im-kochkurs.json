@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-geheimen-notizen-im-kochkurs",
+  "level": "B1",
+  "title": "Die geheimen Notizen im Kochkurs",
+  "subtitle": "Ein Teilnehmer löst ein kleines Rätsel",
+  "category": "Essen",
+  "emoji": "🥘",
+  "color": "sage",
+  "german": [
+    "Im Kochkurs der Volkshochschule lernt Tarek jede Woche ein neues Gericht. Seine Kursleiterin schreibt die Rezepte normalerweise auf große Karten. Eines Abends liegt jedoch auf jedem Arbeitsplatz ein Zettel mit merkwürdigen Hinweisen. Dort stehen Sätze wie: „Ich wachse unter der Erde und werde beim Schneiden oft zu Tränen führen.“",
+    "Zunächst ist Tarek verwirrt. Dann erkennt er, dass die Gruppe die Zutaten erraten soll, bevor sie kocht. Gemeinsam sammeln die Teilnehmer Vorschläge. Beim Hinweis auf die Tränen denken alle an Zwiebeln. Andere Rätsel führen zu Kartoffeln, Kräutern und einer besonderen Gewürzmischung.",
+    "Erst als alle Zutaten auf dem Tisch liegen, verrät die Leiterin das Gericht: eine herzhafte Gemüsesuppe aus einer Region, die niemand aus der Gruppe bisher besucht hat. Während des Kochens erzählt sie, wie das Rezept in ihrer Familie weitergegeben wurde.",
+    "Am Ende bekommt jeder ein kleines Heft mit den aufgelösten Rätseln und dem Rezept. Tarek nimmt es mit nach Hause und kocht die Suppe am Wochenende für Freunde. Bevor er ihnen das Essen serviert, lässt er sie die gleichen Hinweise erraten. Sie lachen genauso viel wie die Gruppe im Kurs."
+  ],
+  "english": [
+    "At the adult education centre's cooking course, Tarek learns a new dish every week. His instructor usually writes the recipes on large cards. One evening, however, a note with strange clues lies at each workstation. It contains sentences such as: “I grow underground and often make people cry when they cut me.”",
+    "Tarek is confused at first. Then he realizes the group is supposed to guess the ingredients before cooking. Together the participants collect suggestions. The clue about tears makes everyone think of onions. Other riddles lead to potatoes, herbs and a special spice mixture.",
+    "Only when all the ingredients are on the table does the instructor reveal the dish: a hearty vegetable soup from a region that none of the group has visited. While they cook, she explains how the recipe was passed down in her family.",
+    "At the end everyone gets a small booklet with the solutions and the recipe. Tarek takes it home and cooks the soup for friends at the weekend. Before serving the meal, he lets them guess the same clues. They laugh just as much as the people in the class."
+  ],
+  "questions": [
+    {
+      "question": "Was müssen die Teilnehmer zunächst tun?",
+      "options": [
+        "Das Essen bezahlen",
+        "Die Zutaten erraten",
+        "Das Rezept abschreiben"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Zutaten erraten."
+    },
+    {
+      "question": "Welche Zutat macht beim Schneiden oft Tränen?",
+      "options": [
+        "Zwiebeln",
+        "Kartoffeln",
+        "Gurken"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Zwiebeln."
+    },
+    {
+      "question": "Was macht Tarek am Wochenende?",
+      "options": [
+        "Er fährt in Urlaub",
+        "Er kauft einen neuen Herd",
+        "Er kocht die Suppe für Freunde"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er kocht die Suppe für Freunde."
+    }
+  ]
+}

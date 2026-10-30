@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-stimme-aus-dem-nebenraum",
+  "level": "B1",
+  "title": "Die Stimme aus dem Nebenraum",
+  "subtitle": "Ein ungewöhnliches Geräusch hat eine einfache Erklärung",
+  "category": "Mystery",
+  "emoji": "🎙️",
+  "color": "butter",
+  "german": [
+    "Seitdem Niko in eine neue Wohnung gezogen ist, hört er abends manchmal jemanden sprechen. Die Stimme scheint aus dem leeren Zimmer neben seinem Schlafzimmer zu kommen. Obwohl er jedes Mal nachsieht, entdeckt er niemanden. Das Fenster ist geschlossen, und im Zimmer stehen nur einige Umzugskartons.",
+    "Eines Freitags nimmt Niko sein Handy mit hinein und wartet. Plötzlich hört er deutlich die Worte: „Guten Abend, hier sind die Nachrichten.“ Jetzt versteht er zumindest, dass die Stimme aus einem Radio stammt. Aber wo steht es? Als er die Kartons beiseiteschiebt, entdeckt er hinter einem Regal eine alte Öffnung in der Wand.",
+    "Hinter dieser Wand befindet sich die Wohnung seiner Nachbarin. Ihr Radio steht direkt auf der anderen Seite. Durch eine frühere Reparatur ist ein kleiner Teil der Dämmung verschwunden. Die Nachbarin wusste davon nichts und ist überrascht, als Niko freundlich klingelt.",
+    "Gemeinsam informieren sie den Hausmeister, der die Öffnung schließen lässt. Danach wird es nachts wieder ruhig. Niko erzählt seinen Freunden lachend von der „geheimnisvollen Stimme“. Er ist froh, dass er nicht sofort an etwas Unheimliches geglaubt hat, sondern nach der Ursache gesucht hat."
+  ],
+  "english": [
+    "Since moving into a new apartment, Niko has sometimes heard someone speaking in the evening. The voice seems to come from the empty room next to his bedroom. Although he checks every time, he finds nobody. The window is closed, and only moving boxes stand in the room.",
+    "One Friday Niko takes his phone into the room and waits. Suddenly he clearly hears the words: “Good evening, here is the news.” Now he at least understands that the voice comes from a radio. But where is it? When he moves the boxes aside, he discovers an old opening in the wall behind a shelf.",
+    "His neighbor's apartment is on the other side of that wall. Her radio stands directly opposite. During an earlier repair a small piece of sound insulation was removed. The neighbor knew nothing about it and is surprised when Niko politely rings her bell.",
+    "Together they inform the caretaker, who has the opening closed. After that it is quiet again at night. Niko laughingly tells his friends about the “mysterious voice.” He is pleased he did not immediately believe in anything spooky but looked for the cause."
+  ],
+  "questions": [
+    {
+      "question": "Was hört Niko am Abend?",
+      "options": [
+        "Eine Katze",
+        "Eine Alarmanlage",
+        "Eine Stimme"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine Stimme."
+    },
+    {
+      "question": "Woher kommt die Stimme?",
+      "options": [
+        "Vom Dach",
+        "Aus dem Radio der Nachbarin",
+        "Aus seinem Handy"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Aus dem Radio der Nachbarin."
+    },
+    {
+      "question": "Wer lässt die Öffnung schließen?",
+      "options": [
+        "Der Hausmeister",
+        "Nikos Bruder",
+        "Ein Arzt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Der Hausmeister."
+    }
+  ]
+}

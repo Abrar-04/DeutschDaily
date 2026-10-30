@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-verschwundene-uebersetzung",
+  "level": "B2",
+  "title": "Die verschwundene Übersetzung",
+  "subtitle": "Eine Dolmetscherin entdeckt eine gefährliche Lücke",
+  "category": "Sprache",
+  "emoji": "🌍",
+  "color": "peach",
+  "german": [
+    "Bei einer internationalen Konferenz soll Dolmetscherin Rebekka einen kurzen Vortrag über die Sicherheit neuer Maschinen übertragen. Während sie die Unterlagen vorbereitet, bemerkt sie, dass eine entscheidende Warnung in der englischen Zusammenfassung fehlt. Im deutschen Original wird ausdrücklich darauf hingewiesen, dass bestimmte Tests noch nicht abgeschlossen sind.",
+    "Rebekka fragt den Veranstalter, ob die ausgelassene Passage absichtlich entfernt wurde. Niemand kann ihr eine eindeutige Antwort geben. Der Vortragende erklärt schließlich, er habe den Text vor Monaten übersetzen lassen und die Zusammenfassung seitdem nicht mehr mit dem Original verglichen. Aus Zeitdruck möchte er trotzdem an der bisherigen Version festhalten.",
+    "Rebekka besteht darauf, dass die Warnung nicht einfach übergangen werden darf. Sie schlägt vor, den Vortrag um wenige Minuten zu kürzen, damit die Einschränkung im Plenum erklärt werden kann. Nach einer kurzen Diskussion stimmt der Referent zu und lässt die Folien korrigieren.",
+    "Im Anschluss bedanken sich mehrere Teilnehmer für die Klarstellung. Rebekka weiß, dass sie damit keinen spektakulären Erfolg erzielt hat. Gerade deshalb erscheint ihr die Situation lehrreich: Sprachliche Genauigkeit ist nicht bloß eine Frage eleganter Formulierungen. Manchmal entscheidet eine einzelne ausgelassene Information darüber, ob Zuhörer ein Ergebnis richtig einschätzen."
+  ],
+  "english": [
+    "At an international conference interpreter Rebekka is supposed to translate a short presentation on the safety of new machinery. While preparing the materials, she notices that a crucial warning is missing from the English summary. The German original explicitly states that certain tests have not yet been completed.",
+    "Rebekka asks the organizer whether the passage was intentionally omitted. Nobody can give her a clear answer. The speaker eventually explains that he had the text translated months earlier and has not compared the summary with the original since. Under time pressure he nevertheless wants to keep the existing version.",
+    "Rebekka insists that the warning cannot simply be ignored. She suggests shortening the talk by a few minutes so that the limitation can be explained to the audience. After a brief discussion the speaker agrees and has the slides corrected.",
+    "Afterward several participants thank them for clarifying. Rebekka knows that this was not a spectacular achievement. That is precisely why the situation seems instructive to her: linguistic accuracy is not merely about elegant wording. Sometimes a single omitted piece of information determines whether an audience can assess a result correctly."
+  ],
+  "questions": [
+    {
+      "question": "Welche Information fehlt in der Übersetzung?",
+      "options": [
+        "Eine Warnung vor unvollständigen Tests",
+        "Der Name des Hotels",
+        "Die Uhrzeit der Mittagspause"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine Warnung vor unvollständigen Tests."
+    },
+    {
+      "question": "Wie wird der Fehler behoben?",
+      "options": [
+        "Der Vortrag wird als vollständig bestätigt",
+        "Alle Folien werden gelöscht",
+        "Die Warnung wird erklärt und ergänzt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Warnung wird erklärt und ergänzt."
+    },
+    {
+      "question": "Was zeigt der Fall?",
+      "options": [
+        "Warnungen sind unnötig",
+        "Auslassungen können die Bedeutung verändern",
+        "Übersetzungen sind immer gleich"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Auslassungen können die Bedeutung verändern."
+    }
+  ]
+}

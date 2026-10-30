@@ -1,0 +1,53 @@
+{
+  "id": "b1-ein-praktikum-im-leuchtturm",
+  "level": "B1",
+  "title": "Ein Praktikum im Leuchtturm",
+  "subtitle": "Ein Schüler entdeckt die Arbeit auf einer Küstenstation",
+  "category": "Reisen",
+  "emoji": "🌊",
+  "color": "peach",
+  "german": [
+    "Für ein Schulprojekt darf Bastian eine Woche lang eine Küstenstation besuchen. Er stellt sich vor, dass die Menschen dort vor allem den ganzen Tag aufs Meer schauen. Gleich am ersten Morgen merkt er jedoch, wie unterschiedlich ihre Aufgaben sind. Sie kontrollieren Messgeräte, beobachten das Wetter und dokumentieren Veränderungen an der Küste.",
+    "Besonders spannend findet Bastian ein Gerät, das den Wasserstand automatisch misst. Ein Mitarbeiter zeigt ihm, wie die Daten auf einem Bildschirm erscheinen und warum sie regelmäßig geprüft werden müssen. Außerdem lernt Bastian, dass Warnungen vor starken Stürmen aus vielen verschiedenen Messungen entstehen.",
+    "Am dritten Tag begleitet er eine Kollegin zu einem kleinen Leuchtturm. Der Turm ist heute nicht mehr ständig besetzt, doch seine Technik wird weiterhin gewartet. Bastian darf beim Kontrollieren der Lampen zuschauen und fotografiert die Aussicht über die Dünen.",
+    "Am Ende der Woche hält er in der Schule einen Vortrag. Statt nur Urlaubsbilder zu zeigen, erklärt er, warum die Küstenstation für Schiffe und Bewohner wichtig ist. Seine Mitschüler stellen viele Fragen. Bastian hätte nie gedacht, dass hinter einem scheinbar ruhigen Arbeitsplatz so viel Technik steckt."
+  ],
+  "english": [
+    "For a school project Bastian is allowed to visit a coastal station for a week. He imagines that people there mainly spend the day looking at the sea. On the first morning, however, he notices how varied their tasks are. They check measuring equipment, observe the weather and document changes along the coast.",
+    "Bastian is particularly interested in a device that automatically measures the water level. An employee shows him how data appears on a screen and why it must be checked regularly. He also learns that warnings about powerful storms rely on many different measurements.",
+    "On the third day he accompanies a colleague to a small lighthouse. The tower is no longer permanently staffed, but its technology is still maintained. Bastian watches the lamps being checked and photographs the view over the dunes.",
+    "At the end of the week he gives a presentation at school. Instead of showing only holiday pictures, he explains why the coastal station is important for ships and residents. His classmates ask many questions. Bastian had never imagined how much technology lies behind a seemingly quiet workplace."
+  ],
+  "questions": [
+    {
+      "question": "Was misst ein Gerät an der Küstenstation?",
+      "options": [
+        "Den Wasserstand",
+        "Die Besucherzahl",
+        "Die Lautstärke"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Den Wasserstand."
+    },
+    {
+      "question": "Warum besucht Bastian den Leuchtturm?",
+      "options": [
+        "Er sucht einen Schatz",
+        "Er will dort schlafen",
+        "Er begleitet eine technische Kontrolle"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Er begleitet eine technische Kontrolle."
+    },
+    {
+      "question": "Worüber berichtet er in der Schule?",
+      "options": [
+        "Nur über Strände",
+        "Über Messungen und Küstenschutz",
+        "Nur über Restaurants"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Über Messungen und Küstenschutz."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-preis-des-perfekten-rasens",
+  "level": "B2",
+  "title": "Der Preis des perfekten Rasens",
+  "subtitle": "Eine Gemeinde diskutiert über trockene Sommer",
+  "category": "Umwelt",
+  "emoji": "🌾",
+  "color": "lavender",
+  "german": [
+    "In der Kleinstadt Grünfeld gilt der öffentliche Park seit Jahren als Vorzeigeprojekt. Seine Rasenflächen sind sorgfältig geschnitten, selbst im Hochsommer leuchtet das Gras sattgrün. Als jedoch mehrere trockene Jahre aufeinanderfolgen, steigt der Wasserverbrauch deutlich. Eine Umweltinitiative fordert deshalb, das Bewässerungskonzept grundsätzlich zu überdenken.",
+    "Der zuständige Gärtner warnt davor, den gesamten Rasen einfach vertrocknen zu lassen. Er verweist auf stark genutzte Spielflächen, die auch künftig belastbar bleiben müssen. Die Initiative wiederum argumentiert, dass nicht jede Ecke dieselbe Pflege benötige. Bei einer öffentlichen Veranstaltung prallen unterschiedliche Vorstellungen eines „schönen Parks“ aufeinander.",
+    "Die Stadt beschließt schließlich, die Flächen nach ihrer Nutzung zu unterscheiden. Auf den Spielwiesen bleibt ein robuster Rasen erhalten, während andere Bereiche nur noch selten gemäht und mit heimischen Blumen ergänzt werden. Zusätzlich werden Daten zum Wasserverbrauch veröffentlicht, damit die Veränderungen nachvollziehbar sind.",
+    "Im ersten Sommer wirkt der Park ungewohnt, manche Bewohner beschweren sich über die höheren Gräser. Im folgenden Frühjahr tauchen jedoch mehr Insekten und Wildblumen auf. Ob langfristig alle erhofften Vorteile eintreten, soll weiter untersucht werden. Die Debatte hat jedenfalls gezeigt, dass gepflegt nicht zwangsläufig überall gleich aussehen muss."
+  ],
+  "english": [
+    "In the small town of Grünfeld, the public park has long been a showcase project. Its lawns are carefully trimmed, and the grass remains bright green even in midsummer. After several consecutive dry years, however, water consumption rises significantly. An environmental initiative therefore demands a fundamental review of the watering policy.",
+    "The responsible gardener warns against simply letting all the lawns dry out. He points to heavily used play areas that must remain durable. The initiative, meanwhile, argues that not every corner needs the same maintenance. At a public meeting different ideas of what a “beautiful park” should look like clash.",
+    "The town eventually decides to distinguish areas by use. The playing fields retain sturdy grass, while other sections are mown less frequently and supplemented with native flowers. Water-use data are also published so the changes can be followed transparently.",
+    "During the first summer the park looks unfamiliar and some residents complain about taller grasses. The following spring, however, more insects and wildflowers appear. Whether all the hoped-for benefits emerge over time will require further study. In any case, the debate has shown that proper maintenance need not look identical everywhere."
+  ],
+  "questions": [
+    {
+      "question": "Warum wird die Parkpflege verändert?",
+      "options": [
+        "Der Park wird verkauft",
+        "Es gibt keine Gärtner",
+        "Der Wasserverbrauch steigt"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Der Wasserverbrauch steigt."
+    },
+    {
+      "question": "Wie werden die Flächen künftig behandelt?",
+      "options": [
+        "Gar nicht mehr gepflegt",
+        "Je nach Nutzung unterschiedlich",
+        "Überall gleich intensiv"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Je nach Nutzung unterschiedlich."
+    },
+    {
+      "question": "Was bleibt offen?",
+      "options": [
+        "Die langfristigen Auswirkungen",
+        "Die Lage des Parks",
+        "Die Zahl der Eingänge"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die langfristigen Auswirkungen."
+    }
+  ]
+}

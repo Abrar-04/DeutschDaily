@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-schirm-mit-den-punkten",
+  "level": "A2",
+  "title": "Der Schirm mit den Punkten",
+  "subtitle": "Ein Fundstück kommt an seinen Platz zurück",
+  "category": "Alltag",
+  "emoji": "☂️",
+  "color": "peach",
+  "german": [
+    "Am Montag regnet es den ganzen Tag. Luisa geht nach dem Unterricht in die Stadtbibliothek. Am Eingang steht ein Ständer mit vielen Regenschirmen. Sie stellt ihren gelben Schirm mit weißen Punkten dazu und sucht ein Buch für die Schule. Eine Stunde später möchte sie nach Hause gehen.",
+    "Aber der gelbe Schirm ist weg. Stattdessen steht dort ein grüner Schirm mit einem Holzgriff. Luisa fragt am Schalter nach. Die Bibliothekarin schaut in ein kleines Buch und sagt, dass ein Besucher vor zehn Minuten einen falschen Schirm mitgenommen hat. Er hat seine Telefonnummer hinterlassen.",
+    "Luisa ruft den Mann an. Er entschuldigt sich sofort und erklärt, dass er wegen des Regens sehr schnell gegangen ist. Nach zwanzig Minuten kommt er zurück. Er bringt Luisas Schirm und bekommt seinen grünen wieder. Beide kontrollieren die Schirme nun genau.",
+    "Als Luisa nach draußen geht, scheint plötzlich die Sonne. Sie klappt ihren Schirm zusammen und lacht. Zu Hause stellt sie ihn neben die Tür. Am nächsten Tag möchte sie ein kleines Namensschild daran befestigen."
+  ],
+  "english": [
+    "It rains all day on Monday. After class Luisa goes to the city library. At the entrance there is a stand with many umbrellas. She puts her yellow umbrella with white dots there and looks for a book for school. An hour later she wants to go home.",
+    "But the yellow umbrella is gone. Instead there is a green umbrella with a wooden handle. Luisa asks at the desk. The librarian looks in a small book and says that a visitor took the wrong umbrella ten minutes ago. He left his phone number.",
+    "Luisa calls the man. He apologizes immediately and explains that he left in a hurry because of the rain. After twenty minutes he comes back. He brings Luisa's umbrella and gets his green one back. Both check the umbrellas carefully now.",
+    "When Luisa goes outside, the sun suddenly comes out. She closes her umbrella and laughs. At home she puts it beside the door. The next day she wants to attach a little name label to it."
+  ],
+  "questions": [
+    {
+      "question": "Welche Farbe hat Luisas Schirm?",
+      "options": [
+        "Gelb",
+        "Grün",
+        "Blau"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Gelb."
+    },
+    {
+      "question": "Wo verliert sie ihn?",
+      "options": [
+        "Im Bus",
+        "Im Kino",
+        "In der Bibliothek"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: In der Bibliothek."
+    },
+    {
+      "question": "Was möchte sie an den Schirm machen?",
+      "options": [
+        "Einen Schlüssel",
+        "Ein Namensschild",
+        "Eine Lampe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein Namensschild."
+    }
+  ]
+}

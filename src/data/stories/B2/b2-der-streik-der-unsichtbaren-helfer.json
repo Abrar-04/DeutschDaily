@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-streik-der-unsichtbaren-helfer",
+  "level": "B2",
+  "title": "Der Streik der unsichtbaren Helfer",
+  "subtitle": "Ein Onlineunternehmen erkennt die Arbeit hinter seinen Bildern",
+  "category": "Arbeit",
+  "emoji": "🖥️",
+  "color": "sage",
+  "german": [
+    "Ein Modeunternehmen wirbt damit, dass seine Produktfotos mithilfe künstlicher Intelligenz besonders schnell bearbeitet werden. Tatsächlich prüfen jedoch zahlreiche Beschäftigte im Hintergrund die Ergebnisse, entfernen Fehler und korrigieren missverständliche Beschreibungen. Ihre Tätigkeit wird in den offiziellen Präsentationen kaum erwähnt.",
+    "Als das Unternehmen eine weitere Beschleunigung der Abläufe ankündigt, äußern die Mitarbeiter Bedenken. Sie weisen darauf hin, dass die automatische Bearbeitung besonders bei komplizierten Stoffmustern häufig Fehler produziert. Weniger Prüfzeit könnte dazu führen, dass irreführende Produktbilder veröffentlicht werden. Die Geschäftsleitung hält ihre Kritik zunächst für übertrieben.",
+    "Eine interne Qualitätskontrolle zeigt schließlich, dass die Zahl der Reklamationen genau dort steigt, wo die manuelle Prüfung reduziert wurde. Daraufhin lädt die Leitung Vertreter der Beschäftigten zu Gesprächen ein. Gemeinsam entwickeln sie neue Qualitätskriterien und dokumentieren, welche Schritte automatisch und welche von Menschen ausgeführt werden.",
+    "Der überarbeitete Prozess ist nicht in jedem Fall schneller. Er liefert jedoch zuverlässigere Ergebnisse und macht die Verantwortung klarer sichtbar. Teamsprecherin Eva betrachtet dies als wichtigen Fortschritt. Sie findet es bemerkenswert, wie leicht eine moderne technische Erfolgsgeschichte die Menschen übersehen kann, die ihre Schwächen täglich ausgleichen."
+  ],
+  "english": [
+    "A fashion company advertises that AI lets it edit product photos especially quickly. In reality, numerous employees check the results behind the scenes, remove errors and correct misleading descriptions. Their work is barely mentioned in official presentations.",
+    "When the company announces a further acceleration of workflows, employees raise concerns. They point out that automated editing often produces errors with complicated fabric patterns. Less review time could lead to misleading product pictures being published. At first management considers their criticism exaggerated.",
+    "An internal quality audit eventually shows that complaints rise precisely where manual checks have been reduced. Management then invites employee representatives to discussions. Together they develop new quality criteria and document which steps are performed automatically and which by people.",
+    "The revised process is not faster in every case. But it produces more reliable results and makes responsibilities clearer. Team spokesperson Eva sees this as important progress. She finds it remarkable how easily a modern technological success story can overlook the people who correct its weaknesses every day."
+  ],
+  "questions": [
+    {
+      "question": "Welche Arbeit bleibt zunächst unsichtbar?",
+      "options": [
+        "Die Zustellung",
+        "Die manuelle Qualitätskontrolle",
+        "Die Buchhaltung"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die manuelle Qualitätskontrolle."
+    },
+    {
+      "question": "Was zeigt die interne Prüfung?",
+      "options": [
+        "Mehr Reklamationen bei weniger Kontrolle",
+        "Keine Veränderungen",
+        "Weniger Mitarbeiter bei gleichem Ergebnis"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Mehr Reklamationen bei weniger Kontrolle."
+    },
+    {
+      "question": "Was verbessert der neue Prozess?",
+      "options": [
+        "Nur die Werbung",
+        "Nur die Geschwindigkeit",
+        "Qualität und Zuständigkeiten"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Qualität und Zuständigkeiten."
+    }
+  ]
+}

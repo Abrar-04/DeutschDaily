@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-stunde-beim-rettungsdienst",
+  "level": "B1",
+  "title": "Die Stunde beim Rettungsdienst",
+  "subtitle": "Eine Ausbildung verändert den Blick auf einen Beruf",
+  "category": "Beruf",
+  "emoji": "🚑",
+  "color": "peach",
+  "german": [
+    "Für ihren Orientierungstag besucht die Schülerin Filiz eine Rettungswache. Sie erwartet viele aufregende Einsätze und laute Sirenen. Stattdessen beginnt der Morgen mit einer Kontrolle der Ausrüstung. Das Team prüft Fahrzeuge, Medikamente und Funkgeräte, damit bei einem Notfall alles bereitsteht.",
+    "Ein Sanitäter erklärt Filiz, dass sorgfältige Vorbereitung ein großer Teil der Arbeit ist. Danach darf sie bei einer Übung zuschauen. Die Mitarbeiter trainieren, wie sie ruhig miteinander sprechen und wichtige Informationen weitergeben. Filiz stellt fest, dass Zusammenarbeit genauso wichtig ist wie medizinisches Wissen.",
+    "Am Nachmittag erlebt sie einen kurzen Einsatz mit, bei dem eine ältere Person nach einem Sturz Hilfe benötigt. Filiz bleibt wie vereinbart im Hintergrund. Sie beobachtet, wie freundlich die Sanitäter mit dem Patienten sprechen und ihm erklären, was als Nächstes passiert.",
+    "Nach dem Tag ist Filiz beeindruckt, aber aus einem anderen Grund als erwartet. Nicht die Sirenen haben sie besonders interessiert, sondern die Ruhe und Genauigkeit des Teams. In ihrem Schulbericht schreibt sie deshalb über Kommunikation, Verantwortung und Vorbereitung. Vielleicht möchte sie später selbst einmal in diesem Bereich arbeiten."
+  ],
+  "english": [
+    "For her career orientation day schoolgirl Filiz visits an ambulance station. She expects many exciting emergencies and loud sirens. Instead, the morning begins with an equipment check. The team checks vehicles, medication and radios so that everything is ready in an emergency.",
+    "A paramedic explains to Filiz that careful preparation is a large part of the job. Then she may watch a training exercise. The workers practise speaking calmly to each other and passing on important information. Filiz realizes that teamwork matters just as much as medical knowledge.",
+    "In the afternoon she observes part of a short callout in which an older person needs help after a fall. As agreed, Filiz stays in the background. She watches how kindly the paramedics speak to the patient and explain what will happen next.",
+    "After the day Filiz is impressed, but for a different reason than she expected. It was not the sirens that interested her most, but the team's calmness and precision. In her school report she therefore writes about communication, responsibility and preparation. Perhaps she would like to work in this field herself someday."
+  ],
+  "questions": [
+    {
+      "question": "Womit beginnt der Morgen?",
+      "options": [
+        "Mit einer Ausrüstungskontrolle",
+        "Mit einem großen Feuer",
+        "Mit einem Schulausflug"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Mit einer Ausrüstungskontrolle."
+    },
+    {
+      "question": "Was beobachtet Filiz besonders?",
+      "options": [
+        "Schnelles Autofahren",
+        "Lautes Singen",
+        "Ruhige Kommunikation"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ruhige Kommunikation."
+    },
+    {
+      "question": "Was schreibt sie in ihrem Bericht?",
+      "options": [
+        "Über Computerspiele",
+        "Über Verantwortung und Vorbereitung",
+        "Nur über das Wetter"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Über Verantwortung und Vorbereitung."
+    }
+  ]
+}

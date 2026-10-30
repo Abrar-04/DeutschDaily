@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-karte-der-vergessenen-orte",
+  "level": "B2",
+  "title": "Die Karte der vergessenen Orte",
+  "subtitle": "Eine Jugendgruppe entdeckt das kulturelle Erbe des Viertels",
+  "category": "Geschichte",
+  "emoji": "🗺️",
+  "color": "peach",
+  "german": [
+    "Für ein Stadtteilprojekt sollen Jugendliche Orte dokumentieren, die auf offiziellen Stadtplänen kaum eine Rolle spielen. Die Gruppe um die siebzehnjährige Rana beginnt mit Interviews in einem Seniorenheim. Viele Bewohner erzählen von früheren Treffpunkten: einem kleinen Tanzsaal, einem heute geschlossenen Kino und einer Wiese, auf der einst Feste stattfanden.",
+    "Rana ist erstaunt, wie unterschiedlich Menschen dieselbe Straße erinnern. Während eine Frau das alte Kino als Mittelpunkt ihrer Jugend beschreibt, verbindet ein anderer Bewohner damit unangenehme Erfahrungen. Die Jugendlichen entscheiden sich deshalb dagegen, nur eine romantische Vergangenheit darzustellen. Sie sammeln Fotos, Zeitungsberichte und persönliche Erinnerungen, wobei sie ausdrücklich nach Erlaubnis zur Veröffentlichung fragen.",
+    "Aus dem Material entsteht eine digitale Karte mit kurzen Texten und Tonaufnahmen. An einigen Orten können Besucher mehrere Perspektiven anhören. Besonders beliebt wird eine Station, an der zwei frühere Nachbarn dieselbe Veranstaltung ganz unterschiedlich beschreiben.",
+    "Bei der Eröffnung erklärt Rana, dass das Projekt keine vollständige Geschichte des Viertels liefern könne. Trotzdem hofft sie, neugierige Fragen anzuregen und Erinnerungen zu bewahren, bevor sie verschwinden. Die Stadtbibliothek bietet an, die Karte langfristig zugänglich zu halten und weitere Beiträge aufzunehmen."
+  ],
+  "english": [
+    "For a neighborhood project, teenagers are asked to document places that barely appear on official city maps. A group led by seventeen-year-old Rana starts with interviews in a retirement home. Many residents describe former meeting places: a small dance hall, a now-closed cinema and a meadow where festivals once took place.",
+    "Rana is amazed by how differently people remember the same street. While one woman describes the old cinema as central to her youth, another resident associates it with unpleasant experiences. The teenagers therefore decide not to portray only a romanticized past. They collect photos, newspaper reports and personal memories, explicitly asking permission before publishing them.",
+    "The material becomes a digital map with short texts and audio recordings. At some locations visitors can listen to several perspectives. A station where two former neighbors describe the same event very differently becomes especially popular.",
+    "At the opening Rana explains that the project cannot provide a complete history of the district. Still, she hopes to encourage curious questions and preserve memories before they disappear. The city library offers to keep the map accessible in the long term and accept additional contributions."
+  ],
+  "questions": [
+    {
+      "question": "Was dokumentieren die Jugendlichen?",
+      "options": [
+        "Wenig beachtete Orte des Viertels",
+        "Nur neue Gebäude",
+        "Nur Bushaltestellen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Wenig beachtete Orte des Viertels."
+    },
+    {
+      "question": "Warum zeigen sie mehrere Erinnerungen?",
+      "options": [
+        "Alle Fotos sind falsch",
+        "Es gibt keine Archive",
+        "Menschen erleben Orte unterschiedlich"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Menschen erleben Orte unterschiedlich."
+    },
+    {
+      "question": "Wer möchte die Karte langfristig anbieten?",
+      "options": [
+        "Ein Restaurant",
+        "Die Stadtbibliothek",
+        "Ein Sportverein"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Stadtbibliothek."
+    }
+  ]
+}

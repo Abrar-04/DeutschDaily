@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-fehler-im-offenen-code",
+  "level": "B2",
+  "title": "Der Fehler im offenen Code",
+  "subtitle": "Eine Entwicklerin entdeckt eine Sicherheitslücke im Gemeinschaftsprojekt",
+  "category": "Technik",
+  "emoji": "🔐",
+  "color": "peach",
+  "german": [
+    "Die Softwareentwicklerin Amara arbeitet in ihrer Freizeit an einem frei zugänglichen Programm, das kleine Vereine bei der Mitgliederverwaltung unterstützt. Zahlreiche Freiwillige verbessern den Code, und die Anwendung wird inzwischen von Organisationen in mehreren Ländern genutzt. Eines Abends bemerkt Amara zufällig, dass eine bestimmte Einstellung unter ungewöhnlichen Umständen vertrauliche Kontaktdaten sichtbar machen könnte.",
+    "Sie veröffentlicht ihren Fund nicht sofort in einem öffentlichen Forum. Stattdessen informiert sie das Wartungsteam über einen geschützten Kanal und beschreibt, wie sich das Problem reproduzieren lässt, ohne echte Nutzerdaten zu verwenden. Gemeinsam untersuchen die Entwickler, welche Versionen betroffen sein könnten. Gleichzeitig bereiten sie eine Korrektur und verständliche Hinweise für die betroffenen Vereine vor.",
+    "Einige Tage später erscheint eine aktualisierte Version. Erst nachdem die Nutzer ausreichend Gelegenheit hatten, ihre Systeme zu schützen, wird die Schwachstelle öffentlich erläutert. Amara betont dabei, dass frei zugänglicher Quellcode keineswegs automatisch unsicher sei. Entscheidend sei, ob ein Projekt verantwortungsvoll mit Fehlern umgeht und Änderungen nachvollziehbar dokumentiert.",
+    "Für die beteiligten Vereine ist das Ereignis zunächst beunruhigend. Viele schätzen jedoch, dass sie klare Informationen und konkrete Unterstützung erhalten. Amara nimmt sich anschließend vor, gemeinsam mit dem Team regelmäßige Sicherheitsprüfungen einzuführen. Offenheit und Vorsicht müssen ihrer Ansicht nach keine Gegensätze sein."
+  ],
+  "english": [
+    "Software developer Amara contributes in her spare time to an open-source program that helps small clubs manage their members. Numerous volunteers improve the code, and organizations in several countries now use the application. One evening Amara happens to notice that under unusual conditions a certain setting could expose confidential contact details.",
+    "She does not immediately publish her discovery in a public forum. Instead she informs the maintenance team through a protected channel and describes how to reproduce the problem without using real personal data. The developers investigate which versions might be affected. At the same time they prepare a fix and clear guidance for the clubs concerned.",
+    "A few days later an updated version is released. Only after users have had enough time to protect their systems is the vulnerability explained publicly. Amara stresses that openly available source code is by no means automatically insecure. What matters is whether a project handles errors responsibly and documents changes transparently.",
+    "For the clubs the incident is unsettling at first. However, many appreciate receiving clear information and practical support. Afterward Amara resolves to introduce regular security checks with the team. In her view openness and caution do not have to be opposites."
+  ],
+  "questions": [
+    {
+      "question": "Was entdeckt Amara?",
+      "options": [
+        "Eine mögliche Datenfreigabe durch eine Einstellung",
+        "Einen Fehler in einer Rechnung",
+        "Ein neues Spiel"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine mögliche Datenfreigabe durch eine Einstellung."
+    },
+    {
+      "question": "Wie informiert sie das Team zuerst?",
+      "options": [
+        "Per öffentlicher Veröffentlichung aller Daten",
+        "Durch einen Brief an alle Nutzer",
+        "Über einen geschützten Kanal"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Über einen geschützten Kanal."
+    },
+    {
+      "question": "Was wird vor der öffentlichen Erklärung getan?",
+      "options": [
+        "Das Projekt wird ohne Prüfung beendet",
+        "Eine Korrektur und Nutzerhinweise werden bereitgestellt",
+        "Alle Daten werden gelöscht"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Korrektur und Nutzerhinweise werden bereitgestellt."
+    }
+  ]
+}

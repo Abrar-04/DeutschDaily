@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-verschwundene-strassenname",
+  "level": "B1",
+  "title": "Der verschwundene Straßenname",
+  "subtitle": "Eine alte Bezeichnung sorgt für Diskussionen",
+  "category": "Stadt",
+  "emoji": "🚏",
+  "color": "peach",
+  "german": [
+    "Als die Gemeinde neue Straßenschilder bestellt, bemerkt die Historikerin Elke einen merkwürdigen Fehler. Auf dem Plan fehlt der Name einer kleinen Gasse, die schon seit über hundert Jahren existiert. Stattdessen steht dort eine neue Bezeichnung, die kaum jemand kennt. Elke fragt beim Bürgerbüro nach, wie es dazu gekommen ist.",
+    "Ein Mitarbeiter erklärt, dass vor einigen Jahren ein Verwaltungsbeschluss gefasst wurde. Damals hatte man den alten Namen als schwer verständlich angesehen. Allerdings wurden die Schilder nie ausgetauscht, sodass die Bewohner weiterhin die bisherige Bezeichnung benutzen. Für Lieferdienste entstehen dadurch gelegentlich Probleme.",
+    "Elke organisiert einen Gesprächsabend im Nachbarschaftszentrum. Einige Menschen möchten den vertrauten Namen behalten, andere finden einen einheitlichen Plan wichtiger. Gemeinsam überlegen sie, welche Informationen auf zusätzlichen Hinweisschildern stehen könnten. Auch ältere Fotos werden gezeigt, damit niemand die Geschichte der Gasse vergisst.",
+    "Schließlich entscheidet die Gemeinde, den offiziellen Namen deutlich zu kennzeichnen und zugleich eine Tafel mit der früheren Bezeichnung anzubringen. Elke ist mit dieser Lösung zufrieden. Sie hat gesehen, dass selbst eine scheinbar einfache Straßentafel viele Erinnerungen und unterschiedliche Bedürfnisse berühren kann."
+  ],
+  "english": [
+    "When the municipality orders new street signs, historian Elke notices a strange mistake. The name of a small alley that has existed for over a hundred years is missing from the plan. Instead, a new name appears that hardly anyone knows. Elke asks at the citizens' office how this happened.",
+    "An employee explains that an administrative decision was made a few years earlier. At the time the old name had been considered difficult to understand. However, the signs were never changed, so residents continued using the former name. This occasionally causes problems for delivery services.",
+    "Elke organizes a discussion evening at the neighborhood centre. Some people want to keep the familiar name, while others consider a consistent map more important. Together they think about what information could appear on additional signs. Old photographs are shown too, so the alley's history is not forgotten.",
+    "Finally the municipality decides to clearly mark the official name and also put up a board with the previous designation. Elke is happy with the solution. She has seen how even a seemingly simple street sign can touch many memories and different needs."
+  ],
+  "questions": [
+    {
+      "question": "Was fehlt auf dem neuen Plan?",
+      "options": [
+        "Der alte Gassenname",
+        "Ein Bahnhof",
+        "Ein Park"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Der alte Gassenname."
+    },
+    {
+      "question": "Warum gibt es Verwirrung?",
+      "options": [
+        "Alle Häuser sind neu",
+        "Die Straße ist gesperrt",
+        "Schilder und offizielle Bezeichnung unterscheiden sich"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Schilder und offizielle Bezeichnung unterscheiden sich."
+    },
+    {
+      "question": "Wie wird die Geschichte bewahrt?",
+      "options": [
+        "Mit einer App nur für Gäste",
+        "Mit einer zusätzlichen Tafel",
+        "Mit einem neuen Museum"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Mit einer zusätzlichen Tafel."
+    }
+  ]
+}

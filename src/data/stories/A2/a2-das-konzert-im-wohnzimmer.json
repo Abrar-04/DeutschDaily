@@ -1,0 +1,53 @@
+{
+  "id": "a2-das-konzert-im-wohnzimmer",
+  "level": "A2",
+  "title": "Das Konzert im Wohnzimmer",
+  "subtitle": "Eine Familie überrascht ihre Großmutter",
+  "category": "Musik",
+  "emoji": "🎻",
+  "color": "sage",
+  "german": [
+    "Großmutter Rosa kann wegen ihres Beins nicht mehr oft ausgehen. Früher hat sie jeden Monat ein Konzert besucht. Ihre Enkel merken, dass sie die Musik sehr vermisst. Deshalb haben sie eine Idee. Sie möchten ein kleines Konzert direkt in Rosas Wohnzimmer organisieren.",
+    "Am Samstagnachmittag kommen vier Kinder mit Instrumenten. Nina spielt Geige, Tom hat eine Gitarre und die Zwillinge bringen Flöte und Trommel mit. Sie stellen Stühle im Halbkreis auf und hängen ein selbst gemaltes Plakat an die Wand. Rosa denkt zuerst, dass es nur ein Spiel ist.",
+    "Dann beginnt das Konzert. Die Kinder spielen drei bekannte Lieder. Beim zweiten Lied singt Rosa leise mit. Nach dem letzten Ton klatscht sie lange. Sie hat Tränen in den Augen, aber sie lächelt. Nina schenkt ihr das Plakat mit allen Namen.",
+    "Nach dem Konzert trinken alle Kakao und essen Kekse. Rosa erzählt von einem großen Konzert, das sie als junge Frau besucht hat. Die Kinder hören aufmerksam zu. Sie versprechen, bald wiederzukommen. Beim nächsten Mal soll Rosa sogar ein Lied auswählen dürfen."
+  ],
+  "english": [
+    "Grandmother Rosa cannot go out often anymore because of her leg. She used to attend a concert every month. Her grandchildren notice that she misses music a lot. So they have an idea. They want to organize a small concert right in Rosa's living room.",
+    "On Saturday afternoon four children arrive with instruments. Nina plays the violin, Tom has a guitar and the twins bring a flute and a drum. They arrange chairs in a semicircle and hang a homemade poster on the wall. At first Rosa thinks it is just a game.",
+    "Then the concert begins. The children play three familiar songs. During the second song Rosa quietly sings along. After the final note she claps for a long time. She has tears in her eyes, but she smiles. Nina gives her the poster with all their names.",
+    "Afterward everyone drinks cocoa and eats biscuits. Rosa tells them about a big concert she attended as a young woman. The children listen closely. They promise to come back soon. Next time Rosa will even be allowed to choose a song."
+  ],
+  "questions": [
+    {
+      "question": "Warum kann Rosa selten ausgehen?",
+      "options": [
+        "Wegen des Wetters",
+        "Wegen ihres Beins",
+        "Wegen der Arbeit"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Wegen ihres Beins."
+    },
+    {
+      "question": "Was spielt Nina?",
+      "options": [
+        "Geige",
+        "Trommel",
+        "Klavier"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Geige."
+    },
+    {
+      "question": "Was darf Rosa beim nächsten Konzert machen?",
+      "options": [
+        "Die Eintrittskarten verkaufen",
+        "Das Zimmer streichen",
+        "Ein Lied auswählen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Lied auswählen."
+    }
+  ]
+}

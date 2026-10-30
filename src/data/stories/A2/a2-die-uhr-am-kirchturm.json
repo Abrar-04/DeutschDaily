@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-uhr-am-kirchturm",
+  "level": "A2",
+  "title": "Die Uhr am Kirchturm",
+  "subtitle": "Eine ganze Straße wundert sich über die Zeit",
+  "category": "Stadt",
+  "emoji": "🕰️",
+  "color": "sage",
+  "german": [
+    "Jeden Morgen geht Elisa an einer alten Kirche vorbei. Auf dem Turm hängt eine große Uhr. Heute zeigt die Uhr acht Uhr, obwohl es erst sieben ist. Elisa schaut auf ihr Handy und bleibt stehen. Vielleicht ist ihre eigene Uhr falsch? Ein Mann neben ihr schaut ebenfalls nach oben.",
+    "Bald stehen mehrere Menschen vor der Kirche. Manche lachen, andere machen Fotos. Der Mann erklärt, dass die Turmuhr seit vielen Jahren nicht mehr kaputt war. Elisa fragt im kleinen Büro neben der Kirche nach. Dort weiß man schon von dem Problem. Ein Handwerker soll am Nachmittag kommen.",
+    "Elisa geht zur Arbeit und denkt nicht mehr daran. Auf dem Heimweg sieht sie eine Leiter am Turm. Zwei Arbeiter prüfen das Uhrwerk. Einer von ihnen erzählt, dass ein kleines Teil locker war. Nach der Reparatur stellen sie die Zeiger auf die richtige Zeit.",
+    "Am nächsten Morgen geht Elisa wieder an der Kirche vorbei. Diesmal zeigt die Uhr genau sieben Uhr. Sie lächelt und geht weiter. Die Menschen auf der Straße haben endlich wieder dieselbe Zeit wie ihre Handys."
+  ],
+  "english": [
+    "Every morning Elisa walks past an old church. There is a large clock on the tower. Today it shows eight o'clock although it is only seven. Elisa checks her phone and stops. Perhaps her own clock is wrong? A man beside her also looks up.",
+    "Soon several people are standing in front of the church. Some laugh and others take photos. The man explains that the tower clock has not been broken for many years. Elisa asks in the small office beside the church. They already know about the problem. A repair worker is due in the afternoon.",
+    "Elisa goes to work and stops thinking about it. On the way home she sees a ladder against the tower. Two workers inspect the clock mechanism. One says that a small part was loose. After the repair they set the hands to the correct time.",
+    "The next morning Elisa walks past the church again. This time the clock shows exactly seven. She smiles and continues. The people on the street finally have the same time as their phones again."
+  ],
+  "questions": [
+    {
+      "question": "Was ist an der Turmuhr falsch?",
+      "options": [
+        "Sie macht Lärm",
+        "Sie zeigt die falsche Zeit",
+        "Sie ist zu klein"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie zeigt die falsche Zeit."
+    },
+    {
+      "question": "Wer repariert die Uhr?",
+      "options": [
+        "Zwei Arbeiter",
+        "Elisa allein",
+        "Die Kinder"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Zwei Arbeiter."
+    },
+    {
+      "question": "Was war locker?",
+      "options": [
+        "Die ganze Kirchtür",
+        "Das Dach",
+        "Ein kleines Teil"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein kleines Teil."
+    }
+  ]
+}

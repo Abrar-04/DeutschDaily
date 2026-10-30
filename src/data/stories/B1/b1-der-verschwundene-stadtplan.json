@@ -1,0 +1,53 @@
+{
+  "id": "b1-der-verschwundene-stadtplan",
+  "level": "B1",
+  "title": "Der verschwundene Stadtplan",
+  "subtitle": "Eine Führung muss ohne Technik weitergehen",
+  "category": "Stadt",
+  "emoji": "🗺️",
+  "color": "sky",
+  "german": [
+    "Lena arbeitet seit einem Jahr als Stadtführerin. Für eine Gruppe internationaler Gäste hat sie eine besondere Tour vorbereitet. Auf ihrem Tablet befinden sich alte Fotos und ein digitaler Stadtplan. Kurz bevor die Führung beginnt, fällt das Gerät auf den Boden. Der Bildschirm bleibt schwarz, obwohl Lena versucht, es neu zu starten.",
+    "Zuerst gerät sie in Panik. Ohne die Bilder weiß sie nicht, wie sie bestimmte Veränderungen erklären soll. Ein älterer Gast schlägt jedoch vor, einfach mit dem ersten Platz zu beginnen. Lena entscheidet sich, die Gruppe ohne Tablet durch die Altstadt zu führen und unterwegs Fragen zu stellen.",
+    "Vor einem historischen Gebäude erzählt eine Besucherin, dass ihre Großmutter dort einmal gearbeitet hat. Ein anderer Gast erinnert sich an ein ähnliches Haus in seiner Heimatstadt. Aus einer vorbereiteten Führung wird langsam ein Gespräch, bei dem jeder etwas beiträgt.",
+    "Nach zwei Stunden bedankt sich die Gruppe besonders für die persönlichen Geschichten. Lena ist erleichtert. Zwar lässt sie das Tablet am nächsten Tag reparieren, doch bei ihrer nächsten Tour benutzt sie es viel seltener. Sie hat gemerkt, dass ein guter Stadtplan hilfreich ist, aber neugierige Menschen manchmal wichtiger sind."
+  ],
+  "english": [
+    "Lena has worked as a city guide for a year. She has prepared a special tour for a group of international visitors. Her tablet contains old photos and a digital city map. Shortly before the tour begins, the device falls to the ground. The screen stays black even though Lena tries to restart it.",
+    "At first she panics. Without the pictures she does not know how to explain certain changes. However, an older guest suggests simply starting at the first square. Lena decides to guide the group through the old town without the tablet and ask questions along the way.",
+    "In front of a historic building one visitor says that her grandmother once worked there. Another guest remembers a similar house in his hometown. The prepared tour gradually becomes a conversation in which everyone contributes something.",
+    "After two hours the group especially thanks her for the personal stories. Lena is relieved. She has her tablet repaired the next day, but uses it much less on her next tour. She has realized that a good map is useful, but curious people are sometimes more important."
+  ],
+  "questions": [
+    {
+      "question": "Was passiert mit Lenas Tablet?",
+      "options": [
+        "Es fällt herunter und funktioniert nicht",
+        "Es wird gestohlen",
+        "Der Akku wird geladen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Es fällt herunter und funktioniert nicht."
+    },
+    {
+      "question": "Wie verändert sich die Führung?",
+      "options": [
+        "Sie fällt komplett aus",
+        "Sie findet nur im Bus statt",
+        "Die Gäste erzählen eigene Geschichten"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Gäste erzählen eigene Geschichten."
+    },
+    {
+      "question": "Was macht Lena bei der nächsten Tour anders?",
+      "options": [
+        "Sie bleibt zu Hause",
+        "Sie benutzt das Tablet seltener",
+        "Sie verbietet Fragen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie benutzt das Tablet seltener."
+    }
+  ]
+}

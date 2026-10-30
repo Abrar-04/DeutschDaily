@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-stimme-der-uebersetzerin",
+  "level": "B2",
+  "title": "Die Stimme der Übersetzerin",
+  "subtitle": "Eine Buchveröffentlichung wird zur Frage der Anerkennung",
+  "category": "Kultur",
+  "emoji": "📚",
+  "color": "sage",
+  "german": [
+    "Als ein international erfolgreicher Roman auf Deutsch erscheint, wird in den Zeitungen vor allem die Autorin gefeiert. Übersetzerin Beate hat jedoch fast zwei Jahre daran gearbeitet, die besonderen Sprachbilder und den Humor des Originals ins Deutsche zu übertragen. Bei einer großen Lesung stellt sie fest, dass ihr Name auf dem Werbeplakat kaum lesbar ist.",
+    "Zunächst überlegt Beate, nichts zu sagen. Sie möchte nicht den Eindruck erwecken, sie wolle der Autorin Aufmerksamkeit wegnehmen. Eine Bibliothekarin ermutigt sie jedoch, ihre Arbeit sichtbarer zu machen. Gemeinsam organisieren sie ein Gespräch darüber, welche Entscheidungen beim Übersetzen getroffen werden müssen und warum mehrere Lösungen zugleich überzeugend sein können.",
+    "Während der Veranstaltung vergleicht Beate kurze Passagen aus dem Original und der deutschen Fassung. Das Publikum erkennt, wie viel Kreativität in scheinbar einfachen Sätzen steckt. Sogar die Autorin berichtet, dass sie manche Wortspiele erst durch Fragen ihrer Übersetzerin neu verstanden habe.",
+    "Der Verlag verspricht anschließend, den Namen künftig deutlicher zu nennen. Beate weiß, dass sich damit nicht alle Probleme lösen. Dennoch freut sie sich, dass die Diskussion nicht um persönliche Eitelkeit kreiste, sondern um die Anerkennung einer Arbeit, ohne die viele Bücher ihr Publikum gar nicht erreichen würden."
+  ],
+  "english": [
+    "When an internationally successful novel is published in German, newspapers mainly celebrate the author. Translator Beate, however, spent almost two years conveying the original's distinctive imagery and humour in German. At a major reading she notices that her name is barely visible on the promotional poster.",
+    "At first Beate considers saying nothing. She does not want to appear to be taking attention away from the author. But a librarian encourages her to make her work more visible. Together they organize a discussion about the choices involved in translation and why several solutions can be persuasive at once.",
+    "During the event Beate compares short passages from the original and the German version. The audience recognizes how much creativity lies behind apparently simple sentences. Even the author says that questions from her translator made her understand some wordplay anew.",
+    "The publisher subsequently promises to display her name more prominently. Beate knows this will not solve every problem. Nevertheless she is pleased that the discussion was not about personal vanity, but about recognizing work without which many books would never reach their readers."
+  ],
+  "questions": [
+    {
+      "question": "Was stört Beate am Werbeplakat?",
+      "options": [
+        "Die Veranstaltung fällt aus",
+        "Ihr Name ist kaum sichtbar",
+        "Das Buch fehlt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ihr Name ist kaum sichtbar."
+    },
+    {
+      "question": "Was erklärt sie bei der Veranstaltung?",
+      "options": [
+        "Die kreativen Entscheidungen beim Übersetzen",
+        "Wie man Bücher verkauft",
+        "Nur ihre Ausbildung"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die kreativen Entscheidungen beim Übersetzen."
+    },
+    {
+      "question": "Was verspricht der Verlag?",
+      "options": [
+        "Keine Romane mehr zu drucken",
+        "Alle Bücher kostenlos zu machen",
+        "Ihren Namen deutlicher zu nennen"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ihren Namen deutlicher zu nennen."
+    }
+  ]
+}

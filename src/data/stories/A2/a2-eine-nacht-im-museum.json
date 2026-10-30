@@ -1,0 +1,53 @@
+{
+  "id": "a2-eine-nacht-im-museum",
+  "level": "A2",
+  "title": "Eine Nacht im Museum",
+  "subtitle": "Eine Schulklasse erlebt eine spannende Führung",
+  "category": "Kultur",
+  "emoji": "🏛️",
+  "color": "peach",
+  "german": [
+    "Die Klasse 8b besucht am Freitag das Stadtmuseum. Normalerweise schließt es um sechs Uhr. Heute dürfen die Schülerinnen und Schüler länger bleiben. Eine Mitarbeiterin zeigt ihnen die Ausstellung mit Taschenlampen. Sie erzählt Geschichten über das Leben vor hundert Jahren.",
+    "Mila interessiert sich besonders für ein altes Telefon. Es hat keine Tasten, sondern eine runde Scheibe. Die Mitarbeiterin erklärt, wie Menschen früher telefoniert haben. Danach darf Mila das Telefon selbst ausprobieren. Sie wählt eine Nummer und hört ein leises Klingeln aus dem Nebenraum.",
+    "Plötzlich geht das Licht aus. Einige Kinder schreien kurz auf. Die Mitarbeiterin bleibt ruhig und sagt, dass es zur Führung gehört. An der Wand erscheinen Bilder von alten Straßen. Dazu hört die Klasse Geräusche von Pferden, Autos und einer Straßenbahn. Alle finden die Überraschung toll.",
+    "Um neun Uhr holt der Schulbus die Klasse ab. Mila ist müde, aber glücklich. Zu Hause erzählt sie ihren Eltern vom Telefon und vom dunklen Museum. Für den nächsten Ausflug wünscht sie sich wieder eine Führung am Abend."
+  ],
+  "english": [
+    "Class 8b visits the city museum on Friday. Normally it closes at six. Today the pupils are allowed to stay longer. A staff member shows them the exhibition with flashlights. She tells stories about life a hundred years ago.",
+    "Mila is especially interested in an old telephone. It has no buttons but a round dial. The staff member explains how people used to make phone calls. Mila can then try the telephone herself. She dials a number and hears a soft ring from the next room.",
+    "Suddenly the lights go out. Some children let out a short scream. The staff member stays calm and explains that it is part of the tour. Images of old streets appear on the wall. The class also hears noises from horses, cars and a tram. Everyone loves the surprise.",
+    "At nine the school bus picks the class up. Mila is tired but happy. At home she tells her parents about the phone and the dark museum. For the next trip she hopes they can have another evening tour."
+  ],
+  "questions": [
+    {
+      "question": "Was benutzen die Kinder für die Führung?",
+      "options": [
+        "Taschenlampen",
+        "Regenschirme",
+        "Ferngläser"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Taschenlampen."
+    },
+    {
+      "question": "Was ist an dem Telefon besonders?",
+      "options": [
+        "Es ist aus Schokolade",
+        "Es hat einen Bildschirm",
+        "Es hat eine Wählscheibe"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Es hat eine Wählscheibe."
+    },
+    {
+      "question": "Wann holt der Bus die Klasse ab?",
+      "options": [
+        "Um Mitternacht",
+        "Um neun Uhr",
+        "Um drei Uhr"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Um neun Uhr."
+    }
+  ]
+}

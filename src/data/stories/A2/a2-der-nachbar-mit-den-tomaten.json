@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-nachbar-mit-den-tomaten",
+  "level": "A2",
+  "title": "Der Nachbar mit den Tomaten",
+  "subtitle": "Auf dem Balkon wächst mehr als geplant",
+  "category": "Nachbarschaft",
+  "emoji": "🍅",
+  "color": "lavender",
+  "german": [
+    "Im Frühling kauft Niklas drei kleine Tomatenpflanzen. Er stellt sie auf seinen Balkon und gießt sie jeden Abend. Zuerst passiert nicht viel. Dann wachsen die Pflanzen plötzlich sehr schnell. Im Juli hängen überall rote Tomaten. Niklas kann gar nicht so viele essen.",
+    "Er bringt eine Schüssel zu seiner Nachbarin. Frau Yilmaz freut sich und gibt ihm dafür frische Minze aus ihrem Garten. Am nächsten Tag stellt Niklas eine kleine Kiste vor seine Wohnungstür. Darauf schreibt er: „Tomaten gratis! Bitte nehmt euch welche.“ Schon nach einer Stunde ist die Kiste leer.",
+    "In den folgenden Wochen bringen andere Nachbarn ebenfalls Gemüse und Obst. Jemand legt Gurken in die Kiste, ein anderer bringt Äpfel. Ein Kind malt ein buntes Schild für die Tür. Nun schauen viele Menschen auf dem Weg nach Hause kurz dort vorbei.",
+    "Als der Herbst kommt, tragen die Pflanzen keine Tomaten mehr. Die Nachbarn möchten die Kiste trotzdem behalten. Im Winter legen sie Bücher hinein. Niklas findet das schön: Aus drei kleinen Pflanzen ist eine gute Idee für das ganze Haus geworden."
+  ],
+  "english": [
+    "In spring Niklas buys three small tomato plants. He puts them on his balcony and waters them every evening. At first not much happens. Then the plants suddenly grow very quickly. By July red tomatoes hang everywhere. Niklas cannot possibly eat that many.",
+    "He brings a bowl to his neighbor. Mrs Yilmaz is pleased and gives him fresh mint from her garden in return. The following day Niklas places a small box outside his apartment door. He writes, “Free tomatoes! Please take some.” After only an hour the box is empty.",
+    "Over the next few weeks other neighbors bring fruit and vegetables too. Someone puts cucumbers in the box and another person brings apples. A child paints a colorful sign for the door. Now many people stop briefly on their way home.",
+    "When autumn comes, the plants no longer produce tomatoes. The neighbors want to keep the box anyway. In winter they put books in it. Niklas likes that: three small plants have become a good idea for the whole building."
+  ],
+  "questions": [
+    {
+      "question": "Wie viele Tomatenpflanzen kauft Niklas?",
+      "options": [
+        "Zehn",
+        "Eine",
+        "Drei"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Drei."
+    },
+    {
+      "question": "Was gibt Frau Yilmaz ihm zurück?",
+      "options": [
+        "Geld",
+        "Minze",
+        "Kartoffeln"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Minze."
+    },
+    {
+      "question": "Was liegt im Winter in der Kiste?",
+      "options": [
+        "Bücher",
+        "Tomaten",
+        "Schuhe"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Bücher."
+    }
+  ]
+}

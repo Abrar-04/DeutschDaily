@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-verschwundene-honorar",
+  "level": "B2",
+  "title": "Das verschwundene Honorar",
+  "subtitle": "Eine Künstlerin verhandelt über digitale Rechte",
+  "category": "Wirtschaft",
+  "emoji": "🎨",
+  "color": "sage",
+  "german": [
+    "Illustratorin Nora entdeckt zufällig, dass mehrere ihrer Zeichnungen in einer Werbekampagne verwendet werden, von der sie nichts wusste. Vor Jahren hatte sie die Bilder für ein kleines Magazin gestaltet. Der ursprüngliche Vertrag erlaubte eine einmalige Veröffentlichung, erwähnte spätere digitale Nutzungen jedoch nicht eindeutig.",
+    "Zunächst ist Nora verärgert und möchte sofort eine öffentliche Beschwerde schreiben. Eine befreundete Juristin rät ihr, sämtliche Unterlagen zu sammeln und die tatsächliche Verwendung zu dokumentieren. Nora folgt diesem Rat. Sie findet heraus, dass eine Agentur die Dateien aus einem alten Archiv übernommen hatte, ohne den Nutzungsumfang erneut zu prüfen.",
+    "Im Gespräch mit der Agentur erklärt Nora, dass ihre Arbeit nicht unbegrenzt weiterverwendet werden darf. Die Verantwortlichen erkennen den Fehler an und bieten eine zusätzliche Vergütung sowie eine klare Vereinbarung für die laufende Kampagne an. Nora lässt die Bedingungen prüfen, bevor sie zustimmt.",
+    "Nach der Einigung erstellt sie für neue Aufträge einen übersichtlicheren Vertrag, der verschiedene Nutzungsarten ausdrücklich unterscheidet. Die Erfahrung war anstrengend, doch sie hat daraus gelernt, dass kreative Arbeit nicht mit der Abgabe einer Datei endet. Rechte, Verantwortung und faire Bezahlung müssen auch dann geklärt sein, wenn Bilder digital scheinbar mühelos weitergegeben werden können."
+  ],
+  "english": [
+    "Illustrator Nora happens to discover that several of her drawings are being used in an advertising campaign she knew nothing about. Years earlier she created the pictures for a small magazine. The original agreement allowed one-time publication but did not clearly address later digital use.",
+    "At first Nora is angry and wants to post a public complaint immediately. A lawyer friend advises her to collect all documents and record how the images have actually been used. Nora follows this advice. She finds out that an agency took the files from an old archive without reviewing the scope of permission.",
+    "In discussions with the agency Nora explains that her work cannot be reused indefinitely. The people responsible acknowledge the mistake and offer additional payment as well as a clear agreement for the current campaign. Nora has the terms checked before agreeing.",
+    "After the settlement she creates a clearer contract for new assignments, explicitly distinguishing different types of use. The experience was exhausting, but she learned that creative work does not end with delivering a file. Rights, responsibilities and fair payment must be clarified even when digital images can apparently be passed on effortlessly."
+  ],
+  "questions": [
+    {
+      "question": "Was entdeckt Nora?",
+      "options": [
+        "Das Magazin wurde geschlossen",
+        "Ihre Bilder werden ohne klare Erlaubnis erneut genutzt",
+        "Ihre Bilder wurden zerstört"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ihre Bilder werden ohne klare Erlaubnis erneut genutzt."
+    },
+    {
+      "question": "Was empfiehlt die Juristin zuerst?",
+      "options": [
+        "Unterlagen und Nutzung zu dokumentieren",
+        "Sofort alles zu löschen",
+        "Den Vertrag zu ignorieren"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Unterlagen und Nutzung zu dokumentieren."
+    },
+    {
+      "question": "Was ändert Nora künftig?",
+      "options": [
+        "Sie arbeitet nur kostenlos",
+        "Sie gibt keine Dateien mehr ab",
+        "Sie beschreibt Nutzungsrechte genauer"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Sie beschreibt Nutzungsrechte genauer."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-regenbogen-nach-dem-training",
+  "level": "A2",
+  "title": "Der Regenbogen nach dem Training",
+  "subtitle": "Ein Fußballteam hilft einer anderen Mannschaft",
+  "category": "Sport",
+  "emoji": "🌈",
+  "color": "sage",
+  "german": [
+    "Am Dienstag trainiert eine Jugendmannschaft auf dem Fußballplatz. Trainer Marco hat neue Übungen vorbereitet. Die Kinder laufen, passen den Ball und üben das Schießen. Nach einer Stunde beginnt es stark zu regnen. Alle laufen schnell unter das Dach neben den Umkleiden.",
+    "Auf dem zweiten Platz spielt noch eine jüngere Mannschaft. Deren Trainer hat die Taschen mit den Regenjacken im Auto vergessen. Die kleinen Kinder frieren. Marco sieht das und öffnet den Schrank seiner Mannschaft. Dort liegen mehrere trockene Jacken und große Handtücher.",
+    "Die älteren Kinder bringen die Sachen zu den Jüngeren. Einige Jacken sind viel zu groß, aber alle bleiben warm. Dann hört der Regen plötzlich auf. Über dem Platz erscheint ein großer Regenbogen. Die Kinder laufen nach draußen und machen zusammen ein Foto.",
+    "Später bringt der andere Trainer alle Jacken gewaschen zurück. Er bedankt sich bei Marco und lädt dessen Mannschaft zu einem Freundschaftsspiel ein. Beim nächsten Treffen spielen die Kinder gemischte Teams. Niemand fragt, wer älter oder jünger ist. Am Ende gibt es Saft für alle."
+  ],
+  "english": [
+    "On Tuesday a youth team trains on the football field. Coach Marco has prepared new exercises. The children run, pass the ball and practise shooting. After an hour heavy rain begins. Everyone quickly runs under the roof beside the changing rooms.",
+    "A younger team is still playing on the second field. Their coach has forgotten the bags with raincoats in the car. The small children are cold. Marco notices and opens his team's cupboard. Several dry jackets and large towels are inside.",
+    "The older children bring the things to the younger ones. Some jackets are much too big, but everyone stays warm. Then the rain suddenly stops. A large rainbow appears over the field. The children run outside and take a photo together.",
+    "Later the other coach returns all the jackets washed. He thanks Marco and invites his team to a friendly match. At the next meeting the children play in mixed teams. Nobody asks who is older or younger. At the end there is juice for everyone."
+  ],
+  "questions": [
+    {
+      "question": "Warum frieren die jüngeren Kinder?",
+      "options": [
+        "Sie spielen im Schnee",
+        "Die Regenjacken fehlen",
+        "Sie haben keine Schuhe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Regenjacken fehlen."
+    },
+    {
+      "question": "Was erscheint nach dem Regen?",
+      "options": [
+        "Ein Regenbogen",
+        "Ein Feuerwerk",
+        "Ein Flugzeug"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Ein Regenbogen."
+    },
+    {
+      "question": "Wozu lädt der andere Trainer ein?",
+      "options": [
+        "Zu einer Prüfung",
+        "Zu einem Konzert",
+        "Zu einem Freundschaftsspiel"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Zu einem Freundschaftsspiel."
+    }
+  ]
+}

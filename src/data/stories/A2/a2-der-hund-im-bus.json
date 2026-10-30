@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-hund-im-bus",
+  "level": "A2",
+  "title": "Der Hund im Bus",
+  "subtitle": "Ein ungewöhnlicher Fahrgast sorgt für Ruhe",
+  "category": "Tiere",
+  "emoji": "🐕",
+  "color": "sage",
+  "german": [
+    "Lea fährt jeden Morgen mit dem Bus zur Schule. Meistens hört sie dabei Musik. Heute setzt sich ein alter Mann neben sie. An seinen Füßen liegt ein großer brauner Hund. Der Hund trägt ein rotes Tuch und schläft ganz ruhig. Lea lächelt und schaut aus dem Fenster.",
+    "An der nächsten Haltestelle steigen viele Menschen ein. Ein kleiner Junge beginnt zu weinen, weil er seinen Handschuh verloren hat. Seine Mutter sucht in allen Taschen. Der Busfahrer wartet kurz, aber niemand findet den Handschuh. Dann steht der Hund plötzlich auf und geht langsam zum Jungen.",
+    "Der Hund legt seinen Kopf auf die Knie des Jungen. Sofort hört das Kind auf zu weinen. Der alte Mann sagt, dass sein Hund Bruno heißt und Menschen sehr gern mag. Der Junge streichelt Bruno vorsichtig. Auch andere Fahrgäste müssen lächeln.",
+    "Eine Station später findet die Mutter den Handschuh unter ihrem Sitz. Alles ist wieder gut. Lea steigt an der Schule aus. Normalerweise vergisst sie ihre Busfahrten schnell. Aber heute erzählt sie ihren Freundinnen sofort von Bruno und seiner ruhigen Art."
+  ],
+  "english": [
+    "Lea takes the bus to school every morning. She usually listens to music. Today an elderly man sits beside her. A big brown dog lies at his feet. The dog wears a red scarf and sleeps very quietly. Lea smiles and looks out the window.",
+    "At the next stop many people get on. A small boy starts crying because he has lost his glove. His mother searches every pocket. The bus driver waits briefly, but nobody finds the glove. Suddenly the dog stands up and slowly walks toward the boy.",
+    "The dog puts his head on the boy's knees. The child stops crying immediately. The old man says his dog is called Bruno and likes people very much. The boy carefully pets Bruno. Other passengers smile too.",
+    "One stop later, the mother finds the glove under her seat. Everything is fine again. Lea gets off at school. Normally she quickly forgets her bus rides. But today she immediately tells her friends about Bruno and his calm nature."
+  ],
+  "questions": [
+    {
+      "question": "Wie heißt der Hund?",
+      "options": [
+        "Max",
+        "Bruno",
+        "Bello"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Bruno."
+    },
+    {
+      "question": "Warum weint der Junge?",
+      "options": [
+        "Er hat seinen Handschuh verloren",
+        "Er ist müde",
+        "Er hat Hunger"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Er hat seinen Handschuh verloren."
+    },
+    {
+      "question": "Wo findet die Mutter den Handschuh?",
+      "options": [
+        "In der Schule",
+        "Im Park",
+        "Unter ihrem Sitz"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Unter ihrem Sitz."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-sprache-der-pflanzen",
+  "level": "B1",
+  "title": "Die Sprache der Pflanzen",
+  "subtitle": "Ein Forschungstag weckt Neugier auf Biologie",
+  "category": "Wissenschaft",
+  "emoji": "🌿",
+  "color": "sage",
+  "german": [
+    "Bei einem Besuch an der Universität darf eine Schulklasse verschiedene Experimente ausprobieren. Luisa interessiert sich besonders für einen Tisch mit kleinen Pflanzen und Messgeräten. Eine Wissenschaftlerin erklärt, dass Pflanzen auf ihre Umwelt reagieren, obwohl sie keine Augen oder Ohren wie Menschen besitzen.",
+    "In einem Versuch stehen zwei Pflanzen unter unterschiedlichen Lampen. Die Kinder messen, in welche Richtung die jungen Triebe wachsen. Nach mehreren Tagen hat sich ein Teil deutlich zum Licht geneigt. Luisa ist überrascht, denn sie hätte nicht gedacht, dass eine Pflanze ihre Wuchsrichtung so stark verändern kann.",
+    "Ein weiterer Versuch zeigt, wie viel Wasser verschiedene Blätter verlieren. Die Klasse hält die Ergebnisse in einer Tabelle fest. Dabei stellt Luisa fest, dass nicht jede Pflanze unter denselben Bedingungen gleich reagiert. Die Wissenschaftlerin betont, dass man für gute Vergleiche mehrere Messungen braucht.",
+    "Am Ende des Tages bekommt jede Gruppe einen kleinen Topf mit Samen. Luisa stellt ihren auf die Fensterbank und beginnt ein Beobachtungstagebuch. Sie möchte herausfinden, wie schnell die Pflanze wächst und was passiert, wenn sie den Topf gelegentlich dreht. Vielleicht wird aus ihrer Neugier irgendwann ein eigenes Forschungsprojekt."
+  ],
+  "english": [
+    "During a visit to a university, a school class may try different experiments. Luisa is particularly interested in a table covered with small plants and measuring devices. A scientist explains that plants react to their environment, although they do not have eyes or ears like humans.",
+    "In one experiment two plants stand under different lamps. The children measure the direction in which the young shoots grow. After several days some have clearly leaned toward the light. Luisa is surprised, because she had not thought a plant could change its growth direction so much.",
+    "Another experiment shows how much water different leaves lose. The class records its results in a table. Luisa notices that not every plant responds in the same way under identical conditions. The scientist emphasizes that reliable comparisons require several measurements.",
+    "At the end of the day every group receives a small pot with seeds. Luisa puts hers on the windowsill and begins an observation diary. She wants to find out how quickly the plant grows and what happens if she occasionally turns the pot. Perhaps her curiosity will one day become a research project of her own."
+  ],
+  "questions": [
+    {
+      "question": "Worauf reagieren Pflanzen im ersten Versuch?",
+      "options": [
+        "Auf Zucker",
+        "Auf Licht",
+        "Auf Musik"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Auf Licht."
+    },
+    {
+      "question": "Was hält die Klasse in einer Tabelle fest?",
+      "options": [
+        "Messwerte",
+        "Reiseziele",
+        "Geburtstage"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Messwerte."
+    },
+    {
+      "question": "Was beginnt Luisa zu Hause?",
+      "options": [
+        "Einen Kochkurs",
+        "Eine Bildergalerie",
+        "Ein Beobachtungstagebuch"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein Beobachtungstagebuch."
+    }
+  ]
+}

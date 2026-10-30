@@ -1,0 +1,53 @@
+{
+  "id": "b1-ein-garten-fuer-die-nachtschicht",
+  "level": "B1",
+  "title": "Ein Garten für die Nachtschicht",
+  "subtitle": "Beschäftigte gestalten einen ruhigen Pausenort",
+  "category": "Arbeit",
+  "emoji": "🌙",
+  "color": "sky",
+  "german": [
+    "In einem großen Krankenhaus arbeiten viele Menschen auch nachts. Für kurze Pausen steht ihnen bisher nur ein heller Aufenthaltsraum ohne Fenster zur Verfügung. Pflegerin Amina findet, dass ihre Kollegen manchmal einen ruhigeren Ort brauchen. Deshalb schlägt sie vor, den kleinen Innenhof neben der Station umzugestalten.",
+    "Die Krankenhausleitung ist grundsätzlich einverstanden, weist aber darauf hin, dass der Hof jederzeit sicher zugänglich bleiben muss. Amina gründet eine Arbeitsgruppe. Gemeinsam mit einer Gärtnerin wählen die Beschäftigten Pflanzen aus, die wenig Pflege benötigen. Außerdem planen sie Bänke und eine sanfte Beleuchtung.",
+    "Mehrere Monate später wird der Hof eröffnet. Nach einer anstrengenden Schicht sitzen dort manchmal zwei Kollegen, trinken Tee und sprechen leise miteinander. Andere nutzen den Platz nur für fünf Minuten, bevor sie zurück an die Arbeit gehen. Besonders im Sommer ist der Hof beliebt.",
+    "Amina beobachtet, dass die Mitarbeiter den Raum auf ganz unterschiedliche Weise benutzen. Einige möchten Gesellschaft, andere lieber Stille. Sie freut sich, dass beides möglich ist. Aus einer einfachen Idee ist ein Ort geworden, der den Menschen auch in schwierigen Nächten ein wenig Erholung bietet."
+  ],
+  "english": [
+    "In a large hospital many people work at night too. Until now they have had only a brightly lit break room without windows for short breaks. Nurse Amina thinks her colleagues sometimes need a quieter place. So she suggests redesigning the small courtyard beside the ward.",
+    "The hospital management agrees in principle but points out that the courtyard must remain safely accessible at all times. Amina starts a working group. Together with a gardener the staff choose plants that require little maintenance. They also plan benches and gentle lighting.",
+    "Several months later the courtyard opens. After a demanding shift two colleagues sometimes sit there, drink tea and talk quietly. Others use the space for just five minutes before returning to work. The courtyard is especially popular in summer.",
+    "Amina notices that employees use the space in very different ways. Some want company, while others prefer silence. She is happy that both are possible. A simple idea has become a place that offers people a little rest even during difficult nights."
+  ],
+  "questions": [
+    {
+      "question": "Was fehlt im bisherigen Pausenraum?",
+      "options": [
+        "Fenster und Ruhe",
+        "Kaffee",
+        "Tische"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Fenster und Ruhe."
+    },
+    {
+      "question": "Was ist bei der Planung wichtig?",
+      "options": [
+        "Ein großer Fernseher",
+        "Ein Schwimmbecken",
+        "Ein sicherer Zugang"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ein sicherer Zugang."
+    },
+    {
+      "question": "Wie nutzen Mitarbeiter den Hof?",
+      "options": [
+        "Nur für Besprechungen",
+        "Für unterschiedliche kurze Pausen",
+        "Nur für Sport"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Für unterschiedliche kurze Pausen."
+    }
+  ]
+}

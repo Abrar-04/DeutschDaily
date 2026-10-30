@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-versprechen-der-vier-tage",
+  "level": "B2",
+  "title": "Das Versprechen der vier Tage",
+  "subtitle": "Ein Betrieb testet eine kürzere Arbeitswoche",
+  "category": "Arbeit",
+  "emoji": "📆",
+  "color": "rose",
+  "german": [
+    "Ein mittelständisches Unternehmen beschließt, eine Vier-Tage-Woche für sechs Monate zu erproben. Die Geschäftsführung hofft auf zufriedenere Beschäftigte und weniger Fehlzeiten. Gleichzeitig befürchten einige Kunden, dass Anfragen künftig langsamer beantwortet werden könnten. Projektleiterin Sabine soll deshalb nicht nur die Stimmung, sondern auch die Arbeitsqualität untersuchen.",
+    "Vor Beginn legt das Team klare Messgrößen fest, darunter Durchlaufzeiten, Fehlerquoten und Überstunden. Die Beschäftigten dürfen unterschiedliche Modelle testen, solange wichtige Servicezeiten abgedeckt bleiben. Nach den ersten Wochen berichten viele von besserer Erholung, während einzelne Abteilungen Schwierigkeiten haben, Besprechungen zu koordinieren.",
+    "Sabine passt gemeinsam mit den Teams die Arbeitsabläufe an. Einige regelmäßige Termine werden kürzer, andere entfallen. Gleichzeitig achtet sie darauf, dass die kürzere Woche nicht einfach durch verdeckte Mehrarbeit ausgeglichen wird. Die Ergebnisse werden monatlich veröffentlicht und mit der Zeit vor dem Pilotprojekt verglichen.",
+    "Am Ende der sechs Monate zeigt sich ein gemischtes Bild: Die Zufriedenheit ist gestiegen, die Produktivität blieb in vielen Bereichen stabil, doch bestimmte Serviceprozesse müssen verbessert werden. Sabine empfiehlt deshalb eine verlängerte Testphase statt einer sofortigen endgültigen Entscheidung. Sie möchte vermeiden, dass ein komplexes Experiment auf ein einziges Erfolgsversprechen reduziert wird."
+  ],
+  "english": [
+    "A medium-sized company decides to test a four-day week for six months. Management hopes for more satisfied employees and fewer sick days. At the same time some customers fear their inquiries may be answered more slowly. Project leader Sabine is therefore tasked with examining not only morale but also work quality.",
+    "Before the trial begins the team defines clear metrics, including processing times, error rates and overtime. Employees can test different models as long as essential service hours remain covered. After the first weeks many report better recovery, while some departments struggle to coordinate meetings.",
+    "Sabine adjusts workflows with the teams. Some regular meetings become shorter and others disappear. She also makes sure the shorter week is not simply offset by hidden extra work. Results are published monthly and compared with the period before the trial.",
+    "After six months the picture is mixed: satisfaction has risen and productivity remained stable in many areas, but some service processes need improvement. Sabine therefore recommends extending the test rather than making an immediate permanent decision. She wants to avoid reducing a complex experiment to a single promise of success."
+  ],
+  "questions": [
+    {
+      "question": "Welche Kennzahlen werden untersucht?",
+      "options": [
+        "Nur die Anzahl der Fenster",
+        "Arbeitsqualität, Zeiten und Überstunden",
+        "Nur die Kaffeemenge"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Arbeitsqualität, Zeiten und Überstunden."
+    },
+    {
+      "question": "Was soll vermieden werden?",
+      "options": [
+        "Verdeckte Mehrarbeit",
+        "Weniger Meetings",
+        "Bessere Erholung"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Verdeckte Mehrarbeit."
+    },
+    {
+      "question": "Wie lautet Sabines Empfehlung?",
+      "options": [
+        "Sofort alle zu kündigen",
+        "Alle Ergebnisse zu ignorieren",
+        "Den Test zu verlängern"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Den Test zu verlängern."
+    }
+  ]
+}

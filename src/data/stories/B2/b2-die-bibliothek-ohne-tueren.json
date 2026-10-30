@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-bibliothek-ohne-tueren",
+  "level": "B2",
+  "title": "Die Bibliothek ohne Türen",
+  "subtitle": "Eine Universität prüft offenen Zugang zu Forschung",
+  "category": "Wissenschaft",
+  "emoji": "🔓",
+  "color": "sky",
+  "german": [
+    "Eine Universitätsbibliothek verhandelt seit Monaten über den Zugang zu wissenschaftlichen Zeitschriften. Die Preise steigen, während manche Forschende ihre eigenen Artikel nur gegen Gebühren lesen können. Bibliotheksleiterin Anja stellt daher die Frage, ob ein Teil des Budgets anders eingesetzt werden sollte, um frei zugängliche Veröffentlichungen zu unterstützen.",
+    "In einer Diskussionsrunde zeigen sich unterschiedliche Erwartungen. Einige Professoren möchten etablierte Zeitschriften weiterhin nutzen, weil sie dort wichtige Fachkollegen erreichen. Jüngere Forschende betonen hingegen, dass Studierende und kleinere Einrichtungen ohne teure Lizenzen oft ausgeschlossen bleiben. Anja weist darauf hin, dass freier Zugang allein noch keine Garantie für wissenschaftliche Qualität darstellt.",
+    "Gemeinsam entwickelt die Universität einen Leitfaden für seriöse Publikationsmöglichkeiten. Zusätzlich wird ein kleiner Fonds eingerichtet, der ausgewählte Gebühren unterstützt, sofern transparente Kriterien erfüllt sind. Die Bibliothek behält zugleich wichtige bestehende Abonnements, bis tragfähige Alternativen verfügbar sind.",
+    "Ein Jahr später hat sich die Situation nicht grundlegend verändert, doch mehr Artikel der Universität sind öffentlich erreichbar. Anja bewertet den Fortschritt vorsichtig. Sie sieht offenen Zugang nicht als einfache technische Einstellung, sondern als langfristige Aufgabe, bei der Finanzierung, Qualität und faire Teilhabe miteinander abgestimmt werden müssen."
+  ],
+  "english": [
+    "A university library has been negotiating access to scientific journals for months. Prices are rising, while researchers sometimes must pay fees to read their own articles. Library director Anja therefore asks whether part of the budget should be used differently to support freely accessible publications.",
+    "A discussion reveals different expectations. Some professors want to continue using established journals because they reach important colleagues there. Younger researchers, by contrast, emphasize that students and smaller institutions without expensive licences are often excluded. Anja points out that free access alone does not guarantee scientific quality.",
+    "Together the university develops guidelines for reputable publication options. It also sets up a small fund that supports selected fees when transparent criteria are met. Meanwhile the library keeps essential existing subscriptions until viable alternatives are available.",
+    "A year later the situation has not fundamentally changed, but more university articles are publicly accessible. Anja assesses the progress cautiously. She views open access not as a simple technical setting, but as a long-term task requiring coordination among funding, quality and fair participation."
+  ],
+  "questions": [
+    {
+      "question": "Was ist ein Ausgangsproblem?",
+      "options": [
+        "Steigende Kosten für Zeitschriften",
+        "Zu viele Sitzplätze",
+        "Fehlende Computerkurse"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Steigende Kosten für Zeitschriften."
+    },
+    {
+      "question": "Was betont Anja?",
+      "options": [
+        "Alle Zeitschriften sind kostenlos",
+        "Gebühren sind immer verboten",
+        "Freier Zugang garantiert keine Qualität"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Freier Zugang garantiert keine Qualität."
+    },
+    {
+      "question": "Was führt die Universität ein?",
+      "options": [
+        "Eine Sporthalle",
+        "Leitfaden und Förderfonds",
+        "Nur neue Ausweise"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Leitfaden und Förderfonds."
+    }
+  ]
+}

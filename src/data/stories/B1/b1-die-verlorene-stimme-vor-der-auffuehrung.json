@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-verlorene-stimme-vor-der-auffuehrung",
+  "level": "B1",
+  "title": "Die verlorene Stimme vor der Aufführung",
+  "subtitle": "Ein Chor findet eine kreative Lösung",
+  "category": "Musik",
+  "emoji": "🎶",
+  "color": "rose",
+  "german": [
+    "Am Abend vor einem großen Chorkonzert wird die Solistin Emilia plötzlich heiser. Sie hat sich erkältet und kann kaum sprechen. Der Chor ist besorgt, weil ihr Solo im Mittelpunkt eines wichtigen Liedes steht. Der Chorleiter überlegt, ob das Stück aus dem Programm gestrichen werden muss.",
+    "Während der Probe schlägt eine Sängerin vor, das Solo auf drei Stimmen zu verteilen. So müsste niemand den ganzen Teil allein übernehmen. Emilia hört zu und hilft dabei, den Text und die Einsätze zu erklären. Obwohl sie selbst nicht singen kann, kennt sie das Stück am besten.",
+    "Die Gruppe übt lange, bis die Übergänge sicher klingen. Beim Konzert steht Emilia am Rand der Bühne und verfolgt aufmerksam die Aufführung. Als die drei Sängerinnen das Solo gemeinsam beginnen, ist sie zuerst nervös. Doch ihre Stimmen passen wunderbar zusammen. Das Publikum bemerkt wahrscheinlich gar nicht, dass die ursprüngliche Besetzung anders geplant war.",
+    "Nach dem Konzert bedanken sich die Sängerinnen bei Emilia für ihre Unterstützung. Sie wiederum freut sich darüber, dass der Chor ohne sie als Solistin erfolgreich war. Der Chorleiter sagt, dass die neue Version vielleicht sogar künftig im Programm bleiben könnte."
+  ],
+  "english": [
+    "On the evening before a large choir concert, soloist Emilia suddenly becomes hoarse. She has caught a cold and can hardly speak. The choir is worried because her solo is the centrepiece of an important song. The conductor considers removing the piece from the programme.",
+    "During rehearsal a singer suggests dividing the solo among three voices. That way nobody would have to carry the entire part alone. Emilia listens and helps explain the lyrics and entries. Although she cannot sing herself, she knows the piece best.",
+    "The group practises for a long time until the transitions sound confident. At the concert Emilia stands at the edge of the stage and watches carefully. When the three singers begin the solo together, she is nervous at first. But their voices fit beautifully. The audience probably does not even notice that the original arrangement was different.",
+    "After the concert the singers thank Emilia for her support. She is delighted that the choir succeeded without her as soloist. The conductor says the new version might even remain in the programme in future."
+  ],
+  "questions": [
+    {
+      "question": "Warum kann Emilia nicht singen?",
+      "options": [
+        "Sie ist verreist",
+        "Sie ist heiser",
+        "Sie hat ihre Noten verloren"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie ist heiser."
+    },
+    {
+      "question": "Wie wird das Solo ersetzt?",
+      "options": [
+        "Drei Sängerinnen teilen es",
+        "Ein Instrument übernimmt alles",
+        "Das Lied wird gestrichen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Drei Sängerinnen teilen es."
+    },
+    {
+      "question": "Was sagt der Chorleiter am Ende?",
+      "options": [
+        "Das Konzert war ein Fehler",
+        "Der Chor löst sich auf",
+        "Die neue Version könnte bleiben"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die neue Version könnte bleiben."
+    }
+  ]
+}

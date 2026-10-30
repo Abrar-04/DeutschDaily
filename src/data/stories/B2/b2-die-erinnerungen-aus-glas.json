@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-erinnerungen-aus-glas",
+  "level": "B2",
+  "title": "Die Erinnerungen aus Glas",
+  "subtitle": "Ein virtuelles Museum stellt Fragen nach Echtheit",
+  "category": "Technik",
+  "emoji": "🥽",
+  "color": "lavender",
+  "german": [
+    "Ein Stadtmuseum entwickelt eine virtuelle Ausstellung, in der Besucher ein längst abgerissenes Viertel erkunden können. Historische Fotos, Baupläne und Augenzeugenberichte werden zu einer dreidimensionalen Umgebung zusammengesetzt. Projektleiterin Liv ist begeistert, als die ersten Testpersonen durch die digitalen Straßen laufen und sich auf alten Plätzen umsehen.",
+    "Bei der Auswertung entdeckt das Team jedoch ein Problem: Wo Quellen fehlen, hat die Software automatisch plausible Fassaden und Möbel ergänzt. Für die Besucher ist kaum erkennbar, welche Teile dokumentiert und welche erfunden wurden. Ein Historiker warnt davor, dass aus einer anschaulichen Rekonstruktion unbemerkt eine scheinbar sichere Vergangenheit werden könnte.",
+    "Liv entscheidet, die Darstellung grundlegend zu überarbeiten. Dokumentierte Elemente erhalten eine andere Kennzeichnung als vermutete Ergänzungen. Bei wichtigen Gebäuden können Besucher außerdem die verwendeten Fotos und Pläne direkt aufrufen. Einige Tester empfinden diese Hinweise zunächst als störend, andere schätzen die Transparenz.",
+    "Zur Eröffnung erklärt Liv, dass das virtuelle Viertel keine Zeitmaschine sei. Es ermögliche einen Zugang zu vergangenen Lebenswelten, ohne sie vollständig wiederherstellen zu können. Gerade die Lücken seien interessant, weil sie zeigen, welche Fragen historische Forschung offenlassen muss und wie leicht technische Perfektion mit Gewissheit verwechselt wird."
+  ],
+  "english": [
+    "A city museum develops a virtual exhibition allowing visitors to explore a long-demolished neighborhood. Historical photos, building plans and eyewitness accounts are assembled into a three-dimensional environment. Project leader Liv is excited when the first testers walk through digital streets and look around old squares.",
+    "But during evaluation the team discovers a problem: where sources are missing, the software has automatically added plausible facades and furniture. Visitors can hardly distinguish documented parts from inventions. A historian warns that a vivid reconstruction may unintentionally become an apparently certain version of the past.",
+    "Liv decides to fundamentally revise the presentation. Documented elements receive different labels from speculative additions. At important buildings visitors can also open the photos and plans used. Some testers initially find these signs distracting, while others appreciate the transparency.",
+    "At the opening Liv explains that the virtual neighborhood is not a time machine. It gives access to past ways of life without being able to restore them completely. The gaps themselves are interesting, because they show which questions historical research must leave open and how easily technical perfection is mistaken for certainty."
+  ],
+  "questions": [
+    {
+      "question": "Welches Problem entdeckt das Team?",
+      "options": [
+        "Die Brillen sind alle kaputt",
+        "Es gibt keine Besucher",
+        "Erfundene Elemente wirken wie belegte Geschichte"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Erfundene Elemente wirken wie belegte Geschichte."
+    },
+    {
+      "question": "Wie kennzeichnet Liv die Inhalte?",
+      "options": [
+        "Gar nicht",
+        "Nach dokumentierten und vermuteten Teilen",
+        "Nur nach Farbe der Häuser"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Nach dokumentierten und vermuteten Teilen."
+    },
+    {
+      "question": "Was betont Liv zur Eröffnung?",
+      "options": [
+        "Die Rekonstruktion bleibt unvollständig",
+        "Alle Details sind sicher",
+        "Technik ersetzt alle Quellen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Rekonstruktion bleibt unvollständig."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-rezept-ohne-heimat",
+  "level": "B2",
+  "title": "Das Rezept ohne Heimat",
+  "subtitle": "Ein Kochfestival wird zur Debatte über kulturelle Herkunft",
+  "category": "Essen",
+  "emoji": "🥘",
+  "color": "butter",
+  "german": [
+    "Bei einem internationalen Straßenfest präsentiert ein Restaurant ein Gericht als „traditionelle Spezialität“, ohne die Herkunft näher zu erklären. Köchin Farah erkennt darin eine Speise, die in ihrer Familie seit Generationen zubereitet wird, allerdings mit deutlich anderen Gewürzen und Zutaten. Sie freut sich über das Interesse, ärgert sich jedoch über die vereinfachte Darstellung.",
+    "Als sie den Restaurantbesitzer darauf anspricht, verteidigt er seine Version zunächst als kreative Weiterentwicklung. Farah bestreitet nicht, dass Rezepte sich verändern dürfen. Sie fragt vielmehr, warum die ursprünglichen Einflüsse unsichtbar bleiben, während das Gericht unter einem allgemein klingenden Namen vermarktet wird.",
+    "Die Organisatoren schlagen eine gemeinsame Kochvorführung vor. Dort zeigen Farah und der Restaurantbesitzer zwei unterschiedliche Varianten und sprechen über ihre Familiengeschichten. Besucher erfahren, dass ähnliche Gerichte in mehreren Regionen existieren und sich über lange Zeit gegenseitig beeinflusst haben. Eine einzige „echte“ Version lässt sich daher kaum bestimmen.",
+    "Am Ende ergänzt das Restaurant seine Speisekarte um eine genauere Beschreibung der Inspiration. Farah ist zufrieden, ohne zu verlangen, dass ihre persönliche Variante zum verbindlichen Maßstab wird. Für sie geht es nicht darum, kulinarische Kreativität zu verbieten, sondern die Menschen und Geschichten hinter bekannten Gerichten sichtbar zu machen."
+  ],
+  "english": [
+    "At an international street festival a restaurant presents a dish as a “traditional specialty” without explaining its origins. Chef Farah recognizes a meal that her family has prepared for generations, though with quite different spices and ingredients. She is pleased by the interest but annoyed at the simplified presentation.",
+    "When she speaks to the restaurant owner, he initially defends his version as a creative development. Farah does not deny that recipes may change. Rather, she asks why the original influences remain invisible while the dish is marketed under a generic-sounding name.",
+    "The organizers propose a joint cooking demonstration. There Farah and the owner show two different versions and discuss their family histories. Visitors learn that similar dishes exist in several regions and have influenced each other over time. It is therefore hard to identify one single “authentic” version.",
+    "In the end the restaurant adds a more precise description of the inspiration to its menu. Farah is satisfied without demanding that her personal version become the standard for everyone. For her the issue is not banning culinary creativity, but making the people and stories behind familiar dishes visible."
+  ],
+  "questions": [
+    {
+      "question": "Was ärgert Farah?",
+      "options": [
+        "Das Fest beginnt zu früh",
+        "Es gibt zu wenig Sitzplätze",
+        "Die Herkunft des Gerichts bleibt unsichtbar"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Die Herkunft des Gerichts bleibt unsichtbar."
+    },
+    {
+      "question": "Was geschieht bei der Kochvorführung?",
+      "options": [
+        "Alle Rezepte werden geheim gehalten",
+        "Mehrere Varianten werden erklärt",
+        "Nur eine Version wird erlaubt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Mehrere Varianten werden erklärt."
+    },
+    {
+      "question": "Worauf einigt man sich?",
+      "options": [
+        "Eine genauere Beschreibung der Inspiration",
+        "Ein Verbot des Gerichts",
+        "Ein geschlossenes Restaurant"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine genauere Beschreibung der Inspiration."
+    }
+  ]
+}

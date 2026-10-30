@@ -1,0 +1,53 @@
+{
+  "id": "b2-die-nacht-der-falschen-warnung",
+  "level": "B2",
+  "title": "Die Nacht der falschen Warnung",
+  "subtitle": "Ein Alarm zwingt eine Gemeinde zur transparenten Aufklärung",
+  "category": "Technik",
+  "emoji": "🚨",
+  "color": "sage",
+  "german": [
+    "In einer Kleinstadt erhalten Hunderte Menschen mitten in der Nacht eine Warnmeldung auf ihren Handys. Sie werden aufgefordert, Türen und Fenster geschlossen zu halten. Kurz darauf folgt die Entwarnung: Eine Übung wurde versehentlich als echter Alarm verschickt. Viele Bewohner sind erleichtert, andere verärgert über die unklare Kommunikation.",
+    "Bürgermeisterin Lara kündigt eine Untersuchung an. Dabei zeigt sich, dass im neuen Warnsystem die Unterscheidung zwischen Testbetrieb und realer Meldung nicht ausreichend abgesichert war. Ein Mitarbeiter hatte die falsche Option ausgewählt, doch Lara lehnt es ab, den Vorfall ausschließlich als individuelles Versagen darzustellen.",
+    "Die Verwaltung ändert den Ablauf. Echte Warnungen benötigen künftig eine zusätzliche Freigabe, während Übungen eindeutig gekennzeichnet werden. Außerdem werden klare Anweisungen für spätere Korrekturen formuliert. Bei einem öffentlichen Informationsabend erklären Fachleute, wie Warnmeldungen entstehen und welche Kanäle Bürger im Ernstfall überprüfen können.",
+    "Lara weiß, dass der Irrtum Vertrauen gekostet hat. Sie hält es dennoch für wichtiger, die Ursachen nachvollziehbar zu erklären, als die Geschichte möglichst schnell vergessen zu lassen. Eine verlässliche Warnung hängt schließlich nicht nur von Technik ab, sondern auch davon, dass Menschen den Hinweisen im richtigen Moment vertrauen können."
+  ],
+  "english": [
+    "Hundreds of residents in a small town receive an alert on their phones in the middle of the night. They are told to keep doors and windows closed. Shortly afterward an all-clear follows: a drill was accidentally sent as a real warning. Many residents are relieved, while others are upset by the unclear communication.",
+    "Mayor Lara announces an investigation. It reveals that the new warning system did not adequately separate test mode from real alerts. An employee selected the wrong option, but Lara refuses to present the incident solely as an individual's failure.",
+    "The administration changes the process. Real alerts will require additional approval, while drills will be clearly identified. Clear instructions for later corrections are also introduced. At a public information evening experts explain how warnings are issued and which channels citizens can check in a real emergency.",
+    "Lara knows the mistake damaged trust. Nevertheless she considers it more important to explain the causes clearly than to make everyone forget the episode quickly. A reliable warning system depends not only on technology, but on people's ability to trust its messages at the right moment."
+  ],
+  "questions": [
+    {
+      "question": "Was passiert in der Nacht?",
+      "options": [
+        "Ein Zug fällt aus",
+        "Eine Übung wird als echter Alarm versendet",
+        "Ein Haus brennt"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine Übung wird als echter Alarm versendet."
+    },
+    {
+      "question": "Welche Ursache findet die Untersuchung?",
+      "options": [
+        "Unzureichende Trennung von Test und Echtbetrieb",
+        "Ein kaputter Lautsprecher",
+        "Ein fehlender Stromanschluss"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Unzureichende Trennung von Test und Echtbetrieb."
+    },
+    {
+      "question": "Was ändert sich danach?",
+      "options": [
+        "Alle Warnungen werden abgeschafft",
+        "Nur noch Briefe werden verschickt",
+        "Zusätzliche Freigabe und klare Kennzeichnung"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Zusätzliche Freigabe und klare Kennzeichnung."
+    }
+  ]
+}

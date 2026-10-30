@@ -1,0 +1,53 @@
+{
+  "id": "a2-eine-bank-fuer-den-schulhof",
+  "level": "A2",
+  "title": "Eine Bank für den Schulhof",
+  "subtitle": "Kinder verbessern ihren Pausenplatz",
+  "category": "Schule",
+  "emoji": "🛠️",
+  "color": "butter",
+  "german": [
+    "In der Schule von Ben gibt es einen großen Hof. In den Pausen spielen viele Kinder Fußball oder laufen herum. Wer sich ausruhen möchte, muss aber auf dem Boden sitzen. Ben findet das nicht gut. In der Klassensprechergruppe schlägt er vor, eine neue Bank aufzustellen.",
+    "Die Lehrerin erklärt, dass die Schule wenig Geld hat. Deshalb organisiert die Klasse einen kleinen Kuchenverkauf. Eltern backen Muffins, Brot und Kekse. Die Kinder verkaufen alles in der Mittagspause. Nach zwei Tagen haben sie genug Geld für eine einfache Holzbank gesammelt.",
+    "Ein Handwerker hilft beim sicheren Aufbau. Die Klasse sucht einen Platz unter einem großen Baum. Dort ist es im Sommer schön kühl. Ben und seine Freundinnen dürfen die Bank mit wetterfesten Farben bemalen. Sie malen Blumen, Sterne und kleine Tiere auf das Holz.",
+    "Am Montag sitzen die ersten Kinder auf der neuen Bank. Einige lesen, andere essen ihr Pausenbrot. Ben freut sich sehr. Er schreibt einen Brief an die Eltern und bedankt sich für die Hilfe. Im nächsten Jahr möchte die Klasse vielleicht noch einen Tisch bauen."
+  ],
+  "english": [
+    "There is a large courtyard at Ben's school. During breaks many children play football or run around. But anyone who wants to rest has to sit on the ground. Ben does not think that is good. In the class representatives' group he suggests putting up a new bench.",
+    "The teacher explains that the school has little money. So the class organizes a small cake sale. Parents bake muffins, bread and biscuits. The children sell everything during lunch break. After two days they have collected enough money for a simple wooden bench.",
+    "A craftsman helps to assemble it safely. The class chooses a spot under a large tree. It is pleasantly cool there in summer. Ben and his friends are allowed to paint the bench with weatherproof colours. They paint flowers, stars and small animals on the wood.",
+    "On Monday the first children sit on the new bench. Some read, and others eat their snacks. Ben is very happy. He writes a letter to the parents to thank them. Next year the class might build a table as well."
+  ],
+  "questions": [
+    {
+      "question": "Wofür braucht die Klasse Geld?",
+      "options": [
+        "Für einen Computer",
+        "Für eine Reise",
+        "Für eine Bank"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Für eine Bank."
+    },
+    {
+      "question": "Wie verdient die Klasse Geld?",
+      "options": [
+        "Durch Eintrittskarten",
+        "Durch einen Kuchenverkauf",
+        "Durch Autowaschen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Durch einen Kuchenverkauf."
+    },
+    {
+      "question": "Wo steht die Bank?",
+      "options": [
+        "Unter einem Baum",
+        "In der Turnhalle",
+        "Auf der Straße"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Unter einem Baum."
+    }
+  ]
+}

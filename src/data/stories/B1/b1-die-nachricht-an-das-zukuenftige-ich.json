@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-nachricht-an-das-zukuenftige-ich",
+  "level": "B1",
+  "title": "Die Nachricht an das zukünftige Ich",
+  "subtitle": "Ein Schulprojekt überrascht nach fünf Jahren",
+  "category": "Schule",
+  "emoji": "📅",
+  "color": "rose",
+  "german": [
+    "In der neunten Klasse hat die Lehrerin ihre Schülerinnen und Schüler gebeten, einen Brief an sich selbst zu schreiben. Darin sollten sie erzählen, wovon sie träumen und welche Dinge ihnen wichtig sind. Anschließend wurden die Umschläge verschlossen und in einer Kiste im Schularchiv aufbewahrt.",
+    "Fünf Jahre später erhält Jasmin unerwartet Post. Als sie den Umschlag öffnet, erkennt sie sofort ihre eigene Handschrift. Sie liest, dass sie damals Tierärztin werden und unbedingt nach Kanada reisen wollte. Inzwischen studiert sie allerdings Architektur und hat noch nie ein Flugzeug bestiegen.",
+    "Zuerst ist Jasmin enttäuscht, weil sie ihre früheren Pläne nicht verwirklicht hat. Doch dann entdeckt sie einen weiteren Satz: „Ich hoffe, dass du gute Freunde hast und viel lachst.“ Genau darüber muss sie lächeln. Ihre besten Freunde wohnen zwar in verschiedenen Städten, aber sie telefonieren regelmäßig.",
+    "Jasmin legt den alten Brief neben ein leeres Blatt Papier und beginnt einen neuen. Diesmal schreibt sie keine festen Berufswünsche auf. Stattdessen beschreibt sie, was sie neugierig macht und was sie gern lernen möchte. Auch diesen Brief will sie erst in fünf Jahren wieder öffnen."
+  ],
+  "english": [
+    "In ninth grade a teacher asked her pupils to write a letter to their future selves. They were supposed to describe their dreams and what mattered to them. Then the envelopes were sealed and kept in a box in the school archive.",
+    "Five years later Jasmin unexpectedly receives a letter. When she opens it, she recognizes her own handwriting immediately. She reads that back then she wanted to become a veterinarian and definitely travel to Canada. By now, however, she studies architecture and has never flown on a plane.",
+    "At first Jasmin is disappointed because she has not achieved her earlier plans. But then she discovers another sentence: “I hope you have good friends and laugh a lot.” That makes her smile. Although her best friends live in different cities, they speak on the phone regularly.",
+    "Jasmin puts the old letter beside a blank sheet of paper and begins a new one. This time she does not write down fixed career plans. Instead she describes what makes her curious and what she would like to learn. She will only open this letter again in five years."
+  ],
+  "questions": [
+    {
+      "question": "Wann wurde der erste Brief geschrieben?",
+      "options": [
+        "Vor zwanzig Jahren",
+        "Vor fünf Jahren",
+        "Vor einem Monat"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Vor fünf Jahren."
+    },
+    {
+      "question": "Was studiert Jasmin jetzt?",
+      "options": [
+        "Architektur",
+        "Tiermedizin",
+        "Biologie"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Architektur."
+    },
+    {
+      "question": "Was schreibt sie in den neuen Brief?",
+      "options": [
+        "Nur ihre Adresse",
+        "Eine Einkaufsliste",
+        "Ihre Interessen und Lernwünsche"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Ihre Interessen und Lernwünsche."
+    }
+  ]
+}

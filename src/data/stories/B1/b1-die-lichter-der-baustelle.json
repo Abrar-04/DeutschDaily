@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-lichter-der-baustelle",
+  "level": "B1",
+  "title": "Die Lichter der Baustelle",
+  "subtitle": "Ein Stadtviertel diskutiert über nächtliche Arbeit",
+  "category": "Stadt",
+  "emoji": "🚧",
+  "color": "rose",
+  "german": [
+    "In Marios Straße wird seit mehreren Wochen ein neuer Straßenbahntunnel gebaut. Die Arbeiter dürfen manchmal auch nachts tätig sein, damit der Verkehr tagsüber weniger gestört wird. Allerdings leuchten starke Lampen direkt in die Schlafzimmer einiger Bewohner. Mario hat deshalb seit Tagen schlecht geschlafen.",
+    "Bei einer Informationsveranstaltung möchte er sich beschweren. Doch bevor er spricht, erklärt die Bauleiterin, warum bestimmte Arbeiten nachts stattfinden müssen. Einige Maschinen können nur dann eingesetzt werden, wenn keine Straßenbahnen fahren. Mario versteht das Problem besser, findet die Situation aber weiterhin schwierig.",
+    "Er fragt deshalb, ob die Lampen anders ausgerichtet oder teilweise abgeschirmt werden könnten. Die Bauleiterin verspricht, die Möglichkeiten prüfen zu lassen. Zwei Tage später werden zusätzliche Schutzwände aufgestellt, die das Licht deutlich reduzieren. Außerdem veröffentlicht die Firma einen Plan mit besonders lauten Arbeitsnächten.",
+    "Mario kann wieder besser schlafen und ist froh, dass er zur Veranstaltung gegangen ist. Er hat gelernt, dass eine Beschwerde hilfreicher sein kann, wenn sie eine konkrete Lösung enthält. Die Bauarbeiten dauern zwar noch mehrere Monate, aber der Umgang zwischen Nachbarn und Firma ist spürbar freundlicher geworden."
+  ],
+  "english": [
+    "A new tram tunnel has been under construction in Mario's street for several weeks. Workers are sometimes allowed to work at night so that daytime traffic is less disrupted. However, powerful lights shine straight into some residents' bedrooms. Mario has therefore slept badly for days.",
+    "He wants to complain at an information meeting. But before he speaks, the site manager explains why certain work must take place at night. Some machines can only be used when the trams are not running. Mario understands the problem better, but still finds the situation difficult.",
+    "So he asks whether the lights could be angled differently or partly screened off. The site manager promises to have the options examined. Two days later extra protective screens are installed, significantly reducing the light. The company also publishes a schedule of especially noisy work nights.",
+    "Mario can sleep better again and is pleased he attended the meeting. He has learned that a complaint can be more useful when it includes a concrete solution. The construction work will continue for several months, but the relationship between residents and the company has noticeably improved."
+  ],
+  "questions": [
+    {
+      "question": "Warum wird auch nachts gearbeitet?",
+      "options": [
+        "Wegen des heißen Wetters",
+        "Damit der Verkehr weniger gestört wird",
+        "Weil die Arbeiter nur nachts Zeit haben"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Damit der Verkehr weniger gestört wird."
+    },
+    {
+      "question": "Was stört Mario?",
+      "options": [
+        "Starke Lampen",
+        "Vogelgesang",
+        "Wassergeräusche"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Starke Lampen."
+    },
+    {
+      "question": "Welche Lösung wird umgesetzt?",
+      "options": [
+        "Der Tunnel wird aufgegeben",
+        "Alle ziehen um",
+        "Zusätzliche Schutzwände"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Zusätzliche Schutzwände."
+    }
+  ]
+}

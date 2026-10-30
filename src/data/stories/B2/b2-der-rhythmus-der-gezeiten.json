@@ -1,0 +1,53 @@
+{
+  "id": "b2-der-rhythmus-der-gezeiten",
+  "level": "B2",
+  "title": "Der Rhythmus der Gezeiten",
+  "subtitle": "Ein Küstenort überdenkt seinen Tourismus",
+  "category": "Umwelt",
+  "emoji": "🌊",
+  "color": "lavender",
+  "german": [
+    "In einem kleinen Küstenort reisen jedes Frühjahr Tausende Besucher an, um ein seltenes Naturschauspiel zu beobachten. Bei besonders niedriger Ebbe werden weit draußen Sandbänke sichtbar, auf denen sich zahlreiche Vögel sammeln. Die örtlichen Betriebe profitieren von den Gästen, doch Naturschützer berichten zunehmend von Störungen in den Brutgebieten.",
+    "Bürgermeisterin Katja versucht zunächst, die Diskussion zu beruhigen. Allerdings zeigen Beobachtungen, dass manche Besucher die ausgewiesenen Wege verlassen und dabei empfindliche Flächen betreten. Ein generelles Besuchsverbot erscheint weder praktikabel noch verhältnismäßig. Deshalb bittet Katja einen Umweltverein und Vertreter des Tourismus um gemeinsame Vorschläge.",
+    "Nach mehreren Treffen entsteht ein Konzept mit begrenzten Gruppengrößen, geschulten Führern und klar markierten Aussichtspunkten. Zusätzlich informiert eine Ausstellung darüber, weshalb die Tiere auf ungestörte Ruhephasen angewiesen sind. Die Kosten werden teilweise durch kleine Gebühren für geführte Angebote gedeckt.",
+    "Im ersten Jahr sinkt die Zahl unkontrollierter Besuche, während die lokalen Betriebe weiterhin Gäste empfangen. Ob die Vogelbestände langfristig profitieren, muss noch untersucht werden. Katja ist dennoch zuversichtlich, weil der Ort begonnen hat, wirtschaftliche Interessen und Naturschutz nicht als unvereinbare Gegensätze zu behandeln."
+  ],
+  "english": [
+    "Every spring thousands of visitors travel to a small coastal town to watch a rare natural spectacle. During unusually low tides, sandbanks far offshore become visible where numerous birds gather. Local businesses benefit from the guests, but conservationists increasingly report disturbances in breeding areas.",
+    "Mayor Katja initially tries to calm the discussion. However, observations show that some visitors leave the marked paths and enter sensitive areas. A general ban on visitors appears neither practical nor proportionate. So Katja asks an environmental group and tourism representatives to develop joint proposals.",
+    "After several meetings a plan emerges with limited group sizes, trained guides and clearly marked viewpoints. An exhibition also explains why the birds depend on undisturbed resting periods. Costs are partly covered by small fees for guided activities.",
+    "In the first year uncontrolled visits decline while local businesses continue welcoming guests. Whether bird populations benefit in the long term still needs to be studied. Katja remains hopeful because the town has begun treating economic interests and conservation as potentially compatible rather than mutually exclusive."
+  ],
+  "questions": [
+    {
+      "question": "Warum entsteht ein Konflikt?",
+      "options": [
+        "Hotels sind geschlossen",
+        "Es gibt keine Führungen",
+        "Besucher stören empfindliche Vogelgebiete"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Besucher stören empfindliche Vogelgebiete."
+    },
+    {
+      "question": "Welche Maßnahme wird eingeführt?",
+      "options": [
+        "Ein neuer Flughafen",
+        "Begrenzte geführte Gruppen",
+        "Ein Verbot aller Reisen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Begrenzte geführte Gruppen."
+    },
+    {
+      "question": "Was muss langfristig noch geprüft werden?",
+      "options": [
+        "Die Wirkung auf Vogelbestände",
+        "Die Zahl der Geschäfte",
+        "Die Farbe der Aussichtspunkte"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Wirkung auf Vogelbestände."
+    }
+  ]
+}

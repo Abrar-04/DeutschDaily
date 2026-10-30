@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-lampe-auf-dem-flohmarkt",
+  "level": "A2",
+  "title": "Die Lampe auf dem Flohmarkt",
+  "subtitle": "Ein alter Gegenstand bekommt ein neues Leben",
+  "category": "Alltag",
+  "emoji": "💡",
+  "color": "rose",
+  "german": [
+    "Jeden ersten Samstag im Monat gibt es einen Flohmarkt am Rathaus. Tom besucht ihn gern, weil er alte Sachen mag. An einem Stand entdeckt er eine kleine Tischlampe mit einem grünen Schirm. Sie sieht schön aus, aber das Licht funktioniert nicht. Die Verkäuferin möchte nur fünf Euro dafür haben.",
+    "Tom kauft die Lampe und bringt sie nach Hause. Sein Onkel arbeitet als Elektriker. Er schaut sich die Lampe an und erklärt, dass das Kabel beschädigt ist. Tom benutzt die Lampe nicht, bis sein Onkel sie sicher repariert hat. Gemeinsam wählen sie außerdem eine neue Glühbirne aus.",
+    "Als die Lampe wieder funktioniert, stellt Tom sie auf seinen Schreibtisch. Das warme Licht macht sein Zimmer gemütlich. Seine Freundin Lara sieht die Lampe und fragt, wo er sie gekauft hat. Tom erzählt stolz von seinem Fund auf dem Flohmarkt.",
+    "Ein paar Tage später findet Tom im Internet ein Foto von genau diesem Lampenmodell. Es ist über vierzig Jahre alt. Tom freut sich noch mehr. Er klebt einen kleinen Zettel unter den Fuß: „Gefunden und gerettet im Mai.“"
+  ],
+  "english": [
+    "On the first Saturday of every month there is a flea market near the town hall. Tom likes visiting because he enjoys old things. At one stall he discovers a small desk lamp with a green shade. It looks beautiful, but the light does not work. The seller only wants five euros for it.",
+    "Tom buys the lamp and takes it home. His uncle works as an electrician. He looks at the lamp and explains that the cable is damaged. Tom does not use the lamp until his uncle has repaired it safely. Together they also choose a new light bulb.",
+    "When the lamp works again, Tom puts it on his desk. The warm light makes his room cosy. His friend Lara sees the lamp and asks where he bought it. Tom proudly tells her about his flea-market find.",
+    "A few days later Tom finds a photograph of exactly this model online. It is more than forty years old. Tom is even happier. He sticks a small note under the base: “Found and rescued in May.”"
+  ],
+  "questions": [
+    {
+      "question": "Wie viel kostet die Lampe?",
+      "options": [
+        "Hundert Euro",
+        "Fünf Euro",
+        "Fünfzig Euro"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Fünf Euro."
+    },
+    {
+      "question": "Was ist an der Lampe kaputt?",
+      "options": [
+        "Das Kabel",
+        "Der Tisch",
+        "Der Schirm fehlt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Das Kabel."
+    },
+    {
+      "question": "Wo steht die reparierte Lampe?",
+      "options": [
+        "Im Garten",
+        "Im Bad",
+        "Auf Toms Schreibtisch"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Auf Toms Schreibtisch."
+    }
+  ]
+}

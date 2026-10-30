@@ -1,0 +1,53 @@
+{
+  "id": "b2-das-schachbrett-aus-zahlen",
+  "level": "B2",
+  "title": "Das Schachbrett aus Zahlen",
+  "subtitle": "Ein Verein hinterfragt seine Rangliste",
+  "category": "Sport",
+  "emoji": "♟️",
+  "color": "peach",
+  "german": [
+    "Ein Schachverein veröffentlicht jeden Monat eine Rangliste seiner Mitglieder. Der siebzehnjährige Niklas fällt auf, dass Spieler mit vielen Partien häufig besser platziert sind als andere, die seltener teilnehmen, aber starke Gegner besiegen. Er fragt den Vorstand, wie die Punkte berechnet werden, erhält zunächst jedoch nur eine komplizierte Tabelle.",
+    "Gemeinsam mit einer Mathematikstudentin untersucht Niklas das Bewertungssystem. Sie stellen fest, dass die bisherige Methode tatsächlich stark von der Anzahl der Spiele abhängt. Das ist nicht grundsätzlich falsch, entspricht aber möglicherweise nicht dem Ziel, die Spielstärke möglichst fair zu schätzen.",
+    "Bei einer Mitgliederversammlung präsentiert Niklas mehrere Beispielrechnungen. Er betont, dass auch alternative Systeme Nachteile besitzen und eine Änderung nicht alle Erwartungen erfüllen könne. Der Verein beschließt deshalb, zwei Ranglisten parallel zu führen: eine für die Aktivität und eine, die stärker die Qualität der Ergebnisse berücksichtigt.",
+    "Nach einigen Monaten sind nicht alle Mitglieder mit ihrer neuen Platzierung zufrieden. Die Diskussionen sind jedoch sachlicher geworden, weil die Berechnungen öffentlich erklärt werden. Niklas freut sich, dass seine Frage ernst genommen wurde. Er hat gelernt, dass eine Zahl niemals von selbst sagt, was sie messen soll. Bevor man Menschen vergleicht, muss man den Maßstab verstehen."
+  ],
+  "english": [
+    "A chess club publishes a ranking of its members every month. Seventeen-year-old Niklas notices that players with many games often rank above others who participate less often but defeat strong opponents. He asks the board how points are calculated but initially receives only a complicated table.",
+    "Together with a mathematics student Niklas examines the scoring system. They discover that the existing method does indeed depend heavily on the number of games. That is not necessarily wrong, but may not match the aim of estimating playing strength as fairly as possible.",
+    "At a members' meeting Niklas presents several example calculations. He stresses that alternative systems also have drawbacks and that a change cannot satisfy every expectation. The club therefore decides to run two parallel rankings: one for activity and another that places more weight on the quality of results.",
+    "After a few months not every member is happy with their new position. But discussions have become more constructive because the calculations are explained publicly. Niklas is pleased that his question was taken seriously. He has learned that a number does not automatically say what it is supposed to measure. Before comparing people, the standard must be understood."
+  ],
+  "questions": [
+    {
+      "question": "Was kritisiert Niklas?",
+      "options": [
+        "Die Vermischung von Aktivität und Spielstärke",
+        "Zu viele Schachbretter",
+        "Zu wenig Trainingszeit"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Vermischung von Aktivität und Spielstärke."
+    },
+    {
+      "question": "Welche Lösung wählt der Verein?",
+      "options": [
+        "Keine Turniere mehr",
+        "Nur noch Zufallszahlen",
+        "Zwei getrennte Ranglisten"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Zwei getrennte Ranglisten."
+    },
+    {
+      "question": "Was ist die Kernidee?",
+      "options": [
+        "Nur viele Spiele zählen",
+        "Messgrößen müssen zu ihrem Ziel passen",
+        "Jede Zahl ist objektiv"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Messgrößen müssen zu ihrem Ziel passen."
+    }
+  ]
+}

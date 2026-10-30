@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-kleiner-preis-fuer-mut",
+  "level": "A2",
+  "title": "Ein kleiner Preis für Mut",
+  "subtitle": "Ein Mädchen spricht zum ersten Mal vor vielen Leuten",
+  "category": "Schule",
+  "emoji": "🎤",
+  "color": "butter",
+  "german": [
+    "Mina ist zwölf Jahre alt und redet nicht gern vor der ganzen Klasse. Wenn sie etwas sagen soll, wird ihr Gesicht rot. Eines Tages kündigt ihre Lehrerin einen Vorlesewettbewerb an. Mina liebt Bücher, aber sie möchte nicht auf die Bühne gehen. Ihre beste Freundin sagt, dass sie es wenigstens versuchen kann.",
+    "Zu Hause übt Mina jeden Abend mit einem kurzen Text. Sie liest erst ihrem Bruder vor, dann ihrer Mutter. Beide hören aufmerksam zu und geben ihr Tipps. Am Tag des Wettbewerbs sitzt Mina mit klopfendem Herzen in der ersten Reihe. Als ihr Name aufgerufen wird, steht sie langsam auf.",
+    "Zuerst spricht sie sehr leise. Dann sieht sie ihre Freundin lächeln. Mina atmet tief durch und liest weiter. Nach einigen Sätzen wird ihre Stimme sicherer. Sie vergisst sogar für einen Moment, dass viele Menschen zuhören. Am Ende klatscht das Publikum lange.",
+    "Mina gewinnt nicht den ersten Preis. Sie bekommt aber eine Urkunde für ihren Mut. Darüber freut sie sich besonders. Am nächsten Tag meldet sie sich im Unterricht freiwillig. Es ist immer noch aufregend, aber nicht mehr so schlimm wie früher."
+  ],
+  "english": [
+    "Mina is twelve and does not like speaking in front of the whole class. When she has to say something, her face turns red. One day her teacher announces a reading competition. Mina loves books but does not want to go on stage. Her best friend says she could at least give it a try.",
+    "At home Mina practises every evening with a short text. First she reads to her brother and then to her mother. They both listen carefully and give her tips. On the day of the competition Mina sits in the front row with her heart pounding. When her name is called, she slowly stands up.",
+    "At first she speaks very quietly. Then she sees her friend smiling. Mina takes a deep breath and continues reading. After a few sentences her voice becomes more confident. For a moment she even forgets that many people are listening. The audience claps for a long time at the end.",
+    "Mina does not win first prize. But she receives a certificate for her courage. That makes her especially happy. The next day she volunteers to speak in class. It is still exciting, but no longer as frightening as before."
+  ],
+  "questions": [
+    {
+      "question": "Woran nimmt Mina teil?",
+      "options": [
+        "An einem Rennen",
+        "An einem Kochkurs",
+        "An einem Vorlesewettbewerb"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: An einem Vorlesewettbewerb."
+    },
+    {
+      "question": "Wer hilft Mina beim Üben?",
+      "options": [
+        "Der Busfahrer",
+        "Ihr Bruder und ihre Mutter",
+        "Nur ihr Lehrer"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ihr Bruder und ihre Mutter."
+    },
+    {
+      "question": "Wofür bekommt sie eine Urkunde?",
+      "options": [
+        "Für ihren Mut",
+        "Für das schnellste Lesen",
+        "Für die beste Zeichnung"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Für ihren Mut."
+    }
+  ]
+}

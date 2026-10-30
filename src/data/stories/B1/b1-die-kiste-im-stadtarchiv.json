@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-kiste-im-stadtarchiv",
+  "level": "B1",
+  "title": "Die Kiste im Stadtarchiv",
+  "subtitle": "Freiwillige finden vergessene Geschichten",
+  "category": "Geschichte",
+  "emoji": "📚",
+  "color": "sage",
+  "german": [
+    "Im Stadtarchiv sollen alte Dokumente endlich sortiert werden. Dafür sucht die Leiterin freiwillige Helfer. Jonas interessiert sich für Geschichte und meldet sich an. An seinem ersten Tag bekommt er eine Kiste voller Briefe, die vor fast hundert Jahren geschrieben wurden. Manche Wörter kann er kaum lesen, weil die Schrift ungewohnt ist.",
+    "Eine Archivarin zeigt ihm, wie man die Dokumente vorsichtig behandelt und ihre Daten in einer Tabelle festhält. Während Jonas die Briefe untersucht, entdeckt er mehrere Nachrichten von Kindern, die damals in seiner Straße gewohnt haben. Sie beschreiben Spiele, Schulwege und die Lebensmittel, die ihre Familien kaufen konnten.",
+    "Besonders überrascht ihn ein Brief über eine große Überschwemmung. Darin steht, dass die Nachbarn gemeinsam Möbel in höhere Stockwerke getragen haben. Jonas vergleicht die Adresse mit einer historischen Karte und stellt fest, dass das Haus noch heute existiert.",
+    "Am Ende des Projekts organisiert das Archiv eine kleine Ausstellung. Jonas wählt einige Textstellen aus und erklärt sie in einfacher Sprache. Besucher aus seiner Straße erkennen die alten Hausnummern wieder. Für Jonas wird Geschichte dadurch viel lebendiger als in einem Schulbuch."
+  ],
+  "english": [
+    "The city archive finally wants to sort its old documents. The director is looking for volunteers to help. Jonas is interested in history and signs up. On his first day he receives a box full of letters written almost a hundred years ago. He can hardly read some of the words because the handwriting is unfamiliar.",
+    "An archivist shows him how to handle documents carefully and record their details in a table. While examining the letters, Jonas discovers messages from children who once lived on his street. They describe games, school routes and the food their families could buy.",
+    "He is particularly surprised by a letter about a major flood. It says the neighbors carried furniture to higher floors together. Jonas compares the address with a historical map and realizes that the house still exists today.",
+    "At the end of the project the archive organizes a small exhibition. Jonas selects some passages and explains them in simple language. Visitors from his street recognize the old house numbers. For Jonas, history becomes much more alive than it is in a textbook."
+  ],
+  "questions": [
+    {
+      "question": "Was sortiert Jonas?",
+      "options": [
+        "Musikinstrumente",
+        "Alte Briefe",
+        "Neue Rechnungen"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Alte Briefe."
+    },
+    {
+      "question": "Wovon berichtet ein besonderer Brief?",
+      "options": [
+        "Von einer Überschwemmung",
+        "Von einer Mondlandung",
+        "Von einem Fußballspiel"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Von einer Überschwemmung."
+    },
+    {
+      "question": "Was passiert am Ende?",
+      "options": [
+        "Die Kiste wird verbrannt",
+        "Das Archiv schließt",
+        "Eine Ausstellung wird organisiert"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Eine Ausstellung wird organisiert."
+    }
+  ]
+}

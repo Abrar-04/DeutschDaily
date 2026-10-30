@@ -1,0 +1,53 @@
+{
+  "id": "a2-die-blumen-im-treppenhaus",
+  "level": "A2",
+  "title": "Die Blumen im Treppenhaus",
+  "subtitle": "Ein leerer Platz wird bunter",
+  "category": "Natur",
+  "emoji": "🌷",
+  "color": "sage",
+  "german": [
+    "Im Treppenhaus von Familie Özdemir steht seit Jahren ein leerer Tisch. Niemand weiß mehr, warum er dort steht. Die elfjährige Esra findet ihn langweilig. Sie möchte Blumen auf den Tisch stellen. Ihre Mutter sagt, dass sie zuerst die Nachbarn fragen soll, weil der Flur für alle da ist.",
+    "Esra schreibt einen kurzen Zettel und hängt ihn an die Haustür. Alle Bewohner können ihre Meinung darauf schreiben. Fast alle finden die Idee schön. Der Hausmeister erklärt, welche Pflanzen dort stehen dürfen und dass der Fluchtweg frei bleiben muss.",
+    "Am Samstag kauft Esra zwei kleine Töpfe mit Blumen. Ihre Nachbarin bringt eine grüne Pflanze dazu. Gemeinsam stellen sie alles auf den Tisch. Esra schreibt auf kleine Karten, wie oft die Blumen Wasser brauchen. Einige Kinder aus dem Haus helfen beim Gießen.",
+    "Nach einem Monat blühen die Blumen noch immer. Jeden Morgen schaut Esra kurz nach ihnen, bevor sie zur Schule geht. Manchmal sieht sie einen Nachbarn lächeln. Sie merkt, dass ein kleiner heller Platz den ganzen Flur freundlicher machen kann."
+  ],
+  "english": [
+    "An empty table has stood in the Özdemir family's hallway for years. Nobody remembers why it is there. Eleven-year-old Esra thinks it is boring. She wants to put flowers on it. Her mother says she should ask the neighbors first because the hallway belongs to everyone.",
+    "Esra writes a short note and hangs it on the front door. All residents can write their opinions on it. Almost everyone likes the idea. The caretaker explains what plants may be placed there and that the escape route must remain clear.",
+    "On Saturday Esra buys two small pots of flowers. Her neighbor brings a green plant too. They arrange everything on the table together. Esra writes little cards showing how often the flowers need water. Some children in the building help with watering.",
+    "After a month the flowers are still blooming. Every morning Esra checks on them briefly before going to school. Sometimes she sees a neighbor smiling. She realizes that one small bright spot can make the whole hallway friendlier."
+  ],
+  "questions": [
+    {
+      "question": "Was möchte Esra auf den Tisch stellen?",
+      "options": [
+        "Bücher",
+        "Blumen",
+        "Schuhe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Blumen."
+    },
+    {
+      "question": "Wen fragt sie zuerst?",
+      "options": [
+        "Die Nachbarn",
+        "Ihre Lehrerin",
+        "Den Busfahrer"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Die Nachbarn."
+    },
+    {
+      "question": "Was muss im Flur frei bleiben?",
+      "options": [
+        "Das Fensterbrett",
+        "Der Aufzug",
+        "Der Fluchtweg"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Der Fluchtweg."
+    }
+  ]
+}

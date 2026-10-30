@@ -1,0 +1,53 @@
+{
+  "id": "a2-ein-brief-aus-dem-urlaub",
+  "level": "A2",
+  "title": "Ein Brief aus dem Urlaub",
+  "subtitle": "Eine Postkarte findet nach Jahren ihr Ziel",
+  "category": "Reisen",
+  "emoji": "💌",
+  "color": "sky",
+  "german": [
+    "Ben macht im Sommer Urlaub in Italien. Er besucht kleine Städte, isst Eis und schwimmt im Meer. Am letzten Tag kauft er eine Postkarte mit einem Bild von einem Leuchtturm. Er schreibt seiner Freundin Jana: „Hier ist es wunderbar. Nächstes Jahr musst du mitkommen!“ Dann wirft er die Karte in einen Briefkasten.",
+    "Wieder zu Hause wartet Ben auf eine Nachricht von Jana. Aber die Postkarte kommt nicht an. Nach zwei Wochen fragt er nach. Jana hat nichts bekommen. Ben findet das schade, doch bald vergisst er die Sache.",
+    "Zwei Jahre später ruft Jana plötzlich an. Sie hat eine Überraschung: Die alte Postkarte liegt in ihrem Briefkasten. Die Briefmarke ist noch darauf, aber der Umschlag ist sehr schmutzig. Niemand weiß, wo die Karte so lange war. Jana liest die Worte laut vor und beide lachen.",
+    "Am nächsten Wochenende treffen sie sich in einem Café. Ben bringt Fotos aus Italien mit. Jana sagt, dass die Einladung vielleicht noch gilt. Zusammen schauen sie nach Zugtickets. Diesmal wollen sie die Postkarten persönlich nach Hause mitbringen."
+  ],
+  "english": [
+    "Ben spends his summer holiday in Italy. He visits small towns, eats ice cream and swims in the sea. On the last day he buys a postcard with a picture of a lighthouse. He writes to his friend Jana: “It's wonderful here. You must come next year!” Then he drops the card into a postbox.",
+    "Back home Ben waits for a message from Jana. But the postcard never arrives. After two weeks he asks her about it. Jana has not received anything. Ben is disappointed, but soon forgets about it.",
+    "Two years later Jana suddenly calls. She has a surprise: the old postcard is in her letterbox. The stamp is still attached, but the card is very dirty. Nobody knows where it was for so long. Jana reads the words aloud and they both laugh.",
+    "The next weekend they meet at a café. Ben brings photos from Italy. Jana says perhaps the invitation still stands. Together they look for train tickets. This time they want to bring their postcards home themselves."
+  ],
+  "questions": [
+    {
+      "question": "In welchem Land macht Ben Urlaub?",
+      "options": [
+        "In Italien",
+        "In Spanien",
+        "In Norwegen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: In Italien."
+    },
+    {
+      "question": "Wann kommt die Postkarte an?",
+      "options": [
+        "Nach einer Woche",
+        "Am nächsten Tag",
+        "Nach zwei Jahren"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Nach zwei Jahren."
+    },
+    {
+      "question": "Was planen Ben und Jana am Ende?",
+      "options": [
+        "Einen Umzug",
+        "Eine gemeinsame Reise",
+        "Eine Hochzeit"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Eine gemeinsame Reise."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "b1-die-nachricht-im-falschen-postfach",
+  "level": "B1",
+  "title": "Die Nachricht im falschen Postfach",
+  "subtitle": "Ein Büro entwickelt eine bessere Arbeitsroutine",
+  "category": "Arbeit",
+  "emoji": "📩",
+  "color": "sky",
+  "german": [
+    "In einem Reisebüro bearbeiten mehrere Mitarbeiter täglich viele Kundenanfragen. Eine wichtige Nachricht über eine Umbuchung landet versehentlich im allgemeinen Postfach und wird erst zwei Tage später geöffnet. Die Kundin ist enttäuscht, weil sie nun mehr bezahlen muss. Teamleiterin Vera möchte herausfinden, wie der Fehler entstehen konnte.",
+    "Beim gemeinsamen Gespräch stellt sich heraus, dass niemand eindeutig für das Postfach zuständig war. Einige Mitarbeiter glaubten, ihre Kollegen würden die Nachrichten prüfen. Vera bittet das Team deshalb, eine klare Regel vorzuschlagen, die im Alltag ohne großen Aufwand funktioniert.",
+    "Die Mitarbeiter entscheiden sich, täglich zwei feste Kontrollzeiten einzuführen. Außerdem erhält jede Anfrage einen sichtbaren Status, damit nicht zwei Personen dieselbe Nachricht beantworten. Vera spricht persönlich mit der betroffenen Kundin und bietet ihr eine passende Lösung im Rahmen der Möglichkeiten des Büros an.",
+    "Nach einigen Wochen sind die Antwortzeiten deutlich kürzer. Das Team überprüft die neue Regel und verbessert einige Details. Vera ist zufrieden, weil niemand bloß beschuldigt wurde. Stattdessen haben alle verstanden, wie wichtig eindeutige Zuständigkeiten sind, besonders wenn viel Arbeit gleichzeitig anfällt."
+  ],
+  "english": [
+    "Several employees at a travel agency handle many customer inquiries every day. An important message about a booking change accidentally ends up in the general inbox and is not opened until two days later. The customer is disappointed because she now has to pay more. Team leader Vera wants to find out how the mistake happened.",
+    "During a group discussion it emerges that nobody was clearly responsible for the inbox. Some employees assumed their colleagues would check the messages. Vera therefore asks the team to suggest a clear rule that is easy to follow during the workday.",
+    "The employees decide to introduce two fixed daily checking times. They also give every inquiry a visible status so that two people do not reply to the same message. Vera speaks personally to the affected customer and offers a suitable solution within the agency's possibilities.",
+    "After several weeks response times are considerably shorter. The team reviews the new rule and improves some details. Vera is pleased because nobody was merely blamed. Instead everyone has understood how important clear responsibilities are, especially when many tasks arrive at once."
+  ],
+  "questions": [
+    {
+      "question": "Warum wird die Nachricht zu spät gelesen?",
+      "options": [
+        "Niemand ist eindeutig zuständig",
+        "Die Kundin schreibt zu spät",
+        "Der Computer fehlt"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Niemand ist eindeutig zuständig."
+    },
+    {
+      "question": "Welche Regel führt das Team ein?",
+      "options": [
+        "Eine neue Kaffeemaschine",
+        "Weniger Postfächer ohne Kontrolle",
+        "Feste Kontrollzeiten"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Feste Kontrollzeiten."
+    },
+    {
+      "question": "Was verbessert sich?",
+      "options": [
+        "Die Wettervorhersage",
+        "Die Antwortzeiten",
+        "Die Öffnungszeiten der Läden"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Die Antwortzeiten."
+    }
+  ]
+}

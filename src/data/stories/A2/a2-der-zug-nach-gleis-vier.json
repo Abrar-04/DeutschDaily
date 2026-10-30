@@ -1,0 +1,53 @@
+{
+  "id": "a2-der-zug-nach-gleis-vier",
+  "level": "A2",
+  "title": "Der Zug nach Gleis vier",
+  "subtitle": "Eine Ansage rettet eine Reise",
+  "category": "Reisen",
+  "emoji": "🚆",
+  "color": "sky",
+  "german": [
+    "Julia fährt zum ersten Mal allein nach Leipzig. Sie hat ihr Ticket auf dem Handy und kommt früh zum Bahnhof. Auf der großen Tafel steht Gleis sechs. Julia kauft eine Wasserflasche und setzt sich auf eine Bank. Sie liest ein Buch und achtet nicht auf die Lautsprecher.",
+    "Nach einer Weile schaut sie auf die Uhr. Ihr Zug soll in fünf Minuten kommen. Aber auf Gleis sechs steht noch kein Zug. Julia wird nervös. Sie fragt einen Mann mit einem Koffer, ob er auch nach Leipzig fährt. Der Mann zeigt auf die Anzeigetafel: Der Zug fährt heute von Gleis vier ab.",
+    "Julia nimmt ihren Rucksack und läuft zum anderen Gleis. Sie schafft es gerade noch rechtzeitig. Im Zug sucht sie ihren Platz am Fenster und atmet tief durch. Der Schaffner kontrolliert ihr Ticket und erklärt, dass Gleise manchmal kurzfristig wechseln.",
+    "Als Julia in Leipzig ankommt, wartet ihre Cousine auf sie. Julia erzählt sofort von ihrem kleinen Abenteuer. Beim nächsten Mal möchte sie die Anzeigetafel öfter prüfen und auch die Ansagen hören. Das Buch kann bis zur Zugfahrt warten."
+  ],
+  "english": [
+    "Julia is travelling alone to Leipzig for the first time. She has her ticket on her phone and arrives early at the station. The big board says platform six. Julia buys a bottle of water and sits down on a bench. She reads a book and does not pay attention to the announcements.",
+    "After a while she looks at her watch. Her train should arrive in five minutes, but there is still no train on platform six. Julia gets nervous. She asks a man with a suitcase whether he is also going to Leipzig. He points at the display: today's train leaves from platform four.",
+    "Julia takes her backpack and runs to the other platform. She just makes it in time. On the train she finds her window seat and takes a deep breath. The ticket inspector checks her ticket and explains that platforms sometimes change at short notice.",
+    "When Julia arrives in Leipzig, her cousin is waiting. Julia immediately tells her about the little adventure. Next time she wants to check the display more often and listen to the announcements. The book can wait until the train journey."
+  ],
+  "questions": [
+    {
+      "question": "Wohin fährt Julia?",
+      "options": [
+        "Nach Leipzig",
+        "Nach Dresden",
+        "Nach Berlin"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Nach Leipzig."
+    },
+    {
+      "question": "Von welchem Gleis fährt der Zug wirklich?",
+      "options": [
+        "Von Gleis sechs",
+        "Von Gleis neun",
+        "Von Gleis vier"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Von Gleis vier."
+    },
+    {
+      "question": "Warum bemerkt Julia die Änderung spät?",
+      "options": [
+        "Ihr Handy ist kaputt",
+        "Sie liest ein Buch",
+        "Sie schläft im Zug"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Sie liest ein Buch."
+    }
+  ]
+}

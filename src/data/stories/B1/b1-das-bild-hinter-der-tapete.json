@@ -1,0 +1,53 @@
+{
+  "id": "b1-das-bild-hinter-der-tapete",
+  "level": "B1",
+  "title": "Das Bild hinter der Tapete",
+  "subtitle": "Bei einer Renovierung taucht ein ungewöhnlicher Fund auf",
+  "category": "Wohnen",
+  "emoji": "🖼️",
+  "color": "sage",
+  "german": [
+    "Als Tobias und seine Partnerin eine alte Wohnung renovieren, möchten sie im Schlafzimmer die Tapete entfernen. Hinter einem lockeren Stück entdecken sie überraschend ein kleines gemaltes Bild. Es zeigt eine Straße mit einem Fahrradladen, den es heute nicht mehr gibt. In einer Ecke steht die Jahreszahl 1962.",
+    "Die beiden wissen nicht, ob das Bild wertvoll ist. Deshalb fotografieren sie es und fragen beim Stadtmuseum nach. Eine Mitarbeiterin erkennt die Straße sofort. Früher lag dort das Geschäft ihres Großvaters. Sie erklärt, dass Schüler in den sechziger Jahren manchmal Wände für Schulprojekte bemalten.",
+    "Tobias und seine Partnerin überlegen zunächst, die Wand ganz freizulegen. Die Museumsmitarbeiterin rät ihnen jedoch, nichts unüberlegt zu verändern, bevor jemand den Zustand geprüft hat. Schließlich lassen sie einen Fachmann kommen, der das Bild vorsichtig untersucht und eine sichere Lösung vorschlägt.",
+    "Heute hängt vor der Wand ein beweglicher Rahmen mit Glas, durch den das kleine Kunstwerk sichtbar bleibt. Bei Besuchen erzählen Tobias und seine Partnerin gern die Geschichte ihres Fundes. Das Schlafzimmer ist dadurch nicht nur schöner geworden, sondern hat auch ein Stück Stadtgeschichte bewahrt."
+  ],
+  "english": [
+    "When Tobias and his partner renovate an old apartment, they want to remove the wallpaper in the bedroom. Behind a loose piece they unexpectedly discover a small painted picture. It shows a street with a bicycle shop that no longer exists. The year 1962 is written in one corner.",
+    "The two do not know whether the painting is valuable. So they photograph it and ask at the city museum. A staff member recognizes the street immediately. Her grandfather's shop used to be there. She explains that in the sixties pupils sometimes painted walls for school projects.",
+    "At first Tobias and his partner consider uncovering the entire wall. However, the museum employee advises them not to change anything without thought before someone checks its condition. Finally they invite a specialist who carefully examines the picture and suggests a safe solution.",
+    "Today a movable glass frame hangs in front of the wall, leaving the small artwork visible. When visitors come, Tobias and his partner enjoy telling the story of their discovery. The bedroom is not just more attractive; it also preserves a piece of the town's history."
+  ],
+  "questions": [
+    {
+      "question": "Was entdecken die beiden hinter der Tapete?",
+      "options": [
+        "Eine alte Zeitung",
+        "Ein gemaltes Straßenbild",
+        "Einen Safe"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Ein gemaltes Straßenbild."
+    },
+    {
+      "question": "Wer erkennt die Straße?",
+      "options": [
+        "Eine Mitarbeiterin des Stadtmuseums",
+        "Der Hausmeister",
+        "Ein Nachbar aus dem Erdgeschoss"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Eine Mitarbeiterin des Stadtmuseums."
+    },
+    {
+      "question": "Wie wird das Bild geschützt?",
+      "options": [
+        "Mit neuer Tapete",
+        "Mit einem Vorhang",
+        "Mit einem Rahmen aus Glas"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Mit einem Rahmen aus Glas."
+    }
+  ]
+}

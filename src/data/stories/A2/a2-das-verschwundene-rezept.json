@@ -1,0 +1,53 @@
+{
+  "id": "a2-das-verschwundene-rezept",
+  "level": "A2",
+  "title": "Das verschwundene Rezept",
+  "subtitle": "Ein Kochbuch hilft beim Familienessen",
+  "category": "Essen",
+  "emoji": "🍲",
+  "color": "sky",
+  "german": [
+    "Am Sonntag möchte Felix für seine Familie kochen. Seine Mutter hat früher oft eine Kartoffelsuppe gemacht. Felix liebt die Suppe, aber er kennt das Rezept nicht auswendig. Er sucht in der Küchenschublade nach dem kleinen Zettel seiner Mutter. Dort liegen nur alte Rechnungen und ein Schlüssel.",
+    "Er ruft seine Schwester an. Sie erinnert sich an die Zutaten, aber nicht an die Mengen. „Vielleicht steht es im alten Kochbuch“, sagt sie. Felix holt ein dickes grünes Buch aus dem Regal. Zwischen zwei Seiten steckt tatsächlich ein Blatt Papier. Darauf steht in der Handschrift seiner Mutter das ganze Rezept.",
+    "Felix kauft Kartoffeln, Möhren, Zwiebeln und Petersilie. Danach kocht er die Suppe langsam auf dem Herd. Als seine Schwester kommt, riecht die Wohnung schon wunderbar. Sie probiert einen Löffel und sagt, dass die Suppe fast genauso schmeckt wie früher.",
+    "Beim Essen erzählt jeder eine Erinnerung an gemeinsame Sonntage. Felix legt das Rezept später in eine durchsichtige Hülle. So bleibt es sauber. Er möchte die Suppe jetzt öfter kochen und das Rezept eines Tages seinen Kindern zeigen."
+  ],
+  "english": [
+    "On Sunday Felix wants to cook for his family. His mother used to make potato soup often. Felix loves the soup, but he does not remember the recipe. He searches the kitchen drawer for his mother's little note. There are only old bills and a key.",
+    "He calls his sister. She remembers the ingredients but not the amounts. “Perhaps it's in the old cookbook,” she says. Felix takes a thick green book from the shelf. A sheet of paper really is tucked between two pages. It contains the whole recipe in his mother's handwriting.",
+    "Felix buys potatoes, carrots, onions and parsley. Then he cooks the soup slowly on the stove. When his sister arrives, the apartment already smells wonderful. She tastes a spoonful and says the soup tastes almost exactly as it used to.",
+    "Over dinner everyone shares a memory of family Sundays. Felix later puts the recipe into a transparent sleeve to keep it clean. He wants to make the soup more often now and show the recipe to his children one day."
+  ],
+  "questions": [
+    {
+      "question": "Was will Felix kochen?",
+      "options": [
+        "Kartoffelsuppe",
+        "Reis mit Fisch",
+        "Pfannkuchen"
+      ],
+      "answer": 0,
+      "explanation": "Richtig: Kartoffelsuppe."
+    },
+    {
+      "question": "Wo findet er das Rezept?",
+      "options": [
+        "Unter dem Bett",
+        "Im Briefkasten",
+        "Im alten Kochbuch"
+      ],
+      "answer": 2,
+      "explanation": "Richtig: Im alten Kochbuch."
+    },
+    {
+      "question": "Warum legt er den Zettel in eine Hülle?",
+      "options": [
+        "Damit er schneller kocht",
+        "Damit er sauber bleibt",
+        "Damit er größer wird"
+      ],
+      "answer": 1,
+      "explanation": "Richtig: Damit er sauber bleibt."
+    }
+  ]
+}
